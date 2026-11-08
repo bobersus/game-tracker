@@ -1,0 +1,86 @@
+{
+  "checkedAt": "2026-11-08T11:28:17.734Z",
+  "games": [
+    {
+      "id": 5556380,
+      "name": "Beam Them All",
+      "description": "An incremental strategy about cosmic hunting: pilot your flying saucer, abduct animals with a tractor beam, and gather biomass to unlock new technologies. Upgrade your ship, expand the field, and evacuate in time before turrets and mines cut your expedition short.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556380/06cb419c36ed54474859cc3eb4cb428fd8d4e8ca/ss_06cb419c36ed54474859cc3eb4cb428fd8d4e8ca.1920x1080.jpg?t=1794062660",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5553890,
+      "name": "Yes Chef!",
+      "description": "A first-person co-op restaurant game for 1 to 6 players, played in runs. Cook, serve, earn money and buy new equipment at the end of each day. Reach the final day to win, but let your customers down and the run is over.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5553890/1945978cd7f2b5bd3c2e030f81fc34a4d408015f/ss_1945978cd7f2b5bd3c2e030f81fc34a4d408015f.1920x1080.jpg?t=1794091093",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5548190,
+      "name": "Island Shuffle",
+      "description": "Build little islands, your way. Combine buildings and upgrades, enjoy colorful scenery, and watch your score grow.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5548190/15500ca92a73f6f4e5d374cc36a0e4ab27dba214/ss_15500ca92a73f6f4e5d374cc36a0e4ab27dba214.1920x1080.jpg?t=1794013842",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5546440,
+      "name": "Bottom Farm",
+      "description": "A cozy idle village that lives at the bottom of your screen. Villagers farm, fish, chop wood and build on their own while you watch videos or work. At night, everyone comes together to protect the fields. Just peek down now and then and watch your little village grow.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5546440/5a750baedae0461a6b1d927380c83692c40717e0/ss_5a750baedae0461a6b1d927380c83692c40717e0.1920x1080.jpg?t=1794010579",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5536960,
+      "name": "Dinky Derby",
+      "description": "Eight tiny cars, ten game modes and absolutely no manners. Race, chase, climb and parachute through a tournament of arcade car chaos, armed with rockets, anvils and boxing gloves. Battle your friends online or fill the grid with CPU rivals.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536960/e460d6b536cf96072da6705d719a4cb9acc374dc/ss_e460d6b536cf96072da6705d719a4cb9acc374dc.1920x1080.jpg?t=1794006345",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5555480,
+      "name": "Turn&Boost",
+      "description": "An arcade racer about drifting and boosting. Slide through banked bends, fill your gauge with drifts, slipstreams and overtakes, then fire your booster. In the cups you race three courses in a row against eleven rivals for points.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555480/077430984deab736e24b4890b4ee9e969035191b/ss_077430984deab736e24b4890b4ee9e969035191b.1920x1080.jpg?t=1794131095",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "physics",
+      "score": 7
+    },
+    {
+      "id": 5543960,
+      "name": "Round One, Fight!",
+      "description": "A laid-back incremental auto battler straight off a '90s video-store shelf. Build your fighter, let him throw the punches, and come back stronger after a beating. 25 opponents, 5 acts, a skill tree, and a little romance.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5543960/72a452407e084a87e2f74bd771deb25ad188668d/ss_72a452407e084a87e2f74bd771deb25ad188668d.1920x1080.jpg?t=1794026731",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5482230,
+      "name": "Lightly Played",
+      "description": "A card-collecting roguelite about opening packs and grading cards. Spend ten days at the night market buying packs, ripping them open and sending your best pulls to the graders, then watch every card you own pile damage up at the other collectors.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482230/3c4b8e01c0397fe50bdbc7b3654f9808b70ee4ca/ss_3c4b8e01c0397fe50bdbc7b3654f9808b70ee4ca.1920x1080.jpg?t=1794029708",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5479490,
+      "name": "Oddballs Brawl",
+      "description": "Oddballs Brawl is a chaotic side-scrolling shooter for 2–4 players! Play as bizarre fighters, jumping, dodging, and blasting away across floating platforms and trap-filled arenas. Grab all kinds of weapons, send your friends flying, and fight for victory in the middle of the mayhem!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5479490/b38878cb856f5dc59e540f6fb8aaf0d05876e25b/ss_b38878cb856f5dc59e540f6fb8aaf0d05876e25b.1920x1080.jpg?t=1794020980",
+      "firstSeen": "2026-11-08T11:26:00Z",
+      "mechanic": "party",
+      "score": 5
+    }
+  ]
+}
