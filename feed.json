@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T17:13:06.662Z",
+  "checkedAt": "2026-11-08T21:12:52.435Z",
   "games": [
     {
       "id": 4078820,
@@ -11,6 +11,15 @@
       "score": 10
     },
     {
+      "id": 4217790,
+      "name": "Bird Poo Game",
+      "description": "Cause chaos from the sky and profit underground. Drop poop on pedestrians to send them rushing to Bob's laundromat. Collect coins, upgrade machines, unlock explosive abilities, and build a bizarre laundry empire one splat at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217790/0ca2f3666440aac0221f2178b094f1eefb349f1c/ss_0ca2f3666440aac0221f2178b094f1eefb349f1c.1920x1080.jpg?t=1792638894",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 9
+    },
+    {
       "id": 1595160,
       "name": "Radioactivity",
       "description": "Radioactivity is a co-op survival horror. You are a Liquidator! Together or alone, help your state clean up post-apocalyptic radioactive wilderness. Plan each deployment, fight radiation spread and the creatures that it produces. Together, make WEA flourish once more!",
@@ -18,6 +27,69 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 4215910,
+      "name": "Dream Village",
+      "description": "Immerse yourself in the cozy world of village life! Set up your home, buy groceries or order home delivery, cook delicious soups, manage your farm and earn real estate. Dream Village - dreams become reality!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4215910/5d2980dcce2ddc9ecd136b7f249a90615bc991b5/ss_5d2980dcce2ddc9ecd136b7f249a90615bc991b5.1920x1080.jpg?t=1788802222",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4204430,
+      "name": "Maum",
+      "description": "An online co-op horror game with up to 6 players. Collect potions and spells, use them wisely against enemies for protection or fun.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204430/9aef8ceddea17ee55d8d20e195e13341ad6b22f2/ss_9aef8ceddea17ee55d8d20e195e13341ad6b22f2.1920x1080.jpg?t=1778003549",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4202040,
+      "name": "Drunken Cowboys",
+      "description": "Perforate, blow up, and take down friends and foes in tight, dusty Wild West arenas - all after you’ve all had a solid drink at the saloon. Drink, reload, shoot, drink again, and repeat. A stylish hat is guaranteed, so you can leave yours at home.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4202040/5f86bc5ac66bb678048b9d9e9e2b6dcafe9bda21/ss_5f86bc5ac66bb678048b9d9e9e2b6dcafe9bda21.1920x1080.jpg?t=1773904500",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4199230,
+      "name": "Clean Memories",
+      "description": "Clean, repair, and organize forgotten spaces. Uncover the memories hidden beneath the dirt in this relaxing first-person cleaning adventure.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199230/0cef5cc4fd9058fe9d6b4d0f0aa80f2fe0087b87/ss_0cef5cc4fd9058fe9d6b4d0f0aa80f2fe0087b87.1920x1080.jpg?t=1794008688",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4183920,
+      "name": "Pumpkin Is Yummy!?",
+      "description": "Your own little farm village, tucked into the corner of your desktop. Raise a chatty pumpkin, tend your crops, and collect critters in this quirky, lighthearted idler. How you raise your Pumpkin decides who they become.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4183920/c45235e20dbefe112b538bd6ec3fb9352aae54d0/ss_c45235e20dbefe112b538bd6ec3fb9352aae54d0.1920x1080.jpg?t=1792474639",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4183320,
+      "name": "DETRUST",
+      "description": "DETRUST is an online co-op game for up to 12 players, built on teamwork and betrayal. You’ve been sent to repair a damaged facility before the scheduled decontamination begins. Complete tasks, stay alert, and try to escape alive… before one of you tries to kill the entire crew.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4183320/cde6ddb6f0bb7c267d1e04eb6b3b02e7c8666829/ss_cde6ddb6f0bb7c267d1e04eb6b3b02e7c8666829.1920x1080.jpg?t=1765883608",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4182280,
+      "name": "Silver Lake National Park",
+      "description": "Welcome to Silver Lake National Park, where Ranger Logan keeps the trails clear, the campfires warm, and the supernatural community hidden in plain sight. He's a werebear who learned long ago not to fight what he is. These days he makes sure everyone feels at home, even when he can't always feel it.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182280/1ce2095efd776759be29c7947c8f62be6c553ace/ss_1ce2095efd776759be29c7947c8f62be6c553ace.1920x1080.jpg?t=1794041742",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 4100390,
@@ -29,39 +101,12 @@
       "score": 8
     },
     {
-      "id": 4061320,
-      "name": "Retromine",
-      "description": "Retromine is an ultra-satisfying tough-as-nails deckbuilding roguelike. Delve into the caves, mine resources, and escape before the caverns collapse! Spend your ore to buy new cards, upgrade your deck, and discover powerful combos on your way to the bottom of the world. Dig, die, learn, repeat!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061320/5dbe31619ffa3f8ded3049cccbfda60efcacf3bc/ss_5dbe31619ffa3f8ded3049cccbfda60efcacf3bc.1920x1080.jpg?t=1793818281",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 4017940,
       "name": "Captain Speedfin",
       "description": "Captain Speedfin is stuck with an hourglass and needs to be fast! Race against the clock through 60 challenging levels of pirate parkour, where every second counts. Grab your treasure and get out before time runs out!",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017940/5ca4f16c7eb4bf1278752a98c9df00f64511515c/ss_5ca4f16c7eb4bf1278752a98c9df00f64511515c.1920x1080.jpg?t=1788511857",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4016690,
-      "name": "Tad-Bubble!",
-      "description": "Tad-Bubble is a boss rush shoot ‘em up for the Game Boy Color! Fight off waves of dangerous boss bugs, boss fish, and boss more in this brand-new retro experience.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016690/33f019cfdbf6f239d1dac81218b853deea48448c/ss_33f019cfdbf6f239d1dac81218b853deea48448c.1920x1080.jpg?t=1786576888",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4015840,
-      "name": "Gumblaster Mayhem",
-      "description": "Gumblaster Mayhem is a 3D retro-style first-person shooter game where you, as a player, shoot out some gumballs using the three weapons that you must use to take down the sour mutants to survive.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015840/359fde9b60ba937c387f069dc085d479fcc705ce/ss_359fde9b60ba937c387f069dc085d479fcc705ce.1920x1080.jpg?t=1789751482",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
       "score": 8
     },
     {
@@ -173,15 +218,6 @@
       "score": 8
     },
     {
-      "id": 3430920,
-      "name": "Roadside Egg Stand",
-      "description": "Bring the residents of Reine the freshest, finest eggs! Raise cute chickens, collect their eggs, and sell them at roadside egg stands scattered throughout the village. Decorate your egg stand, collect your daily earnings, restock with fresh eggs, and read the heartfelt letters from the villagers.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430920/ss_0b1d12234350f38beda3ec0d767fad22269848d7.1920x1080.jpg?t=1792998796",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 3403560,
       "name": "Tiny Tree Talk",
       "description": "Grow and shape bonsai trees, build tiny dioramas, and find a new sense of belonging on TinyTreeTalk - a wholesome bonsai internet forum. Enjoy full sandbox freedom or bring requests to life as you grow your reputation, unlock new props, and enjoy chill lofi beats and a nostalgic mid-2000s Japan.",
@@ -227,6 +263,15 @@
       "score": 8
     },
     {
+      "id": 4140740,
+      "name": "Motorsport Park Manager",
+      "description": "Build and customize your own motorsports park in this classic tycoon simulation. Start with local go-kart tracks and grassroots circuits, and grow into a world-renowned racing destination.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140740/c58bbb89da37fec8664bf5f95e422771a6c57a11/ss_c58bbb89da37fec8664bf5f95e422771a6c57a11.1920x1080.jpg?t=1782839560",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
       "id": 3912530,
       "name": "Plate And Profit",
       "description": "Can you make rent with a spicy bowl of lettuce and ketchup? Run a chaotic kitchen in this Cooking Roguelite! Manage ingredients, build your synergies and strategies with spices and decor, and serve customers before their patience runs out.",
@@ -245,10 +290,19 @@
       "score": 7
     },
     {
-      "id": 4026160,
-      "name": "CONTRAXIS",
-      "description": "Contraxis is a fast-paced 2.5D arcade action game where you trace, capture, and command escaped prisoners in the prison city of Axis. Master quick reflexes, summon assists, and survive escalating bosses to chase the highest score.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026160/ccbe4c5b186ca73cc2e235d0ee8a88d02931fa3f/ss_ccbe4c5b186ca73cc2e235d0ee8a88d02931fa3f.1920x1080.jpg?t=1793854155",
+      "id": 4157420,
+      "name": "Deep Hunger",
+      "description": "A short incremental game about cleaning the ocean, and feeding the insatiable hunger of a deep sea creature.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157420/c170fb4c6c28b144b92ce431903dce5c4b4fcb4a/ss_c170fb4c6c28b144b92ce431903dce5c4b4fcb4a.1920x1080.jpg?t=1792378815",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4126380,
+      "name": "One Wrong Step",
+      "description": "One wrong move can change everything... Explore trapped rooms in this tactical roguelite inspired by Minesweeper. Every square is a risk. Every exit, a choice. Think carefully... or start again.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126380/b0db52a14fb2e2991ec853ec8b7577896acd5ea5/ss_b0db52a14fb2e2991ec853ec8b7577896acd5ea5.1920x1080.jpg?t=1771604088",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 6
@@ -398,15 +452,6 @@
       "score": 6
     },
     {
-      "id": 3032140,
-      "name": "Shine On, My Little Sun",
-      "description": "When the Sun fell, darkness covered the world. In the snowy wasteland, the town of Svargo thrived under its faint light. But the Sun did not go out. The small Sun sleeps atop a grim lighthouse. What happens when the Sun awakens, seeking a few days of simple childhood?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3032140/ss_50e24b05c06c7316e95c7b9163f64cc8c2d73cb5.1920x1080.jpg?t=1791988443",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 2903550,
       "name": "QiuQiu Town",
       "description": "You have come to this new world, where you will start a new life, have many options, run the farm, scale up, and become a great agriculturist. Or run a store and become a business mogul. Or ordinary life every day, if you were given the chance to do it again, what would you choose?",
@@ -470,24 +515,6 @@
       "score": 5
     },
     {
-      "id": 3404780,
-      "name": "Metronome",
-      "description": "Metronome is a short semi auto-biographical interactive story about the life of a British musician spanning from the early 90s to the late 2020s.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404780/26eae7c636742f37a8d23b126237b7cd8a41b78b/ss_26eae7c636742f37a8d23b126237b7cd8a41b78b.1920x1080.jpg?t=1772788639",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 3174950,
-      "name": "Dream Bar Simulator",
-      "description": "Become the Owner of Your Own Dream Bar! Create unique cocktails. Manage bar resources, buy alcohol and consumables. Expand and customize your bar, buy furniture and interior items, create the most comfortable atmosphere for your clients. Hire unique employees.Reach the top of the bar industry.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3174950/ba71602bdfc37709180d95d6a24297dd79ef1e0d/ss_ba71602bdfc37709180d95d6a24297dd79ef1e0d.1920x1080.jpg?t=1792152187",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
       "id": 5556380,
       "name": "Beam Them All",
       "description": "An incremental strategy about cosmic hunting: pilot your flying saucer, abduct animals with a tractor beam, and gather biomass to unlock new technologies. Upgrade your ship, expand the field, and evacuate in time before turrets and mines cut your expedition short.",
@@ -513,33 +540,6 @@
       "firstSeen": "2026-11-08T11:26:00Z",
       "mechanic": "simulator",
       "score": 8
-    },
-    {
-      "id": 5546440,
-      "name": "Bottom Farm",
-      "description": "A cozy idle village that lives at the bottom of your screen. Villagers farm, fish, chop wood and build on their own while you watch videos or work. At night, everyone comes together to protect the fields. Just peek down now and then and watch your little village grow.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5546440/5a750baedae0461a6b1d927380c83692c40717e0/ss_5a750baedae0461a6b1d927380c83692c40717e0.1920x1080.jpg?t=1794010579",
-      "firstSeen": "2026-11-08T11:26:00Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5536960,
-      "name": "Dinky Derby",
-      "description": "Eight tiny cars, ten game modes and absolutely no manners. Race, chase, climb and parachute through a tournament of arcade car chaos, armed with rockets, anvils and boxing gloves. Battle your friends online or fill the grid with CPU rivals.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536960/e460d6b536cf96072da6705d719a4cb9acc374dc/ss_e460d6b536cf96072da6705d719a4cb9acc374dc.1920x1080.jpg?t=1794006345",
-      "firstSeen": "2026-11-08T11:26:00Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5555480,
-      "name": "Turn&Boost",
-      "description": "An arcade racer about drifting and boosting. Slide through banked bends, fill your gauge with drifts, slipstreams and overtakes, then fire your booster. In the cups you race three courses in a row against eleven rivals for points.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555480/077430984deab736e24b4890b4ee9e969035191b/ss_077430984deab736e24b4890b4ee9e969035191b.1920x1080.jpg?t=1794131095",
-      "firstSeen": "2026-11-08T11:26:00Z",
-      "mechanic": "physics",
-      "score": 7
     }
   ]
 }
