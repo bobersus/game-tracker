@@ -1,0 +1,4 @@
+.feed/
+.vercel/
+.env*
+node_modules/

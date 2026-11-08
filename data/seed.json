@@ -1,0 +1,11 @@
+[
+  { "id": 5555480, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "physics" },
+  { "id": 5479490, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "party" },
+  { "id": 5536960, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "physics" },
+  { "id": 5553890, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "simulator" },
+  { "id": 5556380, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "incremental" },
+  { "id": 5543960, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "incremental" },
+  { "id": 5482230, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "incremental" },
+  { "id": 5548190, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "simulator" },
+  { "id": 5546440, "firstSeen": "2026-11-08T11:26:00Z", "curatedMechanic": "incremental" }
+]

@@ -1,0 +1,40 @@
+name: Update Steam feed
+
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: steam-feed
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out tracker
+        uses: actions/checkout@v6
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Load previous feed
+        uses: actions/checkout@v6
+        with:
+          ref: feed
+          path: .feed
+      - name: Check Steam
+        run: npm run update
+      - name: Publish feed
+        working-directory: .feed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state.json feed.json
+          git commit -m 'Refresh Steam catalogue'
+          git push origin HEAD:feed
