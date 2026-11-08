@@ -1,6 +1,15 @@
 {
-  "checkedAt": "2026-11-08T11:34:42.433Z",
+  "checkedAt": "2026-11-08T17:13:06.662Z",
   "games": [
+    {
+      "id": 4078820,
+      "name": "Sky Rush",
+      "description": "Race as birds down colorful slopes, build speed by sliding smoothly, and compete for best times with friends across diverse worlds like Mushroom, Grass, and Ice. Fun, fast-paced, and all about improving your record.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078820/0e6c72d36897faeeb2d68ac8a808d0ab829cbd9d/ss_0e6c72d36897faeeb2d68ac8a808d0ab829cbd9d.1920x1080.jpg?t=1760556163",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 10
+    },
     {
       "id": 1595160,
       "name": "Radioactivity",
@@ -9,6 +18,60 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 4100390,
+      "name": "Pakku Pony",
+      "description": "Pakku Pony is a 2D virtual pet simulator where you raise your own pony! It’s a chill point-and-click game where you take care of your little garden, cook delicious dishes and relax with fun minigames. Oh, and don’t forget to look stylish with cosmetics and customization options!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100390/f754ac4c6feedc7c17818cb86ab29e2123879093/ss_f754ac4c6feedc7c17818cb86ab29e2123879093.1920x1080.jpg?t=1786388736",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4061320,
+      "name": "Retromine",
+      "description": "Retromine is an ultra-satisfying tough-as-nails deckbuilding roguelike. Delve into the caves, mine resources, and escape before the caverns collapse! Spend your ore to buy new cards, upgrade your deck, and discover powerful combos on your way to the bottom of the world. Dig, die, learn, repeat!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4061320/5dbe31619ffa3f8ded3049cccbfda60efcacf3bc/ss_5dbe31619ffa3f8ded3049cccbfda60efcacf3bc.1920x1080.jpg?t=1793818281",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4017940,
+      "name": "Captain Speedfin",
+      "description": "Captain Speedfin is stuck with an hourglass and needs to be fast! Race against the clock through 60 challenging levels of pirate parkour, where every second counts. Grab your treasure and get out before time runs out!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017940/5ca4f16c7eb4bf1278752a98c9df00f64511515c/ss_5ca4f16c7eb4bf1278752a98c9df00f64511515c.1920x1080.jpg?t=1788511857",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4016690,
+      "name": "Tad-Bubble!",
+      "description": "Tad-Bubble is a boss rush shoot ‘em up for the Game Boy Color! Fight off waves of dangerous boss bugs, boss fish, and boss more in this brand-new retro experience.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4016690/33f019cfdbf6f239d1dac81218b853deea48448c/ss_33f019cfdbf6f239d1dac81218b853deea48448c.1920x1080.jpg?t=1786576888",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4015840,
+      "name": "Gumblaster Mayhem",
+      "description": "Gumblaster Mayhem is a 3D retro-style first-person shooter game where you, as a player, shoot out some gumballs using the three weapons that you must use to take down the sour mutants to survive.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4015840/359fde9b60ba937c387f069dc085d479fcc705ce/ss_359fde9b60ba937c387f069dc085d479fcc705ce.1920x1080.jpg?t=1789751482",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 3950720,
+      "name": "Wander Her Way VR",
+      "description": "Explore incredible interactive locations with your gorgeous companion. A sandbox VR experience with mini-games. Shoot enemies, destroy objects, drive a car, dance with an amazing girl, defend a tower, catch mischievous kittens, watch a fireworks show. Realistic female character, advanced physics",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950720/8539f0d3e6a35c9d4725d42cbf303dc9433dc083/ss_8539f0d3e6a35c9d4725d42cbf303dc9433dc083.1920x1080.jpg?t=1790460329",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
     },
     {
       "id": 3848360,
@@ -42,15 +105,6 @@
       "name": "Master of the Mow",
       "description": "Become the Master of the Mow. Cut grass, clear trash, and uncover buried treasures across the overgrown grounds of an old manor estate. Upgrade your tools and grow stronger with each trinket you sell and solve the mystery of why the grass grows back every morning. Can you finish it all in one day?",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778400/c1db4aaf7305035dd77e2d3077d439f69ffb243f/ss_c1db4aaf7305035dd77e2d3077d439f69ffb243f.1920x1080.jpg?t=1790786166",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 3744670,
-      "name": "STAR FISH",
-      "description": "Cast your line from your cozy asteroid home and reel in Space Fish, each with their own unique feel! Sell catches, upgrade gear, and tackle legendary fish with unique challenges when reeling them in. Customize your asteroid home! Because nothing says “Gone Space Fishin” like a well-furnished rock.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3744670/a2336560cbf0552b15037b0b95be2f8063c0b252/ss_a2336560cbf0552b15037b0b95be2f8063c0b252.1920x1080.jpg?t=1791925718",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "simulator",
       "score": 8
@@ -173,6 +227,15 @@
       "score": 8
     },
     {
+      "id": 3912530,
+      "name": "Plate And Profit",
+      "description": "Can you make rent with a spicy bowl of lettuce and ketchup? Run a chaotic kitchen in this Cooking Roguelite! Manage ingredients, build your synergies and strategies with spices and decor, and serve customers before their patience runs out.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912530/c15049938dd985e977f4b5dbd9c803a6e40d0209/ss_c15049938dd985e977f4b5dbd9c803a6e40d0209.1920x1080.jpg?t=1793665619",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
       "id": 3488740,
       "name": "Red & Blue",
       "description": "Play as two housecats causing chaos while their owners are gone! Jump on each other, get chained to each other, and help each other solve color-coded puzzles.",
@@ -182,13 +245,40 @@
       "score": 7
     },
     {
-      "id": 1953850,
-      "name": "VICE Undercover",
-      "description": "VICE Undercover is a point &amp; click narco-thriller set in an alternate 1980s Miami - where every choice matters. You play as undercover agent Vida, and for one hour per day, you're taking control over a cartel-run computer using Amigo OS, a fully-functional 1980-inspired operating system.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953850/ss_d8ee03bd0c232946a234c2862e0187e99c25bab7.1920x1080.jpg?t=1789041333",
+      "id": 4026160,
+      "name": "CONTRAXIS",
+      "description": "Contraxis is a fast-paced 2.5D arcade action game where you trace, capture, and command escaped prisoners in the prison city of Axis. Master quick reflexes, summon assists, and survive escalating bosses to chase the highest score.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026160/ccbe4c5b186ca73cc2e235d0ee8a88d02931fa3f/ss_ccbe4c5b186ca73cc2e235d0ee8a88d02931fa3f.1920x1080.jpg?t=1793854155",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 7
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4000520,
+      "name": "Purrfect Collars",
+      "description": "Purrfect Collars is a cozy single-player shopkeeping adventure. As a witch, design collars, enchant them with potions, manage your shop and meet interesting new customers! Each collar holds meaning, every cat a story!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000520/ee43bf5dea8a8ce8bfac50c08d3d2f88cb72157c/ss_ee43bf5dea8a8ce8bfac50c08d3d2f88cb72157c.1920x1080.jpg?t=1789728674",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3999220,
+      "name": "Meal Quest",
+      "description": "Explore the magical world inside your fridge, plan meals, and fight your way to the Dream City. Your in-game nutrition choices grant you combat bonuses that reflect each vitamin’s actual role in the body.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999220/42e29d5d809b766bcecb1ec3a613f1e392b96391/ss_42e29d5d809b766bcecb1ec3a613f1e392b96391.1920x1080.jpg?t=1793383406",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3987670,
+      "name": "Drawing Dead",
+      "description": "Drawing Dead is a roguelike deckbuilder with an occult personality. Swap cards on a 5×5 grid to form hands, bind legions of demons with game-changing powers, and enchant your deck into an infernal scoring engine.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987670/dd69583beb74cacc3c51924e5806d622eb286628/ss_dd69583beb74cacc3c51924e5806d622eb286628.1920x1080.jpg?t=1793657829",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 3784470,
@@ -222,15 +312,6 @@
       "name": "DIGI-DOLL",
       "description": "Mauve takes on the job of a decorator. Design and decorate dollhouses for different ragdolls and appease their unique tastes. Use the retro DIGI-DOLL console to explore the attic, unlock various dollhouses, befriend characters, and discover stunning furnishings to fill them with.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681270/8dda644b39f3c0306a3c88dd211f5adf4ebb012e/ss_8dda644b39f3c0306a3c88dd211f5adf4ebb012e.1920x1080.jpg?t=1790086362",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3674210,
-      "name": "B-Ricky High School",
-      "description": "Meet Ricky in this exciting arcade game mixing flipper, brick smashing and fight. Get ready for the challenges of Arcade or Story mode and for the tough ones, settle the score in the double 2-player mode.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3674210/a2952111fe2294e3bfd89e8d57d338f63c3acbe4/ss_a2952111fe2294e3bfd89e8d57d338f63c3acbe4.1920x1080.jpg?t=1770118888",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 6
@@ -353,6 +434,15 @@
       "score": 6
     },
     {
+      "id": 4110470,
+      "name": "Aircraft Dispatcher: Ground Operations",
+      "description": "Take charge of airport operations. Manage aircraft maintenance, ground support, equipment, and taxiway movements, then leave the office to inspect aircraft, investigate damage, clear FOD, respond to emergencies, and keep flights moving safely and on schedule.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110470/d86b1ec8511d80362d44d663dc7ea56a563a81b3/ss_d86b1ec8511d80362d44d663dc7ea56a563a81b3.1920x1080.jpg?t=1782219834",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
       "id": 3635720,
       "name": "Fizz Flow: Factory Management",
       "description": "Fizz Flow is a strategy and management game that takes place in a setting without competition regulations. In old America, where the beverage industry is on the rise, build your own factory, make your own unique recipes, weaken your opponents and maintain your hard earned success at the market!",
@@ -409,8 +499,8 @@
     {
       "id": 5553890,
       "name": "Yes Chef!",
-      "description": "A first-person co-op restaurant game for 1 to 6 players, played in runs. Cook, serve, earn money and buy new equipment at the end of each day. Reach the final day to win, but let your customers down and the run is over.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5553890/1945978cd7f2b5bd3c2e030f81fc34a4d408015f/ss_1945978cd7f2b5bd3c2e030f81fc34a4d408015f.1920x1080.jpg?t=1794091093",
+      "description": "There's never a calm day in this kitchen! A first-person co-op restaurant game for 1-6 players. Pick burgers, steak, pizza, breakfast or salad, cook, serve and rush to save the burning dish. Can you reach the final day before your customers lose patience? If you fail, everything resets.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5553890/1945978cd7f2b5bd3c2e030f81fc34a4d408015f/ss_1945978cd7f2b5bd3c2e030f81fc34a4d408015f.1920x1080.jpg?t=1794144335",
       "firstSeen": "2026-11-08T11:26:00Z",
       "mechanic": "simulator",
       "score": 8
@@ -450,33 +540,6 @@
       "firstSeen": "2026-11-08T11:26:00Z",
       "mechanic": "physics",
       "score": 7
-    },
-    {
-      "id": 5543960,
-      "name": "Round One, Fight!",
-      "description": "A laid-back incremental auto battler straight off a '90s video-store shelf. Build your fighter, let him throw the punches, and come back stronger after a beating. 25 opponents, 5 acts, a skill tree, and a little romance.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5543960/72a452407e084a87e2f74bd771deb25ad188668d/ss_72a452407e084a87e2f74bd771deb25ad188668d.1920x1080.jpg?t=1794026731",
-      "firstSeen": "2026-11-08T11:26:00Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5482230,
-      "name": "Lightly Played",
-      "description": "A card-collecting roguelite about opening packs and grading cards. Spend ten days at the night market buying packs, ripping them open and sending your best pulls to the graders, then watch every card you own pile damage up at the other collectors.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482230/3c4b8e01c0397fe50bdbc7b3654f9808b70ee4ca/ss_3c4b8e01c0397fe50bdbc7b3654f9808b70ee4ca.1920x1080.jpg?t=1794029708",
-      "firstSeen": "2026-11-08T11:26:00Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5479490,
-      "name": "Oddballs Brawl",
-      "description": "Oddballs Brawl is a chaotic side-scrolling shooter for 2–4 players! Play as bizarre fighters, jumping, dodging, and blasting away across floating platforms and trap-filled arenas. Grab all kinds of weapons, send your friends flying, and fight for victory in the middle of the mayhem!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5479490/b38878cb856f5dc59e540f6fb8aaf0d05876e25b/ss_b38878cb856f5dc59e540f6fb8aaf0d05876e25b.1920x1080.jpg?t=1794020980",
-      "firstSeen": "2026-11-08T11:26:00Z",
-      "mechanic": "party",
-      "score": 5
     }
   ]
 }
