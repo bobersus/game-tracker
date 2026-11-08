@@ -1,4 +1,4 @@
-const FEED = 'https://raw.githubusercontent.com/bobersus/game-tracker/feed/feed.json';
+const FEED = 'https://raw.githubusercontent.com/bobersus/game-tracker/refs/heads/feed/feed.json';
 
 export default async function handler(request, response) {
   if (request.method !== 'GET' && request.method !== 'HEAD') {
@@ -6,7 +6,10 @@ export default async function handler(request, response) {
     return response.status(405).end();
   }
   try {
-    const upstream = await fetch(FEED, { signal: AbortSignal.timeout(8_000) });
+    // Bound the lifetime of GitHub's edge cache, including cached 404 responses.
+    const url = new URL(FEED);
+    url.searchParams.set('minute', String(Math.floor(Date.now() / 60_000)));
+    const upstream = await fetch(url, { signal: AbortSignal.timeout(8_000) });
     if (!upstream.ok) throw new Error(`GitHub HTTP ${upstream.status}`);
     const data = await upstream.json();
     if (!Array.isArray(data.games) || !Number.isFinite(Date.parse(data.checkedAt))) throw new Error('Invalid feed');
