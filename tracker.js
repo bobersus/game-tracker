@@ -19,6 +19,7 @@ const mechanics = {
 };
 let games = [];
 let loaded = false;
+let lastCheck;
 
 function element(tag, className, content) {
   const node = document.createElement(tag);
@@ -71,7 +72,7 @@ function card(game) {
   description.lang = 'en';
   description.title = game.description;
   const meta = element('div', 'game-card-stats');
-  const date = element('time', 'game-date', dateFormat.format(new Date(game.firstSeen)));
+  const date = element('time', 'game-date', `Замечено ${dateFormat.format(new Date(game.firstSeen))}`);
   date.dateTime = game.firstSeen;
   date.title = 'Дата первого обнаружения страницы';
   meta.append(element('span', 'game-chip', mechanics[game.mechanic]), element('span', '', 'Скоро выйдет'), date);
@@ -109,13 +110,18 @@ async function load() {
     if (!response.ok) throw new Error(`Feed HTTP ${response.status}`);
     const data = await response.json();
     if (!Array.isArray(data.games)) throw new Error('Invalid feed');
-    games = data.games;
-    loaded = true;
-    render();
+    if (!loaded || data.checkedAt !== lastCheck) {
+      games = data.games;
+      lastCheck = data.checkedAt;
+      loaded = true;
+      render();
+    }
     if (data.checkedAt) {
       const timestamp = new Date(data.checkedAt);
       const stale = Date.now() - timestamp.getTime() > 90 * 60 * 1000;
-      showStatus(stale ? 'error' : 'ready', `Steam проверен ${timeFormat.format(timestamp)}`);
+      showStatus(stale ? 'error' : 'ready', stale
+        ? `Обновление задерживается · ${timeFormat.format(timestamp)}`
+        : `Steam проверен ${timeFormat.format(timestamp)}`);
     } else {
       showStatus('loading', 'Ждём первую проверку Steam');
     }
