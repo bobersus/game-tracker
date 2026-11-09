@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T21:12:52.435Z",
+  "checkedAt": "2026-11-09T00:57:52.938Z",
   "games": [
     {
       "id": 4078820,
@@ -9,6 +9,24 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 10
+    },
+    {
+      "id": 4292740,
+      "name": "Tome Improvement",
+      "description": "A co-op dungeon crawler where you and your friends name the spells. Catch critters, combine them in your staff, and hope your friends remember which spell is &quot;DIVORCE BEAM&quot; when you are surrounded by skeletons.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292740/fbd8cc9ef41ba22b14252d3e0002e38f9c3ba749/ss_fbd8cc9ef41ba22b14252d3e0002e38f9c3ba749.1920x1080.jpg?t=1771670356",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 4270340,
+      "name": "Keyboard Smash",
+      "description": "Run a shop. Help weird customers. And definitely make everything worse!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270340/4a374b16859808f5399165e80562dfe1796c7d13/ss_4a374b16859808f5399165e80562dfe1796c7d13.1920x1080.jpg?t=1785180134",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 9
     },
     {
       "id": 4217790,
@@ -29,39 +47,39 @@
       "score": 9
     },
     {
-      "id": 4215910,
-      "name": "Dream Village",
-      "description": "Immerse yourself in the cozy world of village life! Set up your home, buy groceries or order home delivery, cook delicious soups, manage your farm and earn real estate. Dream Village - dreams become reality!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4215910/5d2980dcce2ddc9ecd136b7f249a90615bc991b5/ss_5d2980dcce2ddc9ecd136b7f249a90615bc991b5.1920x1080.jpg?t=1788802222",
+      "id": 4298730,
+      "name": "Catching Breaks",
+      "description": "Catching Breaks is a darkly comedic office simulator where fixing problems is easy and dealing with people is not. Repair broken machines while coworkers interrupt you with pointless conversations, fake urgency, and corporate nonsense. Keep the office running long enough to survive another workday.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298730/fa4b05792897b24cef791e4faa0b37eac80b233b/ss_fa4b05792897b24cef791e4faa0b37eac80b233b.1920x1080.jpg?t=1791726263",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4298670,
+      "name": "Please fix the mess",
+      "description": "Clean up chaotic interiors, remove trash, repaint walls, and redecorate messy spaces, sometimes with a few suspiciously bodies lying around.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298670/bc77691524bd26306694cb06bf2d8abadc4ae57d/ss_bc77691524bd26306694cb06bf2d8abadc4ae57d.1920x1080.jpg?t=1793803928",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "simulator",
       "score": 8
     },
     {
-      "id": 4204430,
-      "name": "Maum",
-      "description": "An online co-op horror game with up to 6 players. Collect potions and spells, use them wisely against enemies for protection or fun.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204430/9aef8ceddea17ee55d8d20e195e13341ad6b22f2/ss_9aef8ceddea17ee55d8d20e195e13341ad6b22f2.1920x1080.jpg?t=1778003549",
+      "id": 4266280,
+      "name": "Zombie Industrial Complex",
+      "description": "Exterminate zombies using the might of the military industrial complex. In this active incremental game, you'll earn money by defeating zombies which can be used to buy weapons, purchase upgrades, call in airstrikes, and send in the tanks!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266280/1143741e8633f39ed0ed46cc07d38b0a7149424d/ss_1143741e8633f39ed0ed46cc07d38b0a7149424d.1920x1080.jpg?t=1794103584",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
+      "mechanic": "incremental",
       "score": 8
     },
     {
-      "id": 4202040,
-      "name": "Drunken Cowboys",
-      "description": "Perforate, blow up, and take down friends and foes in tight, dusty Wild West arenas - all after you’ve all had a solid drink at the saloon. Drink, reload, shoot, drink again, and repeat. A stylish hat is guaranteed, so you can leave yours at home.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4202040/5f86bc5ac66bb678048b9d9e9e2b6dcafe9bda21/ss_5f86bc5ac66bb678048b9d9e9e2b6dcafe9bda21.1920x1080.jpg?t=1773904500",
+      "id": 4245890,
+      "name": "StoryMode",
+      "description": "StoryMode is a reading tool completely built around idle/incremental gameplay and progression. Add manga and books, earn experience, levels, and rewards as you read. Complete quests, discover companions, and personalize your reading experience with customizable themes and animated backgrounds.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245890/82bd1b6b24f30f0730d4c1c689c6fbb194e3b552/ss_82bd1b6b24f30f0730d4c1c689c6fbb194e3b552.1920x1080.jpg?t=1781519100",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4199230,
-      "name": "Clean Memories",
-      "description": "Clean, repair, and organize forgotten spaces. Uncover the memories hidden beneath the dirt in this relaxing first-person cleaning adventure.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4199230/0cef5cc4fd9058fe9d6b4d0f0aa80f2fe0087b87/ss_0cef5cc4fd9058fe9d6b4d0f0aa80f2fe0087b87.1920x1080.jpg?t=1794008688",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
+      "mechanic": "incremental",
       "score": 8
     },
     {
@@ -106,7 +124,7 @@
       "description": "Captain Speedfin is stuck with an hourglass and needs to be fast! Race against the clock through 60 challenging levels of pirate parkour, where every second counts. Grab your treasure and get out before time runs out!",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017940/5ca4f16c7eb4bf1278752a98c9df00f64511515c/ss_5ca4f16c7eb4bf1278752a98c9df00f64511515c.1920x1080.jpg?t=1788511857",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -119,28 +137,10 @@
       "score": 8
     },
     {
-      "id": 3848360,
-      "name": "Snakez Arena",
-      "description": "Snakez Arena is a 2.5D platformer shooter with it's unique movement, projectile characteristics and includes multiple game modes! Download now to try out the bulllet hell!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848360/ceadbacc6055e3b0689a63126df068794b0b3fd6/ss_ceadbacc6055e3b0689a63126df068794b0b3fd6.1920x1080.jpg?t=1791725407",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
       "id": 3838640,
       "name": "Joaquin Simulator",
       "description": "Help retiree Joaquin on his road trip through Brazil. It's a 2000 km journey full of challenges, and nothing is simple in Brazil. You must eat, drink, smoke, earn money, deal with corrupt cops, all to reach a party to save democracy in Brazil.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838640/f77a08f8bd27e0d42bdfa012aecadf4e3a311870/ss_f77a08f8bd27e0d42bdfa012aecadf4e3a311870.1920x1080.jpg?t=1787071788",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 3790810,
-      "name": "Coasteroid",
-      "description": "Build stellar rollercoasters across alien worlds, carve tunnels through planets, and launch trains into orbit. Customize every track element, scenery decoration, and environment before subjecting riders to the forces of the universe! The galaxy is your theme park!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3790810/6e0b843fa4569c4c9a4e527f4f9d60b042012ad3/ss_6e0b843fa4569c4c9a4e527f4f9d60b042012ad3.1920x1080.jpg?t=1788117743",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "simulator",
       "score": 8
@@ -186,15 +186,6 @@
       "name": "Dreamcraft: Lumberjack",
       "description": "Chop the sick trees to purify the forests. Gather lumber, upgrade your axe, and improve stats. No rush, no stress, relax in cozy and beautiful lands, rescue animals, and unravel the secrets of the wilderness. Nature must be preserved so cut the shadow and restore the light!",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584350/80a8f0486caa2e7923f5f326df53d3f76b6ebb51/ss_80a8f0486caa2e7923f5f326df53d3f76b6ebb51.1920x1080.jpg?t=1791530509",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 3541100,
-      "name": "DigSite: Archeology in Egypt",
-      "description": "DigSite is open-world archeology sandbox game located in Egypt where you dig, clean and document artifacts you find. Donate rare artifacts to a museum and build your legacy as a legendary archeologist.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541100/d667f650234ac41dd5278a5a1a198d10c522c7b0/ss_d667f650234ac41dd5278a5a1a198d10c522c7b0.1920x1080.jpg?t=1782499972",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "simulator",
       "score": 8
@@ -272,15 +263,6 @@
       "score": 7
     },
     {
-      "id": 3912530,
-      "name": "Plate And Profit",
-      "description": "Can you make rent with a spicy bowl of lettuce and ketchup? Run a chaotic kitchen in this Cooking Roguelite! Manage ingredients, build your synergies and strategies with spices and decor, and serve customers before their patience runs out.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3912530/c15049938dd985e977f4b5dbd9c803a6e40d0209/ss_c15049938dd985e977f4b5dbd9c803a6e40d0209.1920x1080.jpg?t=1793665619",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
       "id": 3488740,
       "name": "Red & Blue",
       "description": "Play as two housecats causing chaos while their owners are gone! Jump on each other, get chained to each other, and help each other solve color-coded puzzles.",
@@ -288,6 +270,33 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 7
+    },
+    {
+      "id": 4278030,
+      "name": "Soundscapes",
+      "description": "Soundscapes is an interactive music sandbox where your songs shape the world around you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278030/335015a997474d8b094340e19ef66ed719384946/ss_335015a997474d8b094340e19ef66ed719384946.1920x1080.jpg?t=1789426953",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4262590,
+      "name": "Loafing Dungeon",
+      "description": "Loafing Dungeon is a fully automatic desktop idle game. Build your hero team on the desktop, equip them with gear and skills, and then launch the adventure on auto-pilot. The game runs continuously in the background, ensuring your progression and rewards are always fight, whether you're busy or free",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262590/1319bbde968d2d12a6e9494857413a8b9b8fd431/ss_1319bbde968d2d12a6e9494857413a8b9b8fd431.1920x1080.jpg?t=1792139927",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4258650,
+      "name": "Appetite for Destruction",
+      "description": "Co-op in a fully destructible world. Meet the quota faster than your friends - or stop them from doing it. Use physics and tools to survive the escalating chaos, or switch to Sandbox mode with no limits.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258650/254994e1c904e6e8e9e36dc04fcc209779afba16/ss_254994e1c904e6e8e9e36dc04fcc209779afba16.1920x1080.jpg?t=1774912198",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 4157420,
@@ -330,24 +339,6 @@
       "name": "Drawing Dead",
       "description": "Drawing Dead is a roguelike deckbuilder with an occult personality. Swap cards on a 5×5 grid to form hands, bind legions of demons with game-changing powers, and enchant your deck into an infernal scoring engine.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987670/dd69583beb74cacc3c51924e5806d622eb286628/ss_dd69583beb74cacc3c51924e5806d622eb286628.1920x1080.jpg?t=1793657829",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3784470,
-      "name": "Burakku Jakku Samurai",
-      "description": "A tactical pixel-art roguelite. Manage your Ki up to a lethal limit of 21. Bend the rules of the duel with special cards to alter combat conditions. Risk it all to hit exactly 21 for a Perfect Focus lethal strike. Plan your route and survive. Your strategy is your sharpest weapon.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784470/506e5fba96eb0b7ec35ded84b6e898b6c44da730/ss_506e5fba96eb0b7ec35ded84b6e898b6c44da730.1920x1080.jpg?t=1790099597",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3774270,
-      "name": "Gold Rush",
-      "description": "Stake your claim on the frontier in this fast-paced Wild West RTS.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774270/b28caeefe3d190c128adf61282aef09009ed4b61/ss_b28caeefe3d190c128adf61282aef09009ed4b61.1920x1080.jpg?t=1790029380",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 6
@@ -443,24 +434,6 @@
       "score": 6
     },
     {
-      "id": 3120770,
-      "name": "SketchBrawl",
-      "description": "Sketchbrawl is an auto-battler: draft squads from six factions, deploy them on the grid, and watch hundreds of units clash on their own. Promote squads to ★★★, let your commander’s skill turn the tide, and survive ten rounds to clear the Arena.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120770/845bfe85045c4c6e88c43f378c0ac4d618ea8df4/ss_845bfe85045c4c6e88c43f378c0ac4d618ea8df4.1920x1080.jpg?t=1794127433",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 2903550,
-      "name": "QiuQiu Town",
-      "description": "You have come to this new world, where you will start a new life, have many options, run the farm, scale up, and become a great agriculturist. Or run a store and become a business mogul. Or ordinary life every day, if you were given the chance to do it again, what would you choose?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2903550/66990478dac6d9d8b2eb330d359b72fc74a79ab7/ss_66990478dac6d9d8b2eb330d359b72fc74a79ab7.1920x1080.jpg?t=1785809142",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 1340050,
       "name": "Hand Shadow",
       "description": "Challenge your mind with puzzles that are based on optical illusions. Find the perfect position and angle by rotating the hands until order is restored, and discover a story of protagonist Morgan with professional voicing.",
@@ -479,21 +452,12 @@
       "score": 6
     },
     {
-      "id": 4110470,
-      "name": "Aircraft Dispatcher: Ground Operations",
-      "description": "Take charge of airport operations. Manage aircraft maintenance, ground support, equipment, and taxiway movements, then leave the office to inspect aircraft, investigate damage, clear FOD, respond to emergencies, and keep flights moving safely and on schedule.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110470/d86b1ec8511d80362d44d663dc7ea56a563a81b3/ss_d86b1ec8511d80362d44d663dc7ea56a563a81b3.1920x1080.jpg?t=1782219834",
+      "id": 4253930,
+      "name": "Rodent Rampage",
+      "description": "Rodent Rampage is a third-person hero shooter. Combine nitrous boosted ground maneuvers, soda powered aerial attacks, and quirky in game power ups in a one-of-a-kind, PvP combat experience.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253930/95883b0a1c0b0abf197ea56bd9bf1e5e761ae147/ss_95883b0a1c0b0abf197ea56bd9bf1e5e761ae147.1920x1080.jpg?t=1785529637",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 3635720,
-      "name": "Fizz Flow: Factory Management",
-      "description": "Fizz Flow is a strategy and management game that takes place in a setting without competition regulations. In old America, where the beverage industry is on the rise, build your own factory, make your own unique recipes, weaken your opponents and maintain your hard earned success at the market!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3635720/72840767e03b0c622af64b9ee93025f3491f7fb0/ss_72840767e03b0c622af64b9ee93025f3491f7fb0.1920x1080.jpg?t=1791803598",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
+      "mechanic": "party",
       "score": 5
     },
     {
