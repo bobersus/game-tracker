@@ -1,15 +1,6 @@
 {
-  "checkedAt": "2026-11-09T07:51:50.394Z",
+  "checkedAt": "2026-11-09T17:50:49.747Z",
   "games": [
-    {
-      "id": 4078820,
-      "name": "Sky Rush",
-      "description": "Race as birds down colorful slopes, build speed by sliding smoothly, and compete for best times with friends across diverse worlds like Mushroom, Grass, and Ice. Fun, fast-paced, and all about improving your record.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078820/0e6c72d36897faeeb2d68ac8a808d0ab829cbd9d/ss_0e6c72d36897faeeb2d68ac8a808d0ab829cbd9d.1920x1080.jpg?t=1760556163",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 10
-    },
     {
       "id": 4325070,
       "name": "Spray Days",
@@ -45,6 +36,51 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 4498350,
+      "name": "Slimazing",
+      "description": "Kill slimes. Collect juice. Upgrade your power. Craft potions and defeat elites and bosses in this juicy incremental roguelite.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498350/fc589a4d05a18eec491e7f560c299d7d40ec4ae0/ss_fc589a4d05a18eec491e7f560c299d7d40ec4ae0.1920x1080.jpg?t=1773739288",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4489630,
+      "name": "This is Not a Snake Game",
+      "description": "▶When the classic Snake Game becomes self-aware, eating apples is no longer enough! Help this little snake exploit bugs to escape the game and roam your desktop. Collect adorable outfits and dress up its long, wiggly tail! (⦿ʌ⦿)",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489630/de803a34b876dc63a9edf697bdf23303e70a4f4a/ss_de803a34b876dc63a9edf697bdf23303e70a4f4a.1920x1080.jpg?t=1792378243",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4479150,
+      "name": "Kādomon: Incremental Eclipse",
+      "description": "Build a team of Kādomon that fights for you, then push deeper. An Idle Incremental RPG where your creatures auto-battle through endless waves, each with their own skill tree to master. Eclipse your run to unlock permanent power and climb further than ever before.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479150/b1e112a49f40afedc3800dd831c2f35e138596e1/ss_b1e112a49f40afedc3800dd831c2f35e138596e1.1920x1080.jpg?t=1775799102",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4474590,
+      "name": "HUSH",
+      "description": "A co-op horror game where you and your friends break into monsters’ homes and wreck their stuff. Smash everything you can and escape the crime scene before they catch you — they hear every sound.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474590/3ea9970b9a65b558d296d8d29daa66ff1f93e63b/ss_3ea9970b9a65b558d296d8d29daa66ff1f93e63b.1920x1080.jpg?t=1775049098",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4456670,
+      "name": "Thieving Together",
+      "description": "You and your crew have one goal: break in, grab everything, and get out before sunrise. Thieving Together is a chaotic physics PvP &amp; co-op heist party game. Drag loot, dodge rivals, stack the van fast. Everything wobbles. Everyone steals. Biggest haul by sunrise wins.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456670/2a25fd7717bbafef7eeea1bc973cf59565ca024b/ss_2a25fd7717bbafef7eeea1bc973cf59565ca024b.1920x1080.jpg?t=1779711871",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
     },
     {
       "id": 4420510,
@@ -191,15 +227,6 @@
       "score": 8
     },
     {
-      "id": 4182280,
-      "name": "Silver Lake National Park",
-      "description": "Welcome to Silver Lake National Park, where Ranger Logan keeps the trails clear, the campfires warm, and the supernatural community hidden in plain sight. He's a werebear who learned long ago not to fight what he is. These days he makes sure everyone feels at home, even when he can't always feel it.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182280/1ce2095efd776759be29c7947c8f62be6c553ace/ss_1ce2095efd776759be29c7947c8f62be6c553ace.1920x1080.jpg?t=1794041742",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4100390,
       "name": "Pakku Pony",
       "description": "Pakku Pony is a 2D virtual pet simulator where you raise your own pony! It’s a chill point-and-click game where you take care of your little garden, cook delicious dishes and relax with fun minigames. Oh, and don’t forget to look stylish with cosmetics and customization options!",
@@ -221,7 +248,7 @@
       "id": 3950720,
       "name": "Wander Her Way VR",
       "description": "Explore incredible interactive locations with your gorgeous companion. A sandbox VR experience with mini-games. Shoot enemies, destroy objects, drive a car, dance with an amazing girl, defend a tower, catch mischievous kittens, watch a fireworks show. Realistic female character, advanced physics",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950720/8539f0d3e6a35c9d4725d42cbf303dc9433dc083/ss_8539f0d3e6a35c9d4725d42cbf303dc9433dc083.1920x1080.jpg?t=1790460329",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950720/8539f0d3e6a35c9d4725d42cbf303dc9433dc083/ss_8539f0d3e6a35c9d4725d42cbf303dc9433dc083.1920x1080.jpg?t=1794236615",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 8
@@ -263,15 +290,6 @@
       "score": 8
     },
     {
-      "id": 3464790,
-      "name": "Pinewater",
-      "description": "Pinewater is a cozy first-person fishing game about restoring a run-down lakeside cabin. Catch rare and legendary fish, restore and decorate your lakeside home, plant trees, and shape the surroundings to your liking — all at your own pace.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464790/51e46905a76ed69e17c53be4787acc5907cd578a/ss_51e46905a76ed69e17c53be4787acc5907cd578a.1920x1080.jpg?t=1786979863",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 3447420,
       "name": "Marble Run Maker",
       "description": "Build marble runs in a room with realistic physics. Stack random objects to make a wobbly track and watch the ball roll down! Explore puzzles with unlimited solutions.",
@@ -308,6 +326,15 @@
       "score": 8
     },
     {
+      "id": 4522870,
+      "name": "Islandustry",
+      "description": "Find the best island, outbid your rivals and start exploiting it. Automate your production and watch the market to sell your goods at the right price. Use your profits to buy upgrades and make your production chain even faster.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522870/13427414a0b14c2f01566205638a0c78058aa3df/ss_13427414a0b14c2f01566205638a0c78058aa3df.1920x1080.jpg?t=1775766524",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
       "id": 4258650,
       "name": "Appetite for Destruction",
       "description": "Co-op in a fully destructible world. Meet the quota faster than your friends - or stop them from doing it. Use physics and tools to survive the escalating chaos, or switch to Sandbox mode with no limits.",
@@ -333,6 +360,24 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 7
+    },
+    {
+      "id": 4462250,
+      "name": "Slime Game",
+      "description": "Slime Game is a retro rage platformer for the modern day! Run and jump through over 70 levels, all while collecting power-ups, stomping enemies, and finding hidden collectibles.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462250/4614ad3908471fe306483989baa107e07152d81b/ss_4614ad3908471fe306483989baa107e07152d81b.1920x1080.jpg?t=1776817125",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4426150,
+      "name": "Gobelinus: The Cursed Deck",
+      "description": "Gobelinus: The Cursed Deck is a dark fantasy roguelike deckbuilder where a debt‑ridden goblin builds cursed card hands to survive. Equip bizarre relics and trigger outrageous score combos to defeat relentless monsters in each run.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426150/fb031d960e74be229592378648b57dbf67429fc0/ss_fb031d960e74be229592378648b57dbf67429fc0.1920x1080.jpg?t=1771316886",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 4423230,
@@ -366,15 +411,6 @@
       "name": "Forgotten Flower",
       "description": "A mysterious adventure focused on exploration, puzzle-solving, and choice-driven progression as two young nobles navigate a mansion that warps into a mysterious and dangerous world after a sudden disaster. Will you uncover the truth hidden within its shifting halls before the darkness consumes you?",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364140/6c68624f3421c53451157952a3adc849e1537ab8/ss_6c68624f3421c53451157952a3adc849e1537ab8.1920x1080.jpg?t=1793439065",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4337230,
-      "name": "Midnight Train: New Moon",
-      "description": "A 2D exploration-based horror adventure game set in a creepy train and mysterious buildings.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337230/1676d5bf9f30ce7abfe74b5d470a6b7b88fdfaf4/ss_1676d5bf9f30ce7abfe74b5d470a6b7b88fdfaf4.1920x1080.jpg?t=1781136611",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 6
@@ -443,15 +479,6 @@
       "score": 6
     },
     {
-      "id": 4126380,
-      "name": "One Wrong Step",
-      "description": "One wrong move can change everything... Explore trapped rooms in this tactical roguelite inspired by Minesweeper. Every square is a risk. Every exit, a choice. Think carefully... or start again.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126380/b0db52a14fb2e2991ec853ec8b7577896acd5ea5/ss_b0db52a14fb2e2991ec853ec8b7577896acd5ea5.1920x1080.jpg?t=1771604088",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 3773720,
       "name": "SlopTuber Simulator",
       "description": "SlopTuber Simulator is a short incremental adventure about filling the internet with worthless video content for fun and profit (Mostly for profit)! ",
@@ -506,40 +533,13 @@
       "score": 6
     },
     {
-      "id": 4253930,
-      "name": "Rodent Rampage",
-      "description": "Rodent Rampage is a third-person hero shooter. Combine nitrous boosted ground maneuvers, soda powered aerial attacks, and quirky in game power ups in a one-of-a-kind, PvP combat experience.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253930/95883b0a1c0b0abf197ea56bd9bf1e5e761ae147/ss_95883b0a1c0b0abf197ea56bd9bf1e5e761ae147.1920x1080.jpg?t=1785529637",
+      "id": 4527360,
+      "name": "Nifland",
+      "description": "Nifland is a surreal multiplayer horror game with social deduction, set inside a paranormal dream beneath the ocean. Maintain a decaying deep-sea station, survive the entities roaming its halls, and uncover the traitor hiding among your crew before the dream consumes you all.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527360/c7d4d53b20b0d6b090cdb409900a3bf1b7e8223d/ss_c7d4d53b20b0d6b090cdb409900a3bf1b7e8223d.1920x1080.jpg?t=1791024003",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 5
-    },
-    {
-      "id": 3466240,
-      "name": "Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator",
-      "description": "Step into the role of a technomaster in Valkyrie Iteration, a sci-fi visual novel. Train and guide Lana, a young pilot, and her sentient mech, the Valkyrie, as they prepare for high-stakes battles against otherworldly foes.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466240/798a314f3235657ffb224df8f32ae09a541e72ac/ss_798a314f3235657ffb224df8f32ae09a541e72ac.1920x1080.jpg?t=1792108335",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5556380,
-      "name": "Beam Them All",
-      "description": "An incremental strategy about cosmic hunting: pilot your flying saucer, abduct animals with a tractor beam, and gather biomass to unlock new technologies. Upgrade your ship, expand the field, and evacuate in time before turrets and mines cut your expedition short.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556380/06cb419c36ed54474859cc3eb4cb428fd8d4e8ca/ss_06cb419c36ed54474859cc3eb4cb428fd8d4e8ca.1920x1080.jpg?t=1794062660",
-      "firstSeen": "2026-11-08T11:26:00Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5553890,
-      "name": "Yes Chef!",
-      "description": "There's never a calm day in this kitchen! A first-person co-op restaurant game for 1-6 players. Pick burgers, steak, pizza, breakfast or salad, cook, serve and rush to save the burning dish. Can you reach the final day before your customers lose patience? If you fail, everything resets.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5553890/1945978cd7f2b5bd3c2e030f81fc34a4d408015f/ss_1945978cd7f2b5bd3c2e030f81fc34a4d408015f.1920x1080.jpg?t=1794144335",
-      "firstSeen": "2026-11-08T11:26:00Z",
-      "mechanic": "simulator",
-      "score": 8
     }
   ]
 }
