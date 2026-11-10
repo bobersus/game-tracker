@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T17:50:49.747Z",
+  "checkedAt": "2026-11-10T00:52:17.351Z",
   "games": [
     {
       "id": 4325070,
@@ -8,15 +8,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325070/541c478273b290e16a85792a45ba97dae84514e8/ss_541c478273b290e16a85792a45ba97dae84514e8.1920x1080.jpg?t=1792678769",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "simulator",
-      "score": 9
-    },
-    {
-      "id": 4270340,
-      "name": "Keyboard Smash",
-      "description": "Run a shop. Help weird customers. And definitely make everything worse!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4270340/4a374b16859808f5399165e80562dfe1796c7d13/ss_4a374b16859808f5399165e80562dfe1796c7d13.1920x1080.jpg?t=1785180134",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
       "score": 9
     },
     {
@@ -36,6 +27,42 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 4626570,
+      "name": "Fixpert",
+      "description": "Fixpert is a classic block-pusher style puzzle game. Help the titular Fixpert repair the factory and solve it's many head-scratching brain teasers! Using crates as bridges to cross bodies of water, buttons to open doors and power battery-chargers, managing fires and explosives, AND MORE!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626570/0252d3182f42c9d617e31513d04527e6a17565b7/ss_0252d3182f42c9d617e31513d04527e6a17565b7.1920x1080.jpg?t=1790342277",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4585530,
+      "name": "Mind The Gap",
+      "description": "Mind The Gap is a puzzle platformer game where you and your unlikely companion work together to create your own path to freedom. Featuring 80+ handcrafted levels, unique bosses, and hidden collectables, each stage introduces new mechanics that push your abilities further.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585530/7b6d4099bbb110cde5c864ec1564009edb94a616/ss_7b6d4099bbb110cde5c864ec1564009edb94a616.1920x1080.jpg?t=1787932790",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4569890,
+      "name": "Fluffy Spider",
+      "description": "A fluffy spider. Tricky jumps. A web to call home. Explore a colourful 2D platformer, find secret worlds, then build a network of insect traps in your idle hub. Collect silk, unlock talents and characters, and fill your radio with original songs.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569890/02f3ac39e4183c65da02bf2c52a1f5266aa1689d/ss_02f3ac39e4183c65da02bf2c52a1f5266aa1689d.1920x1080.jpg?t=1792845392",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4569750,
+      "name": "Brawling Beetles",
+      "description": "Die. Adapt. Fight Back. In this faced-paced top down multiplayer beetle brawler, every death makes you stronger. Choose between abilites, classes and weapons. Battle in matches with up to 4 players, fight PvE enemies, collect loot, and unleash powerful ultimates to claim victory.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569750/9387928ed57a0cfbd1e4ae0ce7226bfe3d86b6df/ss_9387928ed57a0cfbd1e4ae0ce7226bfe3d86b6df.1920x1080.jpg?t=1793798526",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
     },
     {
       "id": 4498350,
@@ -59,7 +86,7 @@
       "id": 4479150,
       "name": "Kādomon: Incremental Eclipse",
       "description": "Build a team of Kādomon that fights for you, then push deeper. An Idle Incremental RPG where your creatures auto-battle through endless waves, each with their own skill tree to master. Eclipse your run to unlock permanent power and climb further than ever before.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479150/b1e112a49f40afedc3800dd831c2f35e138596e1/ss_b1e112a49f40afedc3800dd831c2f35e138596e1.1920x1080.jpg?t=1775799102",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479150/b1e112a49f40afedc3800dd831c2f35e138596e1/ss_b1e112a49f40afedc3800dd831c2f35e138596e1.1920x1080.jpg?t=1794267778",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
@@ -80,15 +107,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456670/2a25fd7717bbafef7eeea1bc973cf59565ca024b/ss_2a25fd7717bbafef7eeea1bc973cf59565ca024b.1920x1080.jpg?t=1779711871",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4420510,
-      "name": "Emocritical",
-      "description": "A story-rich urban battle RPG. As a Nikko University transfer student, freely explore bustling Xijing, raise stats, make friends, and live your days. But beneath the peaceful daily life, dark undercurrents surge. Collect clues, shatter the facade, and face the ultimate crisis when it arrives.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420510/670e1a9698176f9d0f07a7739be84ada7f5eb895/ss_670e1a9698176f9d0f07a7739be84ada7f5eb895.1920x1080.jpg?t=1790809606",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -146,24 +164,6 @@
       "score": 8
     },
     {
-      "id": 4308060,
-      "name": "Petaltone",
-      "description": "Plant, tend to, and grow a musical garden masterpiece! By mixing and mastering different Plants, Mods, and Gardening Tools, you can create a synthesized symphony entirely unique to you!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308060/56adf5abbdc09f1cee705d44575bc00c5649889b/ss_56adf5abbdc09f1cee705d44575bc00c5649889b.1920x1080.jpg?t=1788358175",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4307580,
-      "name": "Taco Stand",
-      "description": "A horror game where you manage a taco stand. Make tacos, serve customers, and get through each night.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307580/ffd31a20f2c1554d34f41e8ebc392da229bd6128/ss_ffd31a20f2c1554d34f41e8ebc392da229bd6128.1920x1080.jpg?t=1790303068",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4302590,
       "name": "Particle Collectotron",
       "description": "Click and collect energy in this short, active incremental. Upgrade your reactor, tune injector payload and trajectories, unlock exotic matter, and push the experiment past its limits.",
@@ -179,15 +179,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298730/fa4b05792897b24cef791e4faa0b37eac80b233b/ss_fa4b05792897b24cef791e4faa0b37eac80b233b.1920x1080.jpg?t=1791726263",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4298670,
-      "name": "Please fix the mess",
-      "description": "Clean up chaotic interiors, remove trash, repaint walls, and redecorate messy spaces, sometimes with a few suspiciously bodies lying around.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298670/bc77691524bd26306694cb06bf2d8abadc4ae57d/ss_bc77691524bd26306694cb06bf2d8abadc4ae57d.1920x1080.jpg?t=1793803928",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -326,6 +317,24 @@
       "score": 8
     },
     {
+      "id": 4544990,
+      "name": "DeckDEX - TCG Live Simulator",
+      "description": "Buy low, read the room, flip it. DeckDEX is a card-flipping market tycoon: hunt underpriced cards on a live player economy, rip packs, forge duplicates into rarities, complete sets, and build a cardboard empire.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544990/da694f22f7d01c8c0838e2308af6de36f47d0182/ss_da694f22f7d01c8c0838e2308af6de36f47d0182.1920x1080.jpg?t=1792459318",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 4544450,
+      "name": "Athletics 99",
+      "description": "Run! Jump! Throw! Compete in the Athletics World Cup through 18 different events, and represent your country against worldwide athletes. Who knows, you might even break some World Records...",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544450/0ec705dae79299c10792ef9a5b2ee4859c903ecc/ss_0ec705dae79299c10792ef9a5b2ee4859c903ecc.1920x1080.jpg?t=1794159687",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
       "id": 4522870,
       "name": "Islandustry",
       "description": "Find the best island, outbid your rivals and start exploiting it. Automate your production and watch the market to sell your goods at the right price. Use your profits to buy upgrades and make your production chain even faster.",
@@ -360,6 +369,60 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 7
+    },
+    {
+      "id": 4616970,
+      "name": "S-Ranker",
+      "description": "Enter 5-minute dungeons, clear out monsters, choose your powers during battle, and rise from F-Rank to S-Rank in an action roguelite.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616970/b50ff5962f974790c5d62d7e911178d58d11e8e3/ss_b50ff5962f974790c5d62d7e911178d58d11e8e3.1920x1080.jpg?t=1792573835",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4603240,
+      "name": "ARCADE LOOP: ROGUELIKE",
+      "description": "Dive into ARCADE LOOP, a massive, ever-expanding collection of classic and modern arcade simulations. Featuring deep meta-progression, unlockable characters, powerful relics, weapons, bosses and a dynamic scaling system that keeps every run fresh.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603240/41fbd0581cdb339831503b998c8781cd6a579356/ss_41fbd0581cdb339831503b998c8781cd6a579356.1920x1080.jpg?t=1781096711",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4599170,
+      "name": "Regicide: Chess Roguelike",
+      "description": "Forget checkmate. Every capture scores in this chess roguelike deckbuilder. Gather powerful floppy disks, rig your pieces (and theirs), and ignite cascading combos as you chase scores you have no right to reach.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599170/b2e893a9507e3348ba4c9025f28e6eca7aa8d9bf/ss_b2e893a9507e3348ba4c9025f28e6eca7aa8d9bf.1920x1080.jpg?t=1793791246",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4577060,
+      "name": "Desktop Maid Haru",
+      "description": "Endless hours at your desk, staring at your monitor until Haru appears by your side. More than a simple desktop companion, she helps you stay focused, keeps track of your time, and talks with you through her built-in AI. Customize your desktop and share your space with Haru",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4577060/470b031462ca863ac1e1e46090dfb3d0e9539797/ss_470b031462ca863ac1e1e46090dfb3d0e9539797.1920x1080.jpg?t=1793430209",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4565010,
+      "name": "Connecta",
+      "description": "Build bridges in this roguelike deckbuilder. In Connecta, you build a deck of bridge pieces, connect them across grid maps, draft new cards and upgrades, or use a milkshake to freeze a volcano... All just to get back home.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565010/5e5c41487a65300f7b112dbfb2f2fba85ee3fe66/ss_5e5c41487a65300f7b112dbfb2f2fba85ee3fe66.1920x1080.jpg?t=1787255386",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4553270,
+      "name": "Rummy Attack",
+      "description": "&quot;Rummy Attack&quot; is a unique Roguelite Card Battler based on Rummy rules! Place cards on the field to create &quot;Melds&quot; (Sets or Runs) to unleash skills. Build your deck and overcome physical gimmicks like ground fissures to defeat the final boss. Choose between Tactical Move or High-Speed Time Mode!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553270/7c3e9cd7bc7d0bca0a44e657bb22e66fbeda0330/ss_7c3e9cd7bc7d0bca0a44e657bb22e66fbeda0330.1920x1080.jpg?t=1781933735",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 4462250,
@@ -398,33 +461,6 @@
       "score": 6
     },
     {
-      "id": 4369440,
-      "name": "Dungeon Chess",
-      "description": "Dungeon Chess is a turn-based strategy game with roguelike elements where the setting simulates a chessboard.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369440/2826d7d2c2eebd45c692b746b840b26f62b8d17b/ss_2826d7d2c2eebd45c692b746b840b26f62b8d17b.1920x1080.jpg?t=1786544135",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4364140,
-      "name": "Forgotten Flower",
-      "description": "A mysterious adventure focused on exploration, puzzle-solving, and choice-driven progression as two young nobles navigate a mansion that warps into a mysterious and dangerous world after a sudden disaster. Will you uncover the truth hidden within its shifting halls before the darkness consumes you?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364140/6c68624f3421c53451157952a3adc849e1537ab8/ss_6c68624f3421c53451157952a3adc849e1537ab8.1920x1080.jpg?t=1793439065",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4332830,
-      "name": "Nijoaju",
-      "description": "Two characters. One goal. Think as one. In Nijoaju, control a powerful stone creature and an agile water creature, combining their unique abilities to solve challenging puzzles, overcome obstacles, and prove that only by working together can you move forward.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332830/2d57503b4fad73bfd84b6d4cbebdeb971b5fb8ca/ss_2d57503b4fad73bfd84b6d4cbebdeb971b5fb8ca.1920x1080.jpg?t=1787935485",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 4317210,
       "name": "Quest for Choices: Ivan's Tale",
       "description": "✦Quest for Choices: Ivan's Tale is a choice-driven visual novel. The story mainly follows a Slavic white mouse named &quot;Ivan Viktorovich Belyaev&quot; and its VR memory recordings in the United States.",
@@ -446,7 +482,7 @@
       "id": 4303550,
       "name": "Carbon Compliance",
       "description": "A simulation game about experiencing the very mundane job of a government official, rummaging through paperwork. Make sure all the paperwork is free of any errors. Deny applications that are not up to the specified requirements. Bored of working, play mini-games to relieve stress.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303550/ef21edeaddd5883ef7e141064c9fc721b4e839f2/ss_ef21edeaddd5883ef7e141064c9fc721b4e839f2.1920x1080.jpg?t=1792619043",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303550/b90b15ea0cf29d7aa3d1cebed226854beef7c789/ss_b90b15ea0cf29d7aa3d1cebed226854beef7c789.1920x1080.jpg?t=1794253563",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 6
@@ -497,15 +533,6 @@
       "score": 6
     },
     {
-      "id": 3513580,
-      "name": "PLEASE KNOCK: The Sloppy Researcher's Life",
-      "description": "PLEASE KNOCK: The Sloppy Researcher’s Life is a top-down story adventure game about an unusual research life between a sloppy senior student and a helpful junior.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3513580/5b07994408ae1bfb7262058b0cef12646d40704f/ss_5b07994408ae1bfb7262058b0cef12646d40704f.1920x1080.jpg?t=1791640441",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 3489220,
       "name": "Kkokko Industry",
       "description": "Kkokko Industry is a relaxing idle game where you manage a chicken farm. The game runs on one side of your monitor, allowing you to enjoy it comfortably while working on other tasks.",
@@ -513,33 +540,6 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 6
-    },
-    {
-      "id": 3488620,
-      "name": "Birdoo",
-      "description": "Birdoo: Feathered Fury is an indie action game were you assume the role of a bird embarking on a quest for revenge against the humans who wronged him. No longer will you tolerate being called a &quot;flying rat&quot; or being shooed away. It's time to exact your revenge!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488620/5d43ea5f4a9222d022ab5d0dfb49ab69aa486b13/ss_5d43ea5f4a9222d022ab5d0dfb49ab69aa486b13.1920x1080.jpg?t=1768612322",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 1340050,
-      "name": "Hand Shadow",
-      "description": "Challenge your mind with puzzles that are based on optical illusions. Find the perfect position and angle by rotating the hands until order is restored, and discover a story of protagonist Morgan with professional voicing.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1340050/ss_f83a34a960608ae66e0bc33f7ef9dbe4ece14f02.1920x1080.jpg?t=1786043268",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4527360,
-      "name": "Nifland",
-      "description": "Nifland is a surreal multiplayer horror game with social deduction, set inside a paranormal dream beneath the ocean. Maintain a decaying deep-sea station, survive the entities roaming its halls, and uncover the traitor hiding among your crew before the dream consumes you all.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527360/c7d4d53b20b0d6b090cdb409900a3bf1b7e8223d/ss_c7d4d53b20b0d6b090cdb409900a3bf1b7e8223d.1920x1080.jpg?t=1791024003",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 5
     }
   ]
 }
