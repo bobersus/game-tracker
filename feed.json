@@ -1,6 +1,24 @@
 {
-  "checkedAt": "2026-11-10T08:15:20.210Z",
+  "checkedAt": "2026-11-10T16:28:25.363Z",
   "games": [
+    {
+      "id": 4781710,
+      "name": "Xmas Squad",
+      "description": "Physics co-op comedy for up to 4 players: deliver presents, steal cookies and save your friends from monsters. One more house and we're outta here. Promise.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781710/608ebf7ff3728fab18acb4310bbf431592462b88/ss_608ebf7ff3728fab18acb4310bbf431592462b88.1920x1080.jpg?t=1794282679",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 10
+    },
+    {
+      "id": 4765270,
+      "name": "Idiots 4 Order",
+      "description": "Swipe deliveries, scream directions, juggle pizzas and drive like a maniac in this chaotic 2-4 player co-op delivery game. One moped, 4 idiots, infinite chaos.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765270/1c09c4e4b8d6ee3b47f8020fa0b0e019ac6ba906/ss_1c09c4e4b8d6ee3b47f8020fa0b0e019ac6ba906.1920x1080.jpg?t=1794104147",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 9
+    },
     {
       "id": 4217790,
       "name": "Bird Poo Game",
@@ -20,6 +38,78 @@
       "score": 9
     },
     {
+      "id": 4830360,
+      "name": "Over Package!",
+      "description": "Over Package! is a chaotic, physics-based multiplayer party game. Clash with your friends in hilarious arena brawls to deliver cargo. Outsmart rivals with dynamic environmental destruction, leverage chaotic physics, and turn every delivery into absolute combat logistics madness!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830360/c0597b066c14dd21a82989ec0b7e29e813452a02/ss_c0597b066c14dd21a82989ec0b7e29e813452a02.1920x1080.jpg?t=1789303547",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4830270,
+      "name": "Let's make SILLY ART!",
+      "description": "Time to make SILLY ART! Help Charlie rediscover the joy of making art in this cozy and creative point and click. Tidy your house, find inspirations, collect stickers and create authentic artwork to build your portfolio!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830270/ab9406ad9fee5bc9c417094fc79d81ce8e3b7b24/ss_ab9406ad9fee5bc9c417094fc79d81ce8e3b7b24.1920x1080.jpg?t=1793983721",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4825460,
+      "name": "Juicy Fugitives",
+      "description": "Hunt down the most wanted fruits in this cartoon third-person shooter. Play as a pirate crew framed by a mysterious fire, blast through waves of enemies across 5 kingdoms, and survive slapstick boss fights, solo or in 3 player online co-op.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825460/08900d2e42bdba5ceab999ef10597688e9cf43ac/ss_08900d2e42bdba5ceab999ef10597688e9cf43ac.1920x1080.jpg?t=1792559148",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4797200,
+      "name": "Squabblin Goblins",
+      "description": "A chaotic multiplayer deckbuilding PvP with GOBLINS. Grab items, throw them at your friends, and craft a goblin so broken your friends will hate you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797200/b00e3d99718eeb95d066b043ba180812e9c23935/ss_b00e3d99718eeb95d066b043ba180812e9c23935.1920x1080.jpg?t=1792528345",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4791800,
+      "name": "Concerto on White: Bass Hero",
+      "description": "Pick up your keyboard and play it like a real bass! Take on the role of Ostinata, the leader and bassist of the all-girl band Tutti Nova. Strengthen the bonds among the five band members while staying ever ready to fend off bassist jokes, and grow your fan base to perform in larger venues!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791800/1f91334ec607904d18613133e416beca10dc22f6/ss_1f91334ec607904d18613133e416beca10dc22f6.1920x1080.jpg?t=1791898801",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4789610,
+      "name": "Unheenged",
+      "description": "Unheenged is a cooperative horror extraction game for you and up to 3 friends. featuring proximity voice chat, scary monsters, multiple items and doors... Lots of doors.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789610/fcf7d3db92722342a5e4e6db84efbad2f6befb26/ss_fcf7d3db92722342a5e4e6db84efbad2f6befb26.1920x1080.jpg?t=1782172350",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4786400,
+      "name": "Dalam Kelam: The Night Shift",
+      "description": "Welcome to the night shift. Your tasks are simple: follow the nightly janitorial routine and ignore all disturbances. Last seven nights to earn your transfer to headquarters.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786400/30a5911a9f396d0f75b74acb9010c21150c5e31d/ss_30a5911a9f396d0f75b74acb9010c21150c5e31d.1920x1080.jpg?t=1793367208",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4753580,
+      "name": "Winds of Bounty",
+      "description": "Winds of Bounty is a casual, fast-paced single and network multi player, competitive sailing exploration and treasure hunting game, featuring multiple game modes, including Treasure Hunt, Monster Hunt, Orb Hunt, Race, Arena, and Treasure Gallery!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753580/ab1946f1ea801e4c946ea56a234e5901c60647a9/ss_ab1946f1ea801e4c946ea56a234e5901c60647a9.1920x1080.jpg?t=1793505872",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
       "id": 4752310,
       "name": "Black Hole Idle",
       "description": "Start as a tiny black hole and grow by consuming asteroids, planets, and star systems. Automate your power, unlock upgrades, and devour the universe in this relaxing space idle incremental game.",
@@ -32,7 +122,7 @@
       "id": 4703250,
       "name": "Tiny Patisserie",
       "description": "Run your own cozy pastry shop. 🍰 Spot what customers are craving, combine and box up sweet treats, and jump into hands-on minigames for every order. Unlock new recipes, upgrade your tools, and grow your tiny shop into a thriving neighborhood favorite.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703250/760a01ee2840c8b87512011fe0339c54cbcafc35/ss_760a01ee2840c8b87512011fe0339c54cbcafc35.1920x1080.jpg?t=1794293054",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703250/760a01ee2840c8b87512011fe0339c54cbcafc35/ss_760a01ee2840c8b87512011fe0339c54cbcafc35.1920x1080.jpg?t=1794300387",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "simulator",
       "score": 8
@@ -51,15 +141,6 @@
       "name": "TCG Football Card Shop Simulator",
       "description": "Manage your own football card shop! Open card packs to discover rare football player cards, stock your shelves with football merchandise, sell to customers, expand your store, and build the ultimate football card shop.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702140/574aa4dcbe3ff284f814d9ba662b9b0e75705cfd/ss_574aa4dcbe3ff284f814d9ba662b9b0e75705cfd.1920x1080.jpg?t=1793867391",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4669400,
-      "name": "Bramble Bay",
-      "description": "A cozy mail delivery adventure where you explore a quiet town, gather clues from its people, and deliver letters to their intended recipients.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669400/e2c3e31d5b4437f627e2fe2defa4d04077363d19/ss_e2c3e31d5b4437f627e2fe2defa4d04077363d19.1920x1080.jpg?t=1778758028",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "simulator",
       "score": 8
@@ -92,24 +173,6 @@
       "score": 8
     },
     {
-      "id": 4645410,
-      "name": "Glitch Forest",
-      "description": "Glitch Forest is a bullet heaven roguelite. Every 5 minutes, rain, fog, gales, and nightfall reshape the battlefield. Upgrade skills, wield active items, and build screen-clearing firepower! Activate Anomaly Beacons to claim relics—but each one makes the environment even deadlier.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645410/61910a0b4567b271beab1ff0720bd7835d8f63f1/ss_61910a0b4567b271beab1ff0720bd7835d8f63f1.1920x1080.jpg?t=1786853176",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4626570,
-      "name": "Fixpert",
-      "description": "Fixpert is a classic block-pusher style puzzle game. Help the titular Fixpert repair the factory and solve it's many head-scratching brain teasers! Using crates as bridges to cross bodies of water, buttons to open doors and power battery-chargers, managing fires and explosives, AND MORE!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4626570/0252d3182f42c9d617e31513d04527e6a17565b7/ss_0252d3182f42c9d617e31513d04527e6a17565b7.1920x1080.jpg?t=1790342277",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 4585530,
       "name": "Mind The Gap",
       "description": "Mind The Gap is a puzzle platformer game where you and your unlikely companion work together to create your own path to freedom. Featuring 80+ handcrafted levels, unique bosses, and hidden collectables, each stage introduces new mechanics that push your abilities further.",
@@ -134,24 +197,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569750/9387928ed57a0cfbd1e4ae0ce7226bfe3d86b6df/ss_9387928ed57a0cfbd1e4ae0ce7226bfe3d86b6df.1920x1080.jpg?t=1793798526",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4498350,
-      "name": "Slimazing",
-      "description": "Kill slimes. Collect juice. Upgrade your power. Craft potions and defeat elites and bosses in this juicy incremental roguelite.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498350/fc589a4d05a18eec491e7f560c299d7d40ec4ae0/ss_fc589a4d05a18eec491e7f560c299d7d40ec4ae0.1920x1080.jpg?t=1773739288",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4489630,
-      "name": "This is Not a Snake Game",
-      "description": "▶When the classic Snake Game becomes self-aware, eating apples is no longer enough! Help this little snake exploit bugs to escape the game and roam your desktop. Collect adorable outfits and dress up its long, wiggly tail! (⦿ʌ⦿)",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489630/de803a34b876dc63a9edf697bdf23303e70a4f4a/ss_de803a34b876dc63a9edf697bdf23303e70a4f4a.1920x1080.jpg?t=1792378243",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -322,7 +367,7 @@
       "description": "Burger Rush Simulator is a fast food simulator where you manage your fast food restaurant, order supplies, restock containers, take payments at checkout and drive-thru, prepare meals, hire staff, expand your kitchen and dining area, and unlock features like storage and touchscreen checkout.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3621510/77a985b1f797f2861e8434bb68f12eab218e81de/ss_77a985b1f797f2861e8434bb68f12eab218e81de.1920x1080.jpg?t=1788030174",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
+      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -330,15 +375,6 @@
       "name": "Marble Run Maker",
       "description": "Build marble runs in a room with realistic physics. Stack random objects to make a wobbly track and watch the ball roll down! Explore puzzles with unlimited solutions.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447420/ss_eebe2bbb06c203157c4ef82a5c2e4b2715794902.1920x1080.jpg?t=1755195340",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 1975380,
-      "name": "Kaiju Catastrophe",
-      "description": "Crush, smash, and eat thousands of enemies showing humanity what the meaning of destruction is! Kaiju Catastrophe is an arcade game with roguelite mechanics. Mutate devastating weapons, unlock permanent evolutions, and wreak havoc with a variety of monsters to tear humanity apart!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1975380/ss_b435c529df1ce7e1d0a24a636c784f409671e317.1920x1080.jpg?t=1765512224",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 8
@@ -383,7 +419,7 @@
       "id": 4544450,
       "name": "Athletics 99",
       "description": "Run! Jump! Throw! Compete in the Athletics World Cup through 18 different events, and represent your country against worldwide athletes. Who knows, you might even break some World Records...",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544450/0ec705dae79299c10792ef9a5b2ee4859c903ecc/ss_0ec705dae79299c10792ef9a5b2ee4859c903ecc.1920x1080.jpg?t=1794159687",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544450/0ec705dae79299c10792ef9a5b2ee4859c903ecc/ss_0ec705dae79299c10792ef9a5b2ee4859c903ecc.1920x1080.jpg?t=1794311735",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 7
@@ -393,6 +429,15 @@
       "name": "Islandustry",
       "description": "Find the best island, outbid your rivals and start exploiting it. Automate your production and watch the market to sell your goods at the right price. Use your profits to buy upgrades and make your production chain even faster.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522870/13427414a0b14c2f01566205638a0c78058aa3df/ss_13427414a0b14c2f01566205638a0c78058aa3df.1920x1080.jpg?t=1775766524",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 4498350,
+      "name": "Slimazing",
+      "description": "Kill slimes. Collect juice. Upgrade your power. Craft potions and defeat elites and bosses in this juicy incremental roguelite.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498350/fc589a4d05a18eec491e7f560c299d7d40ec4ae0/ss_fc589a4d05a18eec491e7f560c299d7d40ec4ae0.1920x1080.jpg?t=1794304254",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 7
@@ -423,6 +468,24 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 7
+    },
+    {
+      "id": 4791550,
+      "name": "Cascadral",
+      "description": "Cascadral is a Solitaire Roguelike about offering clever card combinations to demonic spirits. Bend the rules, build game-breaking combos and discover powerful synergies across more than 200 unique cards and abilities. Can you escape this demonic castle?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791550/b9783b643445d6f3f6e7987c61933c1c857a5c5a/ss_b9783b643445d6f3f6e7987c61933c1c857a5c5a.1920x1080.jpg?t=1781305151",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4764860,
+      "name": "BROKEN：Survivors  破界：幸存者",
+      "description": "This is a fast-paced roguelike hack-and-slash game where weapons, characters, and skills can all be developed independently and freely combined to create your very own build!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764860/6181c30021c99ee5803a8f57e55d1a15c098dab7/ss_6181c30021c99ee5803a8f57e55d1a15c098dab7.1920x1080.jpg?t=1794188418",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 4708660,
@@ -461,15 +524,6 @@
       "score": 6
     },
     {
-      "id": 4642090,
-      "name": "Urban Feather",
-      "description": "Urban Feather is a local co-op digital tabletop game for 1-4 players about avian migration. Navigate a procedurally generated city, manage environmental hazards, and learn real-world strategies to prevent bird-window collisions.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642090/3d0579f98d1526bfd5e1af61243f63e5e3c122d3/ss_3d0579f98d1526bfd5e1af61243f63e5e3c122d3.1920x1080.jpg?t=1777043099",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
       "id": 4641990,
       "name": "Blokour",
       "description": "Jump, build and fight through the dungeons of Blokour! In this puzzle platformer, you place and break blocks whilst solving puzzles and dodging dangerous traps. Featuring 125 levels, 4 boss fights and more than 60 different types of blocks, you'll venture through a wide range of exciting challenges.",
@@ -483,60 +537,6 @@
       "name": "CandyPop",
       "description": "The Great Sweet Battle Begins! &quot;CandyPop&quot; is a confectionery war set in the Land of Sweets! A top-down, all-direction chaotic battle shooting action game! Are you ready?",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639450/1ffbe6ec593646d372ad4831bfff4628db78dee6/ss_1ffbe6ec593646d372ad4831bfff4628db78dee6.1920x1080.jpg?t=1782658384",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4616970,
-      "name": "S-Ranker",
-      "description": "Enter 5-minute dungeons, clear out monsters, choose your powers during battle, and rise from F-Rank to S-Rank in an action roguelite.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616970/b50ff5962f974790c5d62d7e911178d58d11e8e3/ss_b50ff5962f974790c5d62d7e911178d58d11e8e3.1920x1080.jpg?t=1792573835",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4603240,
-      "name": "ARCADE LOOP: ROGUELIKE",
-      "description": "Dive into ARCADE LOOP, a massive, ever-expanding collection of classic and modern arcade simulations. Featuring deep meta-progression, unlockable characters, powerful relics, weapons, bosses and a dynamic scaling system that keeps every run fresh.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603240/41fbd0581cdb339831503b998c8781cd6a579356/ss_41fbd0581cdb339831503b998c8781cd6a579356.1920x1080.jpg?t=1781096711",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4599170,
-      "name": "Regicide: Chess Roguelike",
-      "description": "Forget checkmate. Every capture scores in this chess roguelike deckbuilder. Gather powerful floppy disks, rig your pieces (and theirs), and ignite cascading combos as you chase scores you have no right to reach.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599170/b2e893a9507e3348ba4c9025f28e6eca7aa8d9bf/ss_b2e893a9507e3348ba4c9025f28e6eca7aa8d9bf.1920x1080.jpg?t=1793791246",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4577060,
-      "name": "Desktop Maid Haru",
-      "description": "Endless hours at your desk, staring at your monitor until Haru appears by your side. More than a simple desktop companion, she helps you stay focused, keeps track of your time, and talks with you through her built-in AI. Customize your desktop and share your space with Haru",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4577060/470b031462ca863ac1e1e46090dfb3d0e9539797/ss_470b031462ca863ac1e1e46090dfb3d0e9539797.1920x1080.jpg?t=1793430209",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4565010,
-      "name": "Connecta",
-      "description": "Build bridges in this roguelike deckbuilder. In Connecta, you build a deck of bridge pieces, connect them across grid maps, draft new cards and upgrades, or use a milkshake to freeze a volcano... All just to get back home.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565010/5e5c41487a65300f7b112dbfb2f2fba85ee3fe66/ss_5e5c41487a65300f7b112dbfb2f2fba85ee3fe66.1920x1080.jpg?t=1787255386",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4553270,
-      "name": "Rummy Attack",
-      "description": "&quot;Rummy Attack&quot; is a unique Roguelite Card Battler based on Rummy rules! Place cards on the field to create &quot;Melds&quot; (Sets or Runs) to unleash skills. Build your deck and overcome physical gimmicks like ground fissures to defeat the final boss. Choose between Tactical Move or High-Speed Time Mode!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553270/7c3e9cd7bc7d0bca0a44e657bb22e66fbeda0330/ss_7c3e9cd7bc7d0bca0a44e657bb22e66fbeda0330.1920x1080.jpg?t=1781933735",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 6
