@@ -1,15 +1,6 @@
 {
-  "checkedAt": "2026-11-10T00:52:17.351Z",
+  "checkedAt": "2026-11-10T08:15:20.210Z",
   "games": [
-    {
-      "id": 4325070,
-      "name": "Spray Days",
-      "description": "Paint, restore, and customize worn-out objects in this satisfying spray painting simulator. Complete quirky commissions, upgrade your tools, expand your workshop, and grow your restoration business - solo or with friends in online co-op!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325070/541c478273b290e16a85792a45ba97dae84514e8/ss_541c478273b290e16a85792a45ba97dae84514e8.1920x1080.jpg?t=1792678769",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 9
-    },
     {
       "id": 4217790,
       "name": "Bird Poo Game",
@@ -27,6 +18,87 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 4752310,
+      "name": "Black Hole Idle",
+      "description": "Start as a tiny black hole and grow by consuming asteroids, planets, and star systems. Automate your power, unlock upgrades, and devour the universe in this relaxing space idle incremental game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752310/b6500b80101369236237ed9b0b07fb53e1a27063/ss_b6500b80101369236237ed9b0b07fb53e1a27063.1920x1080.jpg?t=1793204136",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4703250,
+      "name": "Tiny Patisserie",
+      "description": "Run your own cozy pastry shop. 🍰 Spot what customers are craving, combine and box up sweet treats, and jump into hands-on minigames for every order. Unlock new recipes, upgrade your tools, and grow your tiny shop into a thriving neighborhood favorite.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703250/760a01ee2840c8b87512011fe0339c54cbcafc35/ss_760a01ee2840c8b87512011fe0339c54cbcafc35.1920x1080.jpg?t=1794293054",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4703240,
+      "name": "Freshly Caught",
+      "description": "Catch fish, arrange your stall, and run a cozy neighborhood fish stand by the water. 🎣 Set up your stall, serve customers by finding the right fish for them, upgrade your gear, and grow your tiny seaside business one catch new and rare fish!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703240/a0663fb428cc065b1b9acefbc771bd82e2064977/ss_a0663fb428cc065b1b9acefbc771bd82e2064977.1920x1080.jpg?t=1793864396",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4702140,
+      "name": "TCG Football Card Shop Simulator",
+      "description": "Manage your own football card shop! Open card packs to discover rare football player cards, stock your shelves with football merchandise, sell to customers, expand your store, and build the ultimate football card shop.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702140/574aa4dcbe3ff284f814d9ba662b9b0e75705cfd/ss_574aa4dcbe3ff284f814d9ba662b9b0e75705cfd.1920x1080.jpg?t=1793867391",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4669400,
+      "name": "Bramble Bay",
+      "description": "A cozy mail delivery adventure where you explore a quiet town, gather clues from its people, and deliver letters to their intended recipients.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669400/e2c3e31d5b4437f627e2fe2defa4d04077363d19/ss_e2c3e31d5b4437f627e2fe2defa4d04077363d19.1920x1080.jpg?t=1778758028",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4668250,
+      "name": "Mini Sushi Factory",
+      "description": "Build your own sushi factory in this cozy automation game. Unlock new ingredients, buy new recipes and upgrade food machinery to feed the Yōkai with food they love.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668250/48ec6ab379eeb31046d700f3d7a1d41a6cc9e8af/ss_48ec6ab379eeb31046d700f3d7a1d41a6cc9e8af.1920x1080.jpg?t=1794257318",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4666620,
+      "name": "Tiny Taxi",
+      "description": "Drift, drive and survive in a top-down pixel art city! Pick up passengers with strange demands, earn cash to upgrade your taxi and choose curses that make every run tougher. Customize your cab/driver, build your mixtape and climb the leaderboard.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666620/89ba0a2a1a1e667bd4dff0a6cb7863ccbb412673/ss_89ba0a2a1a1e667bd4dff0a6cb7863ccbb412673.1920x1080.jpg?t=1793270252",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4652830,
+      "name": "Synapse Idle",
+      "description": "Grow a 3D neural network from a single neuron. Workers haul energy along radiant paths, buildings amplify every passing signal, and a 100-node skill tree reshapes how your synapse evolves. A calm, incremental idle game about watching complexity bloom — tinted in whatever colors you choose.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652830/087e177ed2fd4bc6eb0a28ac0ef32bc1a10ac33a/ss_087e177ed2fd4bc6eb0a28ac0ef32bc1a10ac33a.1920x1080.jpg?t=1777020574",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4645410,
+      "name": "Glitch Forest",
+      "description": "Glitch Forest is a bullet heaven roguelite. Every 5 minutes, rain, fog, gales, and nightfall reshape the battlefield. Upgrade skills, wield active items, and build screen-clearing firepower! Activate Anomaly Beacons to claim relics—but each one makes the environment even deadlier.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645410/61910a0b4567b271beab1ff0720bd7835d8f63f1/ss_61910a0b4567b271beab1ff0720bd7835d8f63f1.1920x1080.jpg?t=1786853176",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
     },
     {
       "id": 4626570,
@@ -128,28 +200,19 @@
       "score": 8
     },
     {
+      "id": 4325070,
+      "name": "Spray Days",
+      "description": "Paint, restore, and customize worn-out objects in this satisfying spray painting simulator. Complete quirky commissions, upgrade your tools, expand your workshop, and grow your restoration business - solo or with friends in online co-op!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325070/541c478273b290e16a85792a45ba97dae84514e8/ss_541c478273b290e16a85792a45ba97dae84514e8.1920x1080.jpg?t=1792678769",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
       "id": 4322370,
       "name": "Hollywood Hustle: A Prop Collector Simulator",
       "description": "A physics-driven cleanup simulator on an abandoned Hollywood studio. Fantasy epics, sitcoms, sci-fi blockbusters: their props ended up here. Sort it all, ship boxed orders to film sets and beyond, sell the rest, and resurrect the old animatronics to help.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322370/d2aa9e0c344b9fa108ea54f53768497e3caba58f/ss_d2aa9e0c344b9fa108ea54f53768497e3caba58f.1920x1080.jpg?t=1788448296",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4313040,
-      "name": "Crystalmancers",
-      "description": "Crystalmancers is a roguelike, block-smashing puzzle game inspired by the JRPG's of the 90's. Collect items, upgrade your pieces, and use each Crystalmancers unique abilities to vanquish the monsters that await you in an ancient dungeon known as &quot;The Primordial Cauldron&quot;.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4313040/6c928d2dbeb39bf06271384b5244821bc12253cf/ss_6c928d2dbeb39bf06271384b5244821bc12253cf.1920x1080.jpg?t=1787903518",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4311670,
-      "name": "Sheep Trick",
-      "description": "A game about dreams, loops and sheep! Stop the alarm, dodge your clones and count sheep to infinity to achieve great sleep quality.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311670/99dcdb7e81471706516549d5ea6ed5f6ee533b66/ss_99dcdb7e81471706516549d5ea6ed5f6ee533b66.1920x1080.jpg?t=1781110850",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 8
@@ -209,15 +272,6 @@
       "score": 8
     },
     {
-      "id": 4183320,
-      "name": "DETRUST",
-      "description": "DETRUST is an online co-op game for up to 12 players, built on teamwork and betrayal. You’ve been sent to repair a damaged facility before the scheduled decontamination begins. Complete tasks, stay alert, and try to escape alive… before one of you tries to kill the entire crew.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4183320/cde6ddb6f0bb7c267d1e04eb6b3b02e7c8666829/ss_cde6ddb6f0bb7c267d1e04eb6b3b02e7c8666829.1920x1080.jpg?t=1765883608",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
       "id": 4100390,
       "name": "Pakku Pony",
       "description": "Pakku Pony is a 2D virtual pet simulator where you raise your own pony! It’s a chill point-and-click game where you take care of your little garden, cook delicious dishes and relax with fun minigames. Oh, and don’t forget to look stylish with cosmetics and customization options!",
@@ -254,15 +308,6 @@
       "score": 8
     },
     {
-      "id": 3778400,
-      "name": "Master of the Mow",
-      "description": "Become the Master of the Mow. Cut grass, clear trash, and uncover buried treasures across the overgrown grounds of an old manor estate. Upgrade your tools and grow stronger with each trinket you sell and solve the mystery of why the grass grows back every morning. Can you finish it all in one day?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778400/c1db4aaf7305035dd77e2d3077d439f69ffb243f/ss_c1db4aaf7305035dd77e2d3077d439f69ffb243f.1920x1080.jpg?t=1790786166",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 3647660,
       "name": "Mech Assembler: Model Kit builder Simulator",
       "description": "Welcome to Mech Assembler, a relaxing puzzle game inspired by model kit (Gunpla) construction. You'll experience the relaxing process of building a model. Once assembled, you can paint it with Spry. Earn points based on your accuracy and unlock new elements.",
@@ -290,15 +335,6 @@
       "score": 8
     },
     {
-      "id": 3403560,
-      "name": "Tiny Tree Talk",
-      "description": "Grow and shape bonsai trees, build tiny dioramas, and find a new sense of belonging on TinyTreeTalk - a wholesome bonsai internet forum. Enjoy full sandbox freedom or bring requests to life as you grow your reputation, unlock new props, and enjoy chill lofi beats and a nostalgic mid-2000s Japan.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403560/e4acdb310faaee7fafa477a90a18fcbae8c0a531/ss_e4acdb310faaee7fafa477a90a18fcbae8c0a531.1920x1080.jpg?t=1793095135",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 1975380,
       "name": "Kaiju Catastrophe",
       "description": "Crush, smash, and eat thousands of enemies showing humanity what the meaning of destruction is! Kaiju Catastrophe is an arcade game with roguelite mechanics. Mutate devastating weapons, unlock permanent evolutions, and wreak havoc with a variety of monsters to tear humanity apart!",
@@ -317,10 +353,28 @@
       "score": 8
     },
     {
+      "id": 4665270,
+      "name": "Cosmic Crumbs: Bakery Simulator",
+      "description": "Build and run your own bakery in space as orders start stacking up. Keep the machines moving, prepare sweet treats, manage your robot helpers, and turn your little shop into the galaxy’s busiest bakery — solo or with friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665270/c388aad275d0470aaa23a19c7e81c8405b4b7e00/ss_c388aad275d0470aaa23a19c7e81c8405b4b7e00.1920x1080.jpg?t=1793178283",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 4644500,
+      "name": "Fearless Crew",
+      "description": "Fearless Crew is a monster-hunter co-op game where you and up to 3 friends hunt monsters and bring them back to the ship. Each monster is caught in a unique way, with different tools - so be smart about what items you use and when. Even you might get caught off guard by the very tools you use",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644500/a7fb15d875ab42a1b2af22987b58fcb2ebeba23b/ss_a7fb15d875ab42a1b2af22987b58fcb2ebeba23b.1920x1080.jpg?t=1792605921",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
       "id": 4544990,
       "name": "DeckDEX - TCG Live Simulator",
       "description": "Buy low, read the room, flip it. DeckDEX is a card-flipping market tycoon: hunt underpriced cards on a live player economy, rip packs, forge duplicates into rarities, complete sets, and build a cardboard empire.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544990/da694f22f7d01c8c0838e2308af6de36f47d0182/ss_da694f22f7d01c8c0838e2308af6de36f47d0182.1920x1080.jpg?t=1792459318",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544990/da694f22f7d01c8c0838e2308af6de36f47d0182/ss_da694f22f7d01c8c0838e2308af6de36f47d0182.1920x1080.jpg?t=1794277055",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 7
@@ -369,6 +423,69 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 7
+    },
+    {
+      "id": 4708660,
+      "name": "Mushrooms vs Engineers",
+      "description": "Mushrooms vs Engineers is a top-down bullet heaven/hell where you are The Engineer, armed with your trusty nail-gun battle the hordes of Mushrooms over 20 waves until you face the final boss. The enemies you face are affected by your own choice of upgrades in the shop.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708660/f779b0b8bc1b0a579e0cf9175129ec32106cb416/ss_f779b0b8bc1b0a579e0cf9175129ec32106cb416.1920x1080.jpg?t=1790322120",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4669050,
+      "name": "Get Stoned",
+      "description": "Get Stoned is an incremental tower defense game where players design their own bullet loadouts. Gather resources, unlock unique boulders, and discover game-breaking synergies while defending your castle. It's time for everything to get stoned!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669050/a1859101bf52b75dfd3e6a96df58ca8c5b99360e/ss_a1859101bf52b75dfd3e6a96df58ca8c5b99360e.1920x1080.jpg?t=1791751943",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4657930,
+      "name": "Dwarven Shift 98",
+      "description": "Dwarven Shift 98 is an incremental mining game in short timed shifts. Break rock walls layer by layer, each richer than the last, and fill the screen with an explosion of ore and gems.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657930/2861e96abd2539b9eaf52c98c1960d9d50599a21/ss_2861e96abd2539b9eaf52c98c1960d9d50599a21.1920x1080.jpg?t=1792956296",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4645990,
+      "name": "Block Machine",
+      "description": "Block Machine is an elimination-style Roguelike game inspired by Tetris and slot machines. Pull down the lever. You will complete the elimination through random choices again and again, obtaining more items and achieving higher scores.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645990/0a3b774b0177a42265caf86435ecbd44e441fc49/ss_0a3b774b0177a42265caf86435ecbd44e441fc49.1920x1080.jpg?t=1784560138",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4642090,
+      "name": "Urban Feather",
+      "description": "Urban Feather is a local co-op digital tabletop game for 1-4 players about avian migration. Navigate a procedurally generated city, manage environmental hazards, and learn real-world strategies to prevent bird-window collisions.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642090/3d0579f98d1526bfd5e1af61243f63e5e3c122d3/ss_3d0579f98d1526bfd5e1af61243f63e5e3c122d3.1920x1080.jpg?t=1777043099",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 4641990,
+      "name": "Blokour",
+      "description": "Jump, build and fight through the dungeons of Blokour! In this puzzle platformer, you place and break blocks whilst solving puzzles and dodging dangerous traps. Featuring 125 levels, 4 boss fights and more than 60 different types of blocks, you'll venture through a wide range of exciting challenges.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641990/35be58675b83f647a939c375f2a2e7950f05074a/ss_35be58675b83f647a939c375f2a2e7950f05074a.1920x1080.jpg?t=1793971168",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4639450,
+      "name": "CandyPop",
+      "description": "The Great Sweet Battle Begins! &quot;CandyPop&quot; is a confectionery war set in the Land of Sweets! A top-down, all-direction chaotic battle shooting action game! Are you ready?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639450/1ffbe6ec593646d372ad4831bfff4628db78dee6/ss_1ffbe6ec593646d372ad4831bfff4628db78dee6.1920x1080.jpg?t=1782658384",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 4616970,
@@ -420,123 +537,6 @@
       "name": "Rummy Attack",
       "description": "&quot;Rummy Attack&quot; is a unique Roguelite Card Battler based on Rummy rules! Place cards on the field to create &quot;Melds&quot; (Sets or Runs) to unleash skills. Build your deck and overcome physical gimmicks like ground fissures to defeat the final boss. Choose between Tactical Move or High-Speed Time Mode!",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553270/7c3e9cd7bc7d0bca0a44e657bb22e66fbeda0330/ss_7c3e9cd7bc7d0bca0a44e657bb22e66fbeda0330.1920x1080.jpg?t=1781933735",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4462250,
-      "name": "Slime Game",
-      "description": "Slime Game is a retro rage platformer for the modern day! Run and jump through over 70 levels, all while collecting power-ups, stomping enemies, and finding hidden collectibles.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4462250/4614ad3908471fe306483989baa107e07152d81b/ss_4614ad3908471fe306483989baa107e07152d81b.1920x1080.jpg?t=1776817125",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4426150,
-      "name": "Gobelinus: The Cursed Deck",
-      "description": "Gobelinus: The Cursed Deck is a dark fantasy roguelike deckbuilder where a debt‑ridden goblin builds cursed card hands to survive. Equip bizarre relics and trigger outrageous score combos to defeat relentless monsters in each run.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426150/fb031d960e74be229592378648b57dbf67429fc0/ss_fb031d960e74be229592378648b57dbf67429fc0.1920x1080.jpg?t=1771316886",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4423230,
-      "name": "Watch Out: Shark!",
-      "description": "Survive in the ocean by feeding on smaller fish, dodging predators, and facing various dangers in this relaxing, challenging, and super fun retro arcade game—all hand-drawn in pixel art style. Dive into this adventure solo or in multiplayer mode. But remember: watch out for the shark!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423230/2a85a067232c809f4b21117932731680263bb1c9/ss_2a85a067232c809f4b21117932731680263bb1c9.1920x1080.jpg?t=1790683926",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4422810,
-      "name": "Slimestronauts: Burst Strike",
-      "description": "A Sci-fi Falling Block and Color Matching in Space with Slimes! Slimestronauts: Burst Strike demands you keep cool under pressure just like the good old days! Unlike the good old days; there Obstacles, Enemies, to overcome, help of Ability Enhancing PWUPS, and even Custom Game Mode!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4422810/f61edf5e3874da4f07409b2fd8410d269435018d/ss_f61edf5e3874da4f07409b2fd8410d269435018d.1920x1080.jpg?t=1792517903",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4317210,
-      "name": "Quest for Choices: Ivan's Tale",
-      "description": "✦Quest for Choices: Ivan's Tale is a choice-driven visual novel. The story mainly follows a Slavic white mouse named &quot;Ivan Viktorovich Belyaev&quot; and its VR memory recordings in the United States.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317210/818b3b1e0786a4959dd6f35d35059574a74f9aaf/ss_818b3b1e0786a4959dd6f35d35059574a74f9aaf.1920x1080.jpg?t=1793172960",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4307570,
-      "name": "PERFECT SNAP: Ultimate Jigsaw Puzzles",
-      "description": "Turn any image into a 3D jigsaw puzzle! Solve solo or with friends (co-op &amp; PvP), display your masterpieces in a customizable 3D museum, and visit everyone else's. Personalize your character and take on the 100-level campaign, from easy puzzles all the way to 1000 pieces.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4307570/94560c057b11035024871fdf6e881c872a3c649a/ss_94560c057b11035024871fdf6e881c872a3c649a.1920x1080.jpg?t=1788471035",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4303550,
-      "name": "Carbon Compliance",
-      "description": "A simulation game about experiencing the very mundane job of a government official, rummaging through paperwork. Make sure all the paperwork is free of any errors. Deny applications that are not up to the specified requirements. Bored of working, play mini-games to relieve stress.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303550/b90b15ea0cf29d7aa3d1cebed226854beef7c789/ss_b90b15ea0cf29d7aa3d1cebed226854beef7c789.1920x1080.jpg?t=1794253563",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 4278030,
-      "name": "Soundscapes",
-      "description": "Soundscapes is an interactive music sandbox where your songs shape the world around you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278030/335015a997474d8b094340e19ef66ed719384946/ss_335015a997474d8b094340e19ef66ed719384946.1920x1080.jpg?t=1789426953",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4262590,
-      "name": "Loafing Dungeon",
-      "description": "Loafing Dungeon is a fully automatic desktop idle game. Build your hero team on the desktop, equip them with gear and skills, and then launch the adventure on auto-pilot. The game runs continuously in the background, ensuring your progression and rewards are always fight, whether you're busy or free",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262590/1319bbde968d2d12a6e9494857413a8b9b8fd431/ss_1319bbde968d2d12a6e9494857413a8b9b8fd431.1920x1080.jpg?t=1792139927",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4157420,
-      "name": "Deep Hunger",
-      "description": "A short incremental game about cleaning the ocean, and feeding the insatiable hunger of a deep sea creature.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4157420/c170fb4c6c28b144b92ce431903dce5c4b4fcb4a/ss_c170fb4c6c28b144b92ce431903dce5c4b4fcb4a.1920x1080.jpg?t=1792378815",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 3773720,
-      "name": "SlopTuber Simulator",
-      "description": "SlopTuber Simulator is a short incremental adventure about filling the internet with worthless video content for fun and profit (Mostly for profit)! ",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3773720/09b67469e05f45acdad10ad2854169bbca5917ca/ss_09b67469e05f45acdad10ad2854169bbca5917ca.1920x1080.jpg?t=1787243669",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 3582480,
-      "name": "Goop Up!",
-      "description": "A vibrant and mysterious world filled with enchanted hats, oozing clumps of slime, hidden pathways, and a terrible king. Follow the trail of adventure to defeat the king and save the world from his tyrannical rule!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582480/471a267f2cc0dfe0fa85676fd560671886018e03/ss_471a267f2cc0dfe0fa85676fd560671886018e03.1920x1080.jpg?t=1794137356",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3489220,
-      "name": "Kkokko Industry",
-      "description": "Kkokko Industry is a relaxing idle game where you manage a chicken farm. The game runs on one side of your monitor, allowing you to enjoy it comfortably while working on other tasks.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489220/ss_46edb5eef3839742772063e6e933d3a2bf100c49.1920x1080.jpg?t=1793712388",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 6
