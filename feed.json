@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T16:28:25.363Z",
+  "checkedAt": "2026-11-10T21:55:51.835Z",
   "games": [
     {
       "id": 4781710,
@@ -20,6 +20,15 @@
       "score": 9
     },
     {
+      "id": 4325070,
+      "name": "Spray Days",
+      "description": "Paint, restore, and customize worn-out objects in this satisfying spray painting simulator. Complete quirky commissions, upgrade your tools, expand your workshop, and grow your restoration business - solo or with friends in online co-op!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325070/541c478273b290e16a85792a45ba97dae84514e8/ss_541c478273b290e16a85792a45ba97dae84514e8.1920x1080.jpg?t=1792678769",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 9
+    },
+    {
       "id": 4217790,
       "name": "Bird Poo Game",
       "description": "Cause chaos from the sky and profit underground. Drop poop on pedestrians to send them rushing to Bob's laundromat. Collect coins, upgrade machines, unlock explosive abilities, and build a bizarre laundry empire one splat at a time.",
@@ -36,6 +45,60 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 4952640,
+      "name": "OnlyCats",
+      "description": "Pet cats, earn love, buy more cats. OnlyCats is a cozy incremental idle game where hovering over adorable pixel cats fills your coin and love stash. Unlock new cats, grow your collection, and discover more upgrades.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952640/8676672542f53f915862107c0daef37cc9396512/ss_8676672542f53f915862107c0daef37cc9396512.1920x1080.jpg?t=1784101476",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4941720,
+      "name": "Welcome Back to Aeris",
+      "description": "Welcome back to Aeris! A point-and-click psychological horror about reviving a Frutiger Aero minigame console shutting down in 7 days. Restore its dead channels with your guide Mora — and follow the strange traces appearing beyond the screen.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941720/3ad5d83ccc525f0a752f763a6bf1522b703d4b99/ss_3ad5d83ccc525f0a752f763a6bf1522b703d4b99.1920x1080.jpg?t=1793559661",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4933850,
+      "name": "Incremental Garden",
+      "description": "A short incremental game about a magical garden. Grow wonderful flowers, earn money, buy upgrades, and roll the gacha to discover rarer plants! Over 30 unique plants are waiting for you!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933850/2d2bb471a0d1fe99c30e23c55edca732a25232d7/ss_2d2bb471a0d1fe99c30e23c55edca732a25232d7.1920x1080.jpg?t=1792002883",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4928550,
+      "name": "Knights vs. Dinosaurs",
+      "description": "An isometric co-op action romp: charge in as a knight — or a kangaroo — against hordes of hungry dinosaurs. Explore a farm overworld and procedural dungeons, smash barrels for chocolate coins, gear up in the shop, and topple bosses in online co-op. Fast, chaotic, gleefully absurd.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928550/ad8c43a6b9314f51c7b6fe89d47bc01606a6572a/ss_ad8c43a6b9314f51c7b6fe89d47bc01606a6572a.1920x1080.jpg?t=1783579781",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4888080,
+      "name": "5-Star Taxi",
+      "description": "A fast-paced arcade taxi game where time is your greatest enemy - find shortcuts, deliver passengers, tear through a destructible city, escape the police, and earn a perfect 5-star rating before your shift ends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888080/a3e8f1564c1b72b28c3860418e6ebb57cc279172/ss_a3e8f1564c1b72b28c3860418e6ebb57cc279172.1920x1080.jpg?t=1794005357",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4842940,
+      "name": "One Last Draw",
+      "description": "One Last Draw is a thrilling roguelike card game: HIT or STAND? Keep drawing to boost your score, earn money, and discover powerful Cards, Chips, and Items. But the more you draw, the greater the chance of hitting a Bomb Card and losing everything. Score enough to advance!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842940/2ae4aa041e08643e2ef265d900471dc14ace405a/ss_2ae4aa041e08643e2ef265d900471dc14ace405a.1920x1080.jpg?t=1791444348",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
     },
     {
       "id": 4830360,
@@ -92,15 +155,6 @@
       "score": 8
     },
     {
-      "id": 4786400,
-      "name": "Dalam Kelam: The Night Shift",
-      "description": "Welcome to the night shift. Your tasks are simple: follow the nightly janitorial routine and ignore all disturbances. Last seven nights to earn your transfer to headquarters.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786400/30a5911a9f396d0f75b74acb9010c21150c5e31d/ss_30a5911a9f396d0f75b74acb9010c21150c5e31d.1920x1080.jpg?t=1793367208",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4753580,
       "name": "Winds of Bounty",
       "description": "Winds of Bounty is a casual, fast-paced single and network multi player, competitive sailing exploration and treasure hunting game, featuring multiple game modes, including Treasure Hunt, Monster Hunt, Orb Hunt, Race, Arena, and Treasure Gallery!",
@@ -116,15 +170,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752310/b6500b80101369236237ed9b0b07fb53e1a27063/ss_b6500b80101369236237ed9b0b07fb53e1a27063.1920x1080.jpg?t=1793204136",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4703250,
-      "name": "Tiny Patisserie",
-      "description": "Run your own cozy pastry shop. 🍰 Spot what customers are craving, combine and box up sweet treats, and jump into hands-on minigames for every order. Unlock new recipes, upgrade your tools, and grow your tiny shop into a thriving neighborhood favorite.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703250/760a01ee2840c8b87512011fe0339c54cbcafc35/ss_760a01ee2840c8b87512011fe0339c54cbcafc35.1920x1080.jpg?t=1794300387",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -242,15 +287,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408570/63d1dc002e82e919b949e4201c47cf9118ae0f83/ss_63d1dc002e82e919b949e4201c47cf9118ae0f83.1920x1080.jpg?t=1781003579",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4325070,
-      "name": "Spray Days",
-      "description": "Paint, restore, and customize worn-out objects in this satisfying spray painting simulator. Complete quirky commissions, upgrade your tools, expand your workshop, and grow your restoration business - solo or with friends in online co-op!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325070/541c478273b290e16a85792a45ba97dae84514e8/ss_541c478273b290e16a85792a45ba97dae84514e8.1920x1080.jpg?t=1792678769",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -389,10 +425,37 @@
       "score": 8
     },
     {
+      "id": 4945070,
+      "name": "Shenanigans Party",
+      "description": "A chaotic free-for-all party brawler for up to 16 players. Shove, launch and dash rivals off the map across a dozen fast-paced minigames, then roll the dice on the party board between rounds. Cute characters, absurd chaos, zero mercy. Solo with bots or online.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945070/b66ef5a2a369f323cd8382e4924c3dbedaaf26f2/ss_b66ef5a2a369f323cd8382e4924c3dbedaaf26f2.1920x1080.jpg?t=1785505781",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 4926820,
+      "name": "Amara",
+      "description": "Manage and grow your cozy café from scratch in a world full of adorable talking cats. Craft authentic coffee drinks inspired by real barista techniques, upgrade your shop, serve your fluffy customers, and become beloved by all.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926820/d878f8f87b9c95fa94c78dedf80aeb35a3d440bc/ss_d878f8f87b9c95fa94c78dedf80aeb35a3d440bc.1920x1080.jpg?t=1792966767",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 4885020,
+      "name": "RETROBOTS",
+      "description": "The year is 2109, and RETROBOTS is the world's most chaotic sport. Select your Retrobot, customize and tune it to perfection, and enter the battle. Smash, slam, launch, and destroy your opponents in arenas across the world. Are you ready to KICK SOME BOT?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885020/db85acd4d5452251aa356e46d8ee1f187178e819/ss_db85acd4d5452251aa356e46d8ee1f187178e819.1920x1080.jpg?t=1790355801",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
       "id": 4665270,
       "name": "Cosmic Crumbs: Bakery Simulator",
       "description": "Build and run your own bakery in space as orders start stacking up. Keep the machines moving, prepare sweet treats, manage your robot helpers, and turn your little shop into the galaxy’s busiest bakery — solo or with friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665270/c388aad275d0470aaa23a19c7e81c8405b4b7e00/ss_c388aad275d0470aaa23a19c7e81c8405b4b7e00.1920x1080.jpg?t=1793178283",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665270/c388aad275d0470aaa23a19c7e81c8405b4b7e00/ss_c388aad275d0470aaa23a19c7e81c8405b4b7e00.1920x1080.jpg?t=1794341573",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 7
@@ -443,15 +506,6 @@
       "score": 7
     },
     {
-      "id": 4258650,
-      "name": "Appetite for Destruction",
-      "description": "Co-op in a fully destructible world. Meet the quota faster than your friends - or stop them from doing it. Use physics and tools to survive the escalating chaos, or switch to Sandbox mode with no limits.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258650/254994e1c904e6e8e9e36dc04fcc209779afba16/ss_254994e1c904e6e8e9e36dc04fcc209779afba16.1920x1080.jpg?t=1774912198",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
       "id": 4140740,
       "name": "Motorsport Park Manager",
       "description": "Build and customize your own motorsports park in this classic tycoon simulation. Start with local go-kart tracks and grassroots circuits, and grow into a world-renowned racing destination.",
@@ -470,75 +524,21 @@
       "score": 7
     },
     {
-      "id": 4791550,
-      "name": "Cascadral",
-      "description": "Cascadral is a Solitaire Roguelike about offering clever card combinations to demonic spirits. Bend the rules, build game-breaking combos and discover powerful synergies across more than 200 unique cards and abilities. Can you escape this demonic castle?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791550/b9783b643445d6f3f6e7987c61933c1c857a5c5a/ss_b9783b643445d6f3f6e7987c61933c1c857a5c5a.1920x1080.jpg?t=1781305151",
+      "id": 4938370,
+      "name": "Dyping Working: Task Manager",
+      "description": "I, here on the screen, will monitor your work for you. Your work will progress smoothly. If you don't stay focused, I might just play a trick on you. But if you do concentrate... there might be a reward.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938370/76514b061f1954e06e68035db1913bc1716c436e/ss_76514b061f1954e06e68035db1913bc1716c436e.1920x1080.jpg?t=1792635370",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 6
     },
     {
-      "id": 4764860,
-      "name": "BROKEN：Survivors  破界：幸存者",
-      "description": "This is a fast-paced roguelike hack-and-slash game where weapons, characters, and skills can all be developed independently and freely combined to create your very own build!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764860/6181c30021c99ee5803a8f57e55d1a15c098dab7/ss_6181c30021c99ee5803a8f57e55d1a15c098dab7.1920x1080.jpg?t=1794188418",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4708660,
-      "name": "Mushrooms vs Engineers",
-      "description": "Mushrooms vs Engineers is a top-down bullet heaven/hell where you are The Engineer, armed with your trusty nail-gun battle the hordes of Mushrooms over 20 waves until you face the final boss. The enemies you face are affected by your own choice of upgrades in the shop.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708660/f779b0b8bc1b0a579e0cf9175129ec32106cb416/ss_f779b0b8bc1b0a579e0cf9175129ec32106cb416.1920x1080.jpg?t=1790322120",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4669050,
-      "name": "Get Stoned",
-      "description": "Get Stoned is an incremental tower defense game where players design their own bullet loadouts. Gather resources, unlock unique boulders, and discover game-breaking synergies while defending your castle. It's time for everything to get stoned!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669050/a1859101bf52b75dfd3e6a96df58ca8c5b99360e/ss_a1859101bf52b75dfd3e6a96df58ca8c5b99360e.1920x1080.jpg?t=1791751943",
+      "id": 4931930,
+      "name": "Beyond the Bars",
+      "description": "Play as a prisoner, guard, or warden. Scheme, trade, and betray, or lock everything down. In this multiplayer social game of control and escape. The prison is yours to use… or break out of.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931930/d8e7ace1be88fa3f9c7c061582e0a85e07056c21/ss_d8e7ace1be88fa3f9c7c061582e0a85e07056c21.1920x1080.jpg?t=1790550486",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4657930,
-      "name": "Dwarven Shift 98",
-      "description": "Dwarven Shift 98 is an incremental mining game in short timed shifts. Break rock walls layer by layer, each richer than the last, and fill the screen with an explosion of ore and gems.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657930/2861e96abd2539b9eaf52c98c1960d9d50599a21/ss_2861e96abd2539b9eaf52c98c1960d9d50599a21.1920x1080.jpg?t=1792956296",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4645990,
-      "name": "Block Machine",
-      "description": "Block Machine is an elimination-style Roguelike game inspired by Tetris and slot machines. Pull down the lever. You will complete the elimination through random choices again and again, obtaining more items and achieving higher scores.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645990/0a3b774b0177a42265caf86435ecbd44e441fc49/ss_0a3b774b0177a42265caf86435ecbd44e441fc49.1920x1080.jpg?t=1784560138",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4641990,
-      "name": "Blokour",
-      "description": "Jump, build and fight through the dungeons of Blokour! In this puzzle platformer, you place and break blocks whilst solving puzzles and dodging dangerous traps. Featuring 125 levels, 4 boss fights and more than 60 different types of blocks, you'll venture through a wide range of exciting challenges.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641990/35be58675b83f647a939c375f2a2e7950f05074a/ss_35be58675b83f647a939c375f2a2e7950f05074a.1920x1080.jpg?t=1793971168",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4639450,
-      "name": "CandyPop",
-      "description": "The Great Sweet Battle Begins! &quot;CandyPop&quot; is a confectionery war set in the Land of Sweets! A top-down, all-direction chaotic battle shooting action game! Are you ready?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639450/1ffbe6ec593646d372ad4831bfff4628db78dee6/ss_1ffbe6ec593646d372ad4831bfff4628db78dee6.1920x1080.jpg?t=1782658384",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
       "score": 6
     }
   ]
