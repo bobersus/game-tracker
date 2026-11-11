@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T16:31:38.255Z",
+  "checkedAt": "2026-11-11T22:56:55.856Z",
   "games": [
     {
       "id": 4781710,
@@ -9,6 +9,15 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 10
+    },
+    {
+      "id": 5054090,
+      "name": "Space Crawlers",
+      "description": "Clear out space battlefields using a physics-based grappling hook. Salvage wreckage, recycle it into resources, upgrade your equipment, and grow your salvage business to unlock increasingly lucrative contracts.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054090/70eb4d62028cab65a66d728cc7b712186aa3440a/ss_70eb4d62028cab65a66d728cc7b712186aa3440a.1920x1080.jpg?t=1786459332",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 9
     },
     {
       "id": 4325070,
@@ -36,6 +45,33 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5299870,
+      "name": "Sandcastle Kingdom",
+      "description": "A cozy sandbox for building sandcastles. Shape your island, castles and courtyards with dynamic sand. Dig canals, ponds and fill them with realistic water. Decorate your island. Share your home with cute animal friends, help them with their quests and gather around the campfire as the sun goes down.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5299870/9f9aac3ea8b7668033b51b840f45e7e2820022c8/ss_9f9aac3ea8b7668033b51b840f45e7e2820022c8.1920x1080.jpg?t=1794422750",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5258490,
+      "name": "An Eggcellent Sorting Game",
+      "description": "Sort thousands of colorful eggs by matching their patterns in this relaxing organizing game. Turn a giant mess into satisfying order, level up 8 skills, meet quirky characters, and complete quests. No rush, no pressure. Just you and an eggnormous pile of eggs!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5258490/f04b03a6ef1219dc03b6317f72e480f693466a22/ss_f04b03a6ef1219dc03b6317f72e480f693466a22.1920x1080.jpg?t=1794249569",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5251610,
+      "name": "Little Cleaner",
+      "description": "Play as a lonely robot on a deserted Earth in the distant future. Gather garbage, convert it into energy, and plant new life to heal the Planet. A relaxing clean-up and greening game inspired by WALL-E.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5251610/237018029241f3dd79ab41f616fd2fe0e19565f6/ss_237018029241f3dd79ab41f616fd2fe0e19565f6.1920x1080.jpg?t=1791522499",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5243750,
@@ -80,15 +116,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201420/c46389464fd6fff3723be02c8bd3cc22428a3488/ss_c46389464fd6fff3723be02c8bd3cc22428a3488.1920x1080.jpg?t=1792027815",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5187990,
-      "name": "The Royal Restoration Society",
-      "description": "Tidy up a cozy castle, solo or with 3 other friends! Queen Zoe has called upon you to clean and redecorate her family home. Put everything in its rightful place, remove dirt and rubbish, and repair banners and rugs. Go at your own speed or try to beat your best time against your friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5187990/1cc0f4759a26a76faf53aa11ee3de0d9530099ee/ss_1cc0f4759a26a76faf53aa11ee3de0d9530099ee.1920x1080.jpg?t=1794414550",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -137,24 +164,6 @@
       "score": 8
     },
     {
-      "id": 5129150,
-      "name": "Taboo Village: Tokimeki Card Game",
-      "description": "Play a deadly roguelite card game with a mysterious animal-eared girl in your dreams. Build melds, upgrade your cards, gain powerful abilities, and defeat bosses. Lose, and you'll never wake up—but as long as she's there, maybe staying in the dream isn't so bad.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5129150/d0554c6fa6cde5b8f34ba551d1c986bf086ea661/ss_d0554c6fa6cde5b8f34ba551d1c986bf086ea661.1920x1080.jpg?t=1793182153",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5085460,
-      "name": "Anthill Wars: Ant Colony Sim",
-      "description": "Grow an ant colony from a single queen into a thriving empire. Raid rival anthills, steal their brood, and strengthen your colony with captured ants. Defend your territory from giant insects and expand your nest. When the time comes, release a swarm of winged queens and begin again in distant lands.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5085460/3ca36c7c263a8c80927a45dbb72ddc94e8b25d6b/ss_3ca36c7c263a8c80927a45dbb72ddc94e8b25d6b.1920x1080.jpg?t=1788457177",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5080520,
       "name": "Gas Station Simulator",
       "description": "A gas station and convenience store tycoon. Stock shelves, pump fuel, and ring up sales. Grow from a humble roadside stall by pricing stock and unlocking licenses to upgrade your shop. Set out every product by hand, tidy up what customers leave behind, and grow a thriving business.",
@@ -182,15 +191,6 @@
       "score": 8
     },
     {
-      "id": 5054090,
-      "name": "Space Crawlers",
-      "description": "Clear out space battlefields using a physics-based grappling hook. Salvage wreckage, recycle it into resources, upgrade your equipment, and grow your salvage business to unlock increasingly lucrative contracts.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054090/70eb4d62028cab65a66d728cc7b712186aa3440a/ss_70eb4d62028cab65a66d728cc7b712186aa3440a.1920x1080.jpg?t=1786459332",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 5023920,
       "name": "Astrobreaker",
       "description": "Astrobreaker is a short incremental game about making a spaceship faster and more powerful. Mine planets, gather resources, and upgrade your ship.",
@@ -206,15 +206,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992800/31061b25880e1ac1b8470b48fd4ce8bc45ca2252/ss_31061b25880e1ac1b8470b48fd4ce8bc45ca2252.1920x1080.jpg?t=1790611548",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4970800,
-      "name": "Pull the Lever",
-      "description": "Pull the lever, send a tiny train hauling cargo. Click storms and breakdowns mid-run to protect the take. Chase jackpots, hire staff to automate the dull runs, and grow a living model railroad. You won't know the payout until it arrives.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970800/c6e566105d20c93493de20828e1ffcc08a558cdc/ss_c6e566105d20c93493de20828e1ffcc08a558cdc.1920x1080.jpg?t=1793936447",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -263,15 +254,6 @@
       "score": 8
     },
     {
-      "id": 4842940,
-      "name": "One Last Draw",
-      "description": "One Last Draw is a thrilling roguelike card game: HIT or STAND? Keep drawing to boost your score, earn money, and discover powerful Cards, Chips, and Items. But the more you draw, the greater the chance of hitting a Bomb Card and losing everything. Score enough to advance!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842940/2ae4aa041e08643e2ef265d900471dc14ace405a/ss_2ae4aa041e08643e2ef265d900471dc14ace405a.1920x1080.jpg?t=1791444348",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 4830360,
       "name": "Over Package!",
       "description": "Over Package! is a chaotic, physics-based multiplayer party game. Clash with your friends in hilarious arena brawls to deliver cargo. Outsmart rivals with dynamic environmental destruction, leverage chaotic physics, and turn every delivery into absolute combat logistics madness!",
@@ -290,21 +272,12 @@
       "score": 8
     },
     {
-      "id": 4789610,
-      "name": "Unheenged",
-      "description": "Unheenged is a cooperative horror extraction game for you and up to 3 friends. featuring proximity voice chat, scary monsters, multiple items and doors... Lots of doors.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789610/fcf7d3db92722342a5e4e6db84efbad2f6befb26/ss_fcf7d3db92722342a5e4e6db84efbad2f6befb26.1920x1080.jpg?t=1782172350",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
       "id": 4753580,
       "name": "Winds of Bounty",
       "description": "Winds of Bounty is a casual, fast-paced single and network multi player, competitive sailing exploration and treasure hunting game, featuring multiple game modes, including Treasure Hunt, Monster Hunt, Orb Hunt, Race, Arena, and Treasure Gallery!",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753580/ab1946f1ea801e4c946ea56a234e5901c60647a9/ss_ab1946f1ea801e4c946ea56a234e5901c60647a9.1920x1080.jpg?t=1793505872",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
+      "mechanic": "party",
       "score": 8
     },
     {
@@ -362,15 +335,6 @@
       "score": 8
     },
     {
-      "id": 4569890,
-      "name": "Fluffy Spider",
-      "description": "A fluffy spider. Tricky jumps. A web to call home. Explore a colourful 2D platformer, find secret worlds, then build a network of insect traps in your idle hub. Collect silk, unlock talents and characters, and fill your radio with original songs.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569890/02f3ac39e4183c65da02bf2c52a1f5266aa1689d/ss_02f3ac39e4183c65da02bf2c52a1f5266aa1689d.1920x1080.jpg?t=1792845392",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 4569750,
       "name": "Brawling Beetles",
       "description": "Die. Adapt. Fight Back. In this faced-paced top down multiplayer beetle brawler, every death makes you stronger. Choose between abilites, classes and weapons. Battle in matches with up to 4 players, fight PvE enemies, collect loot, and unleash powerful ultimates to claim victory.",
@@ -386,15 +350,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479150/b1e112a49f40afedc3800dd831c2f35e138596e1/ss_b1e112a49f40afedc3800dd831c2f35e138596e1.1920x1080.jpg?t=1794267778",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4474590,
-      "name": "HUSH",
-      "description": "A co-op horror game where you and your friends break into monsters’ homes and wreck their stuff. Smash everything you can and escape the crime scene before they catch you — they hear every sound.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474590/3ea9970b9a65b558d296d8d29daa66ff1f93e63b/ss_3ea9970b9a65b558d296d8d29daa66ff1f93e63b.1920x1080.jpg?t=1775049098",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
       "score": 8
     },
     {
@@ -540,6 +495,51 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
+    },
+    {
+      "id": 5270660,
+      "name": "HOI! あっちむいてロケット",
+      "description": "Lose at &quot;look away&quot; and you become the rocket. Once you're the rocket, crash into another player and pass it on. A party game for up to 4 players. Local, or online with friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270660/380aa25ae7c144c193a404d19c358c005e6d9250/ss_380aa25ae7c144c193a404d19c358c005e6d9250.1920x1080.jpg?t=1791981440",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5272640,
+      "name": "Midnight Callers",
+      "description": "Spend an evening with friends in a regency-esque society with a monstrous twist! Supernatural suitors await a chance for romance, but family secrets, rumors, and your fellow players just might sabotage your prospects before the season comes to an end.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5272640/71cea393313406334bcdade3f3a55c0df5f54ff2/ss_71cea393313406334bcdade3f3a55c0df5f54ff2.1920x1080.jpg?t=1792443272",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5270760,
+      "name": "Tetrilaunch",
+      "description": "An arcade physics puzzle where you aim and fire tetromino shipments into a compacting bay, build full rows, and survive escalating ten-bay runs.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270760/0898bc3a23e8e0e46c9854bef7cbc178562747ad/ss_0898bc3a23e8e0e46c9854bef7cbc178562747ad.1920x1080.jpg?t=1793685902",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5245880,
+      "name": "Wagerborn",
+      "description": "A slot-machine roguelite where your RPG equipment becomes the reel. Equip weapons and relics, manipulate your symbol pool, complete powerful matches, merge gear, and build increasingly broken combinations across each run.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245880/3a36db844dd8343396dba3d6b020406914d842f9/ss_3a36db844dd8343396dba3d6b020406914d842f9.1920x1080.jpg?t=1792606499",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5263400,
+      "name": "Goldgrave",
+      "description": "An incremental auto-battler dungeon crawler where you build a synergized hero to slay hordes and loot gear. Pick a class with its own attack style and learn its skills. Gear up, sweep the gold and descend against floors of enemies, bosses and legendary drops.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5263400/e77a2e57f984c1237d065f508b8a3a9036776a16/ss_e77a2e57f984c1237d065f508b8a3a9036776a16.1920x1080.jpg?t=1793647821",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 5
     }
   ]
 }
