@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T21:55:51.835Z",
+  "checkedAt": "2026-11-11T01:50:14.181Z",
   "games": [
     {
       "id": 4781710,
@@ -9,6 +9,15 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 10
+    },
+    {
+      "id": 5054090,
+      "name": "Space Crawlers",
+      "description": "Clear out space battlefields using a physics-based grappling hook. Salvage wreckage, recycle it into resources, upgrade your equipment, and grow your salvage business to unlock increasingly lucrative contracts.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054090/70eb4d62028cab65a66d728cc7b712186aa3440a/ss_70eb4d62028cab65a66d728cc7b712186aa3440a.1920x1080.jpg?t=1786459332",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 9
     },
     {
       "id": 4765270,
@@ -45,6 +54,69 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5080520,
+      "name": "Gas Station Simulator",
+      "description": "A gas station and convenience store tycoon. Stock shelves, pump fuel, and ring up sales. Grow from a humble roadside stall by pricing stock and unlocking licenses to upgrade your shop. Set out every product by hand, tidy up what customers leave behind, and grow a thriving business.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080520/29e20653694f88ab30f752499377a52587462e37/ss_29e20653694f88ab30f752499377a52587462e37.1920x1080.jpg?t=1793955282",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5060170,
+      "name": "Grape by Grape",
+      "description": "A cozy vineyard idler where your cursor makes vines grow. Turn 14 grape varieties into aged wine, raisins, vinegar and pekmez; automate six connected estate stations and fill customer orders. No frantic clicking, no failure—just one more harvest, bottle and upgrade.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060170/c284de6460608c3d98cf4b1c12bf33bb1779572b/ss_c284de6460608c3d98cf4b1c12bf33bb1779572b.1920x1080.jpg?t=1792944409",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5058560,
+      "name": "Pixel Ping Pong",
+      "description": "A relaxing idle incremental game where you break tiles, earn coins, and upgrade your growing swarm of balls. Aim your shots to speed up your progress, or sit back and let the game play itself.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5058560/ffde3efcc319cae9c6b5004bdcf6870ca691c4b2/ss_ffde3efcc319cae9c6b5004bdcf6870ca691c4b2.1920x1080.jpg?t=1790329899",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5023920,
+      "name": "Astrobreaker",
+      "description": "Astrobreaker is a short incremental game about making a spaceship faster and more powerful. Mine planets, gather resources, and upgrade your ship.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023920/e3b6dd8eb4b8cf9ade5280a4c20280e2a82a4d82/ss_e3b6dd8eb4b8cf9ade5280a4c20280e2a82a4d82.1920x1080.jpg?t=1793205499",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5021350,
+      "name": "Rio Beachside",
+      "description": "Team up with your friends to run a beach tent in Rio de Janeiro! Take orders, prepare food, manage supplies, help beachgoers, and deal with unexpected challenges as you grow your business and keep the beach thriving.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5021350/32591499977d50ef33952e6dabc85af8bb553fa2/ss_32591499977d50ef33952e6dabc85af8bb553fa2.1920x1080.jpg?t=1790764827",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4992800,
+      "name": "ACT OUT",
+      "description": "A chaotic online party game of 3D charades. Grab a floppy puppet, act out your secret word on a live theater stage, and race your friends to guess it before the clock runs out. Push-to-talk voice, custom Workshop maps, and a winner's podium. Best with 3+ friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992800/31061b25880e1ac1b8470b48fd4ce8bc45ca2252/ss_31061b25880e1ac1b8470b48fd4ce8bc45ca2252.1920x1080.jpg?t=1790611548",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4970800,
+      "name": "Pull the Lever",
+      "description": "Pull the lever, send a tiny train hauling cargo. Click storms and breakdowns mid-run to protect the take. Chase jackpots, hire staff to automate the dull runs, and grow a living model railroad. You won't know the payout until it arrives.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970800/c6e566105d20c93493de20828e1ffcc08a558cdc/ss_c6e566105d20c93493de20828e1ffcc08a558cdc.1920x1080.jpg?t=1793936447",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 4952640,
@@ -403,7 +475,7 @@
       "description": "Burger Rush Simulator is a fast food simulator where you manage your fast food restaurant, order supplies, restock containers, take payments at checkout and drive-thru, prepare meals, hire staff, expand your kitchen and dining area, and unlock features like storage and touchscreen checkout.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3621510/77a985b1f797f2861e8434bb68f12eab218e81de/ss_77a985b1f797f2861e8434bb68f12eab218e81de.1920x1080.jpg?t=1788030174",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
+      "mechanic": "incremental",
       "score": 8
     },
     {
@@ -468,78 +540,6 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 7
-    },
-    {
-      "id": 4544990,
-      "name": "DeckDEX - TCG Live Simulator",
-      "description": "Buy low, read the room, flip it. DeckDEX is a card-flipping market tycoon: hunt underpriced cards on a live player economy, rip packs, forge duplicates into rarities, complete sets, and build a cardboard empire.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544990/da694f22f7d01c8c0838e2308af6de36f47d0182/ss_da694f22f7d01c8c0838e2308af6de36f47d0182.1920x1080.jpg?t=1794277055",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 4544450,
-      "name": "Athletics 99",
-      "description": "Run! Jump! Throw! Compete in the Athletics World Cup through 18 different events, and represent your country against worldwide athletes. Who knows, you might even break some World Records...",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544450/0ec705dae79299c10792ef9a5b2ee4859c903ecc/ss_0ec705dae79299c10792ef9a5b2ee4859c903ecc.1920x1080.jpg?t=1794311735",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 4522870,
-      "name": "Islandustry",
-      "description": "Find the best island, outbid your rivals and start exploiting it. Automate your production and watch the market to sell your goods at the right price. Use your profits to buy upgrades and make your production chain even faster.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522870/13427414a0b14c2f01566205638a0c78058aa3df/ss_13427414a0b14c2f01566205638a0c78058aa3df.1920x1080.jpg?t=1775766524",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 4498350,
-      "name": "Slimazing",
-      "description": "Kill slimes. Collect juice. Upgrade your power. Craft potions and defeat elites and bosses in this juicy incremental roguelite.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498350/fc589a4d05a18eec491e7f560c299d7d40ec4ae0/ss_fc589a4d05a18eec491e7f560c299d7d40ec4ae0.1920x1080.jpg?t=1794304254",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 4140740,
-      "name": "Motorsport Park Manager",
-      "description": "Build and customize your own motorsports park in this classic tycoon simulation. Start with local go-kart tracks and grassroots circuits, and grow into a world-renowned racing destination.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140740/c58bbb89da37fec8664bf5f95e422771a6c57a11/ss_c58bbb89da37fec8664bf5f95e422771a6c57a11.1920x1080.jpg?t=1782839560",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 3488740,
-      "name": "Red & Blue",
-      "description": "Play as two housecats causing chaos while their owners are gone! Jump on each other, get chained to each other, and help each other solve color-coded puzzles.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488740/ss_6bb79b8cc49a218fb0508a1079a1cfedacc6c4e3.1920x1080.jpg?t=1774800134",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
-      "id": 4938370,
-      "name": "Dyping Working: Task Manager",
-      "description": "I, here on the screen, will monitor your work for you. Your work will progress smoothly. If you don't stay focused, I might just play a trick on you. But if you do concentrate... there might be a reward.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938370/76514b061f1954e06e68035db1913bc1716c436e/ss_76514b061f1954e06e68035db1913bc1716c436e.1920x1080.jpg?t=1792635370",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4931930,
-      "name": "Beyond the Bars",
-      "description": "Play as a prisoner, guard, or warden. Scheme, trade, and betray, or lock everything down. In this multiplayer social game of control and escape. The prison is yours to use… or break out of.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931930/d8e7ace1be88fa3f9c7c061582e0a85e07056c21/ss_d8e7ace1be88fa3f9c7c061582e0a85e07056c21.1920x1080.jpg?t=1790550486",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 6
     }
   ]
 }
