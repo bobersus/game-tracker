@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T08:27:55.925Z",
+  "checkedAt": "2026-11-11T16:31:38.255Z",
   "games": [
     {
       "id": 4781710,
@@ -9,24 +9,6 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 10
-    },
-    {
-      "id": 5054090,
-      "name": "Space Crawlers",
-      "description": "Clear out space battlefields using a physics-based grappling hook. Salvage wreckage, recycle it into resources, upgrade your equipment, and grow your salvage business to unlock increasingly lucrative contracts.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054090/70eb4d62028cab65a66d728cc7b712186aa3440a/ss_70eb4d62028cab65a66d728cc7b712186aa3440a.1920x1080.jpg?t=1786459332",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 9
-    },
-    {
-      "id": 4765270,
-      "name": "Idiots 4 Order",
-      "description": "Swipe deliveries, scream directions, juggle pizzas and drive like a maniac in this chaotic 2-4 player co-op delivery game. One moped, 4 idiots, infinite chaos.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765270/1c09c4e4b8d6ee3b47f8020fa0b0e019ac6ba906/ss_1c09c4e4b8d6ee3b47f8020fa0b0e019ac6ba906.1920x1080.jpg?t=1794104147",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 9
     },
     {
       "id": 4325070,
@@ -54,6 +36,78 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5243750,
+      "name": "Doug's Playground",
+      "description": "Catch fish, ace the minigames to grade your haul, and turn it into playground parts. Stack them on the ship, send them off, and do it again. Draft charms, hire a crew, and when you sink, spend your prestige tokens and sail once more.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5243750/09b748a4e18fdebaeec2512dc65798ca245df520/ss_09b748a4e18fdebaeec2512dc65798ca245df520.1920x1080.jpg?t=1792911101",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5242180,
+      "name": "Paw Works Co.",
+      "description": "Run your repair shop in a cosy animal neighborhood. Diagnose and repair your customers' broken belongings, and organize your workshop your way. Grow your shop, unlock upgrades like delivery, and manage it all from your computer.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5242180/a82414f15eb20f07c36a3a8daae386bb80b26000/ss_a82414f15eb20f07c36a3a8daae386bb80b26000.1920x1080.jpg?t=1792943353",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5219900,
+      "name": "The First Pixel",
+      "description": "In the beginning there is a white screen and one black pixel. Click it, and it wakes. Grow it into pattern, memory and meaning, hunt 100 lost relics across erased worlds, and discover what a pixel sees once it has gathered everything. A quiet, mysterious incremental.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5219900/42cc1df28e066df2deafa1796f1a764598144001/ss_42cc1df28e066df2deafa1796f1a764598144001.1920x1080.jpg?t=1794395510",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5210210,
+      "name": "KIBA - Kittys Idle Brick Arena",
+      "description": "Let it brick! Mix &amp; match 20 unique balls across 14 Active, Passive, and Clicker slots to trigger massive chain reactions. Earn gold, smash bricks, and trigger prestige for permanent upgrades. Play actively or just sit back and progress idle!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5210210/7d8a271adc6c1500a1cbd962120ee15fec3a1f0a/ss_7d8a271adc6c1500a1cbd962120ee15fec3a1f0a.1920x1080.jpg?t=1790180791",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5201420,
+      "name": "Desktop Arrow Defense",
+      "description": "&quot;Desktop Arrow Defense&quot; is an idle tower defense mini-game that runs on your desktop. It lets you work while watching your tiny archer defend against incoming enemies. Upgrade your character's attributes, collect and enhance equipment, unlock skill combinations, and create your legendary archer!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201420/c46389464fd6fff3723be02c8bd3cc22428a3488/ss_c46389464fd6fff3723be02c8bd3cc22428a3488.1920x1080.jpg?t=1792027815",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5187990,
+      "name": "The Royal Restoration Society",
+      "description": "Tidy up a cozy castle, solo or with 3 other friends! Queen Zoe has called upon you to clean and redecorate her family home. Put everything in its rightful place, remove dirt and rubbish, and repair banners and rugs. Go at your own speed or try to beat your best time against your friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5187990/1cc0f4759a26a76faf53aa11ee3de0d9530099ee/ss_1cc0f4759a26a76faf53aa11ee3de0d9530099ee.1920x1080.jpg?t=1794414550",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5186990,
+      "name": "Edenfinity",
+      "description": "Edenfinity is a relaxing incremental colony game where you guide Adam and Eve as they build a new civilization in Eden. Gather resources, sell your surplus, craft bricks, construct houses, and unlock upgrades.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5186990/77af296ff5c22e43f4ae5f59d74af62a383d3e10/ss_77af296ff5c22e43f4ae5f59d74af62a383d3e10.1920x1080.jpg?t=1790868754",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5182680,
+      "name": "Cash & Stash: A Vaultkeeper Story",
+      "description": "After a failed robbery attempt, the bank has been torn apart and left in complete chaos. Now, as the Vaultkeeper, you must sort through more than 16,000 scattered items, return everything to its proper place, and uncover the stories behind the bank’s clients and their valuables.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5182680/224ba2c0432fd8c5c544653b291bbf64b460de9b/ss_224ba2c0432fd8c5c544653b291bbf64b460de9b.1920x1080.jpg?t=1794267235",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5142650,
@@ -128,19 +182,19 @@
       "score": 8
     },
     {
+      "id": 5054090,
+      "name": "Space Crawlers",
+      "description": "Clear out space battlefields using a physics-based grappling hook. Salvage wreckage, recycle it into resources, upgrade your equipment, and grow your salvage business to unlock increasingly lucrative contracts.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054090/70eb4d62028cab65a66d728cc7b712186aa3440a/ss_70eb4d62028cab65a66d728cc7b712186aa3440a.1920x1080.jpg?t=1786459332",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
       "id": 5023920,
       "name": "Astrobreaker",
       "description": "Astrobreaker is a short incremental game about making a spaceship faster and more powerful. Mine planets, gather resources, and upgrade your ship.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023920/e3b6dd8eb4b8cf9ade5280a4c20280e2a82a4d82/ss_e3b6dd8eb4b8cf9ade5280a4c20280e2a82a4d82.1920x1080.jpg?t=1793205499",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5021350,
-      "name": "Rio Beachside",
-      "description": "Team up with your friends to run a beach tent in Rio de Janeiro! Take orders, prepare food, manage supplies, help beachgoers, and deal with unexpected challenges as you grow your business and keep the beach thriving.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5021350/32591499977d50ef33952e6dabc85af8bb553fa2/ss_32591499977d50ef33952e6dabc85af8bb553fa2.1920x1080.jpg?t=1790764827",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
@@ -227,28 +281,10 @@
       "score": 8
     },
     {
-      "id": 4830270,
-      "name": "Let's make SILLY ART!",
-      "description": "Time to make SILLY ART! Help Charlie rediscover the joy of making art in this cozy and creative point and click. Tidy your house, find inspirations, collect stickers and create authentic artwork to build your portfolio!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830270/ab9406ad9fee5bc9c417094fc79d81ce8e3b7b24/ss_ab9406ad9fee5bc9c417094fc79d81ce8e3b7b24.1920x1080.jpg?t=1793983721",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4825460,
       "name": "Juicy Fugitives",
       "description": "Hunt down the most wanted fruits in this cartoon third-person shooter. Play as a pirate crew framed by a mysterious fire, blast through waves of enemies across 5 kingdoms, and survive slapstick boss fights, solo or in 3 player online co-op.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825460/08900d2e42bdba5ceab999ef10597688e9cf43ac/ss_08900d2e42bdba5ceab999ef10597688e9cf43ac.1920x1080.jpg?t=1792559148",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4797200,
-      "name": "Squabblin Goblins",
-      "description": "A chaotic multiplayer deckbuilding PvP with GOBLINS. Grab items, throw them at your friends, and craft a goblin so broken your friends will hate you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797200/b00e3d99718eeb95d066b043ba180812e9c23935/ss_b00e3d99718eeb95d066b043ba180812e9c23935.1920x1080.jpg?t=1792528345",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 8
@@ -504,42 +540,6 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 3447420,
-      "name": "Marble Run Maker",
-      "description": "Build marble runs in a room with realistic physics. Stack random objects to make a wobbly track and watch the ball roll down! Explore puzzles with unlimited solutions.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447420/ss_eebe2bbb06c203157c4ef82a5c2e4b2715794902.1920x1080.jpg?t=1755195340",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 1244600,
-      "name": "Let's Drive - learn driving simulator",
-      "description": "There are 1.3 billion cars in the world. But how many good drivers are there? Is every one of them trained and competent? Find out while playing Let's Drive, a driving school simulator that shows you hazardous situations on the road and puts you right in them.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244600/ss_6b38012f81589b4ebefea917a73ab1e293f7b11b.1920x1080.jpg?t=1791744637",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5180370,
-      "name": "Qrack",
-      "description": "Qruack turns your desktop into a relaxing duck pond. Work, meet, or space out while your new companions hang out at the bottom of your screen. over 60 ducks will keep you company either way.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5180370/d1f32e46ddf9eb8f34472dbed114b7bc56febe33/ss_d1f32e46ddf9eb8f34472dbed114b7bc56febe33.1920x1080.jpg?t=1788996417",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
-      "id": 5138950,
-      "name": "Volcaris: Ashen Secrets",
-      "description": "A card-based roguelike strategy game set on a volcanic island. Each cycle is a race against time: gather resources, craft equipment, collect artifacts, and build up your settlement for the inevitable eruption.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138950/7347c937cfb651d05c4817350716fc552b848e29/ss_7347c937cfb651d05c4817350716fc552b848e29.1920x1080.jpg?t=1788257904",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 7
     }
   ]
 }
