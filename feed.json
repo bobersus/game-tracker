@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T01:50:14.181Z",
+  "checkedAt": "2026-11-11T08:27:55.925Z",
   "games": [
     {
       "id": 4781710,
@@ -54,6 +54,51 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5142650,
+      "name": "All-in Tide",
+      "description": "Adapt to the ever-changing weather. Learn every cave along the shore. Swing your shovel and dig up whatever the sea has hidden. But never lose sight of your own desires — they can drive you mad, or make you filthy rich.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5142650/d65f2307569b6ef642111960f14ffa3e44343205/ss_d65f2307569b6ef642111960f14ffa3e44343205.1920x1080.jpg?t=1792507175",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5140630,
+      "name": "Over The Gnome!",
+      "description": "Become a giant gnome-crushing boulder. Chase the treasure gnomes, shrink the giant yetis with your shrink ray, grow and improve until you crush them all. Travel through 5 unique worlds, prestige, and unlock permanent talents to become unstoppable.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140630/019018dd639bb0c065c712b9ab9f7241c122ee95/ss_019018dd639bb0c065c712b9ab9f7241c122ee95.1920x1080.jpg?t=1788190195",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5137820,
+      "name": "Pickup Point Chaos",
+      "description": "Run your own pickup point! Receive, scan, sort, and shelve packages. Find customer pickups, then weigh and label outgoing shipments. Carry several boxes to save time, but customers may knock them down. Handle package rain, fragile items, and explosives—and don’t blow up the place!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5137820/b1f4a6734e85c3038a543943f07ba072ec097b1f/ss_b1f4a6734e85c3038a543943f07ba072ec097b1f.1920x1080.jpg?t=1792343748",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5129150,
+      "name": "Taboo Village: Tokimeki Card Game",
+      "description": "Play a deadly roguelite card game with a mysterious animal-eared girl in your dreams. Build melds, upgrade your cards, gain powerful abilities, and defeat bosses. Lose, and you'll never wake up—but as long as she's there, maybe staying in the dream isn't so bad.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5129150/d0554c6fa6cde5b8f34ba551d1c986bf086ea661/ss_d0554c6fa6cde5b8f34ba551d1c986bf086ea661.1920x1080.jpg?t=1793182153",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5085460,
+      "name": "Anthill Wars: Ant Colony Sim",
+      "description": "Grow an ant colony from a single queen into a thriving empire. Raid rival anthills, steal their brood, and strengthen your colony with captured ants. Defend your territory from giant insects and expand your nest. When the time comes, release a swarm of winged queens and begin again in distant lands.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5085460/3ca36c7c263a8c80927a45dbb72ddc94e8b25d6b/ss_3ca36c7c263a8c80927a45dbb72ddc94e8b25d6b.1920x1080.jpg?t=1788457177",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5080520,
@@ -209,15 +254,6 @@
       "score": 8
     },
     {
-      "id": 4791800,
-      "name": "Concerto on White: Bass Hero",
-      "description": "Pick up your keyboard and play it like a real bass! Take on the role of Ostinata, the leader and bassist of the all-girl band Tutti Nova. Strengthen the bonds among the five band members while staying ever ready to fend off bassist jokes, and grow your fan base to perform in larger venues!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4791800/1f91334ec607904d18613133e416beca10dc22f6/ss_1f91334ec607904d18613133e416beca10dc22f6.1920x1080.jpg?t=1791898801",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4789610,
       "name": "Unheenged",
       "description": "Unheenged is a cooperative horror extraction game for you and up to 3 friends. featuring proximity voice chat, scary monsters, multiple items and doors... Lots of doors.",
@@ -242,15 +278,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752310/b6500b80101369236237ed9b0b07fb53e1a27063/ss_b6500b80101369236237ed9b0b07fb53e1a27063.1920x1080.jpg?t=1793204136",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4703240,
-      "name": "Freshly Caught",
-      "description": "Catch fish, arrange your stall, and run a cozy neighborhood fish stand by the water. 🎣 Set up your stall, serve customers by finding the right fish for them, upgrade your gear, and grow your tiny seaside business one catch new and rare fish!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703240/a0663fb428cc065b1b9acefbc771bd82e2064977/ss_a0663fb428cc065b1b9acefbc771bd82e2064977.1920x1080.jpg?t=1793864396",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -497,48 +524,21 @@
       "score": 8
     },
     {
-      "id": 4945070,
-      "name": "Shenanigans Party",
-      "description": "A chaotic free-for-all party brawler for up to 16 players. Shove, launch and dash rivals off the map across a dozen fast-paced minigames, then roll the dice on the party board between rounds. Cute characters, absurd chaos, zero mercy. Solo with bots or online.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945070/b66ef5a2a369f323cd8382e4924c3dbedaaf26f2/ss_b66ef5a2a369f323cd8382e4924c3dbedaaf26f2.1920x1080.jpg?t=1785505781",
+      "id": 5180370,
+      "name": "Qrack",
+      "description": "Qruack turns your desktop into a relaxing duck pond. Work, meet, or space out while your new companions hang out at the bottom of your screen. over 60 ducks will keep you company either way.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5180370/d1f32e46ddf9eb8f34472dbed114b7bc56febe33/ss_d1f32e46ddf9eb8f34472dbed114b7bc56febe33.1920x1080.jpg?t=1788996417",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
+      "mechanic": "physics",
       "score": 7
     },
     {
-      "id": 4926820,
-      "name": "Amara",
-      "description": "Manage and grow your cozy café from scratch in a world full of adorable talking cats. Craft authentic coffee drinks inspired by real barista techniques, upgrade your shop, serve your fluffy customers, and become beloved by all.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926820/d878f8f87b9c95fa94c78dedf80aeb35a3d440bc/ss_d878f8f87b9c95fa94c78dedf80aeb35a3d440bc.1920x1080.jpg?t=1792966767",
+      "id": 5138950,
+      "name": "Volcaris: Ashen Secrets",
+      "description": "A card-based roguelike strategy game set on a volcanic island. Each cycle is a race against time: gather resources, craft equipment, collect artifacts, and build up your settlement for the inevitable eruption.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138950/7347c937cfb651d05c4817350716fc552b848e29/ss_7347c937cfb651d05c4817350716fc552b848e29.1920x1080.jpg?t=1788257904",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 4885020,
-      "name": "RETROBOTS",
-      "description": "The year is 2109, and RETROBOTS is the world's most chaotic sport. Select your Retrobot, customize and tune it to perfection, and enter the battle. Smash, slam, launch, and destroy your opponents in arenas across the world. Are you ready to KICK SOME BOT?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885020/db85acd4d5452251aa356e46d8ee1f187178e819/ss_db85acd4d5452251aa356e46d8ee1f187178e819.1920x1080.jpg?t=1790355801",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 4665270,
-      "name": "Cosmic Crumbs: Bakery Simulator",
-      "description": "Build and run your own bakery in space as orders start stacking up. Keep the machines moving, prepare sweet treats, manage your robot helpers, and turn your little shop into the galaxy’s busiest bakery — solo or with friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665270/c388aad275d0470aaa23a19c7e81c8405b4b7e00/ss_c388aad275d0470aaa23a19c7e81c8405b4b7e00.1920x1080.jpg?t=1794341573",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 4644500,
-      "name": "Fearless Crew",
-      "description": "Fearless Crew is a monster-hunter co-op game where you and up to 3 friends hunt monsters and bring them back to the ship. Each monster is caught in a unique way, with different tools - so be smart about what items you use and when. Even you might get caught off guard by the very tools you use",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644500/a7fb15d875ab42a1b2af22987b58fcb2ebeba23b/ss_a7fb15d875ab42a1b2af22987b58fcb2ebeba23b.1920x1080.jpg?t=1792605921",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
       "score": 7
     }
   ]
