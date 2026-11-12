@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T22:56:55.856Z",
+  "checkedAt": "2026-11-12T03:44:16.673Z",
   "games": [
     {
       "id": 4781710,
@@ -9,6 +9,24 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 10
+    },
+    {
+      "id": 5370810,
+      "name": "The King Must Grow",
+      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 9
+    },
+    {
+      "id": 5351570,
+      "name": "Elf in Training",
+      "description": "Elf in Training is a chaotic couch co-op game where Santa’s newest recruits sneak into homes to deliver presents, eat cookies, and stuff stockings. Dodge angry parents and Christmas folklore creatures as you race to finish each delivery and earn your place as one of Santa’s elves!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351570/5ec8abc66e1f6099a00001a9c2cf6ab52abd866c/ss_5ec8abc66e1f6099a00001a9c2cf6ab52abd866c.1920x1080.jpg?t=1794204569",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 9
     },
     {
       "id": 5054090,
@@ -45,6 +63,87 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5403980,
+      "name": "Bondoq: Desktop Gunners",
+      "description": "Collect, trade, and build your team of Gunners! Discover heroes with unique weapons and effects, and hunt for rare items. Watch the battles unfold automatically on your desktop!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403980/605ab369e2a6b39a8f548f4e2a375d2beac9d261/ss_605ab369e2a6b39a8f548f4e2a375d2beac9d261.1920x1080.jpg?t=1792565841",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5397130,
+      "name": "Next, Million Worlds",
+      "description": "Expand your civilization to an empire of a million worlds. Balance production and logistics, experiment with economy mods, but don't sweat it. This is the age of expansion; growth is inevitable. This is a relaxed incremental experience where you can optimize and experiment, but you can't lose.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397130/5e036fabd5e42417943742d667bd177d4995bce6/ss_5e036fabd5e42417943742d667bd177d4995bce6.1920x1080.jpg?t=1792663340",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5391750,
+      "name": "Boomside",
+      "description": "Minesweeper, but you score. Every square hides a house, a signal tower, a street tree, a power plant or a gas main, and every one leaves a hint. Dig for points, stack multipliers, hire helpers that bend the rules, and secure eight key sites in this roguelike city-building puzzle.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391750/573d1ee4fde30c3f927c156a646be4154741c5d9/ss_573d1ee4fde30c3f927c156a646be4154741c5d9.1920x1080.jpg?t=1791717745",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5364490,
+      "name": "Oh Sheep! It's UFO",
+      "description": "Hop aboard your UFO, abduct sheep from Earth and bring them back to your home planet! Collect upgrades along the way, and don’t forget to get some help from your trusty dog friends!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5364490/9d31616b5cc4024aaf9bb5c1df376f17a7abe508/ss_9d31616b5cc4024aaf9bb5c1df376f17a7abe508.1920x1080.jpg?t=1793604982",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5353530,
+      "name": "AlpineFall",
+      "description": "You came to learn to ski. The mountain had other plans. AlpineFall is a cinematic skiing adventure where you carve, jump, race and explore Mount Oread while uncovering the story buried beneath its snow.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5353530/3228ed15afceef244b3132cd24f0d7c5260fa0e5/ss_3228ed15afceef244b3132cd24f0d7c5260fa0e5.1920x1080.jpg?t=1794036451",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5327220,
+      "name": "Tiny Vessel",
+      "description": "A companion idle ARPG that lives beside whatever you are doing. A tiny crew of crash-landed survivors fights along an alien walkway while you work: real loot, a Relay to grow the vessel, depths that demand better gear. Progress keeps going while you are away.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5327220/42864045135ca337387c43615d6b26ebfdc41c95/ss_42864045135ca337387c43615d6b26ebfdc41c95.1920x1080.jpg?t=1792951429",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5325510,
+      "name": "Festival Fireworks Simulator",
+      "description": "Whenever you want fireworks, the night sky is ready. Click to launch a burst, write a wish across the sky, or build a whole show from the very first shell. Holidays, birthdays and ordinary evenings all deserve a fireworks show.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325510/c8e9b5c6f8ddbf5f62db06883c6f14e7b8004562/ss_c8e9b5c6f8ddbf5f62db06883c6f14e7b8004562.1920x1080.jpg?t=1792632691",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5307740,
+      "name": "Clean 'Em Ocean",
+      "description": "An incremental game about cleaning the ocean with a speedboat, unlocking upgrades, and cleaning more trash. Will you save the ocean?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307740/e2aafa88bbcb76c8456310062ce386c3e3c5d5e0/ss_e2aafa88bbcb76c8456310062ce386c3e3c5d5e0.1920x1080.jpg?t=1792897901",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5305270,
+      "name": "Letters from the Springs",
+      "description": "Run a cozy hot spring inn in a mountain valley. Read guest letters, plan menus, prepare tea and baths, and grow your own ingredients. Get to know your travelers, balance the books, and help your little inn flourish, one thoughtful stay at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5305270/368652550ae9ac738a489d57295a6ce206a1b6a1/ss_368652550ae9ac738a489d57295a6ce206a1b6a1.1920x1080.jpg?t=1793589452",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5299870,
@@ -218,30 +317,12 @@
       "score": 8
     },
     {
-      "id": 4941720,
-      "name": "Welcome Back to Aeris",
-      "description": "Welcome back to Aeris! A point-and-click psychological horror about reviving a Frutiger Aero minigame console shutting down in 7 days. Restore its dead channels with your guide Mora — and follow the strange traces appearing beyond the screen.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941720/3ad5d83ccc525f0a752f763a6bf1522b703d4b99/ss_3ad5d83ccc525f0a752f763a6bf1522b703d4b99.1920x1080.jpg?t=1793559661",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4933850,
       "name": "Incremental Garden",
       "description": "A short incremental game about a magical garden. Grow wonderful flowers, earn money, buy upgrades, and roll the gacha to discover rarer plants! Over 30 unique plants are waiting for you!",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933850/2d2bb471a0d1fe99c30e23c55edca732a25232d7/ss_2d2bb471a0d1fe99c30e23c55edca732a25232d7.1920x1080.jpg?t=1792002883",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4928550,
-      "name": "Knights vs. Dinosaurs",
-      "description": "An isometric co-op action romp: charge in as a knight — or a kangaroo — against hordes of hungry dinosaurs. Explore a farm overworld and procedural dungeons, smash barrels for chocolate coins, gear up in the shop, and topple bosses in online co-op. Fast, chaotic, gleefully absurd.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928550/ad8c43a6b9314f51c7b6fe89d47bc01606a6572a/ss_ad8c43a6b9314f51c7b6fe89d47bc01606a6572a.1920x1080.jpg?t=1783579781",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
       "score": 8
     },
     {
@@ -277,7 +358,7 @@
       "description": "Winds of Bounty is a casual, fast-paced single and network multi player, competitive sailing exploration and treasure hunting game, featuring multiple game modes, including Treasure Hunt, Monster Hunt, Orb Hunt, Race, Arena, and Treasure Gallery!",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753580/ab1946f1ea801e4c946ea56a234e5901c60647a9/ss_ab1946f1ea801e4c946ea56a234e5901c60647a9.1920x1080.jpg?t=1793505872",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -459,87 +540,6 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 3950720,
-      "name": "Wander Her Way VR",
-      "description": "Explore incredible interactive locations with your gorgeous companion. A sandbox VR experience with mini-games. Shoot enemies, destroy objects, drive a car, dance with an amazing girl, defend a tower, catch mischievous kittens, watch a fireworks show. Realistic female character, advanced physics",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3950720/8539f0d3e6a35c9d4725d42cbf303dc9433dc083/ss_8539f0d3e6a35c9d4725d42cbf303dc9433dc083.1920x1080.jpg?t=1794236615",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 3838640,
-      "name": "Joaquin Simulator",
-      "description": "Help retiree Joaquin on his road trip through Brazil. It's a 2000 km journey full of challenges, and nothing is simple in Brazil. You must eat, drink, smoke, earn money, deal with corrupt cops, all to reach a party to save democracy in Brazil.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838640/f77a08f8bd27e0d42bdfa012aecadf4e3a311870/ss_f77a08f8bd27e0d42bdfa012aecadf4e3a311870.1920x1080.jpg?t=1787071788",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 3647660,
-      "name": "Mech Assembler: Model Kit builder Simulator",
-      "description": "Welcome to Mech Assembler, a relaxing puzzle game inspired by model kit (Gunpla) construction. You'll experience the relaxing process of building a model. Once assembled, you can paint it with Spry. Earn points based on your accuracy and unlock new elements.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3647660/d7271f964ea7587a075df747a52902957a0db978/ss_d7271f964ea7587a075df747a52902957a0db978.1920x1080.jpg?t=1787013046",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 3621510,
-      "name": "Burger Rush Simulator",
-      "description": "Burger Rush Simulator is a fast food simulator where you manage your fast food restaurant, order supplies, restock containers, take payments at checkout and drive-thru, prepare meals, hire staff, expand your kitchen and dining area, and unlock features like storage and touchscreen checkout.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3621510/77a985b1f797f2861e8434bb68f12eab218e81de/ss_77a985b1f797f2861e8434bb68f12eab218e81de.1920x1080.jpg?t=1788030174",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5270660,
-      "name": "HOI! あっちむいてロケット",
-      "description": "Lose at &quot;look away&quot; and you become the rocket. Once you're the rocket, crash into another player and pass it on. A party game for up to 4 players. Local, or online with friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270660/380aa25ae7c144c193a404d19c358c005e6d9250/ss_380aa25ae7c144c193a404d19c358c005e6d9250.1920x1080.jpg?t=1791981440",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5272640,
-      "name": "Midnight Callers",
-      "description": "Spend an evening with friends in a regency-esque society with a monstrous twist! Supernatural suitors await a chance for romance, but family secrets, rumors, and your fellow players just might sabotage your prospects before the season comes to an end.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5272640/71cea393313406334bcdade3f3a55c0df5f54ff2/ss_71cea393313406334bcdade3f3a55c0df5f54ff2.1920x1080.jpg?t=1792443272",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5270760,
-      "name": "Tetrilaunch",
-      "description": "An arcade physics puzzle where you aim and fire tetromino shipments into a compacting bay, build full rows, and survive escalating ten-bay runs.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270760/0898bc3a23e8e0e46c9854bef7cbc178562747ad/ss_0898bc3a23e8e0e46c9854bef7cbc178562747ad.1920x1080.jpg?t=1793685902",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5245880,
-      "name": "Wagerborn",
-      "description": "A slot-machine roguelite where your RPG equipment becomes the reel. Equip weapons and relics, manipulate your symbol pool, complete powerful matches, merge gear, and build increasingly broken combinations across each run.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245880/3a36db844dd8343396dba3d6b020406914d842f9/ss_3a36db844dd8343396dba3d6b020406914d842f9.1920x1080.jpg?t=1792606499",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5263400,
-      "name": "Goldgrave",
-      "description": "An incremental auto-battler dungeon crawler where you build a synergized hero to slay hordes and loot gear. Pick a class with its own attack style and learn its skills. Gear up, sweep the gold and descend against floors of enemies, bosses and legendary drops.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5263400/e77a2e57f984c1237d065f508b8a3a9036776a16/ss_e77a2e57f984c1237d065f508b8a3a9036776a16.1920x1080.jpg?t=1793647821",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 5
     }
   ]
 }
