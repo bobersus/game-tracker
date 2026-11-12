@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T03:44:16.673Z",
+  "checkedAt": "2026-11-12T11:54:23.684Z",
   "games": [
     {
       "id": 4781710,
@@ -9,24 +9,6 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 10
-    },
-    {
-      "id": 5370810,
-      "name": "The King Must Grow",
-      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 9
-    },
-    {
-      "id": 5351570,
-      "name": "Elf in Training",
-      "description": "Elf in Training is a chaotic couch co-op game where Santa’s newest recruits sneak into homes to deliver presents, eat cookies, and stuff stockings. Dodge angry parents and Christmas folklore creatures as you race to finish each delivery and earn your place as one of Santa’s elves!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351570/5ec8abc66e1f6099a00001a9c2cf6ab52abd866c/ss_5ec8abc66e1f6099a00001a9c2cf6ab52abd866c.1920x1080.jpg?t=1794204569",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 9
     },
     {
       "id": 5054090,
@@ -47,15 +29,6 @@
       "score": 9
     },
     {
-      "id": 4217790,
-      "name": "Bird Poo Game",
-      "description": "Cause chaos from the sky and profit underground. Drop poop on pedestrians to send them rushing to Bob's laundromat. Collect coins, upgrade machines, unlock explosive abilities, and build a bizarre laundry empire one splat at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217790/0ca2f3666440aac0221f2178b094f1eefb349f1c/ss_0ca2f3666440aac0221f2178b094f1eefb349f1c.1920x1080.jpg?t=1792638894",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 9
-    },
-    {
       "id": 1595160,
       "name": "Radioactivity",
       "description": "Radioactivity is a co-op survival horror. You are a Liquidator! Together or alone, help your state clean up post-apocalyptic radioactive wilderness. Plan each deployment, fight radiation spread and the creatures that it produces. Together, make WEA flourish once more!",
@@ -63,6 +36,60 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5521470,
+      "name": "Needle in a Haystack Simulator in a Haystack of Needle in a Haystack Simulators",
+      "description": "5,000,000 games on VAPOR, and all but one are clones. From your bedroom PC, screen procedurally generated store pages, stamp each fake on the detail that gives it away, put bots to work, and dig through the haystack for the one original. An incremental hidden object parody.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5521470/ab6a8daaf8a65c35f0638d47050e343ac0fc9da2/ss_ab6a8daaf8a65c35f0638d47050e343ac0fc9da2.1920x1080.jpg?t=1793795643",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5476070,
+      "name": "Bingolazo",
+      "description": "A colorful bingo roguelite. Pick which balls to call, mark your cards and chain lines, diagonals and full cards into huge scores. Collect lucky charms that bend the rules, play legendary balls like Saturn and beat the club's bosses, in endless runs or the story mode.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5476070/1c6e413c4da4b88525464e8e90d9807a36d95611/ss_1c6e413c4da4b88525464e8e90d9807a36d95611.1920x1080.jpg?t=1794448725",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5474950,
+      "name": "FX WARRIOR",
+      "description": "FX Warrior is a story-driven simulation game blending forex trading with work life. To save enough to move out, choose between part-time jobs and leveraged trading, face market swings and losses exceeding your balance, and reach your own ending!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5474950/71320c56006bc3ac8f40880b4d67dd4e9c0e8dca/ss_71320c56006bc3ac8f40880b4d67dd4e9c0e8dca.1920x1080.jpg?t=1792623984",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5446200,
+      "name": "A Game About Bees, Flowers and Vacuum",
+      "description": "A first-person petal-gathering game: a million flowers, hundreds of oversized bees and one vacuum. Knock petals loose with your fists, a knife and a bat, vacuum them up, and send the bees out to help. Sell the haul, upgrade your tools and bees, and climb the valley one color at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446200/8e6e5151c43e88d6931e66fe722166a285f3513b/ss_8e6e5151c43e88d6931e66fe722166a285f3513b.1920x1080.jpg?t=1792346142",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5442080,
+      "name": "The Gigglebone Gang: Pantsylvania",
+      "description": "The Gigglebone Gang returns! In Pantsylvania, everybody's pants are serious business. Join the Gigglebone Gang across ten locales and 50 activities — sing-along songs, hidden-object hunts, silly science and interactive stories — in this fully restored 1995 point-and-click edutainment classic.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442080/626f10728edd1473446a870d5c10c4de6ba87019/ss_626f10728edd1473446a870d5c10c4de6ba87019.1920x1080.jpg?t=1793060584",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5414920,
+      "name": "Sort of the Apocalypse",
+      "description": "The world ended. The mess didn’t. Sort over 10,000 scavenged supplies in a cozy first-person organizing game. Transform a cluttered bunker into satisfyingly stocked shelves, earn credits, and unlock upgrades to tackle the mountain of mess.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5414920/4e3262654cfd0b1faea543c4383afb140e0402ad/ss_4e3262654cfd0b1faea543c4383afb140e0402ad.1920x1080.jpg?t=1794281804",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5403980,
@@ -83,30 +110,12 @@
       "score": 8
     },
     {
-      "id": 5391750,
-      "name": "Boomside",
-      "description": "Minesweeper, but you score. Every square hides a house, a signal tower, a street tree, a power plant or a gas main, and every one leaves a hint. Dig for points, stack multipliers, hire helpers that bend the rules, and secure eight key sites in this roguelike city-building puzzle.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391750/573d1ee4fde30c3f927c156a646be4154741c5d9/ss_573d1ee4fde30c3f927c156a646be4154741c5d9.1920x1080.jpg?t=1791717745",
+      "id": 5370810,
+      "name": "The King Must Grow",
+      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5364490,
-      "name": "Oh Sheep! It's UFO",
-      "description": "Hop aboard your UFO, abduct sheep from Earth and bring them back to your home planet! Collect upgrades along the way, and don’t forget to get some help from your trusty dog friends!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5364490/9d31616b5cc4024aaf9bb5c1df376f17a7abe508/ss_9d31616b5cc4024aaf9bb5c1df376f17a7abe508.1920x1080.jpg?t=1793604982",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5353530,
-      "name": "AlpineFall",
-      "description": "You came to learn to ski. The mountain had other plans. AlpineFall is a cinematic skiing adventure where you carve, jump, race and explore Mount Oread while uncovering the story buried beneath its snow.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5353530/3228ed15afceef244b3132cd24f0d7c5260fa0e5/ss_3228ed15afceef244b3132cd24f0d7c5260fa0e5.1920x1080.jpg?t=1794036451",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
+      "mechanic": "incremental",
       "score": 8
     },
     {
@@ -137,15 +146,6 @@
       "score": 8
     },
     {
-      "id": 5305270,
-      "name": "Letters from the Springs",
-      "description": "Run a cozy hot spring inn in a mountain valley. Read guest letters, plan menus, prepare tea and baths, and grow your own ingredients. Get to know your travelers, balance the books, and help your little inn flourish, one thoughtful stay at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5305270/368652550ae9ac738a489d57295a6ce206a1b6a1/ss_368652550ae9ac738a489d57295a6ce206a1b6a1.1920x1080.jpg?t=1793589452",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5299870,
       "name": "Sandcastle Kingdom",
       "description": "A cozy sandbox for building sandcastles. Shape your island, castles and courtyards with dynamic sand. Dig canals, ponds and fill them with realistic water. Decorate your island. Share your home with cute animal friends, help them with their quests and gather around the campfire as the sun goes down.",
@@ -164,37 +164,10 @@
       "score": 8
     },
     {
-      "id": 5251610,
-      "name": "Little Cleaner",
-      "description": "Play as a lonely robot on a deserted Earth in the distant future. Gather garbage, convert it into energy, and plant new life to heal the Planet. A relaxing clean-up and greening game inspired by WALL-E.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5251610/237018029241f3dd79ab41f616fd2fe0e19565f6/ss_237018029241f3dd79ab41f616fd2fe0e19565f6.1920x1080.jpg?t=1791522499",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5243750,
-      "name": "Doug's Playground",
-      "description": "Catch fish, ace the minigames to grade your haul, and turn it into playground parts. Stack them on the ship, send them off, and do it again. Draft charms, hire a crew, and when you sink, spend your prestige tokens and sail once more.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5243750/09b748a4e18fdebaeec2512dc65798ca245df520/ss_09b748a4e18fdebaeec2512dc65798ca245df520.1920x1080.jpg?t=1792911101",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5242180,
-      "name": "Paw Works Co.",
-      "description": "Run your repair shop in a cosy animal neighborhood. Diagnose and repair your customers' broken belongings, and organize your workshop your way. Grow your shop, unlock upgrades like delivery, and manage it all from your computer.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5242180/a82414f15eb20f07c36a3a8daae386bb80b26000/ss_a82414f15eb20f07c36a3a8daae386bb80b26000.1920x1080.jpg?t=1792943353",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5219900,
       "name": "The First Pixel",
       "description": "In the beginning there is a white screen and one black pixel. Click it, and it wakes. Grow it into pattern, memory and meaning, hunt 100 lost relics across erased worlds, and discover what a pixel sees once it has gathered everything. A quiet, mysterious incremental.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5219900/42cc1df28e066df2deafa1796f1a764598144001/ss_42cc1df28e066df2deafa1796f1a764598144001.1920x1080.jpg?t=1794395510",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5219900/42cc1df28e066df2deafa1796f1a764598144001/ss_42cc1df28e066df2deafa1796f1a764598144001.1920x1080.jpg?t=1794483161",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
@@ -251,15 +224,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140630/019018dd639bb0c065c712b9ab9f7241c122ee95/ss_019018dd639bb0c065c712b9ab9f7241c122ee95.1920x1080.jpg?t=1788190195",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5137820,
-      "name": "Pickup Point Chaos",
-      "description": "Run your own pickup point! Receive, scan, sort, and shelve packages. Find customer pickups, then weigh and label outgoing shipments. Carry several boxes to save time, but customers may knock them down. Handle package rain, fragile items, and explosives—and don’t blow up the place!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5137820/b1f4a6734e85c3038a543943f07ba072ec097b1f/ss_b1f4a6734e85c3038a543943f07ba072ec097b1f.1920x1080.jpg?t=1792343748",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -538,8 +502,44 @@
       "description": "Captain Speedfin is stuck with an hourglass and needs to be fast! Race against the clock through 60 challenging levels of pirate parkour, where every second counts. Grab your treasure and get out before time runs out!",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017940/5ca4f16c7eb4bf1278752a98c9df00f64511515c/ss_5ca4f16c7eb4bf1278752a98c9df00f64511515c.1920x1080.jpg?t=1788511857",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
+      "mechanic": "physics",
       "score": 8
+    },
+    {
+      "id": 5514750,
+      "name": "CRUSHMINO",
+      "description": "Crushmino is a roguelike drop-action game. Craft your own build and drop blocks to crush your enemies.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514750/8e93559ba5be48e81057602d24618d149e8029b6/ss_8e93559ba5be48e81057602d24618d149e8029b6.1920x1080.jpg?t=1794161464",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5509460,
+      "name": "PikiChick",
+      "description": "Little chick needs you! Feed it, cuddle it, dress it up and build a cozy coop full of hens and eggs. Play 7 cheerful mini-games, visit your friends' coops and team up in 4 co-op games with your Steam friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5509460/e5bc6cdfdec5dfaa38cb2f8e7a50683ee02c9c8f/ss_e5bc6cdfdec5dfaa38cb2f8e7a50683ee02c9c8f.1920x1080.jpg?t=1794059467",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5479020,
+      "name": "Jiggle Desktop Lab 2D",
+      "description": "Meet your new bouncy desktop companion! Jiggle Desktop 2D brings your screen to life with satisfying, reactive physics. Poke, drag, and play with your interactive virtual pet while you work, browse, or game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5479020/345a27f8bb5b426bae10defd65f19ae1f6d64209/ss_345a27f8bb5b426bae10defd65f19ae1f6d64209.1920x1080.jpg?t=1793295915",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5440380,
+      "name": "Not a Bug: Idle Defense",
+      "description": "Not a Bug is a relaxing incremental idle defense game. You can’t lose, since every bug dies the moment it reaches the glitch. Install apps, feed the bugs and watch the chaos. Remember: it’s not a bug, it’s a feature.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440380/d450311312d23aa5f60f53d48f1c6d3efabf2461/ss_d450311312d23aa5f60f53d48f1c6d3efabf2461.1920x1080.jpg?t=1794065486",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 6
     }
   ]
 }
