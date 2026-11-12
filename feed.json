@@ -1,6 +1,78 @@
 {
-  "checkedAt": "2026-11-12T11:54:23.684Z",
+  "checkedAt": "2026-11-12T19:49:27.114Z",
   "games": [
+    {
+      "id": 4208160,
+      "name": "Frontiers of the Realms",
+      "description": "Build a realm and a deck to match. Grow villages into cities, shape production chains and play cards for supplies, expansion and tactical support. A turn-based strategy game where rivals act in the same round. Play against AI or challenge friends online.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208160/6e8b52a21386a127f42245efcf019d46be61275e/ss_6e8b52a21386a127f42245efcf019d46be61275e.1920x1080.jpg?t=1790283011",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 3488670,
+      "name": "Villainville",
+      "description": "Join the outcasts of Villainville in this cozy farming sim adventure where Stardew Valley meets Shrek. Grow magic crops, tame the tiny unicorns, sneak into the night market, and befriend misfit fairy tale characters. Bonus? Find the misery mushroom plague saboteur and redeem the irredeemable.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488670/8e863f36fa6011a7965140fe5eb23515ec7d0a3e/ss_8e863f36fa6011a7965140fe5eb23515ec7d0a3e.1920x1080.jpg?t=1785612547",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 3335690,
+      "name": "Typing Valley",
+      "description": "Typing Valley is a cozy farming game powered by typing. Type to gather, plant, harvest, and run a cozy restaurant that brings warmth and happiness to the town. Start now, and let every keystroke become visible growth.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3335690/1a87a0f244a8773bd19e874f8342a36e53cb1a4e/ss_1a87a0f244a8773bd19e874f8342a36e53cb1a4e.1920x1080.jpg?t=1794229969",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 3939660,
+      "name": "Mewts",
+      "description": "Fight your friends in a chaotic PVP party game. Cute on the outside. Chaos on the inside! Play as Mewts, physics-driven wiggly creatures. Stretch, grab and slam each other in a variety of game modes in a hand-crafted clay world!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939660/01c506be4a197063714206d8ee286580523d3319/ss_01c506be4a197063714206d8ee286580523d3319.1920x1080.jpg?t=1793110421",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "physics",
+      "score": 7
+    },
+    {
+      "id": 3121420,
+      "name": "Monolith: Dark Matter",
+      "description": "A round-based FPS for 1–4 players set inside the Monolith — a brutalist complex shaped by living black matter. Fight escalating waves of its marionettes, earn points to unlock new sectors and build your arsenal, and uncover the route to a final encounter.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121420/e3ca8e7e4dc3c70fca717592868abbfae67f9983/ss_e3ca8e7e4dc3c70fca717592868abbfae67f9983.1920x1080.jpg?t=1793817871",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 3057720,
+      "name": "Adventure Paws",
+      "description": "Adventure Paws is a pixel-style 2D side-scrolling adventure game where you and your friend will play as two cats, embarking on an exciting journey across a mysterious and unknown continent. Join the black and white cats and set off on this journey full of challenges and surprises!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3057720/ss_0ae4f8d308c93a8ffb3a7311ca2ce09deff998b2.1920x1080.jpg?t=1788760188",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "physics",
+      "score": 7
+    },
+    {
+      "id": 4115510,
+      "name": "Meowzic Survivor",
+      "description": "A rhythm-integrated roguelike that fuses survivor-style gameplay with dynamic music mechanics. Your firepower flows directly from the rhythm, meaning your combat build is also your custom game music. It’s time to conquer the universe with your own rhythmic symphony of destruction!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115510/f0731b7ec2cb5a214c81d6b80844a13262878a7e/ss_f0731b7ec2cb5a214c81d6b80844a13262878a7e.1920x1080.jpg?t=1793776457",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3917850,
+      "name": "Football Referee Life Simulator 26",
+      "description": "A realistic referee simulator! Show cards, use VAR, control matches, and rise through your referee career!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917850/78c02baf27705b2c82705f610e780fa6a1cb6c64/ss_78c02baf27705b2c82705f610e780fa6a1cb6c64.1920x1080.jpg?t=1794426729",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
     {
       "id": 4781710,
       "name": "Xmas Squad",
@@ -9,6 +81,15 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 10
+    },
+    {
+      "id": 5370810,
+      "name": "The King Must Grow",
+      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 9
     },
     {
       "id": 5054090,
@@ -38,6 +119,33 @@
       "score": 9
     },
     {
+      "id": 5539650,
+      "name": "Eat Your Moons",
+      "description": "A baby planet with a face wants to eat your moons. Feed it with a toy tractor beam, raise a colony of tiny critters and build silly machines until the whole world works for its mouth. A 90-minute incremental about looking after someone until they grow old.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5539650/22e1574664aef0ab721dd92d19a3ab6b37a1e025/ss_22e1574664aef0ab721dd92d19a3ab6b37a1e025.1920x1080.jpg?t=1794001736",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5524610,
+      "name": "Goblin Must Clean",
+      "description": "An incremental cleaning game in first person. You are a goblin with one plate in your hands and a mountain of 500,000 to go. Wash them for Gold and spend the Gold at the hearth, until magic does the dishes for you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5524610/26fe95c95847c080acdbf1cebb6cde34d850cb09/ss_26fe95c95847c080acdbf1cebb6cde34d850cb09.1920x1080.jpg?t=1794503311",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5521920,
+      "name": "Sift Happens: Idle Beach Treasure",
+      "description": "Someone on the boardwalk just tossed a cigarette butt onto the beach, and now it's buried in the sand. Sift it out, watch it fly into a bin and get paid. Hire more throwers, let crabs collect for you and keep this idle beach running until the junk turns into treasure.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5521920/380be89a43873fa2d56f254137383f0997c9304d/ss_380be89a43873fa2d56f254137383f0997c9304d.1920x1080.jpg?t=1794492014",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
       "id": 5521470,
       "name": "Needle in a Haystack Simulator in a Haystack of Needle in a Haystack Simulators",
       "description": "5,000,000 games on VAPOR, and all but one are clones. From your bedroom PC, screen procedurally generated store pages, stamp each fake on the detail that gives it away, put bots to work, and dig through the haystack for the one original. An incremental hidden object parody.",
@@ -53,15 +161,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5476070/1c6e413c4da4b88525464e8e90d9807a36d95611/ss_1c6e413c4da4b88525464e8e90d9807a36d95611.1920x1080.jpg?t=1794448725",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5474950,
-      "name": "FX WARRIOR",
-      "description": "FX Warrior is a story-driven simulation game blending forex trading with work life. To save enough to move out, choose between part-time jobs and leveraged trading, face market swings and losses exceeding your balance, and reach your own ending!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5474950/71320c56006bc3ac8f40880b4d67dd4e9c0e8dca/ss_71320c56006bc3ac8f40880b4d67dd4e9c0e8dca.1920x1080.jpg?t=1792623984",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -83,15 +182,6 @@
       "score": 8
     },
     {
-      "id": 5414920,
-      "name": "Sort of the Apocalypse",
-      "description": "The world ended. The mess didn’t. Sort over 10,000 scavenged supplies in a cozy first-person organizing game. Transform a cluttered bunker into satisfyingly stocked shelves, earn credits, and unlock upgrades to tackle the mountain of mess.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5414920/4e3262654cfd0b1faea543c4383afb140e0402ad/ss_4e3262654cfd0b1faea543c4383afb140e0402ad.1920x1080.jpg?t=1794281804",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5403980,
       "name": "Bondoq: Desktop Gunners",
       "description": "Collect, trade, and build your team of Gunners! Discover heroes with unique weapons and effects, and hunt for rare items. Watch the battles unfold automatically on your desktop!",
@@ -105,15 +195,6 @@
       "name": "Next, Million Worlds",
       "description": "Expand your civilization to an empire of a million worlds. Balance production and logistics, experiment with economy mods, but don't sweat it. This is the age of expansion; growth is inevitable. This is a relaxed incremental experience where you can optimize and experiment, but you can't lose.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397130/5e036fabd5e42417943742d667bd177d4995bce6/ss_5e036fabd5e42417943742d667bd177d4995bce6.1920x1080.jpg?t=1792663340",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5370810,
-      "name": "The King Must Grow",
-      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
@@ -290,15 +371,6 @@
       "score": 8
     },
     {
-      "id": 4888080,
-      "name": "5-Star Taxi",
-      "description": "A fast-paced arcade taxi game where time is your greatest enemy - find shortcuts, deliver passengers, tear through a destructible city, escape the police, and earn a perfect 5-star rating before your shift ends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888080/a3e8f1564c1b72b28c3860418e6ebb57cc279172/ss_a3e8f1564c1b72b28c3860418e6ebb57cc279172.1920x1080.jpg?t=1794005357",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4830360,
       "name": "Over Package!",
       "description": "Over Package! is a chaotic, physics-based multiplayer party game. Clash with your friends in hilarious arena brawls to deliver cargo. Outsmart rivals with dynamic environmental destruction, leverage chaotic physics, and turn every delivery into absolute combat logistics madness!",
@@ -380,15 +452,6 @@
       "score": 8
     },
     {
-      "id": 4569750,
-      "name": "Brawling Beetles",
-      "description": "Die. Adapt. Fight Back. In this faced-paced top down multiplayer beetle brawler, every death makes you stronger. Choose between abilites, classes and weapons. Battle in matches with up to 4 players, fight PvE enemies, collect loot, and unleash powerful ultimates to claim victory.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569750/9387928ed57a0cfbd1e4ae0ce7226bfe3d86b6df/ss_9387928ed57a0cfbd1e4ae0ce7226bfe3d86b6df.1920x1080.jpg?t=1793798526",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 4479150,
       "name": "Kādomon: Incremental Eclipse",
       "description": "Build a team of Kādomon that fights for you, then push deeper. An Idle Incremental RPG where your creatures auto-battle through endless waves, each with their own skill tree to master. Eclipse your run to unlock permanent power and climb further than ever before.",
@@ -402,15 +465,6 @@
       "name": "Thieving Together",
       "description": "You and your crew have one goal: break in, grab everything, and get out before sunrise. Thieving Together is a chaotic physics PvP &amp; co-op heist party game. Drag loot, dodge rivals, stack the van fast. Everything wobbles. Everyone steals. Biggest haul by sunrise wins.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456670/2a25fd7717bbafef7eeea1bc973cf59565ca024b/ss_2a25fd7717bbafef7eeea1bc973cf59565ca024b.1920x1080.jpg?t=1779711871",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4419160,
-      "name": "Runemoria - Blades of Memory",
-      "description": "Flip cards, uncover pairs, and command your squad in a tactical memory RPG. Equip weapons, unlock powerful skills, and battle enemies or other players in strategic single-player and PvP combat.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419160/7e397d5d3f332ebc36e37115d51c58f96792e8b7/ss_7e397d5d3f332ebc36e37115d51c58f96792e8b7.1920x1080.jpg?t=1780288245",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 8
@@ -486,60 +540,6 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 4100390,
-      "name": "Pakku Pony",
-      "description": "Pakku Pony is a 2D virtual pet simulator where you raise your own pony! It’s a chill point-and-click game where you take care of your little garden, cook delicious dishes and relax with fun minigames. Oh, and don’t forget to look stylish with cosmetics and customization options!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100390/f754ac4c6feedc7c17818cb86ab29e2123879093/ss_f754ac4c6feedc7c17818cb86ab29e2123879093.1920x1080.jpg?t=1786388736",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4017940,
-      "name": "Captain Speedfin",
-      "description": "Captain Speedfin is stuck with an hourglass and needs to be fast! Race against the clock through 60 challenging levels of pirate parkour, where every second counts. Grab your treasure and get out before time runs out!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017940/5ca4f16c7eb4bf1278752a98c9df00f64511515c/ss_5ca4f16c7eb4bf1278752a98c9df00f64511515c.1920x1080.jpg?t=1788511857",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5514750,
-      "name": "CRUSHMINO",
-      "description": "Crushmino is a roguelike drop-action game. Craft your own build and drop blocks to crush your enemies.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514750/8e93559ba5be48e81057602d24618d149e8029b6/ss_8e93559ba5be48e81057602d24618d149e8029b6.1920x1080.jpg?t=1794161464",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5509460,
-      "name": "PikiChick",
-      "description": "Little chick needs you! Feed it, cuddle it, dress it up and build a cozy coop full of hens and eggs. Play 7 cheerful mini-games, visit your friends' coops and team up in 4 co-op games with your Steam friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5509460/e5bc6cdfdec5dfaa38cb2f8e7a50683ee02c9c8f/ss_e5bc6cdfdec5dfaa38cb2f8e7a50683ee02c9c8f.1920x1080.jpg?t=1794059467",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5479020,
-      "name": "Jiggle Desktop Lab 2D",
-      "description": "Meet your new bouncy desktop companion! Jiggle Desktop 2D brings your screen to life with satisfying, reactive physics. Poke, drag, and play with your interactive virtual pet while you work, browse, or game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5479020/345a27f8bb5b426bae10defd65f19ae1f6d64209/ss_345a27f8bb5b426bae10defd65f19ae1f6d64209.1920x1080.jpg?t=1793295915",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5440380,
-      "name": "Not a Bug: Idle Defense",
-      "description": "Not a Bug is a relaxing incremental idle defense game. You can’t lose, since every bug dies the moment it reaches the glitch. Install apps, feed the bugs and watch the chaos. Remember: it’s not a bug, it’s a feature.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440380/d450311312d23aa5f60f53d48f1c6d3efabf2461/ss_d450311312d23aa5f60f53d48f1c6d3efabf2461.1920x1080.jpg?t=1794065486",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 6
     }
   ]
 }
