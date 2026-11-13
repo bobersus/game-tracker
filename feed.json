@@ -1,13 +1,112 @@
 {
-  "checkedAt": "2026-11-13T07:23:33.760Z",
+  "checkedAt": "2026-11-13T15:38:34.837Z",
   "games": [
     {
-      "id": 5405600,
-      "name": "ITEA: Tidy Up Furniture Store",
-      "description": "The big sale is over, and the furniture store is a mess! Pick up scattered items, match furniture sets, and sort homewares in this relaxing first-person tidying game. Unlock upgrades and new departments as you get the store ready to reopen. No timer, just tidy.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5405600/8105661bea9b33087cd7bda8eef2b4b4078bb009/ss_8105661bea9b33087cd7bda8eef2b4b4078bb009.1920x1080.jpg?t=1792047306",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "id": 3790280,
+      "name": "Over the Radio",
+      "description": "Local co-op game about flying a plane. One player is the pilot, the other the navigator. The pilot has no map. The navigator guides the pilot using only words. Work together to reach your goal in a remixable national park map.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3790280/bfb1ad23afa7a4f7950375740b5f06bad8414202/ss_bfb1ad23afa7a4f7950375740b5f06bad8414202.1920x1080.jpg?t=1766191540",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
       "mechanic": "simulator",
+      "score": 9
+    },
+    {
+      "id": 4818260,
+      "name": "Hotel Simulator: Prologue - Early Days",
+      "description": "Free introduction to the full version of Hotel Simulator. Take your first steps toward running your own motel. Design interiors, take care of your guests, and earn money. Begin your journey by paying attention to every detail.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818260/6738f6e845ec875fe4a316818f390e02d13e404a/ss_6738f6e845ec875fe4a316818f390e02d13e404a.1920x1080.jpg?t=1791902182",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4525390,
+      "name": "Stacko",
+      "description": "In Stacko, remember your childhood while earning awesome prizes that change the way you play. Your goal is simple: stack the blocks as high as you can! Earn cards to modify the machine and plushies with powerful bonuses, all while playing this unique twist on the classic arcade experience.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525390/4111704265d6c233842c5be916136c2f7675f7ae/ss_4111704265d6c233842c5be916136c2f7675f7ae.1920x1080.jpg?t=1792369682",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4298340,
+      "name": "BumperMania",
+      "description": "A car crashing arena game with a voxel look that you can play online with friends. Ram the other cars until they fall apart, or push them off the edge. There are all kinds of silly weapons around too. Last car standing wins. You can play PvP or PvE.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298340/4eb141c76aec697b75d48ba6e428c305b6404c94/ss_4eb141c76aec697b75d48ba6e428c305b6404c94.1920x1080.jpg?t=1794313298",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 1283480,
+      "name": "Mossback",
+      "description": "Tend a little farm on the mossy back of an ancient sea turtle as he drifts through the seasons. Fish, cook and grow bonsai, then hop off to mine, dive, race and dodge bullets on a much grumpier turtle. Share what you grow with a very old friend and watch the island rise.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283480/0aecd625320d7a00caac732d53579d9e39d488cd/ss_0aecd625320d7a00caac732d53579d9e39d488cd.1920x1080.jpg?t=1794498927",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4404900,
+      "name": "Dominos",
+      "description": "Dominos is the classic tile game reimagined with multiple modes, tactical depth, and stylish customization. Play solo or with friends, battle players online, climb the ranks, unlock cosmetics, and make the experience your own.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404900/8446365019afd23eaa54153384ad1cfd9ed7a4ca/ss_8446365019afd23eaa54153384ad1cfd9ed7a4ca.1920x1080.jpg?t=1783096542",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4401950,
+      "name": "Indie City Mixtape 2026",
+      "description": "The Indie City Mixtape features seven small games, all contained within a 3D Platformer launcher. Ranging from shaving llamas to horror narrative, there's something for everyone in this ABSOLUTE BARGAIN of a collection!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401950/baab7ebb3a779753e50a382e78438bdbe199cbd3/ss_baab7ebb3a779753e50a382e78438bdbe199cbd3.1920x1080.jpg?t=1781140392",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3704910,
+      "name": "Pawcision",
+      "description": "Pawcision is a 2D retro-style LITERAL Precision Platformer with an Interactive Music System. Play as a cat with one goal: climb as high as you can. Like a cat, every jump you make must be PRECISELY calculated. Customize your look and conquer challenging obstacles with pixel-perfect reflexes.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3704910/e4e4d02562b2ca1d400d2d8de34fff1d7e3da51a/ss_e4e4d02562b2ca1d400d2d8de34fff1d7e3da51a.1920x1080.jpg?t=1789194474",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3703450,
+      "name": "Trick-Taking Rogue",
+      "description": "Trick-Taking × Roguelike! Trick-taking games fused with roguelike elements like skills and shops! Features 9 trick-taking games including Spades, Oh Hell, and Schnapsen!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703450/e578b0044847ed566b93faff21abb2278b184b84/ss_e578b0044847ed566b93faff21abb2278b184b84.1920x1080.jpg?t=1792500538",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3165740,
+      "name": "Minato",
+      "description": "Minato combines classic minesweeper with roguelike elements. Progress through increasingly challenging stages, discover unique items, and face guardians that add unexpected twists before proceeding to the next floor.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165740/58adf306ac4b03715eb8f6a3689b4377b01bd2e0/ss_58adf306ac4b03715eb8f6a3689b4377b01bd2e0.1920x1080.jpg?t=1794169485",
+      "firstSeen": "2026-11-08T21:12:52.435Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5502910,
+      "name": "Gladiadorks",
+      "description": "Gladiadorks is a goofy online co-op gladiator brawler. Slap your knocked-out friend awake, throw rivals across the arena and fight lions, elephants and a giant on your climb from a muddy village ring to the Colosseum.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5502910/f1d7e6155828706ddb5b16dadcc125c2e68f530c/ss_f1d7e6155828706ddb5b16dadcc125c2e68f530c.1920x1080.jpg?t=1794191419",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5499760,
+      "name": "Grass Planet",
+      "description": "Stranded on an alien planet, you must mow endless grassy hills to uncover the materials needed to rebuild your ship. Upgrade your lawnmower and uncover the mystery of the planet in this short incremental adventure.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5499760/5bc9e440c78174b19e4b2e331dbac651ad5ab823/ss_5bc9e440c78174b19e4b2e331dbac651ad5ab823.1920x1080.jpg?t=1793690453",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
       "score": 8
     },
     {
@@ -119,15 +218,6 @@
       "score": 8
     },
     {
-      "id": 4247590,
-      "name": "Paper Florist: Stack & Bloom",
-      "description": "🌼 Paper Florist is a cozy card stacking puzzle. Match flower orders 🌷 balance wobbly stacks 💌 race the timer ⏳ and grow your tiny florist studio into a blooming success 💐✨",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247590/197bfdc63bb6754787050fe5ac48330553da7787/ss_197bfdc63bb6754787050fe5ac48330553da7787.1920x1080.jpg?t=1791789817",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4209930,
       "name": "挂机后花园.放置牧场AFK back garden.idlepasture",
       "description": "Create your personal oasis in the corner of your desktop.​ This is a laid-back idle simulation game where simple clicks allow you to grow plants and feed adorable animals. Watch them thrive and multiply, receive surprise letters and gifts, and let the serene ambiance of nature fill your screen.",
@@ -155,21 +245,21 @@
       "score": 8
     },
     {
+      "id": 5536670,
+      "name": "Grindhouse Theater Simulator",
+      "description": "September 1983. Eighty seats, one projector, your choice of double bill. Run the Rialto in a first-person theater sim: book genre films, sell tickets and popcorn, hire the Grindhouse Gang and keep the show running when the print snaps and the crowd loses patience.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536670/fe76fcda2c7e31086fb0dc018a8de42d5c05be78/ss_fe76fcda2c7e31086fb0dc018a8de42d5c05be78.1920x1080.jpg?t=1794433468",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
       "id": 4925600,
       "name": "Kitten Wool Cup",
       "description": "A cozy kitten life with a silly streak. Make your snug room by the fire your own, dress your kitten in hats and a Santa beard, and invite friends round. Then curl up and dream of football: chaotic kitten matches with a giant ball of wool, runaway roombas and laser pointers.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925600/a1758d7b1a0bc1a08a0159c21a270bc8cb6686d4/ss_a1758d7b1a0bc1a08a0159c21a270bc8cb6686d4.1920x1080.jpg?t=1794320493",
       "firstSeen": "2026-11-08T17:13:06.662Z",
       "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 3939660,
-      "name": "Mewts",
-      "description": "Fight your friends in a chaotic PVP party game. Cute on the outside. Chaos on the inside! Play as Mewts, physics-driven wiggly creatures. Stretch, grab and slam each other in a variety of game modes in a hand-crafted clay world!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939660/01c506be4a197063714206d8ee286580523d3319/ss_01c506be4a197063714206d8ee286580523d3319.1920x1080.jpg?t=1793110421",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "physics",
       "score": 7
     },
     {
@@ -218,6 +308,15 @@
       "score": 6
     },
     {
+      "id": 3939660,
+      "name": "Mewts",
+      "description": "Fight your friends in a chaotic PVP party game. Cute on the outside. Chaos on the inside! Play as Mewts, physics-driven wiggly creatures. Stretch, grab and slam each other in a variety of game modes in a hand-crafted clay world!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939660/01c506be4a197063714206d8ee286580523d3319/ss_01c506be4a197063714206d8ee286580523d3319.1920x1080.jpg?t=1793110421",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
       "id": 3917850,
       "name": "Football Referee Life Simulator 26",
       "description": "A realistic referee simulator! Show cards, use VAR, control matches, and rise through your referee career!",
@@ -254,12 +353,12 @@
       "score": 10
     },
     {
-      "id": 5054090,
-      "name": "Space Crawlers",
-      "description": "Clear out space battlefields using a physics-based grappling hook. Salvage wreckage, recycle it into resources, upgrade your equipment, and grow your salvage business to unlock increasingly lucrative contracts.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054090/70eb4d62028cab65a66d728cc7b712186aa3440a/ss_70eb4d62028cab65a66d728cc7b712186aa3440a.1920x1080.jpg?t=1786459332",
+      "id": 5370810,
+      "name": "The King Must Grow",
+      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
       "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
+      "mechanic": "incremental",
       "score": 9
     },
     {
@@ -317,57 +416,12 @@
       "score": 8
     },
     {
-      "id": 5476070,
-      "name": "Bingolazo",
-      "description": "A colorful bingo roguelite. Pick which balls to call, mark your cards and chain lines, diagonals and full cards into huge scores. Collect lucky charms that bend the rules, play legendary balls like Saturn and beat the club's bosses, in endless runs or the story mode.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5476070/1c6e413c4da4b88525464e8e90d9807a36d95611/ss_1c6e413c4da4b88525464e8e90d9807a36d95611.1920x1080.jpg?t=1794448725",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5442080,
-      "name": "The Gigglebone Gang: Pantsylvania",
-      "description": "The Gigglebone Gang returns! In Pantsylvania, everybody's pants are serious business. Join the Gigglebone Gang across ten locales and 50 activities — sing-along songs, hidden-object hunts, silly science and interactive stories — in this fully restored 1995 point-and-click edutainment classic.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442080/626f10728edd1473446a870d5c10c4de6ba87019/ss_626f10728edd1473446a870d5c10c4de6ba87019.1920x1080.jpg?t=1793060584",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5403980,
-      "name": "Bondoq: Desktop Gunners",
-      "description": "Collect, trade, and build your team of Gunners! Discover heroes with unique weapons and effects, and hunt for rare items. Watch the battles unfold automatically on your desktop!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403980/605ab369e2a6b39a8f548f4e2a375d2beac9d261/ss_605ab369e2a6b39a8f548f4e2a375d2beac9d261.1920x1080.jpg?t=1792565841",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 5397130,
       "name": "Next, Million Worlds",
       "description": "Expand your civilization to an empire of a million worlds. Balance production and logistics, experiment with economy mods, but don't sweat it. This is the age of expansion; growth is inevitable. This is a relaxed incremental experience where you can optimize and experiment, but you can't lose.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397130/5e036fabd5e42417943742d667bd177d4995bce6/ss_5e036fabd5e42417943742d667bd177d4995bce6.1920x1080.jpg?t=1792663340",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5370810,
-      "name": "The King Must Grow",
-      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5327220,
-      "name": "Tiny Vessel",
-      "description": "A companion idle ARPG that lives beside whatever you are doing. A tiny crew of crash-landed survivors fights along an alien walkway while you work: real loot, a Relay to grow the vessel, depths that demand better gear. Progress keeps going while you are away.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5327220/42864045135ca337387c43615d6b26ebfdc41c95/ss_42864045135ca337387c43615d6b26ebfdc41c95.1920x1080.jpg?t=1792951429",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
       "score": 8
     },
     {
@@ -389,19 +443,10 @@
       "score": 8
     },
     {
-      "id": 5258490,
-      "name": "An Eggcellent Sorting Game",
-      "description": "Sort thousands of colorful eggs by matching their patterns in this relaxing organizing game. Turn a giant mess into satisfying order, level up 8 skills, meet quirky characters, and complete quests. No rush, no pressure. Just you and an eggnormous pile of eggs!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5258490/f04b03a6ef1219dc03b6317f72e480f693466a22/ss_f04b03a6ef1219dc03b6317f72e480f693466a22.1920x1080.jpg?t=1794249569",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5219900,
       "name": "The First Pixel",
       "description": "In the beginning there is a white screen and one black pixel. Click it, and it wakes. Grow it into pattern, memory and meaning, hunt 100 lost relics across erased worlds, and discover what a pixel sees once it has gathered everything. A quiet, mysterious incremental.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5219900/42cc1df28e066df2deafa1796f1a764598144001/ss_42cc1df28e066df2deafa1796f1a764598144001.1920x1080.jpg?t=1794483161",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5219900/42cc1df28e066df2deafa1796f1a764598144001/ss_42cc1df28e066df2deafa1796f1a764598144001.1920x1080.jpg?t=1794568245",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
@@ -488,57 +533,12 @@
       "score": 8
     },
     {
-      "id": 5023920,
-      "name": "Astrobreaker",
-      "description": "Astrobreaker is a short incremental game about making a spaceship faster and more powerful. Mine planets, gather resources, and upgrade your ship.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023920/e3b6dd8eb4b8cf9ade5280a4c20280e2a82a4d82/ss_e3b6dd8eb4b8cf9ade5280a4c20280e2a82a4d82.1920x1080.jpg?t=1793205499",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4992800,
-      "name": "ACT OUT",
-      "description": "A chaotic online party game of 3D charades. Grab a floppy puppet, act out your secret word on a live theater stage, and race your friends to guess it before the clock runs out. Push-to-talk voice, custom Workshop maps, and a winner's podium. Best with 3+ friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992800/31061b25880e1ac1b8470b48fd4ce8bc45ca2252/ss_31061b25880e1ac1b8470b48fd4ce8bc45ca2252.1920x1080.jpg?t=1790611548",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4952640,
-      "name": "OnlyCats",
-      "description": "Pet cats, earn love, buy more cats. OnlyCats is a cozy incremental idle game where hovering over adorable pixel cats fills your coin and love stash. Unlock new cats, grow your collection, and discover more upgrades.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952640/8676672542f53f915862107c0daef37cc9396512/ss_8676672542f53f915862107c0daef37cc9396512.1920x1080.jpg?t=1784101476",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4933850,
-      "name": "Incremental Garden",
-      "description": "A short incremental game about a magical garden. Grow wonderful flowers, earn money, buy upgrades, and roll the gacha to discover rarer plants! Over 30 unique plants are waiting for you!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933850/2d2bb471a0d1fe99c30e23c55edca732a25232d7/ss_2d2bb471a0d1fe99c30e23c55edca732a25232d7.1920x1080.jpg?t=1792002883",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4830360,
-      "name": "Over Package!",
-      "description": "Over Package! is a chaotic, physics-based multiplayer party game. Clash with your friends in hilarious arena brawls to deliver cargo. Outsmart rivals with dynamic environmental destruction, leverage chaotic physics, and turn every delivery into absolute combat logistics madness!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830360/c0597b066c14dd21a82989ec0b7e29e813452a02/ss_c0597b066c14dd21a82989ec0b7e29e813452a02.1920x1080.jpg?t=1789303547",
+      "id": 5054090,
+      "name": "Space Crawlers",
+      "description": "Clear out space battlefields using a physics-based grappling hook. Salvage wreckage, recycle it into resources, upgrade your equipment, and grow your salvage business to unlock increasingly lucrative contracts.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054090/70eb4d62028cab65a66d728cc7b712186aa3440a/ss_70eb4d62028cab65a66d728cc7b712186aa3440a.1920x1080.jpg?t=1786459332",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4825460,
-      "name": "Juicy Fugitives",
-      "description": "Hunt down the most wanted fruits in this cartoon third-person shooter. Play as a pirate crew framed by a mysterious fire, blast through waves of enemies across 5 kingdoms, and survive slapstick boss fights, solo or in 3 player online co-op.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825460/08900d2e42bdba5ceab999ef10597688e9cf43ac/ss_08900d2e42bdba5ceab999ef10597688e9cf43ac.1920x1080.jpg?t=1792559148",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
       "score": 8
     }
   ]
