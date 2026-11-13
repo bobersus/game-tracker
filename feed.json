@@ -1,6 +1,96 @@
 {
-  "checkedAt": "2026-11-12T19:49:27.114Z",
+  "checkedAt": "2026-11-13T00:43:33.020Z",
   "games": [
+    {
+      "id": 4684930,
+      "name": "MEMORY DEALER",
+      "description": "You are a memory trafficker. Harvest stolen memories from captive minds and sell them to BRN CORP. Buy neural implants with your credits, but don't get addicted to your own supply, or you'll lose those memories forever. A shady cyberpunk idle game on your desktop.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4684930/0104c35f4e84436a38304221739a847969e7665a/ss_0104c35f4e84436a38304221739a847969e7665a.1920x1080.jpg?t=1783063118",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4675280,
+      "name": "SELF//FORK",
+      "description": "A physics-driven cyberpunk incremental. Fork yourself into data packets, bounce through a hostile mainframe's defense matrix, and reunite the fragments to break free.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675280/0d0c28359e12928434345eabbefade77387eca57/ss_0d0c28359e12928434345eabbefade77387eca57.1920x1080.jpg?t=1792505076",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4672980,
+      "name": "Coremine Corp",
+      "description": "Welcome to CoreMine Corp. Your job here is to set up production chains, manage your electricity, juggle contracts and stock-up while upgrading your factory. Time to prove your worth.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672980/f86f9b103c97d1e1544352ef38a14df43acb2086/ss_f86f9b103c97d1e1544352ef38a14df43acb2086.1920x1080.jpg?t=1791548977",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4609640,
+      "name": "Wayward Crown",
+      "description": "You don't command the heroes — you bait them. Wayward Crown is a kingdom-management sim where every adventurer has their own greed, glory, and fear. Place bounties, build a town, balance the gold, and watch your realm run itself.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609640/f5e9045437f5b558f1386dc9142113a1e5331d63/ss_f5e9045437f5b558f1386dc9142113a1e5331d63.1920x1080.jpg?t=1792896022",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4545040,
+      "name": "Unclaimed: Loot or Junk",
+      "description": "Unbox. Sort. Collect. Become a master of discovery by exploring unclaimed packages. Complete every set, from vintage gadgets to &quot;Golden Junk&quot;. Sell piles of everyday items to buy new shipments and hunt for truly rare treasures. What will you find in the next box?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545040/e88b981054bcde9ce0d31f35a3da1eaf9f5c4538/ss_e88b981054bcde9ce0d31f35a3da1eaf9f5c4538.1920x1080.jpg?t=1794401895",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4396030,
+      "name": "OKEYABILITY",
+      "description": "Rediscover the thrill of Classic Okey (Tile-based Rummy) in a neon-lit, robotic atmosphere! Enjoy traditional rules or use unique abilities to shift the balance. Define your strategy, customize your robot, and claim your spot at the table of the future!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396030/8214a1d43d8e31c1a476ac246054a0da443b0150/ss_8214a1d43d8e31c1a476ac246054a0da443b0150.1920x1080.jpg?t=1788866018",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4291110,
+      "name": "REAL DEAL",
+      "description": "Run your own electronics store chain. Buy phones, tablets, computers, fridges, and more in bulk, transport them with your truck, and sell them at prices you choose. Manage up to 4 stores with hired employees, but fail to plan well and you won’t be able to pay rent, bills, or salaries.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291110/95385b05fb698b265b46a51bbf5b40d3ebb1e314/ss_95385b05fb698b265b46a51bbf5b40d3ebb1e314.1920x1080.jpg?t=1788404253",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4285910,
+      "name": "Siren's Wrath",
+      "description": "A point-and-click adventure where you are trapped in a psychological loop, relive a tragic event, and return the cursed artifacts to escape the loop, before the curse claims you. But remember, she is watching.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285910/30e600e719538dcfd260a3c28daa358118e10603/ss_30e600e719538dcfd260a3c28daa358118e10603.1920x1080.jpg?t=1793969487",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4247590,
+      "name": "Paper Florist: Stack & Bloom",
+      "description": "🌼 Paper Florist is a cozy card stacking puzzle. Match flower orders 🌷 balance wobbly stacks 💌 race the timer ⏳ and grow your tiny florist studio into a blooming success 💐✨",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247590/197bfdc63bb6754787050fe5ac48330553da7787/ss_197bfdc63bb6754787050fe5ac48330553da7787.1920x1080.jpg?t=1791789817",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4209930,
+      "name": "挂机后花园.放置牧场AFK back garden.idlepasture",
+      "description": "Create your personal oasis in the corner of your desktop.​ This is a laid-back idle simulation game where simple clicks allow you to grow plants and feed adorable animals. Watch them thrive and multiply, receive surprise letters and gifts, and let the serene ambiance of nature fill your screen.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209930/35cf71996a566e82d865fc47196077405990278a/ss_35cf71996a566e82d865fc47196077405990278a.1920x1080.jpg?t=1787735643",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
     {
       "id": 4208160,
       "name": "Frontiers of the Realms",
@@ -15,15 +105,6 @@
       "name": "Villainville",
       "description": "Join the outcasts of Villainville in this cozy farming sim adventure where Stardew Valley meets Shrek. Grow magic crops, tame the tiny unicorns, sneak into the night market, and befriend misfit fairy tale characters. Bonus? Find the misery mushroom plague saboteur and redeem the irredeemable.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488670/8e863f36fa6011a7965140fe5eb23515ec7d0a3e/ss_8e863f36fa6011a7965140fe5eb23515ec7d0a3e.1920x1080.jpg?t=1785612547",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 3335690,
-      "name": "Typing Valley",
-      "description": "Typing Valley is a cozy farming game powered by typing. Type to gather, plant, harvest, and run a cozy restaurant that brings warmth and happiness to the town. Start now, and let every keystroke become visible growth.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3335690/1a87a0f244a8773bd19e874f8342a36e53cb1a4e/ss_1a87a0f244a8773bd19e874f8342a36e53cb1a4e.1920x1080.jpg?t=1794229969",
       "firstSeen": "2026-11-08T17:13:06.662Z",
       "mechanic": "simulator",
       "score": 8
@@ -68,7 +149,7 @@
       "id": 3917850,
       "name": "Football Referee Life Simulator 26",
       "description": "A realistic referee simulator! Show cards, use VAR, control matches, and rise through your referee career!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917850/78c02baf27705b2c82705f610e780fa6a1cb6c64/ss_78c02baf27705b2c82705f610e780fa6a1cb6c64.1920x1080.jpg?t=1794426729",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917850/78c02baf27705b2c82705f610e780fa6a1cb6c64/ss_78c02baf27705b2c82705f610e780fa6a1cb6c64.1920x1080.jpg?t=1794512359",
       "firstSeen": "2026-11-08T17:13:06.662Z",
       "mechanic": "incremental",
       "score": 6
@@ -224,15 +305,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307740/e2aafa88bbcb76c8456310062ce386c3e3c5d5e0/ss_e2aafa88bbcb76c8456310062ce386c3e3c5d5e0.1920x1080.jpg?t=1792897901",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5299870,
-      "name": "Sandcastle Kingdom",
-      "description": "A cozy sandbox for building sandcastles. Shape your island, castles and courtyards with dynamic sand. Dig canals, ponds and fill them with realistic water. Decorate your island. Share your home with cute animal friends, help them with their quests and gather around the campfire as the sun goes down.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5299870/9f9aac3ea8b7668033b51b840f45e7e2820022c8/ss_9f9aac3ea8b7668033b51b840f45e7e2820022c8.1920x1080.jpg?t=1794422750",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -467,78 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456670/2a25fd7717bbafef7eeea1bc973cf59565ca024b/ss_2a25fd7717bbafef7eeea1bc973cf59565ca024b.1920x1080.jpg?t=1779711871",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4408570,
-      "name": "Lines Must Cross",
-      "description": "Lines Must Cross is an incremental graph game about firing mathematical functions and earning progress when they intersect. Click to spawn lines, unlock new function types, and grow a living coordinate system.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408570/63d1dc002e82e919b949e4201c47cf9118ae0f83/ss_63d1dc002e82e919b949e4201c47cf9118ae0f83.1920x1080.jpg?t=1781003579",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4322370,
-      "name": "Hollywood Hustle: A Prop Collector Simulator",
-      "description": "A physics-driven cleanup simulator on an abandoned Hollywood studio. Fantasy epics, sitcoms, sci-fi blockbusters: their props ended up here. Sort it all, ship boxed orders to film sets and beyond, sell the rest, and resurrect the old animatronics to help.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322370/d2aa9e0c344b9fa108ea54f53768497e3caba58f/ss_d2aa9e0c344b9fa108ea54f53768497e3caba58f.1920x1080.jpg?t=1788448296",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4308550,
-      "name": "Mine or Burn",
-      "description": "Start with a basic mining ship and snowball into an asteroid-crushing powerhouse in this incremental bullet hell roguelite. Mine asteroids, battle rival miners, stack upgrades, create powerful builds, and survive escalating threats across dangerous star systems.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308550/06be95bc8de19cab982465123daf78fd2ee93492/ss_06be95bc8de19cab982465123daf78fd2ee93492.1920x1080.jpg?t=1788889027",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4302590,
-      "name": "Particle Collectotron",
-      "description": "Click and collect energy in this short, active incremental. Upgrade your reactor, tune injector payload and trajectories, unlock exotic matter, and push the experiment past its limits.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302590/39f9e1e6fd5b9a7519c106e21e8459afb2de8726/ss_39f9e1e6fd5b9a7519c106e21e8459afb2de8726.1920x1080.jpg?t=1793912485",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4298730,
-      "name": "Catching Breaks",
-      "description": "Catching Breaks is a darkly comedic office simulator where fixing problems is easy and dealing with people is not. Repair broken machines while coworkers interrupt you with pointless conversations, fake urgency, and corporate nonsense. Keep the office running long enough to survive another workday.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298730/fa4b05792897b24cef791e4faa0b37eac80b233b/ss_fa4b05792897b24cef791e4faa0b37eac80b233b.1920x1080.jpg?t=1791726263",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4266280,
-      "name": "Zombie Industrial Complex",
-      "description": "Exterminate zombies using the might of the military industrial complex. In this active incremental game, you'll earn money by defeating zombies which can be used to buy weapons, purchase upgrades, call in airstrikes, and send in the tanks!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4266280/1143741e8633f39ed0ed46cc07d38b0a7149424d/ss_1143741e8633f39ed0ed46cc07d38b0a7149424d.1920x1080.jpg?t=1794103584",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4245890,
-      "name": "StoryMode",
-      "description": "StoryMode is a reading tool completely built around idle/incremental gameplay and progression. Add manga and books, earn experience, levels, and rewards as you read. Complete quests, discover companions, and personalize your reading experience with customizable themes and animated backgrounds.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245890/82bd1b6b24f30f0730d4c1c689c6fbb194e3b552/ss_82bd1b6b24f30f0730d4c1c689c6fbb194e3b552.1920x1080.jpg?t=1781519100",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4183920,
-      "name": "Pumpkin Is Yummy!?",
-      "description": "Your own little farm village, tucked into the corner of your desktop. Raise a chatty pumpkin, tend your crops, and collect critters in this quirky, lighthearted idler. How you raise your Pumpkin decides who they become.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4183920/c45235e20dbefe112b538bd6ec3fb9352aae54d0/ss_c45235e20dbefe112b538bd6ec3fb9352aae54d0.1920x1080.jpg?t=1792474639",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
       "score": 8
     }
   ]
