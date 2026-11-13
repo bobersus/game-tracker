@@ -1,6 +1,60 @@
 {
-  "checkedAt": "2026-11-13T00:43:33.020Z",
+  "checkedAt": "2026-11-13T07:23:33.760Z",
   "games": [
+    {
+      "id": 5405600,
+      "name": "ITEA: Tidy Up Furniture Store",
+      "description": "The big sale is over, and the furniture store is a mess! Pick up scattered items, match furniture sets, and sort homewares in this relaxing first-person tidying game. Unlock upgrades and new departments as you get the store ready to reopen. No timer, just tidy.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5405600/8105661bea9b33087cd7bda8eef2b4b4078bb009/ss_8105661bea9b33087cd7bda8eef2b4b4078bb009.1920x1080.jpg?t=1792047306",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5401120,
+      "name": "SCRUBBED",
+      "description": "Grab your sponge and sink into an endless pile of dirty dishes. Scrub, foam and rinse at your own pace, earn tips, upgrade your gear and find your zen, one plate at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5401120/d9b574aab86ec383703e4ed5690497aa3b007456/ss_d9b574aab86ec383703e4ed5690497aa3b007456.1920x1080.jpg?t=1793947937",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5380990,
+      "name": "OVERDRILL",
+      "description": "A pixel art incremental mining roguelite. Drill through destructible caves, collect ore and build a stronger rig with drones, automated bores and a branching upgrade tree.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5380990/376422fb477e31de2284f903c6e3e1ffb14b0cf3/ss_376422fb477e31de2284f903c6e3e1ffb14b0cf3.1920x1080.jpg?t=1794326660",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5295920,
+      "name": "Teeth Are Money",
+      "description": "An incremental horror game about pulling teeth from a living monster. Grip, shake and yank each tooth free, then spend the money on research that turns one hard-won tooth into handfuls at a time. Keep pulling before the contamination fills, and watch the mouth grow.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295920/4b78eabcbe521f00a69d0da9cc344054d49b5734/ss_4b78eabcbe521f00a69d0da9cc344054d49b5734.1920x1080.jpg?t=1794219046",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4933740,
+      "name": "Whale Simulator",
+      "description": "A livestream management sim. Lead your streamers all the way up — numbers climbing — until they stand on the national-champion stage. You're more than the operator behind the curtain. When the mood hits, you can jump in yourself, throw gifts, and fight the whole room for that number-one spot.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933740/8004128bc66801b47e0952f4ddc6553277e41176/ss_8004128bc66801b47e0952f4ddc6553277e41176.1920x1080.jpg?t=1793555780",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4894770,
+      "name": "Flow Treehouse",
+      "description": "A tiny treehouse tucked into the corner of your desktop. Prince Tomato times your focus, Todudu keeps your to-dos, and Lily plays soft music. Focus, finish tasks and play with them to earn wish points for outfits, playlists and decorations. As the treehouse grows, new fairies move in.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894770/494e8c5568c7dd828f94dcb3e5db39e8276c0707/ss_494e8c5568c7dd828f94dcb3e5db39e8276c0707.1920x1080.jpg?t=1794140687",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
     {
       "id": 4684930,
       "name": "MEMORY DEALER",
@@ -24,15 +78,6 @@
       "name": "Coremine Corp",
       "description": "Welcome to CoreMine Corp. Your job here is to set up production chains, manage your electricity, juggle contracts and stock-up while upgrading your factory. Time to prove your worth.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672980/f86f9b103c97d1e1544352ef38a14df43acb2086/ss_f86f9b103c97d1e1544352ef38a14df43acb2086.1920x1080.jpg?t=1791548977",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4609640,
-      "name": "Wayward Crown",
-      "description": "You don't command the heroes — you bait them. Wayward Crown is a kingdom-management sim where every adventurer has their own greed, glory, and fear. Place bounties, build a town, balance the gold, and watch your realm run itself.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609640/f5e9045437f5b558f1386dc9142113a1e5331d63/ss_f5e9045437f5b558f1386dc9142113a1e5331d63.1920x1080.jpg?t=1792896022",
       "firstSeen": "2026-11-08T17:13:06.662Z",
       "mechanic": "simulator",
       "score": 8
@@ -110,6 +155,15 @@
       "score": 8
     },
     {
+      "id": 4925600,
+      "name": "Kitten Wool Cup",
+      "description": "A cozy kitten life with a silly streak. Make your snug room by the fire your own, dress your kitten in hats and a Santa beard, and invite friends round. Then curl up and dream of football: chaotic kitten matches with a giant ball of wool, runaway roombas and laser pointers.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925600/a1758d7b1a0bc1a08a0159c21a270bc8cb6686d4/ss_a1758d7b1a0bc1a08a0159c21a270bc8cb6686d4.1920x1080.jpg?t=1794320493",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
       "id": 3939660,
       "name": "Mewts",
       "description": "Fight your friends in a chaotic PVP party game. Cute on the outside. Chaos on the inside! Play as Mewts, physics-driven wiggly creatures. Stretch, grab and slam each other in a variety of game modes in a hand-crafted clay world!",
@@ -137,6 +191,24 @@
       "score": 7
     },
     {
+      "id": 5277350,
+      "name": "Corporate Simulator",
+      "description": "Climb from intern to CEO in this idle/incremental game where your company runs on a living spreadsheet. Hire, crush morale, rig the audits, and rack up ISO certifications... all the way to burnout or a golden retirement. 18 playable visual themes, dozens of hours of progression.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5277350/360221dc15e265262544c9cda317c21e45c7a8d7/ss_360221dc15e265262544c9cda317c21e45c7a8d7.1920x1080.jpg?t=1790379043",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4873150,
+      "name": "Touhou Mushroom Defense",
+      "description": "Touhou Mushroom Defense is a Touhou Project fan-made game. It’s a defense game where Marisa turns mushrooms into towers to defeat enemies. In the game, you need to gather materials to build towers and construct towers to block the enemy’s path.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873150/29703e05e01c4a859fe2162657aa0380c9a42b3f/ss_29703e05e01c4a859fe2162657aa0380c9a42b3f.1920x1080.jpg?t=1792129451",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
       "id": 4115510,
       "name": "Meowzic Survivor",
       "description": "A rhythm-integrated roguelike that fuses survivor-style gameplay with dynamic music mechanics. Your firepower flows directly from the rhythm, meaning your combat build is also your custom game music. It’s time to conquer the universe with your own rhythmic symphony of destruction!",
@@ -155,6 +227,24 @@
       "score": 6
     },
     {
+      "id": 5028150,
+      "name": "Sarco",
+      "description": "Sarco is a first-person horror game built around constant tension instead of jump scares. Maintain visual contact with the sarcophagus to keep it closed and the primordial being contained. But beware: it will adapt. Explore an abandoned complex and find a way to stop the being before it breaks free.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5028150/6e0c370a82c6fe201c019bebd3b07bdb558bbfa5/ss_6e0c370a82c6fe201c019bebd3b07bdb558bbfa5.1920x1080.jpg?t=1790692530",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5013940,
+      "name": "Color Factory",
+      "description": "Connect nodes to generate, transform, and blend colors in a relaxing factory automation game. Discover new recipes, unlock powerful nodes through research, and design increasingly efficient production networks as your color factory grows.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013940/7434933adf5fb166585137f8459012c0cc7bf733/ss_7434933adf5fb166585137f8459012c0cc7bf733.1920x1080.jpg?t=1794546442",
+      "firstSeen": "2026-11-08T17:13:06.662Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
       "id": 4781710,
       "name": "Xmas Squad",
       "description": "Physics co-op comedy for up to 4 players: deliver presents, steal cookies and save your friends from monsters. One more house and we're outta here. Promise.",
@@ -162,15 +252,6 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 10
-    },
-    {
-      "id": 5370810,
-      "name": "The King Must Grow",
-      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 9
     },
     {
       "id": 5054090,
@@ -245,15 +326,6 @@
       "score": 8
     },
     {
-      "id": 5446200,
-      "name": "A Game About Bees, Flowers and Vacuum",
-      "description": "A first-person petal-gathering game: a million flowers, hundreds of oversized bees and one vacuum. Knock petals loose with your fists, a knife and a bat, vacuum them up, and send the bees out to help. Sell the haul, upgrade your tools and bees, and climb the valley one color at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446200/8e6e5151c43e88d6931e66fe722166a285f3513b/ss_8e6e5151c43e88d6931e66fe722166a285f3513b.1920x1080.jpg?t=1792346142",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5442080,
       "name": "The Gigglebone Gang: Pantsylvania",
       "description": "The Gigglebone Gang returns! In Pantsylvania, everybody's pants are serious business. Join the Gigglebone Gang across ten locales and 50 activities — sing-along songs, hidden-object hunts, silly science and interactive stories — in this fully restored 1995 point-and-click edutainment classic.",
@@ -276,6 +348,15 @@
       "name": "Next, Million Worlds",
       "description": "Expand your civilization to an empire of a million worlds. Balance production and logistics, experiment with economy mods, but don't sweat it. This is the age of expansion; growth is inevitable. This is a relaxed incremental experience where you can optimize and experiment, but you can't lose.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397130/5e036fabd5e42417943742d667bd177d4995bce6/ss_5e036fabd5e42417943742d667bd177d4995bce6.1920x1080.jpg?t=1792663340",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5370810,
+      "name": "The King Must Grow",
+      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
       "score": 8
@@ -458,87 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825460/08900d2e42bdba5ceab999ef10597688e9cf43ac/ss_08900d2e42bdba5ceab999ef10597688e9cf43ac.1920x1080.jpg?t=1792559148",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4753580,
-      "name": "Winds of Bounty",
-      "description": "Winds of Bounty is a casual, fast-paced single and network multi player, competitive sailing exploration and treasure hunting game, featuring multiple game modes, including Treasure Hunt, Monster Hunt, Orb Hunt, Race, Arena, and Treasure Gallery!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753580/ab1946f1ea801e4c946ea56a234e5901c60647a9/ss_ab1946f1ea801e4c946ea56a234e5901c60647a9.1920x1080.jpg?t=1793505872",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4752310,
-      "name": "Black Hole Idle",
-      "description": "Start as a tiny black hole and grow by consuming asteroids, planets, and star systems. Automate your power, unlock upgrades, and devour the universe in this relaxing space idle incremental game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752310/b6500b80101369236237ed9b0b07fb53e1a27063/ss_b6500b80101369236237ed9b0b07fb53e1a27063.1920x1080.jpg?t=1793204136",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4702140,
-      "name": "TCG Football Card Shop Simulator",
-      "description": "Manage your own football card shop! Open card packs to discover rare football player cards, stock your shelves with football merchandise, sell to customers, expand your store, and build the ultimate football card shop.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702140/574aa4dcbe3ff284f814d9ba662b9b0e75705cfd/ss_574aa4dcbe3ff284f814d9ba662b9b0e75705cfd.1920x1080.jpg?t=1793867391",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4668250,
-      "name": "Mini Sushi Factory",
-      "description": "Build your own sushi factory in this cozy automation game. Unlock new ingredients, buy new recipes and upgrade food machinery to feed the Yōkai with food they love.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668250/48ec6ab379eeb31046d700f3d7a1d41a6cc9e8af/ss_48ec6ab379eeb31046d700f3d7a1d41a6cc9e8af.1920x1080.jpg?t=1794257318",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4666620,
-      "name": "Tiny Taxi",
-      "description": "Drift, drive and survive in a top-down pixel art city! Pick up passengers with strange demands, earn cash to upgrade your taxi and choose curses that make every run tougher. Customize your cab/driver, build your mixtape and climb the leaderboard.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666620/89ba0a2a1a1e667bd4dff0a6cb7863ccbb412673/ss_89ba0a2a1a1e667bd4dff0a6cb7863ccbb412673.1920x1080.jpg?t=1793270252",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4652830,
-      "name": "Synapse Idle",
-      "description": "Grow a 3D neural network from a single neuron. Workers haul energy along radiant paths, buildings amplify every passing signal, and a 100-node skill tree reshapes how your synapse evolves. A calm, incremental idle game about watching complexity bloom — tinted in whatever colors you choose.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652830/087e177ed2fd4bc6eb0a28ac0ef32bc1a10ac33a/ss_087e177ed2fd4bc6eb0a28ac0ef32bc1a10ac33a.1920x1080.jpg?t=1777020574",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4585530,
-      "name": "Mind The Gap",
-      "description": "Mind The Gap is a puzzle platformer game where you and your unlikely companion work together to create your own path to freedom. Featuring 80+ handcrafted levels, unique bosses, and hidden collectables, each stage introduces new mechanics that push your abilities further.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585530/7b6d4099bbb110cde5c864ec1564009edb94a616/ss_7b6d4099bbb110cde5c864ec1564009edb94a616.1920x1080.jpg?t=1787932790",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4479150,
-      "name": "Kādomon: Incremental Eclipse",
-      "description": "Build a team of Kādomon that fights for you, then push deeper. An Idle Incremental RPG where your creatures auto-battle through endless waves, each with their own skill tree to master. Eclipse your run to unlock permanent power and climb further than ever before.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479150/b1e112a49f40afedc3800dd831c2f35e138596e1/ss_b1e112a49f40afedc3800dd831c2f35e138596e1.1920x1080.jpg?t=1794267778",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4456670,
-      "name": "Thieving Together",
-      "description": "You and your crew have one goal: break in, grab everything, and get out before sunrise. Thieving Together is a chaotic physics PvP &amp; co-op heist party game. Drag loot, dodge rivals, stack the van fast. Everything wobbles. Everyone steals. Biggest haul by sunrise wins.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456670/2a25fd7717bbafef7eeea1bc973cf59565ca024b/ss_2a25fd7717bbafef7eeea1bc973cf59565ca024b.1920x1080.jpg?t=1779711871",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
       "score": 8
     }
   ]
