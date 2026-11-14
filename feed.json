@@ -1,6 +1,105 @@
 {
-  "checkedAt": "2026-11-13T21:40:21.281Z",
+  "checkedAt": "2026-11-14T01:51:49.004Z",
   "games": [
+    {
+      "id": 5007660,
+      "name": "Froggous Grove",
+      "description": "Raise little cube-shaped frogs in a voxel marsh you bring back to life. Collect flies, hatch eggs to discover 82 species, clear away the trash and redecorate every corner however you like. A gentle life sim with no pressure.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007660/18fc9e8aee39588c69af81fe826aec507f323d0b/ss_18fc9e8aee39588c69af81fe826aec507f323d0b.1920x1080.jpg?t=1794239400",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4931510,
+      "name": "There is No Stress in Outer Space",
+      "description": "An incremental game about a spaceship in outer space destroying asteroids and other strange objects. Take control of the spaceship's gun, shoot, earn money, make upgrades and unlock new weapons and targets.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931510/b21e38a033246fba5a9ba9b79ee7f81ad9d120b8/ss_b21e38a033246fba5a9ba9b79ee7f81ad9d120b8.1920x1080.jpg?t=1794419866",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4608670,
+      "name": "Don't Stop The Pop!",
+      "description": "Ready to turn a single kernel into an unstoppable popcorn machine? Build your strategy with a massive Skill Tree; discover dozens of flavors from salty to chocolatey, spicy to salted caramel, and fill the screen with pops! Earn more, pop more! Don't Stop the Pop! 🍿",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608670/5426a303ff2c47755f275ab053b286f0c4fa8ed0/ss_5426a303ff2c47755f275ab053b286f0c4fa8ed0.1920x1080.jpg?t=1794393176",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4179640,
+      "name": "Overtake: Taskbar Racer",
+      "description": "Overtake is an idle racing game that lives on your taskbar, built for people who spend all day at the keyboard. Your car cruises along while you work, and every keystroke gives it an extra push. Collect skins and trade them on the Steam Community Market, climb the leaderboards and never stop moving.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179640/287ad550ad664893e1262eeea7175d8f502af870/ss_287ad550ad664893e1262eeea7175d8f502af870.1920x1080.jpg?t=1794236607",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4933660,
+      "name": "Mars Inc 98",
+      "description": "Mars Inc 98 is a retro Windows 98 styled incremental game about terraforming Mars. Mine ore, craft parts, build machines and launch rockets to turn the Red Planet from a dusty wasteland into a habitable world.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933660/2deee4be02db3be4d7e309573b23682f7fd415ca/ss_2deee4be02db3be4d7e309573b23682f7fd415ca.1920x1080.jpg?t=1794235535",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4144590,
+      "name": "Brew & Dash",
+      "description": "Jump, duck, accelerate, and run to test your reflexes by dodging obstacles and enemies, collecting ingredients along the way to brew potions, gaining new powers, and going even further. Face challenges on randomly selected maps in this new take on the genre.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144590/dc516b91017916195674753288ea22069dcb245b/ss_dc516b91017916195674753288ea22069dcb245b.1920x1080.jpg?t=1794240257",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3934180,
+      "name": "Don Memo",
+      "description": "Don Memo is a brave bull who embarks on one final journey across Costa Rica to rescue his granddaughter and confront Pisuicas. Fight against legends and shadows of the past in this 2D pixel platformer, while carrying the legacy of a family destined to protect the world from evil.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934180/c57cd9da7aeb5ada521442bc73b13f9a25dd0d6e/ss_c57cd9da7aeb5ada521442bc73b13f9a25dd0d6e.1920x1080.jpg?t=1792991189",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3842660,
+      "name": "XX Fulfillment Center",
+      "description": "You've been hired as a Part-Time Contract Packaging Worker at the fulfillment center.Can you find your own happiness amid the speeding conveyor belts and ever-growing list of rules?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842660/ed76029fac8ffd5d25093bd0c65d4650926b365f/ss_ed76029fac8ffd5d25093bd0c65d4650926b365f.1920x1080.jpg?t=1794224755",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5188200,
+      "name": "Dead Man's Pass",
+      "description": "Inspect travel passes and question the strangers who reach your mountain gate after dark. In this yokai inspection game, compare every face, paper, and answer, then let them pass, turn them away, or draw your sword. Your family and the village bear the cost.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5188200/3fea2367f55a16b72fbfb69bfc93fe120ce28e82/ss_3fea2367f55a16b72fbfb69bfc93fe120ce28e82.1920x1080.jpg?t=1794242301",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 4617220,
+      "name": "Drained Creatures",
+      "description": "Drained Creatures is a multiplayer 3D arena brawler for up to 8 players locally, playable using gamepads only.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617220/1ca8bc37c23cb5a43ca045b77ab35b8599569b33/ss_1ca8bc37c23cb5a43ca045b77ab35b8599569b33.1920x1080.jpg?t=1794212728",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "party",
+      "score": 5
+    },
+    {
+      "id": 4566430,
+      "name": "Daughter of Dawn",
+      "description": "Only you can shape her destiny. Raise and guide the last princess of a fallen kingdom. Through friendship, love, growth, and loss, your choices determine her future. An emotional life simulation RPG with dozens of endings.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566430/d04a41728b975d7a279b008ea6968a3c469102af/ss_d04a41728b975d7a279b008ea6968a3c469102af.1920x1080.jpg?t=1794230479",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
     {
       "id": 5414500,
       "name": "Mountain Rescuers",
@@ -9,6 +108,15 @@
       "firstSeen": "2026-11-09T07:51:50.394Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5519520,
+      "name": "Corehold",
+      "description": "We lost the surface and went underground. Now the Core rises to take it back. Craft your Weapon from parts, build a new fortress every run and hold off thousands of creatures at once. Then grow your underground Outpost and take back the surface, one sector at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5519520/78dc690c890826dc9de1a36dd5cea84e8929fa06/ss_78dc690c890826dc9de1a36dd5cea84e8929fa06.1920x1080.jpg?t=1794492260",
+      "firstSeen": "2026-11-09T07:51:50.394Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5244330,
@@ -36,6 +144,24 @@
       "firstSeen": "2026-11-09T07:51:50.394Z",
       "mechanic": "party",
       "score": 6
+    },
+    {
+      "id": 5559730,
+      "name": " Tongyou Town",
+      "description": "A town that runs itself. You decide who ventures out, where they go, and what the town sells. Recruit, form squads, farm regions, craft gear, and run the market — the rest happens without you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559730/3a0bed07daf2a413d1322594e9806394e189a1e4/ss_3a0bed07daf2a413d1322594e9806394e189a1e4.1920x1080.jpg?t=1794562250",
+      "firstSeen": "2026-11-09T07:51:50.394Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5542450,
+      "name": "Order Filled: A Trading Desk Story",
+      "description": "Your first job on a trading desk, 2010. Each morning your supervisor hands you Tickets: a client's order to work, shares the desk wants gone, each with a deadline and a limit. You work them in a trading terminal, and the desk grades how you worked, not what you made. A story-driven job sim.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542450/369408fe9d6721b125a69d0e9a0ee3cf9e5e0e70/ss_369408fe9d6721b125a69d0e9a0ee3cf9e5e0e70.1920x1080.jpg?t=1794586089",
+      "firstSeen": "2026-11-09T07:51:50.394Z",
+      "mechanic": "incremental",
+      "score": 5
     },
     {
       "id": 5557260,
@@ -68,19 +194,10 @@
       "id": 5499310,
       "name": "Pastelaria Idle",
       "description": "Run a Brazilian pastel shop in first person: roll the dough, fill, fry and serve every pastel with your own hands. Hire staff, build your shop your way and grow from one kitchen to outer space, solo or with up to 10 friends online.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5499310/2d32d266d652bbc677f065f8f63e5ac2459c3b5e/ss_2d32d266d652bbc677f065f8f63e5ac2459c3b5e.1920x1080.jpg?t=1794594633",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5499310/2d32d266d652bbc677f065f8f63e5ac2459c3b5e/ss_2d32d266d652bbc677f065f8f63e5ac2459c3b5e.1920x1080.jpg?t=1794613287",
       "firstSeen": "2026-11-08T21:12:52.435Z",
       "mechanic": "incremental",
       "score": 10
-    },
-    {
-      "id": 3790280,
-      "name": "Over the Radio",
-      "description": "Local co-op game about flying a plane. One player is the pilot, the other the navigator. The pilot has no map. The navigator guides the pilot using only words. Work together to reach your goal in a remixable national park map.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3790280/bfb1ad23afa7a4f7950375740b5f06bad8414202/ss_bfb1ad23afa7a4f7950375740b5f06bad8414202.1920x1080.jpg?t=1766191540",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "simulator",
-      "score": 9
     },
     {
       "id": 5536820,
@@ -299,24 +416,6 @@
       "score": 8
     },
     {
-      "id": 4209930,
-      "name": "挂机后花园.放置牧场AFK back garden.idlepasture",
-      "description": "Create your personal oasis in the corner of your desktop.​ This is a laid-back idle simulation game where simple clicks allow you to grow plants and feed adorable animals. Watch them thrive and multiply, receive surprise letters and gifts, and let the serene ambiance of nature fill your screen.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209930/35cf71996a566e82d865fc47196077405990278a/ss_35cf71996a566e82d865fc47196077405990278a.1920x1080.jpg?t=1787735643",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4208160,
-      "name": "Frontiers of the Realms",
-      "description": "Build a realm and a deck to match. Grow villages into cities, shape production chains and play cards for supplies, expansion and tactical support. A turn-based strategy game where rivals act in the same round. Play against AI or challenge friends online.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4208160/6e8b52a21386a127f42245efcf019d46be61275e/ss_6e8b52a21386a127f42245efcf019d46be61275e.1920x1080.jpg?t=1790283011",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 3488670,
       "name": "Villainville",
       "description": "Join the outcasts of Villainville in this cozy farming sim adventure where Stardew Valley meets Shrek. Grow magic crops, tame the tiny unicorns, sneak into the night market, and befriend misfit fairy tale characters. Bonus? Find the misery mushroom plague saboteur and redeem the irredeemable.",
@@ -380,15 +479,6 @@
       "score": 6
     },
     {
-      "id": 4873150,
-      "name": "Touhou Mushroom Defense",
-      "description": "Touhou Mushroom Defense is a Touhou Project fan-made game. It’s a defense game where Marisa turns mushrooms into towers to defeat enemies. In the game, you need to gather materials to build towers and construct towers to block the enemy’s path.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873150/29703e05e01c4a859fe2162657aa0380c9a42b3f/ss_29703e05e01c4a859fe2162657aa0380c9a42b3f.1920x1080.jpg?t=1792129451",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 4115510,
       "name": "Meowzic Survivor",
       "description": "A rhythm-integrated roguelike that fuses survivor-style gameplay with dynamic music mechanics. Your firepower flows directly from the rhythm, meaning your combat build is also your custom game music. It’s time to conquer the universe with your own rhythmic symphony of destruction!",
@@ -405,6 +495,15 @@
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "physics",
       "score": 10
+    },
+    {
+      "id": 5370810,
+      "name": "The King Must Grow",
+      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
+      "firstSeen": "2026-11-08T11:34:42.433Z",
+      "mechanic": "incremental",
+      "score": 9
     },
     {
       "id": 4325070,
@@ -440,105 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5524610/26fe95c95847c080acdbf1cebb6cde34d850cb09/ss_26fe95c95847c080acdbf1cebb6cde34d850cb09.1920x1080.jpg?t=1794503311",
       "firstSeen": "2026-11-08T11:34:42.433Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5521920,
-      "name": "Sift Happens: Idle Beach Treasure",
-      "description": "Someone on the boardwalk just tossed a cigarette butt onto the beach, and now it's buried in the sand. Sift it out, watch it fly into a bin and get paid. Hire more throwers, let crabs collect for you and keep this idle beach running until the junk turns into treasure.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5521920/380be89a43873fa2d56f254137383f0997c9304d/ss_380be89a43873fa2d56f254137383f0997c9304d.1920x1080.jpg?t=1794492014",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5521470,
-      "name": "Needle in a Haystack Simulator in a Haystack of Needle in a Haystack Simulators",
-      "description": "5,000,000 games on VAPOR, and all but one are clones. From your bedroom PC, screen procedurally generated store pages, stamp each fake on the detail that gives it away, put bots to work, and dig through the haystack for the one original. An incremental hidden object parody.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5521470/ab6a8daaf8a65c35f0638d47050e343ac0fc9da2/ss_ab6a8daaf8a65c35f0638d47050e343ac0fc9da2.1920x1080.jpg?t=1793795643",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5397130,
-      "name": "Next, Million Worlds",
-      "description": "Expand your civilization to an empire of a million worlds. Balance production and logistics, experiment with economy mods, but don't sweat it. This is the age of expansion; growth is inevitable. This is a relaxed incremental experience where you can optimize and experiment, but you can't lose.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397130/5e036fabd5e42417943742d667bd177d4995bce6/ss_5e036fabd5e42417943742d667bd177d4995bce6.1920x1080.jpg?t=1792663340",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5370810,
-      "name": "The King Must Grow",
-      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5325510,
-      "name": "Festival Fireworks Simulator",
-      "description": "Whenever you want fireworks, the night sky is ready. Click to launch a burst, write a wish across the sky, or build a whole show from the very first shell. Holidays, birthdays and ordinary evenings all deserve a fireworks show.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325510/c8e9b5c6f8ddbf5f62db06883c6f14e7b8004562/ss_c8e9b5c6f8ddbf5f62db06883c6f14e7b8004562.1920x1080.jpg?t=1792632691",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5307740,
-      "name": "Clean 'Em Ocean",
-      "description": "An incremental game about cleaning the ocean with a speedboat, unlocking upgrades, and cleaning more trash. Will you save the ocean?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307740/e2aafa88bbcb76c8456310062ce386c3e3c5d5e0/ss_e2aafa88bbcb76c8456310062ce386c3e3c5d5e0.1920x1080.jpg?t=1792897901",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5219900,
-      "name": "The First Pixel",
-      "description": "In the beginning there is a white screen and one black pixel. Click it, and it wakes. Grow it into pattern, memory and meaning, hunt 100 lost relics across erased worlds, and discover what a pixel sees once it has gathered everything. A quiet, mysterious incremental.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5219900/42cc1df28e066df2deafa1796f1a764598144001/ss_42cc1df28e066df2deafa1796f1a764598144001.1920x1080.jpg?t=1794568245",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5210210,
-      "name": "KIBA - Kittys Idle Brick Arena",
-      "description": "Let it brick! Mix &amp; match 20 unique balls across 14 Active, Passive, and Clicker slots to trigger massive chain reactions. Earn gold, smash bricks, and trigger prestige for permanent upgrades. Play actively or just sit back and progress idle!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5210210/7d8a271adc6c1500a1cbd962120ee15fec3a1f0a/ss_7d8a271adc6c1500a1cbd962120ee15fec3a1f0a.1920x1080.jpg?t=1790180791",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5201420,
-      "name": "Desktop Arrow Defense",
-      "description": "&quot;Desktop Arrow Defense&quot; is an idle tower defense mini-game that runs on your desktop. It lets you work while watching your tiny archer defend against incoming enemies. Upgrade your character's attributes, collect and enhance equipment, unlock skill combinations, and create your legendary archer!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201420/c46389464fd6fff3723be02c8bd3cc22428a3488/ss_c46389464fd6fff3723be02c8bd3cc22428a3488.1920x1080.jpg?t=1792027815",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5186990,
-      "name": "Edenfinity",
-      "description": "Edenfinity is a relaxing incremental colony game where you guide Adam and Eve as they build a new civilization in Eden. Gather resources, sell your surplus, craft bricks, construct houses, and unlock upgrades.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5186990/77af296ff5c22e43f4ae5f59d74af62a383d3e10/ss_77af296ff5c22e43f4ae5f59d74af62a383d3e10.1920x1080.jpg?t=1790868754",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5182680,
-      "name": "Cash & Stash: A Vaultkeeper Story",
-      "description": "After a failed robbery attempt, the bank has been torn apart and left in complete chaos. Now, as the Vaultkeeper, you must sort through more than 16,000 scattered items, return everything to its proper place, and uncover the stories behind the bank’s clients and their valuables.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5182680/224ba2c0432fd8c5c544653b291bbf64b460de9b/ss_224ba2c0432fd8c5c544653b291bbf64b460de9b.1920x1080.jpg?t=1794267235",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
       "score": 8
     }
   ]
