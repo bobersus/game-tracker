@@ -1,6 +1,105 @@
 {
-  "checkedAt": "2026-11-14T15:09:12.545Z",
+  "checkedAt": "2026-11-14T19:57:24.496Z",
   "games": [
+    {
+      "id": 5398350,
+      "name": "Take Care!!!",
+      "description": "A chaotic co-op pharmacy sim for 1–4 players. Serve patients, fill prescriptions, hit your quotas—and pray nobody loses it. Turn mounting stress into a resource and somehow make it to closing time!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398350/2e2b88924eadb16aea6ee83673f501ed817fbc16/ss_2e2b88924eadb16aea6ee83673f501ed817fbc16.1920x1080.jpg?t=1794298037",
+      "firstSeen": "2026-11-10T08:15:20.210Z",
+      "mechanic": "incremental",
+      "score": 9
+    },
+    {
+      "id": 5532860,
+      "name": "Sortman",
+      "description": "A Swiss sorting hall buried under a million letters and parcels. Sort by hand, weigh, throw, load the vans, answer furious customers, then build a chain of belts and machines that fills the vans by itself. Solo or up to four players, no timer.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532860/aabaad30d6a27eac1b123f0e2dd441db63c054ba/ss_aabaad30d6a27eac1b123f0e2dd441db63c054ba.1920x1080.jpg?t=1794547959",
+      "firstSeen": "2026-11-10T08:15:20.210Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5525890,
+      "name": "Cupid's Bargain",
+      "description": "A matchmaker summons a pair of devilishly fine deities to help save her dying club because, like, who needs a soul anyway? Go fall in love and sell your classmates’ souls in this horror romantic comedy!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5525890/c379f10cc81f68c12f621be5b3b942f9306f4942/ss_c379f10cc81f68c12f621be5b3b942f9306f4942.1920x1080.jpg?t=1794364726",
+      "firstSeen": "2026-11-10T08:15:20.210Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5442140,
+      "name": "Hurlyburly",
+      "description": "Throw swords. Fall. Pick a card. Come back meaner. Hurlyburly is a top-down party brawler for 2–8 players where dying is how you upgrade and 150+ stacking cards turn every match into chaos.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442140/53964dee16d1c5ce110a34b629718f3a26d0cc18/ss_53964dee16d1c5ce110a34b629718f3a26d0cc18.1920x1080.jpg?t=1794593980",
+      "firstSeen": "2026-11-10T08:15:20.210Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5178940,
+      "name": "Gravith",
+      "description": "Gravith is a high-difficulty score attack game. Use the gravity of your mouse cursor (planet) to alter the path of incoming missiles and destroy targets. However, if a missile hits your planet, it's an instant game over. Experience high-risk gameplay where one slip-up ends it all.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5178940/b20081033832094ca9abde05d0a38127fefec0b8/ss_b20081033832094ca9abde05d0a38127fefec0b8.1920x1080.jpg?t=1794276353",
+      "firstSeen": "2026-11-10T08:15:20.210Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5094110,
+      "name": "Thirst Game",
+      "description": "Good evening, viewers! Welcome to The Thirst Games! Tonight’s lucky contestants are you and your unlucky friends! Place your bets, run the gauntlet, trip each other up—and see who gets rich overnight and who ends up as roadkill.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094110/33d5cc5ffbaecaf08f0010cb5e81bc6bb80517e3/ss_33d5cc5ffbaecaf08f0010cb5e81bc6bb80517e3.1920x1080.jpg?t=1794540989",
+      "firstSeen": "2026-11-10T08:15:20.210Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5311190,
+      "name": "Test Your Luck: Gacha Simulator",
+      "description": "Welcome to GachaOS, the premier gacha gaming platform for whales! Play a gauntlet of incremental gacha games with Moby, our helpful Gacha Assistant. Build your fortune, then burn it all pulling characters, ripping packs, or opening crates. Unlucky? With GachaOS, turn your misfortune into fortune!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311190/35c4f468cbab3b1280dbb37b2af27514f0d1f3ab/ss_35c4f468cbab3b1280dbb37b2af27514f0d1f3ab.1920x1080.jpg?t=1794360642",
+      "firstSeen": "2026-11-10T08:15:20.210Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5565480,
+      "name": "ONE BRAINCELL",
+      "description": "Two bodies. One brain. Zero common sense. ONE BRAINCELL is a 2-player online co-op puzzle platformer where only one of you can think at a time. Pass the brain, steal it at the worst moment, yell secret codes across the room and fail gloriously together.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565480/99c7bb281d70f11d828a1766e2b27ff9004b6332/ss_99c7bb281d70f11d828a1766e2b27ff9004b6332.1920x1080.jpg?t=1794264848",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5563330,
+      "name": "Sunday Socks",
+      "description": "Sunday Socks is a cosy first-person tidying game. Socks are scattered all over the house: find each sock's twin, roll the pair into a ball and toss it into the Pair-O-Matic. Unlock upgrades, get help from the little Sock Bot and race for the fastest clear on the Steam leaderboards.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563330/e94d08db2f332fc6a098fe496d879f94bd9bf7d2/ss_e94d08db2f332fc6a098fe496d879f94bd9bf7d2.1920x1080.jpg?t=1794302720",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5561230,
+      "name": "CatCat Panic",
+      "description": "CatCat Panic is a chaotic online party game for 3–4 players! Pick your cat and battle your friends in 14 crazy mini-games: rob Nazif’s house, escape the vacuum monster, hop on your skateboard and race. Only one cat takes the crown!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561230/c45b0f92039cd703eec4f52382b8ca8eb9c7099a/ss_c45b0f92039cd703eec4f52382b8ca8eb9c7099a.1920x1080.jpg?t=1794257699",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5561120,
+      "name": "Single File",
+      "description": "A pixel-art auto-battler. You get one save file. If your party wipes, it's deleted and you start over. Not quite from zero though cause the Scrolls you earned stay, and they make every new file stronger. Grow a party of six. Use their abilities. Fight against 36 bosses.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561120/d75a24b2c55708c7a188badbc59150770bd2cfca/ss_d75a24b2c55708c7a188badbc59150770bd2cfca.1920x1080.jpg?t=1794644639",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "physics",
+      "score": 8
+    },
     {
       "id": 5553490,
       "name": "CarCity",
@@ -92,6 +191,24 @@
       "score": 8
     },
     {
+      "id": 5560190,
+      "name": "Simple Tech Startup",
+      "description": "Found a small game studio in 1975 and grow it into an industry giant. Build rooms on your own lot, hire a team, create your own engines and release games, while loans, taxes and rival companies keep you on your toes as the decades roll on into the age of AI.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5560190/0dc8e00fd311f0b5f8131c806b6761bb86c90dbd/ss_0dc8e00fd311f0b5f8131c806b6761bb86c90dbd.1920x1080.jpg?t=1794248345",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5561960,
+      "name": "DELF",
+      "description": "Explore a dark and dangerous cave with your team. Gather resources, craft equipment, and manage your oxygen and stamina. Evade the creature lurking in the depths, work together, and find your way out alive!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561960/2f8b88497157543953ce2cac7f4842bb3bee3803/ss_2f8b88497157543953ce2cac7f4842bb3bee3803.1920x1080.jpg?t=1794250959",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
       "id": 5536170,
       "name": "STRAY BULLET",
       "description": "Free-to-play cartoon shooter where YOU are the bullet. Hop, blast off with gunpowder, fly on flames and go kamikaze in online matches for up to 20 players, with bots and local split screen. 28 weapons, 5 maps, 4 modes. No pay-to-win.",
@@ -135,6 +252,15 @@
       "firstSeen": "2026-11-10T00:52:17.351Z",
       "mechanic": "incremental",
       "score": 6
+    },
+    {
+      "id": 5562010,
+      "name": "Shaft Nine",
+      "description": "Work the shift. Meet the quota. Go a little deeper. A 2D pixel art mining game about a job that gets stranger the further down you go: less automation, more discovery, and secrets that don't stay underground.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5562010/ef52067035d0a8a9019d8578ba5617a819a33899/ss_ef52067035d0a8a9019d8578ba5617a819a33899.1920x1080.jpg?t=1794594641",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "incremental",
+      "score": 5
     },
     {
       "id": 5556030,
@@ -205,7 +331,7 @@
       "description": "The amusement park is closed for the night, but you are still watching it. Check the cameras, find what has changed among the rides and shops, and report it before the night is over.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448110/a029220a75e78ff36896ae540a8be00a562b012e/ss_a029220a75e78ff36896ae540a8be00a562b012e.1920x1080.jpg?t=1794489200",
       "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "simulator",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -230,7 +356,7 @@
       "id": 4608670,
       "name": "Don't Stop The Pop!",
       "description": "Ready to turn a single kernel into an unstoppable popcorn machine? Build your strategy with a massive Skill Tree; discover dozens of flavors from salty to chocolatey, spicy to salted caramel, and fill the screen with pops! Earn more, pop more! Don't Stop the Pop! 🍿",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608670/5426a303ff2c47755f275ab053b286f0c4fa8ed0/ss_5426a303ff2c47755f275ab053b286f0c4fa8ed0.1920x1080.jpg?t=1794393176",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608670/5426a303ff2c47755f275ab053b286f0c4fa8ed0/ss_5426a303ff2c47755f275ab053b286f0c4fa8ed0.1920x1080.jpg?t=1794671704",
       "firstSeen": "2026-11-09T17:50:49.747Z",
       "mechanic": "simulator",
       "score": 8
@@ -243,24 +369,6 @@
       "firstSeen": "2026-11-09T17:50:49.747Z",
       "mechanic": "physics",
       "score": 8
-    },
-    {
-      "id": 5557760,
-      "name": "Desk Top Soccer",
-      "description": "Manage your football club from a corner of your desktop or in fullscreen. Pick the line-up, train, build up the club and take your team from the bottom division to the top at your own pace. In multiplayer, compete in leagues against managers worldwide and trade players on the Steam Market.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557760/b35473e80ba8fba8d17939090b2a483fa38ebe15/ss_b35473e80ba8fba8d17939090b2a483fa38ebe15.1920x1080.jpg?t=1794353862",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5554250,
-      "name": "Ladder of Numbers",
-      "description": "Ladder of Numbers turns arithmetic into combat skills: charge with addition, multiply into clones, fire with subtraction, divide to split. Climb its steps through thunderclouds and imaginary-number storms to the edge of the sky.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554250/62947c115056930626325f3691c967924b9a2124/ss_62947c115056930626325f3691c967924b9a2124.1920x1080.jpg?t=1794232817",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 6
     },
     {
       "id": 5540060,
@@ -416,15 +524,6 @@
       "score": 10
     },
     {
-      "id": 5536820,
-      "name": "Silicon Life: From Bedroom to Billion",
-      "description": "September 1981. A bedroom, a workbench, a dream: build a computer empire. Assemble, repair and sell PCs in 3D through the real hardware of 1981 to 2025 under parodied names, from the garage to the factory, and aim for a billion.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536820/0811eefd9084d4defd8789823b7f84d3fc62280b/ss_0811eefd9084d4defd8789823b7f84d3fc62280b.1920x1080.jpg?t=1793911643",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4886180,
       "name": "My Cat Companion",
       "description": "Your desktop is too quiet. Pick a cat. Paint their fur. One stalks your cursor. One reacts to every click and key. One bounces when tossed. Try to get work done. You answer to them now.",
@@ -440,105 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818260/6738f6e845ec875fe4a316818f390e02d13e404a/ss_6738f6e845ec875fe4a316818f390e02d13e404a.1920x1080.jpg?t=1791902182",
       "firstSeen": "2026-11-08T21:12:52.435Z",
       "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4525390,
-      "name": "Stacko",
-      "description": "In Stacko, remember your childhood while earning awesome prizes that change the way you play. Your goal is simple: stack the blocks as high as you can! Earn cards to modify the machine and plushies with powerful bonuses, all while playing this unique twist on the classic arcade experience.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4525390/4111704265d6c233842c5be916136c2f7675f7ae/ss_4111704265d6c233842c5be916136c2f7675f7ae.1920x1080.jpg?t=1792369682",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4298340,
-      "name": "BumperMania",
-      "description": "A car crashing arena game with a voxel look that you can play online with friends. Ram the other cars until they fall apart, or push them off the edge. There are all kinds of silly weapons around too. Last car standing wins. You can play PvP or PvE.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298340/4eb141c76aec697b75d48ba6e428c305b6404c94/ss_4eb141c76aec697b75d48ba6e428c305b6404c94.1920x1080.jpg?t=1794313298",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5450560,
-      "name": "Escape the Walls",
-      "description": "You're surrounded by walls. All you have on you is your hands. You have to punch your way through, no other choice.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5450560/f21187b726177b3b474c0fa1774650d434bd4cf5/ss_f21187b726177b3b474c0fa1774650d434bd4cf5.1920x1080.jpg?t=1794320232",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5421950,
-      "name": "Wood You Siege?",
-      "description": "Lay siege to the forest in a short, chaotic incremental roguelite. Build an absurd arsenal, adapt to powerful random upgrades each run, and expand a massive skill tree to make every siege stronger than the last.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5421950/59edb74f338874d3da4f75f885db9c73c13d0dab/ss_59edb74f338874d3da4f75f885db9c73c13d0dab.1920x1080.jpg?t=1794316298",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4404900,
-      "name": "Dominos",
-      "description": "Dominos is the classic tile game reimagined with multiple modes, tactical depth, and stylish customization. Play solo or with friends, battle players online, climb the ranks, unlock cosmetics, and make the experience your own.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4404900/8446365019afd23eaa54153384ad1cfd9ed7a4ca/ss_8446365019afd23eaa54153384ad1cfd9ed7a4ca.1920x1080.jpg?t=1783096542",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4401950,
-      "name": "Indie City Mixtape 2026",
-      "description": "The Indie City Mixtape features seven small games, all contained within a 3D Platformer launcher. Ranging from shaving llamas to horror narrative, there's something for everyone in this ABSOLUTE BARGAIN of a collection!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4401950/baab7ebb3a779753e50a382e78438bdbe199cbd3/ss_baab7ebb3a779753e50a382e78438bdbe199cbd3.1920x1080.jpg?t=1781140392",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3704910,
-      "name": "Pawcision",
-      "description": "Pawcision is a 2D retro-style LITERAL Precision Platformer with an Interactive Music System. Play as a cat with one goal: climb as high as you can. Like a cat, every jump you make must be PRECISELY calculated. Customize your look and conquer challenging obstacles with pixel-perfect reflexes.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3704910/e4e4d02562b2ca1d400d2d8de34fff1d7e3da51a/ss_e4e4d02562b2ca1d400d2d8de34fff1d7e3da51a.1920x1080.jpg?t=1789194474",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3703450,
-      "name": "Trick-Taking Rogue",
-      "description": "Trick-Taking × Roguelike! Trick-taking games fused with roguelike elements like skills and shops! Features 9 trick-taking games including Spades, Oh Hell, and Schnapsen!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703450/e578b0044847ed566b93faff21abb2278b184b84/ss_e578b0044847ed566b93faff21abb2278b184b84.1920x1080.jpg?t=1792500538",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3165740,
-      "name": "Minato",
-      "description": "Minato combines classic minesweeper with roguelike elements. Progress through increasingly challenging stages, discover unique items, and face guardians that add unexpected twists before proceeding to the next floor.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165740/58adf306ac4b03715eb8f6a3689b4377b01bd2e0/ss_58adf306ac4b03715eb8f6a3689b4377b01bd2e0.1920x1080.jpg?t=1794169485",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5502910,
-      "name": "Gladiadorks",
-      "description": "Gladiadorks is a goofy online co-op gladiator brawler. Slap your knocked-out friend awake, throw rivals across the arena and fight lions, elephants and a giant on your climb from a muddy village ring to the Colosseum.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5502910/f1d7e6155828706ddb5b16dadcc125c2e68f530c/ss_f1d7e6155828706ddb5b16dadcc125c2e68f530c.1920x1080.jpg?t=1794191419",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5499760,
-      "name": "Grass Planet",
-      "description": "Stranded on an alien planet, you must mow endless grassy hills to uncover the materials needed to rebuild your ship. Upgrade your lawnmower and uncover the mystery of the planet in this short incremental adventure.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5499760/5bc9e440c78174b19e4b2e331dbac651ad5ab823/ss_5bc9e440c78174b19e4b2e331dbac651ad5ab823.1920x1080.jpg?t=1793690453",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "incremental",
       "score": 8
     }
   ]
