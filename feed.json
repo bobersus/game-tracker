@@ -1,13 +1,94 @@
 {
-  "checkedAt": "2026-11-14T01:51:49.004Z",
+  "checkedAt": "2026-11-14T08:08:53.965Z",
   "games": [
     {
-      "id": 5007660,
-      "name": "Froggous Grove",
-      "description": "Raise little cube-shaped frogs in a voxel marsh you bring back to life. Collect flies, hatch eggs to discover 82 species, clear away the trash and redecorate every corner however you like. A gentle life sim with no pressure.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007660/18fc9e8aee39588c69af81fe826aec507f323d0b/ss_18fc9e8aee39588c69af81fe826aec507f323d0b.1920x1080.jpg?t=1794239400",
+      "id": 3230210,
+      "name": "Tasty Business",
+      "description": "In Tasty Business, turn small restaurants into a culinary empire. Manage your businesses, source fresh ingredients, and attract customers as you expand your empire. Challenges, flavors, and new connections await. Are you ready to become the culinary mogul?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230210/ss_6a1a93756924a6a950f1745728ec5577fbe3dd08.1920x1080.jpg?t=1794260331",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5556030,
+      "name": "Desert Diggers",
+      "description": "Dig out a lost Egyptian city with up to 7 friends! Shovel deformable sand, haul fragile treasures together, survive cave-ins, snakes and sandstorms, and bury your friends alive when they least expect it. Dynamite is cheap. Friendships are not.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556030/89bd7c3f02b9c9b4ad764b996f088bb476575501/ss_89bd7c3f02b9c9b4ad764b996f088bb476575501.1920x1080.jpg?t=1794477507",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5518840,
+      "name": "Little St. Files Mayhem",
+      "description": "The Oval Office has a paperwork problem. Sort case folders, decipher damaged labels and put the archive in order alone or with up to 3 friends. Pass audits and upgrade your skills in a first-person filing game where every folder needs a home.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518840/83d6393fd65f95ca6665b0587c1a676817dcf217/ss_83d6393fd65f95ca6665b0587c1a676817dcf217.1920x1080.jpg?t=1794232946",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5370260,
+      "name": "Junk Tower Together",
+      "description": "What are friends for if not to build a tower out of junk together... In Junk Tower Together, take turns stacking the most ridiculous objects, balance on the brink of disaster, and build a crazy tower with a group of up to 8 players.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370260/12e4fd627219040bd812f3e6d55eb797724198f2/ss_12e4fd627219040bd812f3e6d55eb797724198f2.1920x1080.jpg?t=1794591937",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5232990,
+      "name": "Ranchonauts",
+      "description": "A slapstick co-op game about herding alien sheep across a dangerous frontier. Work solo or with up to 5 friends to keep your flock together through physics-fueled disasters, pay off your ship-repair debt, and get home in one piece.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5232990/1f1b93c10526c218fe4e9dea4902c679d34a50ca/ss_1f1b93c10526c218fe4e9dea4902c679d34a50ca.1920x1080.jpg?t=1794239701",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "incremental",
+      "score": 9
+    },
+    {
+      "id": 5546020,
+      "name": "My Little Shadow",
+      "description": "A little daughter, right on your desktop. Choose a child to share your days with: she plays, draws you gifts, gets a little mischievous, and naps nearby while you work. Share snacks, play together, and grow closer at your own pace—without daily chores or guilt for being away.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5546020/cbf05d3456998cb72c20d506f2337e9279ea0fff/ss_cbf05d3456998cb72c20d506f2337e9279ea0fff.1920x1080.jpg?t=1794223815",
       "firstSeen": "2026-11-09T17:50:49.747Z",
       "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5519530,
+      "name": "Warehouse Drink Sorting Simulator",
+      "description": "Nearly 300,000 drinks in one mountain. Work through six halls, starting with a handful at a time. Earn money for bigger totes, carts, a lift and a giant scoop, then hire robot cats to pick and stack with you. No timers, no fail states.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5519530/b930c3048f04d355b140af350be9d103bd0eb4fa/ss_b930c3048f04d355b140af350be9d103bd0eb4fa.1920x1080.jpg?t=1794554809",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5508960,
+      "name": "Achievement Clicker 2026 Pro",
+      "description": "Unlock 100 achievements as you smash targets, reduce their health, and upgrade your hammer! Keep clicking, get stronger, and collect them all in Achievement Clicker 2026 Pro!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5508960/9c7cded42596de33ca863ff8062dfd3833063297/ss_9c7cded42596de33ca863ff8062dfd3833063297.1920x1080.jpg?t=1794424087",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5448110,
+      "name": "Anomaly Watch: Loony Park",
+      "description": "The amusement park is closed for the night, but you are still watching it. Check the cameras, find what has changed among the rides and shops, and report it before the night is over.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448110/a029220a75e78ff36896ae540a8be00a562b012e/ss_a029220a75e78ff36896ae540a8be00a562b012e.1920x1080.jpg?t=1794489200",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5318630,
+      "name": "Gridways",
+      "description": "Traffic is your problem now. Draw roads, paint arrows, time the lights and stack overpasses so every vehicle reaches the right hub. Congestion costs you points - gridlock ends the round. Over 100 handmade puzzles, three difficulties, a level editor and Workshop support.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318630/9bd6b1af590724dc0c4b96245aa5fbb23953bce9/ss_9bd6b1af590724dc0c4b96245aa5fbb23953bce9.1920x1080.jpg?t=1794211225",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -36,6 +117,51 @@
       "firstSeen": "2026-11-09T17:50:49.747Z",
       "mechanic": "physics",
       "score": 8
+    },
+    {
+      "id": 5557760,
+      "name": "Desk Top Soccer",
+      "description": "Manage your football club from a corner of your desktop or in fullscreen. Pick the line-up, train, build up the club and take your team from the bottom division to the top at your own pace. In multiplayer, compete in leagues against managers worldwide and trade players on the Steam Market.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557760/b35473e80ba8fba8d17939090b2a483fa38ebe15/ss_b35473e80ba8fba8d17939090b2a483fa38ebe15.1920x1080.jpg?t=1794353862",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5554250,
+      "name": "Ladder of Numbers",
+      "description": "Ladder of Numbers turns arithmetic into combat skills: charge with addition, multiply into clones, fire with subtraction, divide to split. Climb its steps through thunderclouds and imaginary-number storms to the edge of the sky.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554250/62947c115056930626325f3691c967924b9a2124/ss_62947c115056930626325f3691c967924b9a2124.1920x1080.jpg?t=1794232817",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5540060,
+      "name": "Breakdance Simulator",
+      "description": "Breakdance Simulator is a wild party game that brings breakdancing to your living room. Every move is danced with real physics, so a perfect headspin and a spectacular faceplant are never far apart. Think you can build the ultimate routine?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540060/f8c8a4af2284e4f4a9ba26499daf4e8f8fc68bd3/ss_f8c8a4af2284e4f4a9ba26499daf4e8f8fc68bd3.1920x1080.jpg?t=1794240893",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5509920,
+      "name": "Clock-Out Crew",
+      "description": "An idle RPG that lives on your taskbar. A crew of 24 office-meme heroes fights the bosses of office life while you work, gets stronger on your real schedule, and throws a parade the moment you clock out. Bonuses only. No penalties, no data collected.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5509920/9208296691bf1dd5f90636d932f3232cd086db53/ss_9208296691bf1dd5f90636d932f3232cd086db53.1920x1080.jpg?t=1794279118",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5189950,
+      "name": "Winx Club - Moonlight Quest",
+      "description": "Fly into a brand-new Winx Club adventure! Play as Bloom, transform, take flight, and freely explore an open world inspired by the series. Unravel the mystery of the Festival of the 100 Moons.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189950/eb6d9a6dbef4e54e8c10e24233539a6413f850d2/ss_eb6d9a6dbef4e54e8c10e24233539a6413f850d2.1920x1080.jpg?t=1794498692",
+      "firstSeen": "2026-11-09T17:50:49.747Z",
+      "mechanic": "party",
+      "score": 6
     },
     {
       "id": 4933660,
@@ -110,15 +236,6 @@
       "score": 9
     },
     {
-      "id": 5519520,
-      "name": "Corehold",
-      "description": "We lost the surface and went underground. Now the Core rises to take it back. Craft your Weapon from parts, build a new fortress every run and hold off thousands of creatures at once. Then grow your underground Outpost and take back the surface, one sector at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5519520/78dc690c890826dc9de1a36dd5cea84e8929fa06/ss_78dc690c890826dc9de1a36dd5cea84e8929fa06.1920x1080.jpg?t=1794492260",
-      "firstSeen": "2026-11-09T07:51:50.394Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5244330,
       "name": "MOTHERLODE",
       "description": "Dig into a persistent world of prospecting, mining and industrial engineering. Discover finite deposits, excavate real material, process it through machines, build power, water and logistics networks, sell your haul, upgrade your operation, and expand your claims alone or with friends.",
@@ -144,15 +261,6 @@
       "firstSeen": "2026-11-09T07:51:50.394Z",
       "mechanic": "party",
       "score": 6
-    },
-    {
-      "id": 5559730,
-      "name": " Tongyou Town",
-      "description": "A town that runs itself. You decide who ventures out, where they go, and what the town sells. Recruit, form squads, farm regions, craft gear, and run the market — the rest happens without you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559730/3a0bed07daf2a413d1322594e9806394e189a1e4/ss_3a0bed07daf2a413d1322594e9806394e189a1e4.1920x1080.jpg?t=1794562250",
-      "firstSeen": "2026-11-09T07:51:50.394Z",
-      "mechanic": "incremental",
-      "score": 5
     },
     {
       "id": 5542450,
@@ -374,7 +482,7 @@
       "id": 4933740,
       "name": "Whale Simulator",
       "description": "A livestream management sim. Lead your streamers all the way up — numbers climbing — until they stand on the national-champion stage. You're more than the operator behind the curtain. When the mood hits, you can jump in yourself, throw gifts, and fight the whole room for that number-one spot.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933740/8004128bc66801b47e0952f4ddc6553277e41176/ss_8004128bc66801b47e0952f4ddc6553277e41176.1920x1080.jpg?t=1793555780",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933740/8004128bc66801b47e0952f4ddc6553277e41176/ss_8004128bc66801b47e0952f4ddc6553277e41176.1920x1080.jpg?t=1794633835",
       "firstSeen": "2026-11-08T17:13:06.662Z",
       "mechanic": "simulator",
       "score": 8
@@ -395,15 +503,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675280/0d0c28359e12928434345eabbefade77387eca57/ss_0d0c28359e12928434345eabbefade77387eca57.1920x1080.jpg?t=1792505076",
       "firstSeen": "2026-11-08T17:13:06.662Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4672980,
-      "name": "Coremine Corp",
-      "description": "Welcome to CoreMine Corp. Your job here is to set up production chains, manage your electricity, juggle contracts and stock-up while upgrading your factory. Time to prove your worth.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672980/f86f9b103c97d1e1544352ef38a14df43acb2086/ss_f86f9b103c97d1e1544352ef38a14df43acb2086.1920x1080.jpg?t=1791548977",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -441,105 +540,6 @@
       "firstSeen": "2026-11-08T17:13:06.662Z",
       "mechanic": "party",
       "score": 7
-    },
-    {
-      "id": 3939660,
-      "name": "Mewts",
-      "description": "Fight your friends in a chaotic PVP party game. Cute on the outside. Chaos on the inside! Play as Mewts, physics-driven wiggly creatures. Stretch, grab and slam each other in a variety of game modes in a hand-crafted clay world!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3939660/01c506be4a197063714206d8ee286580523d3319/ss_01c506be4a197063714206d8ee286580523d3319.1920x1080.jpg?t=1793110421",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
-      "id": 3121420,
-      "name": "Monolith: Dark Matter",
-      "description": "A round-based FPS for 1–4 players set inside the Monolith — a brutalist complex shaped by living black matter. Fight escalating waves of its marionettes, earn points to unlock new sectors and build your arsenal, and uncover the route to a final encounter.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3121420/e3ca8e7e4dc3c70fca717592868abbfae67f9983/ss_e3ca8e7e4dc3c70fca717592868abbfae67f9983.1920x1080.jpg?t=1793817871",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 3057720,
-      "name": "Adventure Paws",
-      "description": "Adventure Paws is a pixel-style 2D side-scrolling adventure game where you and your friend will play as two cats, embarking on an exciting journey across a mysterious and unknown continent. Join the black and white cats and set off on this journey full of challenges and surprises!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3057720/ss_0ae4f8d308c93a8ffb3a7311ca2ce09deff998b2.1920x1080.jpg?t=1788760188",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
-      "id": 5277350,
-      "name": "Corporate Simulator",
-      "description": "Climb from intern to CEO in this idle/incremental game where your company runs on a living spreadsheet. Hire, crush morale, rig the audits, and rack up ISO certifications... all the way to burnout or a golden retirement. 18 playable visual themes, dozens of hours of progression.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5277350/360221dc15e265262544c9cda317c21e45c7a8d7/ss_360221dc15e265262544c9cda317c21e45c7a8d7.1920x1080.jpg?t=1790379043",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4115510,
-      "name": "Meowzic Survivor",
-      "description": "A rhythm-integrated roguelike that fuses survivor-style gameplay with dynamic music mechanics. Your firepower flows directly from the rhythm, meaning your combat build is also your custom game music. It’s time to conquer the universe with your own rhythmic symphony of destruction!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115510/f0731b7ec2cb5a214c81d6b80844a13262878a7e/ss_f0731b7ec2cb5a214c81d6b80844a13262878a7e.1920x1080.jpg?t=1793776457",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4781710,
-      "name": "Xmas Squad",
-      "description": "Physics co-op comedy for up to 4 players: deliver presents, steal cookies and save your friends from monsters. One more house and we're outta here. Promise.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781710/608ebf7ff3728fab18acb4310bbf431592462b88/ss_608ebf7ff3728fab18acb4310bbf431592462b88.1920x1080.jpg?t=1794282679",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "physics",
-      "score": 10
-    },
-    {
-      "id": 5370810,
-      "name": "The King Must Grow",
-      "description": "A physics-based active incremental about a not entirely humble jester with one very important job: Feed cute, entirely innocent slimes to the ever-hungry Slime King. Throw them by hand, then see if you can build systems that do it for you. Just never, ever question the King.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370810/1fd358249af1bee8a5d127b9e8274bc949619548/ss_1fd358249af1bee8a5d127b9e8274bc949619548.1920x1080.jpg?t=1792762146",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 9
-    },
-    {
-      "id": 4325070,
-      "name": "Spray Days",
-      "description": "Paint, restore, and customize worn-out objects in this satisfying spray painting simulator. Complete quirky commissions, upgrade your tools, expand your workshop, and grow your restoration business - solo or with friends in online co-op!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4325070/541c478273b290e16a85792a45ba97dae84514e8/ss_541c478273b290e16a85792a45ba97dae84514e8.1920x1080.jpg?t=1792678769",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "simulator",
-      "score": 9
-    },
-    {
-      "id": 1595160,
-      "name": "Radioactivity",
-      "description": "Radioactivity is a co-op survival horror. You are a Liquidator! Together or alone, help your state clean up post-apocalyptic radioactive wilderness. Plan each deployment, fight radiation spread and the creatures that it produces. Together, make WEA flourish once more!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1595160/56a5e4e6e5a86ca96e141b5e2bd3c35b3d8437bf/ss_56a5e4e6e5a86ca96e141b5e2bd3c35b3d8437bf.1920x1080.jpg?t=1790280748",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
-      "id": 5539650,
-      "name": "Eat Your Moons",
-      "description": "A baby planet with a face wants to eat your moons. Feed it with a toy tractor beam, raise a colony of tiny critters and build silly machines until the whole world works for its mouth. A 90-minute incremental about looking after someone until they grow old.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5539650/22e1574664aef0ab721dd92d19a3ab6b37a1e025/ss_22e1574664aef0ab721dd92d19a3ab6b37a1e025.1920x1080.jpg?t=1794001736",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5524610,
-      "name": "Goblin Must Clean",
-      "description": "An incremental cleaning game in first person. You are a goblin with one plate in your hands and a mountain of 500,000 to go. Wash them for Gold and spend the Gold at the hearth, until magic does the dishes for you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5524610/26fe95c95847c080acdbf1cebb6cde34d850cb09/ss_26fe95c95847c080acdbf1cebb6cde34d850cb09.1920x1080.jpg?t=1794503311",
-      "firstSeen": "2026-11-08T11:34:42.433Z",
-      "mechanic": "incremental",
-      "score": 8
     }
   ]
 }
