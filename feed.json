@@ -1,6 +1,132 @@
 {
-  "checkedAt": "2026-11-14T08:08:53.965Z",
+  "checkedAt": "2026-11-14T15:09:12.545Z",
   "games": [
+    {
+      "id": 5553490,
+      "name": "CarCity",
+      "description": "Run your own neighborhood car garage. Fix customers' cars, buy and customize your dream rides at the dealership, and race them down the drag strip. Grow from a single lift to the best shop in town, one job at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5553490/58a154857f0aa0b824e182ea24765aa3a96c5da7/ss_58a154857f0aa0b824e182ea24765aa3a96c5da7.1920x1080.jpg?t=1794258762",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5523830,
+      "name": "Shutterbug Skies: Idle Camping",
+      "description": "A cozy corner idler built to be your daily desktop companion. Help Kes search for and photograph beautiful bugs while you work, study, or relax. Upgrade your camera equipment, complete your creature collection, and discover 7 unique floating islands!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5523830/de68d19a1dde00fd45ece5fbe2c1f2ae5c171167/ss_de68d19a1dde00fd45ece5fbe2c1f2ae5c171167.1920x1080.jpg?t=1794405657",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5385610,
+      "name": "Nook Beasts",
+      "description": "Digital monsters in the corner of your desktop! Hatch, Evolve, and Raise over 100 different beasts, and send them on adventures to grow stronger, earn rewards to upgrade your nook, and discover eggs from unknown species!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385610/0e10a84519c99976fcb6d143c1e28dfd81c17ee0/ss_0e10a84519c99976fcb6d143c1e28dfd81c17ee0.1920x1080.jpg?t=1794259423",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5300870,
+      "name": "CATLINES",
+      "description": "You're part of the sorting service, it's your final day on the job! Build your way through different worlds, use your skills, and deliver 8,196 cat-boxes to their owners. Drink milk, enjoy chocolate mint, sort every last cat-box to discover the mysterious gift waiting for you!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300870/4f7f2fc72f5dafa459f5781012df03bae934849d/ss_4f7f2fc72f5dafa459f5781012df03bae934849d.1920x1080.jpg?t=1794593066",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5191240,
+      "name": "Tidy Up The Christmas Shop",
+      "description": "Tidy up a cozy Christmas shop solo or with up to 3 friends in online co-op! Find, carry and sort thousands of festive objects across 765 item types. Upgrade your gift sack, unlock a little Christmas magic, and bring order to the holiday chaos, one shelf at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191240/f547c2b6a5172bca2089c0a1965af74940305f77/ss_f547c2b6a5172bca2089c0a1965af74940305f77.1920x1080.jpg?t=1794621439",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5130220,
+      "name": "The Cardkov",
+      "description": "Turn poker hands into weapons in this single-player, top-down extraction shooter. Collect discarded cards in the city's cold back alleys, build a hand, and use your new weapon to uncover the factory's secrets. Grab one more card, or make it back alive with the hand you've got.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5130220/bf3f9368af4d0001bc212b146e55f9ba49a93132/ss_bf3f9368af4d0001bc212b146e55f9ba49a93132.1920x1080.jpg?t=1794480200",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5122110,
+      "name": "The Cozy Tree Co.",
+      "description": "The Cozy Tree Co. is a relaxing game about chopping, decorating and selling Christmas trees. Search the winter wonderland for the perfect tree, get creative with your decorating, and sell your creations to spread holiday cheer!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122110/b4a3c522c5d236d22995f9206596fc2b25db87d5/ss_b4a3c522c5d236d22995f9206596fc2b25db87d5.1920x1080.jpg?t=1794240212",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4931730,
+      "name": "Wild Myth",
+      "description": "An online co-op adventure where you and your friends hunt for proof of the world’s most dangerous myths. All for the views. Go live. Capture the chaos. Run. Cut it into viral content. Stay live. Stay alive.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931730/976fd945704dcae6ce7f9e63c663ad1d973babcf/ss_976fd945704dcae6ce7f9e63c663ad1d973babcf.1920x1080.jpg?t=1794505468",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4778330,
+      "name": "Sardoinky",
+      "description": "Sardoinky is a weird, chill, hand drawn clicker about opening cans of sardines. Buy a can, crack it open and sell whatever is inside. Spend the cash on better cans and upgrades. Collect every fish and find out what the company is hiding.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778330/944327632fb1f95bb7bcbee7ae540e0bd84d6eb7/ss_944327632fb1f95bb7bcbee7ae540e0bd84d6eb7.1920x1080.jpg?t=1794467615",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 3590570,
+      "name": "Bar of Betrayal",
+      "description": "A social deduction party game for 4-10 friends in a 1927 speakeasy. Regulars play the bar's games, find the body and vote out the killer. The killer stabs in secret, hides the body, mops the blood and blames someone else.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590570/52d988331ba527b71fb9cd1c1468211bc0dbd1fc/ss_52d988331ba527b71fb9cd1c1468211bc0dbd1fc.1920x1080.jpg?t=1794246972",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5536170,
+      "name": "STRAY BULLET",
+      "description": "Free-to-play cartoon shooter where YOU are the bullet. Hop, blast off with gunpowder, fly on flames and go kamikaze in online matches for up to 20 players, with bots and local split screen. 28 weapons, 5 maps, 4 modes. No pay-to-win.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536170/96e300b329918e2e1cac9830ac6c4cc69cc7d254/ss_96e300b329918e2e1cac9830ac6c4cc69cc7d254.1920x1080.jpg?t=1794542285",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5426930,
+      "name": "Study With Me: Online",
+      "description": "Your new favorite place to study. Create an avatar and share a cozy multiplayer library with friends while you work on real-life goals. Mix 80+ clothing and footwear options, bring your books and music, then unwind with coffee or chess.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5426930/44ef4e2e40b148f9e6fc61dbf9eadf73d15d9a71/ss_44ef4e2e40b148f9e6fc61dbf9eadf73d15d9a71.1920x1080.jpg?t=1794247703",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5386080,
+      "name": "SearchBattle",
+      "description": "Search, turned into a battle. SearchBattle is a word party game for 1–8 players on a real search engine. Everyone searches one word for the same topic; hit counts and results decide the winner. Across many rules, what's tested isn't knowledge but &quot;search power.&quot; What would you search?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5386080/b245e91cb24975684a57826ae39a61c817db48ec/ss_b245e91cb24975684a57826ae39a61c817db48ec.1920x1080.jpg?t=1794550217",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5187740,
+      "name": "The Useless Game",
+      "description": "A completely useless videogame that politely asks you not to download it.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5187740/76499d221bad629e12d24332f7773e9441116e2e/ss_76499d221bad629e12d24332f7773e9441116e2e.1920x1080.jpg?t=1794255014",
+      "firstSeen": "2026-11-10T00:52:17.351Z",
+      "mechanic": "physics",
+      "score": 6
+    },
     {
       "id": 3230210,
       "name": "Tasty Business",
@@ -146,15 +272,6 @@
       "score": 6
     },
     {
-      "id": 5509920,
-      "name": "Clock-Out Crew",
-      "description": "An idle RPG that lives on your taskbar. A crew of 24 office-meme heroes fights the bosses of office life while you work, gets stronger on your real schedule, and throws a parade the moment you clock out. Bonuses only. No penalties, no data collected.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5509920/9208296691bf1dd5f90636d932f3232cd086db53/ss_9208296691bf1dd5f90636d932f3232cd086db53.1920x1080.jpg?t=1794279118",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 5189950,
       "name": "Winx Club - Moonlight Quest",
       "description": "Fly into a brand-new Winx Club adventure! Play as Bloom, transform, take flight, and freely explore an open world inspired by the series. Unravel the mystery of the Festival of the 100 Moons.",
@@ -206,15 +323,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5188200/3fea2367f55a16b72fbfb69bfc93fe120ce28e82/ss_3fea2367f55a16b72fbfb69bfc93fe120ce28e82.1920x1080.jpg?t=1794242301",
       "firstSeen": "2026-11-09T17:50:49.747Z",
       "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 4617220,
-      "name": "Drained Creatures",
-      "description": "Drained Creatures is a multiplayer 3D arena brawler for up to 8 players locally, playable using gamepads only.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617220/1ca8bc37c23cb5a43ca045b77ab35b8599569b33/ss_1ca8bc37c23cb5a43ca045b77ab35b8599569b33.1920x1080.jpg?t=1794212728",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "party",
       "score": 5
     },
     {
@@ -317,15 +425,6 @@
       "score": 8
     },
     {
-      "id": 5378450,
-      "name": "Goblin Hoarder",
-      "description": "Goblin Hoarder is a sorting game with over 6,000 pieces of stolen loot scattered inside a massive goblin cave. Sort potions, weapons, gold, and whatever these little thieves got their hands on. Watch shelves grow into massive towers as you unlock upgrades and become the ultimate hoarding machine!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378450/77310b586dd75db3829dacced7ec7e884c44d35d/ss_77310b586dd75db3829dacced7ec7e884c44d35d.1920x1080.jpg?t=1794168095",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 4886180,
       "name": "My Cat Companion",
       "description": "Your desktop is too quiet. Pick a cat. Paint their fur. One stalks your cursor. One reacts to every click and key. One bounces when tossed. Try to get work done. You answer to them now.",
@@ -359,15 +458,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298340/4eb141c76aec697b75d48ba6e428c305b6404c94/ss_4eb141c76aec697b75d48ba6e428c305b6404c94.1920x1080.jpg?t=1794313298",
       "firstSeen": "2026-11-08T21:12:52.435Z",
       "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 1283480,
-      "name": "Mossback",
-      "description": "Tend a little farm on the mossy back of an ancient sea turtle as he drifts through the seasons. Fish, cook and grow bonsai, then hop off to mine, dive, race and dodge bullets on a much grumpier turtle. Share what you grow with a very old friend and watch the island rise.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283480/0aecd625320d7a00caac732d53579d9e39d488cd/ss_0aecd625320d7a00caac732d53579d9e39d488cd.1920x1080.jpg?t=1794498927",
-      "firstSeen": "2026-11-08T21:12:52.435Z",
-      "mechanic": "physics",
       "score": 8
     },
     {
@@ -450,96 +540,6 @@
       "firstSeen": "2026-11-08T17:13:06.662Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 5401120,
-      "name": "SCRUBBED",
-      "description": "Grab your sponge and sink into an endless pile of dirty dishes. Scrub, foam and rinse at your own pace, earn tips, upgrade your gear and find your zen, one plate at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5401120/d9b574aab86ec383703e4ed5690497aa3b007456/ss_d9b574aab86ec383703e4ed5690497aa3b007456.1920x1080.jpg?t=1793947937",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5380990,
-      "name": "OVERDRILL",
-      "description": "A pixel art incremental mining roguelite. Drill through destructible caves, collect ore and build a stronger rig with drones, automated bores and a branching upgrade tree.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5380990/376422fb477e31de2284f903c6e3e1ffb14b0cf3/ss_376422fb477e31de2284f903c6e3e1ffb14b0cf3.1920x1080.jpg?t=1794326660",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5295920,
-      "name": "Teeth Are Money",
-      "description": "An incremental horror game about pulling teeth from a living monster. Grip, shake and yank each tooth free, then spend the money on research that turns one hard-won tooth into handfuls at a time. Keep pulling before the contamination fills, and watch the mouth grow.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295920/4b78eabcbe521f00a69d0da9cc344054d49b5734/ss_4b78eabcbe521f00a69d0da9cc344054d49b5734.1920x1080.jpg?t=1794219046",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4933740,
-      "name": "Whale Simulator",
-      "description": "A livestream management sim. Lead your streamers all the way up — numbers climbing — until they stand on the national-champion stage. You're more than the operator behind the curtain. When the mood hits, you can jump in yourself, throw gifts, and fight the whole room for that number-one spot.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933740/8004128bc66801b47e0952f4ddc6553277e41176/ss_8004128bc66801b47e0952f4ddc6553277e41176.1920x1080.jpg?t=1794633835",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4894770,
-      "name": "Flow Treehouse",
-      "description": "A tiny treehouse tucked into the corner of your desktop. Prince Tomato times your focus, Todudu keeps your to-dos, and Lily plays soft music. Focus, finish tasks and play with them to earn wish points for outfits, playlists and decorations. As the treehouse grows, new fairies move in.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894770/494e8c5568c7dd828f94dcb3e5db39e8276c0707/ss_494e8c5568c7dd828f94dcb3e5db39e8276c0707.1920x1080.jpg?t=1794140687",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4675280,
-      "name": "SELF//FORK",
-      "description": "A physics-driven cyberpunk incremental. Fork yourself into data packets, bounce through a hostile mainframe's defense matrix, and reunite the fragments to break free.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675280/0d0c28359e12928434345eabbefade77387eca57/ss_0d0c28359e12928434345eabbefade77387eca57.1920x1080.jpg?t=1792505076",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4396030,
-      "name": "OKEYABILITY",
-      "description": "Rediscover the thrill of Classic Okey (Tile-based Rummy) in a neon-lit, robotic atmosphere! Enjoy traditional rules or use unique abilities to shift the balance. Define your strategy, customize your robot, and claim your spot at the table of the future!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396030/8214a1d43d8e31c1a476ac246054a0da443b0150/ss_8214a1d43d8e31c1a476ac246054a0da443b0150.1920x1080.jpg?t=1788866018",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 3488670,
-      "name": "Villainville",
-      "description": "Join the outcasts of Villainville in this cozy farming sim adventure where Stardew Valley meets Shrek. Grow magic crops, tame the tiny unicorns, sneak into the night market, and befriend misfit fairy tale characters. Bonus? Find the misery mushroom plague saboteur and redeem the irredeemable.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3488670/8e863f36fa6011a7965140fe5eb23515ec7d0a3e/ss_8e863f36fa6011a7965140fe5eb23515ec7d0a3e.1920x1080.jpg?t=1785612547",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5536670,
-      "name": "Grindhouse Theater Simulator",
-      "description": "September 1983. Eighty seats, one projector, your choice of double bill. Run the Rialto in a first-person theater sim: book genre films, sell tickets and popcorn, hire the Grindhouse Gang and keep the show running when the print snaps and the crowd loses patience.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536670/fe76fcda2c7e31086fb0dc018a8de42d5c05be78/ss_fe76fcda2c7e31086fb0dc018a8de42d5c05be78.1920x1080.jpg?t=1794433468",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 4925600,
-      "name": "Kitten Wool Cup",
-      "description": "A cozy kitten life with a silly streak. Make your snug room by the fire your own, dress your kitten in hats and a Santa beard, and invite friends round. Then curl up and dream of football: chaotic kitten matches with a giant ball of wool, runaway roombas and laser pointers.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4925600/a1758d7b1a0bc1a08a0159c21a270bc8cb6686d4/ss_a1758d7b1a0bc1a08a0159c21a270bc8cb6686d4.1920x1080.jpg?t=1794320493",
-      "firstSeen": "2026-11-08T17:13:06.662Z",
-      "mechanic": "party",
-      "score": 7
     }
   ]
 }
