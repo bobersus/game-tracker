@@ -1,6 +1,96 @@
 {
-  "checkedAt": "2026-11-14T23:49:06.030Z",
+  "checkedAt": "2026-11-15T03:09:42.094Z",
   "games": [
+    {
+      "id": 5320720,
+      "name": "Pack Party",
+      "description": "The drawing party game where you and your friends make a deck of absurd cards to answer ridiculous prompts. 4 to 10 players.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5320720/0321476005c69ac72481114ccfb9d3fdb0b335d1/ss_0321476005c69ac72481114ccfb9d3fdb0b335d1.1920x1080.jpg?t=1794345465",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5425700,
+      "name": "Bouture",
+      "description": "Potted plants that live on your Windows desktop. They grow over days and weeks, droop when you forget them, and flower if you keep watering. Double-click a plant to water it.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5425700/4f4309b794fc0d719c6c6460a3fa99a243c10591/ss_4f4309b794fc0d719c6c6460a3fa99a243c10591.1920x1080.jpg?t=1794395081",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5386900,
+      "name": "Railtown",
+      "description": "Every great city starts with a station. In Railtown, trains bring tourists and money while you grow a tiny town into a bustling city: build homes, shops and tram lines, upgrade your train from steam to high-speed, and keep your citizens happy through every season.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5386900/3961e66aa4961428c3c505b36f9a6b511dd85746/ss_3961e66aa4961428c3c505b36f9a6b511dd85746.1920x1080.jpg?t=1794328892",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5285840,
+      "name": "Leif's Garden Tower",
+      "description": "Grow plants, tend the greenhouse, and fall in love with the customers of Leif's Garden Tower. Leif's Garden Tower is a cozy 2D tower-builder about a lonely leaf spirit rebuilding an abandoned greenhouse, help him restore the tower and learn its secrets.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285840/20c235975a6b4bbe9961be648380dfd4d9f03bb9/ss_20c235975a6b4bbe9961be648380dfd4d9f03bb9.1920x1080.jpg?t=1794607899",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5225330,
+      "name": "Dump Chaos",
+      "description": "Dig through piles of junk, place the items you find on their proper shelves, and sell them to make money. Take your time organizing, add rare finds to your collection, and enjoy the satisfying feeling of turning chaos into order.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5225330/e26e93786b580fc3eb1c2a759aa85d9e0ac6ea97/ss_e26e93786b580fc3eb1c2a759aa85d9e0ac6ea97.1920x1080.jpg?t=1794492816",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5203260,
+      "name": "Card Dice",
+      "description": "An idle progression game with a casino dice theme. Let your card dice roll automatically and beat opponents in timed matches. Collect gems and engravings to create different builds, trade up your equipment, and advance to higher-level tables.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5203260/3174035e926f7336c9ceb774d952fb55cd62e1b8/ss_3174035e926f7336c9ceb774d952fb55cd62e1b8.1920x1080.jpg?t=1794469769",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4636740,
+      "name": "Meteor Shower",
+      "description": "Blast away never-ending hordes of falling meteors in this incremental tower defense game! Smash rocks to pieces with railguns, flak cannons, giant lasers and more as you work to defend your base from the stellar onslaught.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4636740/0b46b4afb0e22ce1793747287abbfe5000e7bc68/ss_0b46b4afb0e22ce1793747287abbfe5000e7bc68.1920x1080.jpg?t=1794691638",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4190610,
+      "name": "Mini Pond Farm: Frogs & Lilypads",
+      "description": "Collect all the cute frogs! Shape your pond paradise, fill it with colorful hoppers, make them happy with reeds and lilies, and enjoy pure cozy serenity.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190610/0cdfab09caa63134d4f1b3888d259832d2720c36/ss_0cdfab09caa63134d4f1b3888d259832d2720c36.1920x1080.jpg?t=1794521870",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5292120,
+      "name": "Unhistorical Warfare",
+      "description": "Command 30+ historical armies across 3,000 years of warfare, from Persian spearmen to Abrams tanks, in real-time pixel-art battles where every soldier fights and flees on his own. Then deploy the anomalies: trolls, zombies, wizards, flying saucers and more!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5292120/75c805309fc5ff2cfcc99e468f6c127668cab7d6/ss_75c805309fc5ff2cfcc99e468f6c127668cab7d6.1920x1080.jpg?t=1794336986",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4928230,
+      "name": "Super Tag",
+      "description": "Tag, with super powers! Super Tag is a 2D chase platformer: swing, blink and wall-jump away from the endless hord, or hunt down your friends in multiplayer mode.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928230/a880f2c1abcc431f96e1d845087aa172a118f461/ss_a880f2c1abcc431f96e1d845087aa172a118f461.1920x1080.jpg?t=1794346807",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "party",
+      "score": 6
+    },
     {
       "id": 5521080,
       "name": "Gotta Catch Bugs!",
@@ -29,6 +119,15 @@
       "score": 9
     },
     {
+      "id": 5559650,
+      "name": "Chalk Thrower Simulator",
+      "description": "Keep a sleepy class awake by throwing chalk then a duster to finish. Draft perks between periods, climb twelve Standards, outlast Detention, race the Daily or crack 32 chalk puzzles. Solo, online co-op or versus.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559650/76bda88d0d474df6d6fd7138cc8a4bb0d3dee35a/ss_76bda88d0d474df6d6fd7138cc8a4bb0d3dee35a.1920x1080.jpg?t=1794315868",
+      "firstSeen": "2026-11-10T16:28:25.363Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
       "id": 5504320,
       "name": "DeepSeaFishery",
       "description": "A deep-sea idle fishing game. Cast, let your fish grow and your crew work while you are away. Descend from the shallows to coral reefs, polar ice and volcanic vents, collecting 252 species. Hire helpers, upgrade your gear, then retire to trade the run for permanent talents.",
@@ -43,7 +142,7 @@
       "description": "Run a little radio repair shop in 1952, where every wireless on your bench is a working circuit, so the meter reads what's really there and the hum or the crackle you hear is the fault itself. You take each set apart by hand and fit new parts from the cabinet till it plays again for its owner.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5487950/dbb6606db681da18d109929dc08344c2650b43cc/ss_dbb6606db681da18d109929dc08344c2650b43cc.1920x1080.jpg?t=1794303430",
       "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "simulator",
+      "mechanic": "incremental",
       "score": 8
     },
     {
@@ -92,6 +191,33 @@
       "score": 7
     },
     {
+      "id": 5551760,
+      "name": "Sanatorium of Evil",
+      "description": "The monsters just wanted a quiet soak. Then heroes barged in with their &quot;Purification&quot;. A pixel-art bullet heaven: draw trail signs with your steps, evolve weapons and hold out until 21:00. Then write the intruders a referral: STRAIGHT TO TRAUMATOLOGY!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5551760/fc33aa0e6c98e09691f932b03dc6023b6d3e448e/ss_fc33aa0e6c98e09691f932b03dc6023b6d3e448e.1920x1080.jpg?t=1794318261",
+      "firstSeen": "2026-11-10T16:28:25.363Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5535880,
+      "name": "Elysian Realms",
+      "description": "A pixel-art tower defense for PC. Hold the road across seven realms. Each one changes a rule of the game, not the scenery. Every run, won or lost, feeds a skill tree that carries over to the next. No account, no telemetry: it runs on your machine and nowhere else.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5535880/2044ac557e0ff0bdf5f7c25361785dba060c51ba/ss_2044ac557e0ff0bdf5f7c25361785dba060c51ba.1920x1080.jpg?t=1794319810",
+      "firstSeen": "2026-11-10T16:28:25.363Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5530860,
+      "name": "Sigildeep",
+      "description": "A deckbuilding dungeon crawler where every card is a spell on the front and a piece of the dungeon on the back. Lay cards down to build the way forward, fight with what you didn't spend, win packs and build better decks.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5530860/e2f8c2bfe3305a18db0c7d5bd3e6798af51f6656/ss_e2f8c2bfe3305a18db0c7d5bd3e6798af51f6656.1920x1080.jpg?t=1794507828",
+      "firstSeen": "2026-11-10T16:28:25.363Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
       "id": 5368500,
       "name": "Mimic Hunt",
       "description": "Mimic Hunt is a multiplayer stealth game where you blend into crowds of NPCs, pretend to be one of them, and outsmart your opponents across different game modes. Play as a Hider or Hunter, team up with friends in co-op or compete against other players.",
@@ -108,6 +234,15 @@
       "firstSeen": "2026-11-10T16:28:25.363Z",
       "mechanic": "physics",
       "score": 6
+    },
+    {
+      "id": 5559510,
+      "name": "RATS",
+      "description": "Hide from your friends in the dark. Find the parts, feed the terminal and get out, while one or two of them hunt you by sound as one of nine killers. No markers, no waypoints: only your torch, your phone and what you hear.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559510/17f972704772100e0def2a955cd2366e4c4ccf1e/ss_17f972704772100e0def2a955cd2366e4c4ccf1e.1920x1080.jpg?t=1794619971",
+      "firstSeen": "2026-11-10T16:28:25.363Z",
+      "mechanic": "party",
+      "score": 5
     },
     {
       "id": 5140400,
@@ -155,15 +290,6 @@
       "score": 8
     },
     {
-      "id": 5442140,
-      "name": "Hurlyburly",
-      "description": "Throw swords. Fall. Pick a card. Come back meaner. Hurlyburly is a top-down party brawler for 2–8 players where dying is how you upgrade and 150+ stacking cards turn every match into chaos.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442140/53964dee16d1c5ce110a34b629718f3a26d0cc18/ss_53964dee16d1c5ce110a34b629718f3a26d0cc18.1920x1080.jpg?t=1794593980",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 5178940,
       "name": "Gravith",
       "description": "Gravith is a high-difficulty score attack game. Use the gravity of your mouse cursor (planet) to alter the path of incoming missiles and destroy targets. However, if a missile hits your planet, it's an instant game over. Experience high-risk gameplay where one slip-up ends it all.",
@@ -171,6 +297,15 @@
       "firstSeen": "2026-11-10T08:15:20.210Z",
       "mechanic": "physics",
       "score": 8
+    },
+    {
+      "id": 5442140,
+      "name": "Hurlyburly",
+      "description": "Throw swords. Fall. Pick a card. Come back meaner. Hurlyburly is a top-down party brawler for 2–8 players where dying is how you upgrade and 150+ stacking cards turn every match into chaos.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442140/53964dee16d1c5ce110a34b629718f3a26d0cc18/ss_53964dee16d1c5ce110a34b629718f3a26d0cc18.1920x1080.jpg?t=1794593980",
+      "firstSeen": "2026-11-10T08:15:20.210Z",
+      "mechanic": "party",
+      "score": 7
     },
     {
       "id": 5094110,
@@ -405,141 +540,6 @@
       "firstSeen": "2026-11-09T17:50:49.747Z",
       "mechanic": "party",
       "score": 10
-    },
-    {
-      "id": 5370260,
-      "name": "Junk Tower Together",
-      "description": "What are friends for if not to build a tower out of junk together... In Junk Tower Together, take turns stacking the most ridiculous objects, balance on the brink of disaster, and build a crazy tower with a group of up to 8 players.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5370260/12e4fd627219040bd812f3e6d55eb797724198f2/ss_12e4fd627219040bd812f3e6d55eb797724198f2.1920x1080.jpg?t=1794591937",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5232990,
-      "name": "Ranchonauts",
-      "description": "A slapstick co-op game about herding alien sheep across a dangerous frontier. Work solo or with up to 5 friends to keep your flock together through physics-fueled disasters, pay off your ship-repair debt, and get home in one piece.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5232990/1f1b93c10526c218fe4e9dea4902c679d34a50ca/ss_1f1b93c10526c218fe4e9dea4902c679d34a50ca.1920x1080.jpg?t=1794239701",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "incremental",
-      "score": 9
-    },
-    {
-      "id": 5546020,
-      "name": "My Little Shadow",
-      "description": "A little daughter, right on your desktop. Choose a child to share your days with: she plays, draws you gifts, gets a little mischievous, and naps nearby while you work. Share snacks, play together, and grow closer at your own pace—without daily chores or guilt for being away.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5546020/cbf05d3456998cb72c20d506f2337e9279ea0fff/ss_cbf05d3456998cb72c20d506f2337e9279ea0fff.1920x1080.jpg?t=1794223815",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5519530,
-      "name": "Warehouse Drink Sorting Simulator",
-      "description": "Nearly 300,000 drinks in one mountain. Work through six halls, starting with a handful at a time. Earn money for bigger totes, carts, a lift and a giant scoop, then hire robot cats to pick and stack with you. No timers, no fail states.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5519530/b930c3048f04d355b140af350be9d103bd0eb4fa/ss_b930c3048f04d355b140af350be9d103bd0eb4fa.1920x1080.jpg?t=1794554809",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5508960,
-      "name": "Achievement Clicker 2026 Pro",
-      "description": "Unlock 100 achievements as you smash targets, reduce their health, and upgrade your hammer! Keep clicking, get stronger, and collect them all in Achievement Clicker 2026 Pro!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5508960/9c7cded42596de33ca863ff8062dfd3833063297/ss_9c7cded42596de33ca863ff8062dfd3833063297.1920x1080.jpg?t=1794424087",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5448110,
-      "name": "Anomaly Watch: Loony Park",
-      "description": "The amusement park is closed for the night, but you are still watching it. Check the cameras, find what has changed among the rides and shops, and report it before the night is over.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448110/a029220a75e78ff36896ae540a8be00a562b012e/ss_a029220a75e78ff36896ae540a8be00a562b012e.1920x1080.jpg?t=1794489200",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5318630,
-      "name": "Gridways",
-      "description": "Traffic is your problem now. Draw roads, paint arrows, time the lights and stack overpasses so every vehicle reaches the right hub. Congestion costs you points - gridlock ends the round. Over 100 handmade puzzles, three difficulties, a level editor and Workshop support.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318630/9bd6b1af590724dc0c4b96245aa5fbb23953bce9/ss_9bd6b1af590724dc0c4b96245aa5fbb23953bce9.1920x1080.jpg?t=1794211225",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4931510,
-      "name": "There is No Stress in Outer Space",
-      "description": "An incremental game about a spaceship in outer space destroying asteroids and other strange objects. Take control of the spaceship's gun, shoot, earn money, make upgrades and unlock new weapons and targets.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931510/b21e38a033246fba5a9ba9b79ee7f81ad9d120b8/ss_b21e38a033246fba5a9ba9b79ee7f81ad9d120b8.1920x1080.jpg?t=1794419866",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4608670,
-      "name": "Don't Stop The Pop!",
-      "description": "Ready to turn a single kernel into an unstoppable popcorn machine? Build your strategy with a massive Skill Tree; discover dozens of flavors from salty to chocolatey, spicy to salted caramel, and fill the screen with pops! Earn more, pop more! Don't Stop the Pop! 🍿",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608670/5426a303ff2c47755f275ab053b286f0c4fa8ed0/ss_5426a303ff2c47755f275ab053b286f0c4fa8ed0.1920x1080.jpg?t=1794671704",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4179640,
-      "name": "Overtake: Taskbar Racer",
-      "description": "Overtake is an idle racing game that lives on your taskbar, built for people who spend all day at the keyboard. Your car cruises along while you work, and every keystroke gives it an extra push. Collect skins and trade them on the Steam Community Market, climb the leaderboards and never stop moving.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179640/287ad550ad664893e1262eeea7175d8f502af870/ss_287ad550ad664893e1262eeea7175d8f502af870.1920x1080.jpg?t=1794236607",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5540060,
-      "name": "Breakdance Simulator",
-      "description": "Breakdance Simulator is a wild party game that brings breakdancing to your living room. Every move is danced with real physics, so a perfect headspin and a spectacular faceplant are never far apart. Think you can build the ultimate routine?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540060/f8c8a4af2284e4f4a9ba26499daf4e8f8fc68bd3/ss_f8c8a4af2284e4f4a9ba26499daf4e8f8fc68bd3.1920x1080.jpg?t=1794240893",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5189950,
-      "name": "Winx Club - Moonlight Quest",
-      "description": "Fly into a brand-new Winx Club adventure! Play as Bloom, transform, take flight, and freely explore an open world inspired by the series. Unravel the mystery of the Festival of the 100 Moons.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189950/eb6d9a6dbef4e54e8c10e24233539a6413f850d2/ss_eb6d9a6dbef4e54e8c10e24233539a6413f850d2.1920x1080.jpg?t=1794498692",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 4933660,
-      "name": "Mars Inc 98",
-      "description": "Mars Inc 98 is a retro Windows 98 styled incremental game about terraforming Mars. Mine ore, craft parts, build machines and launch rockets to turn the Red Planet from a dusty wasteland into a habitable world.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933660/2deee4be02db3be4d7e309573b23682f7fd415ca/ss_2deee4be02db3be4d7e309573b23682f7fd415ca.1920x1080.jpg?t=1794235535",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4144590,
-      "name": "Brew & Dash",
-      "description": "Jump, duck, accelerate, and run to test your reflexes by dodging obstacles and enemies, collecting ingredients along the way to brew potions, gaining new powers, and going even further. Face challenges on randomly selected maps in this new take on the genre.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144590/dc516b91017916195674753288ea22069dcb245b/ss_dc516b91017916195674753288ea22069dcb245b.1920x1080.jpg?t=1794240257",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3934180,
-      "name": "Don Memo",
-      "description": "Don Memo is a brave bull who embarks on one final journey across Costa Rica to rescue his granddaughter and confront Pisuicas. Fight against legends and shadows of the past in this 2D pixel platformer, while carrying the legacy of a family destined to protect the world from evil.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934180/c57cd9da7aeb5ada521442bc73b13f9a25dd0d6e/ss_c57cd9da7aeb5ada521442bc73b13f9a25dd0d6e.1920x1080.jpg?t=1792991189",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "physics",
-      "score": 6
     }
   ]
 }
