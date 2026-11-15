@@ -1,6 +1,51 @@
 {
-  "checkedAt": "2026-11-15T03:09:42.094Z",
+  "checkedAt": "2026-11-15T11:05:20.169Z",
   "games": [
+    {
+      "id": 5437300,
+      "name": "The Bastion Protocol",
+      "description": "The Bastion Protocol is an idle tower defense game where a lone tower faces relentless enemy waves. Earn Entropy from kills, strengthen your build, and survive until your tower falls. Turn each run’s rewards into lasting upgrades and return stronger.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437300/c12ea8e7d4db6a96cc42f6eefb4a58572858ee45/ss_c12ea8e7d4db6a96cc42f6eefb4a58572858ee45.1920x1080.jpg?t=1794011236",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 2245760,
+      "name": "Optiminer",
+      "description": "Optiminer is a minimalist incremental about mining radioactive materials. Dig through the rock to extract raw ore and radioactive materials, then pour it all into a branching upgrade tree and go deeper.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245760/ecc7f04a771d1900c3d05655f670f2be7272ac70/ss_ecc7f04a771d1900c3d05655f670f2be7272ac70.1920x1080.jpg?t=1794349621",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5352230,
+      "name": "こもれびの丘",
+      "description": "I accidentally overslept on the train and ended up in some kind of mysterious towns. This is a relaxing, slow-life game where you wander around the streets freely, meet the locals, and feel the changing seasons together with the main character, Rifa, who unexpectedly became the town's representative",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5352230/89e2aeed657507296cb28680d574cf31361e55a1/ss_89e2aeed657507296cb28680d574cf31361e55a1.1920x1080.jpg?t=1794352279",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5570230,
+      "name": "Mostly Absurd Battle Simulator",
+      "description": "Place an army of farmers, knights and giants, press Launch and see what happens. Mid-battle, grab anyone and throw them off a cliff, or jump into one of your soldiers and fight yourself. There is also a train with a face.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570230/4fbb203159185906968d7975ed8c7f98f2b61af1/ss_4fbb203159185906968d7975ed8c7f98f2b61af1.1920x1080.jpg?t=1794339945",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5556170,
+      "name": "Drawbacks: Draw, Guess, Sabotage",
+      "description": "The draw-and-guess party game where your friends fight dirty. While you draw, they spend ink on sabotage cards that shake, flip, mirror and splatter your doodle. Guess fast, sabotage smart and laugh at the wreckage. 2–16 players online.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556170/e7b4ec6427bd76ae7750edea68e6ee9044c8377c/ss_e7b4ec6427bd76ae7750edea68e6ee9044c8377c.1920x1080.jpg?t=1794340078",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "party",
+      "score": 9
+    },
     {
       "id": 5320720,
       "name": "Pack Party",
@@ -9,6 +54,51 @@
       "firstSeen": "2026-11-10T21:55:51.835Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5565650,
+      "name": "Depthline",
+      "description": "Go 18 floors down a quarantined building. Pick the room, watch your survivor gun down the zombies and grab the gear they drop. Merge twins into rarer items, stack class bonuses and build a loadout that can reach Patient Zero. An inventory-management roguelite where the build wins the fight.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565650/43a0c6d9b3cdd1b2bb274ec9e3b072afbd1ba4e2/ss_43a0c6d9b3cdd1b2bb274ec9e3b072afbd1ba4e2.1920x1080.jpg?t=1794333236",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5564280,
+      "name": "Bloom & Broom",
+      "description": "Clean up an overgrown plot, turn the junk into blocks with your machine and sell them to passing customers. Upgrade your tools, find cards hidden all over the place and unlock new areas. This is just a cozy game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5564280/85ade6f44efb41ab6c470dd3bbd15ab6cd7d96eb/ss_85ade6f44efb41ab6c470dd3bbd15ab6cd7d96eb.1920x1080.jpg?t=1794668999",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5549740,
+      "name": "SimFarm",
+      "description": "A 3D farm management game where crops grow with the weather and the soil. Choose how tight money gets: play relaxed, or face real costs, loans and the risk of going broke. You give the orders; tractors and harvesters do the work. Rotate cows, sheep and horses through paddocks.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549740/d95fd9d202c5e65f0f8f10a9da044a964161f6e9/ss_d95fd9d202c5e65f0f8f10a9da044a964161f6e9.1920x1080.jpg?t=1794471670",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5549260,
+      "name": "Ten Million Ducks",
+      "description": "Clear ten million rubber ducks from a lake. Start by hand, then work your way up to nets, a vacuum, and a collection boat. Turn in your haul, earn money, and upgrade your equipment. Use pumps to gather the ducks and drones to pick up stragglers until the lake is clear.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549260/f3311dca5807c371fc11d90ccde07bd95928f09f/ss_f3311dca5807c371fc11d90ccde07bd95928f09f.1920x1080.jpg?t=1794604731",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5506160,
+      "name": "Egg Harvest",
+      "description": "Egg Harvest is a roguelike farming game where you try to save your farm from debt. Produce eggs with your chickens, complete contracts, choose powerful upgrades, and fill your egg catalog. Keep producing until your debt is paid off!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5506160/5a37a93246f6dc80e57f90a7db4417ffd93f7e3e/ss_5a37a93246f6dc80e57f90a7db4417ffd93f7e3e.1920x1080.jpg?t=1794346253",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5425700,
@@ -74,6 +164,42 @@
       "score": 8
     },
     {
+      "id": 5566330,
+      "name": "Ium Idle Companions Odyssey",
+      "description": "Monster-collecting auto-battler desktop companion. Assemble, customize, strategize elemental synergies, craft powerful skill loadouts, and conquer regions as your squad fights autonomously in fast-paced real-time combat at the edge of your screen while you work, study, or play.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566330/515a9176cf0788eb1a9eaeccee5f36a15c875781/ss_515a9176cf0788eb1a9eaeccee5f36a15c875781.1920x1080.jpg?t=1794366158",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5448210,
+      "name": "Anomaly Watch: Castle",
+      "description": "You are the night watch of an old castle. Look through the cameras in its halls and cellars, find what has changed and report it before the anomalies take the castle.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448210/0ee72cadf499a0399cc29ef4e56737ea8fa5a375/ss_0ee72cadf499a0399cc29ef4e56737ea8fa5a375.1920x1080.jpg?t=1794489527",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5448160,
+      "name": "Anomaly Watch: Catacombs",
+      "description": "You watch the catacombs through security cameras. Check the tunnels and chambers, find what has changed and report it before the anomalies pile up.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448160/621502b4209f59e9e7d6b0c0e910a7eec115c311/ss_621502b4209f59e9e7d6b0c0e910a7eec115c311.1920x1080.jpg?t=1794489510",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5448150,
+      "name": "Anomaly Watch: Polar Station",
+      "description": "You work a night shift at a polar station. Switch between the cameras, notice what has changed and report it. Make too many mistakes, or let too many anomalies pile up, and the shift is over.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448150/e97224980abb502981908407817ad385b064fb8b/ss_e97224980abb502981908407817ad385b064fb8b.1920x1080.jpg?t=1794489492",
+      "firstSeen": "2026-11-10T21:55:51.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
       "id": 5292120,
       "name": "Unhistorical Warfare",
       "description": "Command 30+ historical armies across 3,000 years of warfare, from Persian spearmen to Abrams tanks, in real-time pixel-art battles where every soldier fights and flees on his own. Then deploy the anomalies: trolls, zombies, wizards, flying saucers and more!",
@@ -83,13 +209,13 @@
       "score": 6
     },
     {
-      "id": 4928230,
-      "name": "Super Tag",
-      "description": "Tag, with super powers! Super Tag is a 2D chase platformer: swing, blink and wall-jump away from the endless hord, or hunt down your friends in multiplayer mode.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928230/a880f2c1abcc431f96e1d845087aa172a118f461/ss_a880f2c1abcc431f96e1d845087aa172a118f461.1920x1080.jpg?t=1794346807",
+      "id": 5570510,
+      "name": "Proviantmeister 1756",
+      "description": "His Majesty’s army shall march – provided you keep it supplied! Manage depots, organize wagon trains, procure provisions, fodder and ammunition, and contend with weather and war. A historical military logistics simulation set during the Seven Years’ War, 1756–1763.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570510/af364a16d2ec306f6a7b6e80c62b949e79862214/ss_af364a16d2ec306f6a7b6e80c62b949e79862214.1920x1080.jpg?t=1794340925",
       "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "party",
-      "score": 6
+      "mechanic": "incremental",
+      "score": 5
     },
     {
       "id": 5521080,
@@ -142,7 +268,7 @@
       "description": "Run a little radio repair shop in 1952, where every wireless on your bench is a working circuit, so the meter reads what's really there and the hum or the crackle you hear is the fault itself. You take each set apart by hand and fit new parts from the cabinet till it plays again for its owner.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5487950/dbb6606db681da18d109929dc08344c2650b43cc/ss_dbb6606db681da18d109929dc08344c2650b43cc.1920x1080.jpg?t=1794303430",
       "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "incremental",
+      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -263,30 +389,21 @@
       "score": 9
     },
     {
-      "id": 5534320,
-      "name": "내일의 챔피언 (Tomorrow's Champion)",
-      "description": "We've all dreamed of racing our own mini car, haven't we? Build and tune your mini racer, discover hidden Overdrives, and outsmart rivals with strategic pit stops. Race your way to the championship! BOOST ON!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5534320/57e87f8692bfc3abc3e1d286d587daf49ff07ea4/ss_57e87f8692bfc3abc3e1d286d587daf49ff07ea4.1920x1080.jpg?t=1794452168",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5532860,
       "name": "Sortman",
       "description": "A Swiss sorting hall buried under a million letters and parcels. Sort by hand, weigh, throw, load the vans, answer furious customers, then build a chain of belts and machines that fills the vans by itself. Solo or up to four players, no timer.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532860/aabaad30d6a27eac1b123f0e2dd441db63c054ba/ss_aabaad30d6a27eac1b123f0e2dd441db63c054ba.1920x1080.jpg?t=1794547959",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532860/aabaad30d6a27eac1b123f0e2dd441db63c054ba/ss_aabaad30d6a27eac1b123f0e2dd441db63c054ba.1920x1080.jpg?t=1794737843",
       "firstSeen": "2026-11-10T08:15:20.210Z",
       "mechanic": "simulator",
       "score": 8
     },
     {
-      "id": 5525890,
-      "name": "Cupid's Bargain",
-      "description": "A matchmaker summons a pair of devilishly fine deities to help save her dying club because, like, who needs a soul anyway? Go fall in love and sell your classmates’ souls in this horror romantic comedy!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5525890/c379f10cc81f68c12f621be5b3b942f9306f4942/ss_c379f10cc81f68c12f621be5b3b942f9306f4942.1920x1080.jpg?t=1794364726",
+      "id": 5442140,
+      "name": "Hurlyburly",
+      "description": "Throw swords. Fall. Pick a card. Come back meaner. Hurlyburly is a top-down party brawler for 2–8 players where dying is how you upgrade and 150+ stacking cards turn every match into chaos.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442140/53964dee16d1c5ce110a34b629718f3a26d0cc18/ss_53964dee16d1c5ce110a34b629718f3a26d0cc18.1920x1080.jpg?t=1794593980",
       "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "simulator",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -297,15 +414,6 @@
       "firstSeen": "2026-11-10T08:15:20.210Z",
       "mechanic": "physics",
       "score": 8
-    },
-    {
-      "id": 5442140,
-      "name": "Hurlyburly",
-      "description": "Throw swords. Fall. Pick a card. Come back meaner. Hurlyburly is a top-down party brawler for 2–8 players where dying is how you upgrade and 150+ stacking cards turn every match into chaos.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442140/53964dee16d1c5ce110a34b629718f3a26d0cc18/ss_53964dee16d1c5ce110a34b629718f3a26d0cc18.1920x1080.jpg?t=1794593980",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "party",
-      "score": 7
     },
     {
       "id": 5094110,
@@ -341,15 +449,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565480/99c7bb281d70f11d828a1766e2b27ff9004b6332/ss_99c7bb281d70f11d828a1766e2b27ff9004b6332.1920x1080.jpg?t=1794264848",
       "firstSeen": "2026-11-10T00:52:17.351Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5563330,
-      "name": "Sunday Socks",
-      "description": "Sunday Socks is a cosy first-person tidying game. Socks are scattered all over the house: find each sock's twin, roll the pair into a ball and toss it into the Pair-O-Matic. Unlock upgrades, get help from the little Sock Bot and race for the fastest clear on the Steam leaderboards.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563330/e94d08db2f332fc6a098fe496d879f94bd9bf7d2/ss_e94d08db2f332fc6a098fe496d879f94bd9bf7d2.1920x1080.jpg?t=1794302720",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -441,105 +540,6 @@
       "firstSeen": "2026-11-10T00:52:17.351Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 3590570,
-      "name": "Bar of Betrayal",
-      "description": "A social deduction party game for 4-10 friends in a 1927 speakeasy. Regulars play the bar's games, find the body and vote out the killer. The killer stabs in secret, hides the body, mops the blood and blames someone else.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590570/52d988331ba527b71fb9cd1c1468211bc0dbd1fc/ss_52d988331ba527b71fb9cd1c1468211bc0dbd1fc.1920x1080.jpg?t=1794246972",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5560190,
-      "name": "Simple Tech Startup",
-      "description": "Found a small game studio in 1975 and grow it into an industry giant. Build rooms on your own lot, hire a team, create your own engines and release games, while loans, taxes and rival companies keep you on your toes as the decades roll on into the age of AI.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5560190/0dc8e00fd311f0b5f8131c806b6761bb86c90dbd/ss_0dc8e00fd311f0b5f8131c806b6761bb86c90dbd.1920x1080.jpg?t=1794248345",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5561960,
-      "name": "DELF",
-      "description": "Explore a dark and dangerous cave with your team. Gather resources, craft equipment, and manage your oxygen and stamina. Evade the creature lurking in the depths, work together, and find your way out alive!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561960/2f8b88497157543953ce2cac7f4842bb3bee3803/ss_2f8b88497157543953ce2cac7f4842bb3bee3803.1920x1080.jpg?t=1794250959",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5536170,
-      "name": "STRAY BULLET",
-      "description": "Free-to-play cartoon shooter where YOU are the bullet. Hop, blast off with gunpowder, fly on flames and go kamikaze in online matches for up to 20 players, with bots and local split screen. 28 weapons, 5 maps, 4 modes. No pay-to-win.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536170/96e300b329918e2e1cac9830ac6c4cc69cc7d254/ss_96e300b329918e2e1cac9830ac6c4cc69cc7d254.1920x1080.jpg?t=1794542285",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5426930,
-      "name": "Study With Me: Online",
-      "description": "Your new favorite place to study. Create an avatar and share a cozy multiplayer library with friends while you work on real-life goals. Mix 80+ clothing and footwear options, bring your books and music, then unwind with coffee or chess.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5426930/44ef4e2e40b148f9e6fc61dbf9eadf73d15d9a71/ss_44ef4e2e40b148f9e6fc61dbf9eadf73d15d9a71.1920x1080.jpg?t=1794247703",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5386080,
-      "name": "SearchBattle",
-      "description": "Search, turned into a battle. SearchBattle is a word party game for 1–8 players on a real search engine. Everyone searches one word for the same topic; hit counts and results decide the winner. Across many rules, what's tested isn't knowledge but &quot;search power.&quot; What would you search?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5386080/b245e91cb24975684a57826ae39a61c817db48ec/ss_b245e91cb24975684a57826ae39a61c817db48ec.1920x1080.jpg?t=1794550217",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5187740,
-      "name": "The Useless Game",
-      "description": "A completely useless videogame that politely asks you not to download it.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5187740/76499d221bad629e12d24332f7773e9441116e2e/ss_76499d221bad629e12d24332f7773e9441116e2e.1920x1080.jpg?t=1794255014",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3230210,
-      "name": "Tasty Business",
-      "description": "In Tasty Business, turn small restaurants into a culinary empire. Manage your businesses, source fresh ingredients, and attract customers as you expand your empire. Challenges, flavors, and new connections await. Are you ready to become the culinary mogul?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230210/ss_6a1a93756924a6a950f1745728ec5577fbe3dd08.1920x1080.jpg?t=1794260331",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5562010,
-      "name": "Shaft Nine",
-      "description": "Work the shift. Meet the quota. Go a little deeper. A 2D pixel art mining game about a job that gets stranger the further down you go: less automation, more discovery, and secrets that don't stay underground.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5562010/ef52067035d0a8a9019d8578ba5617a819a33899/ss_ef52067035d0a8a9019d8578ba5617a819a33899.1920x1080.jpg?t=1794594641",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5556030,
-      "name": "Desert Diggers",
-      "description": "Dig out a lost Egyptian city with up to 7 friends! Shovel deformable sand, haul fragile treasures together, survive cave-ins, snakes and sandstorms, and bury your friends alive when they least expect it. Dynamite is cheap. Friendships are not.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556030/89bd7c3f02b9c9b4ad764b996f088bb476575501/ss_89bd7c3f02b9c9b4ad764b996f088bb476575501.1920x1080.jpg?t=1794477507",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5518840,
-      "name": "Little St. Files Mayhem",
-      "description": "The Oval Office has a paperwork problem. Sort case folders, decipher damaged labels and put the archive in order alone or with up to 3 friends. Pass audits and upgrade your skills in a first-person filing game where every folder needs a home.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518840/83d6393fd65f95ca6665b0587c1a676817dcf217/ss_83d6393fd65f95ca6665b0587c1a676817dcf217.1920x1080.jpg?t=1794232946",
-      "firstSeen": "2026-11-09T17:50:49.747Z",
-      "mechanic": "party",
-      "score": 10
     }
   ]
 }
