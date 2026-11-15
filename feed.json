@@ -1,6 +1,141 @@
 {
-  "checkedAt": "2026-11-15T17:39:44.657Z",
+  "checkedAt": "2026-11-15T22:07:25.738Z",
   "games": [
+    {
+      "id": 5392150,
+      "name": "Ambulads",
+      "description": "Rescue accident victims in a physics-based co-op game where your patient’s health determines your payday. Expand your ambulance, improvise with absurd tools and sell loot on the side.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5392150/3c3127a8efb9b7cca2cedc68d617c9108fe2836e/ss_3c3127a8efb9b7cca2cedc68d617c9108fe2836e.1920x1080.jpg?t=1794410075",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "physics",
+      "score": 9
+    },
+    {
+      "id": 5451090,
+      "name": "Totally Legal Logging",
+      "description": "A co-op physics comedy about a crew of dwarves running a totally legal logging business. Fell trees with real physics, feed them to questionable machines, load the truck and get out before the forester arrives. Your friends are also a resource.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5451090/15154ac3a52217f7801fa0ccc4d393f9801c3d9b/ss_15154ac3a52217f7801fa0ccc4d393f9801c3d9b.1920x1080.jpg?t=1794403751",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5420060,
+      "name": "Fogblower",
+      "description": "Fogblower is an incremental game. Clear the fog with the fan on your little boat, discover treasures and strange creatures of the deep, and upgrade your boat until one day you can reach the mainland and earn your freedom.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5420060/90f66759634761a8c53ea374c11c1a1982592374/ss_90f66759634761a8c53ea374c11c1a1982592374.1920x1080.jpg?t=1794402181",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5209260,
+      "name": "DON’T CAMP ON BEAR ISLAND",
+      "description": "DON'T CAMP ON BEAR ISLAND! JUST DON'T DO IT! Stranded with 1-3 friends in online co-op, you have to haul your scattered gear up the mountain and build camp. The tent is heavy, nobody agrees which way is left, and something out there is listening.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5209260/5db407487c22319dbee020ba9e525397879d34fc/ss_5db407487c22319dbee020ba9e525397879d34fc.1920x1080.jpg?t=1794421744",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4601090,
+      "name": "Hold Your Position",
+      "description": "An incremental-style tower defense game where you face waves of orcs, undead, and demons. Recruit more troops, buy and upgrade skills, obtain powerful spells, and hold your position.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601090/67637a8cfda7f78c13c150842bafde2eb355c237/ss_67637a8cfda7f78c13c150842bafde2eb355c237.1920x1080.jpg?t=1794599402",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5502030,
+      "name": "Food Fight Online",
+      "description": "Join a team of food and wage war on a giant kitchen counter. Rev up, let go and splat your enemies with throws, or capture regions to take over the map. Pineapples, watermelons and more battle online in chaotic deathmatch and capture modes. Last team splatting wins!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5502030/c70ec5da7fd39ef0c3bddec00cef655d389bd237/ss_c70ec5da7fd39ef0c3bddec00cef655d389bd237.1920x1080.jpg?t=1794407158",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5462080,
+      "name": "Who is the Thief?",
+      "description": "Runners hide in a crowd of identical NPCs. Hunters spot the one who moves like a human. An asymmetric online party game for 2–10 players: finish your tasks without getting caught, or hunt down the runners hiding in the crowd.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5462080/a549e2d2b8f2dc78dc196e1f1431d5ff70120f69/ss_a549e2d2b8f2dc78dc196e1f1431d5ff70120f69.1920x1080.jpg?t=1794401588",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5375520,
+      "name": "MOMENT: A Clockwork Melody",
+      "description": "Solve puzzles as you compose melodies. Place clockwork launchers, tune their timing and guide balls through colour-changing routes. Each collision plays a note, turning your solution into music. Explore 40 levels, experiment in Free Mode and share your own puzzles.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5375520/d828e73ff80f7b5a24a3b89bd07d8a41030b8b8f/ss_d828e73ff80f7b5a24a3b89bd07d8a41030b8b8f.1920x1080.jpg?t=1794558119",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5131770,
+      "name": "Slice the Mountain",
+      "description": "A relaxing incremental game about a red panda girl who wants to slice a mountain.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131770/73fb9d13070b9efcd153e30875bdb4068005d8af/ss_73fb9d13070b9efcd153e30875bdb4068005d8af.1920x1080.jpg?t=1793277971",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4704120,
+      "name": "FLESHBAG",
+      "description": "FLESHBAG is a 3D physics sandbox about one very unlucky guy. He has organs, a brain, a face and a voice, and he has opinions about your machines. Build him a mixer, crusher or a cozy cabin. He will complain about all of them.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704120/15f723f20925941dffd1709498d16fac62cc0e92/ss_15f723f20925941dffd1709498d16fac62cc0e92.1920x1080.jpg?t=1794398235",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4314870,
+      "name": "Infinite Crosswalk",
+      "description": "Infinite Crosswalk is a psychedelic walking simulator and horror game in retro 3D style. You get hit on a zebra crossing and trapped in limbo. Uncover the victims' tragic stories to escape — or pay with parts of your own body.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314870/448dd7e23bdd4c17a52b1dd907a5e0d8e984e9a0/ss_448dd7e23bdd4c17a52b1dd907a5e0d8e984e9a0.1920x1080.jpg?t=1794397744",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5325340,
+      "name": "Prospects",
+      "description": "Strip the solar system of its bountiful resources, all for the betterment of mankind - and your corporation's bottom line. Build and command your fleet of industrial vessels, establish manufacturing outposts, and seek out the richest prospects to expand your mining empire.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325340/e220242a14ebe76504374f5352e724e8a23b9779/ss_e220242a14ebe76504374f5352e724e8a23b9779.1920x1080.jpg?t=1794479453",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 4182240,
+      "name": "Minotaur Hotel",
+      "description": "A mythology-inspired gay visual novel about the legendary Minotaur. Manage a magical hotel, explore the stories of mythical beings from around the world, and uncover the realm's dark history.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182240/c306b92ec135e4eaa0ec12127ed423e05af67770/ss_c306b92ec135e4eaa0ec12127ed423e05af67770.1920x1080.jpg?t=1794393719",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5568130,
+      "name": "Marble Hoarder",
+      "description": "Sort thousands of glass marbles in a cozy, messy old marble shop. Pick them up, toss each one into the tray where it belongs, unlock skills like Spotlight, Gather and Auto-Place, and race your marbles on a wooden race machine. No timers, no pressure.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568130/5f24ff8141aace347bfa90ac3d5db648870f1053/ss_5f24ff8141aace347bfa90ac3d5db648870f1053.1920x1080.jpg?t=1794382259",
+      "firstSeen": "2026-11-11T08:27:55.925Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5556830,
+      "name": "Desktop Divinity",
+      "description": "Build a cozy idle kingdom at the bottom of your desktop. Recruit female followers, collect gold and faith, and summon goddesses. Watch your pixel companions stroll, dance, and pray while you grow your realm and upgrade its facilities.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556830/ff3e5a405d9a433b1e9f3c5ecbf495f0783b8f79/ss_ff3e5a405d9a433b1e9f3c5ecbf495f0783b8f79.1920x1080.jpg?t=1794362874",
+      "firstSeen": "2026-11-11T08:27:55.925Z",
+      "mechanic": "physics",
+      "score": 8
+    },
     {
       "id": 4916020,
       "name": "Crack the Stone",
@@ -9,6 +144,24 @@
       "firstSeen": "2026-11-11T08:27:55.925Z",
       "mechanic": "physics",
       "score": 8
+    },
+    {
+      "id": 5534140,
+      "name": "Retro Party",
+      "description": "Nostalgia for '90s games: 25+ mini-games in a single party. Play online with up to 8 people, or 4 on the same screen. Every game is its own kind of chaos: racing, shooting, a battle of wills, and plenty more. A chance to relive the good old days with your friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5534140/4b7f393616c540ac7e18631cd9ba74f0c45dcb2d/ss_4b7f393616c540ac7e18631cd9ba74f0c45dcb2d.1920x1080.jpg?t=1794723974",
+      "firstSeen": "2026-11-11T08:27:55.925Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5448190,
+      "name": "Anomaly Watch: Rainy Night",
+      "description": "A rainy night, an empty house and a row of security cameras. Watch the rooms, notice what has changed and report it before the anomalies pile up.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448190/f42718242c661d35a5a92317b2deb387e72213bf/ss_f42718242c661d35a5a92317b2deb387e72213bf.1920x1080.jpg?t=1794489563",
+      "firstSeen": "2026-11-11T08:27:55.925Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 5448180,
@@ -168,15 +321,6 @@
       "name": "SimFarm",
       "description": "A 3D farm management game where crops grow with the weather and the soil. Choose how tight money gets: play relaxed, or face real costs, loans and the risk of going broke. You give the orders; tractors and harvesters do the work. Rotate cows, sheep and horses through paddocks.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549740/d95fd9d202c5e65f0f8f10a9da044a964161f6e9/ss_d95fd9d202c5e65f0f8f10a9da044a964161f6e9.1920x1080.jpg?t=1794471670",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5549260,
-      "name": "Ten Million Ducks",
-      "description": "Clear ten million rubber ducks from a lake. Start by hand, then work your way up to nets, a vacuum, and a collection boat. Turn in your haul, earn money, and upgrade your equipment. Use pumps to gather the ducks and drones to pick up stragglers until the lake is clear.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549260/f3311dca5807c371fc11d90ccde07bd95928f09f/ss_f3311dca5807c371fc11d90ccde07bd95928f09f.1920x1080.jpg?t=1794604731",
       "firstSeen": "2026-11-10T21:55:51.835Z",
       "mechanic": "simulator",
       "score": 8
@@ -395,150 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184000/d8e6f5c25c1dc43a5ae6374fbb0eda18d2ae2950/ss_d8e6f5c25c1dc43a5ae6374fbb0eda18d2ae2950.1920x1080.jpg?t=1794300144",
       "firstSeen": "2026-11-10T16:28:25.363Z",
       "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4413430,
-      "name": "SHAPE & SHADE",
-      "description": "SHAPE &amp; SHADE is a multiplayer game that combines Prop Hunt and Social deduction mechanics, draw your own disguise and survive until de train reach the Station. Watch your friends slowly go crazy trying to figure out what's real and what’s not !",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413430/bae525e3bd9cb823c0b8bf5e5a2345f0f84b0fb1/ss_bae525e3bd9cb823c0b8bf5e5a2345f0f84b0fb1.1920x1080.jpg?t=1794324327",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5551760,
-      "name": "Sanatorium of Evil",
-      "description": "The monsters just wanted a quiet soak. Then heroes barged in with their &quot;Purification&quot;. A pixel-art bullet heaven: draw trail signs with your steps, evolve weapons and hold out until 21:00. Then write the intruders a referral: STRAIGHT TO TRAUMATOLOGY!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5551760/fc33aa0e6c98e09691f932b03dc6023b6d3e448e/ss_fc33aa0e6c98e09691f932b03dc6023b6d3e448e.1920x1080.jpg?t=1794318261",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5535880,
-      "name": "Elysian Realms",
-      "description": "A pixel-art tower defense for PC. Hold the road across seven realms. Each one changes a rule of the game, not the scenery. Every run, won or lost, feeds a skill tree that carries over to the next. No account, no telemetry: it runs on your machine and nowhere else.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5535880/2044ac557e0ff0bdf5f7c25361785dba060c51ba/ss_2044ac557e0ff0bdf5f7c25361785dba060c51ba.1920x1080.jpg?t=1794755104",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5530860,
-      "name": "Sigildeep",
-      "description": "A deckbuilding dungeon crawler where every card is a spell on the front and a piece of the dungeon on the back. Lay cards down to build the way forward, fight with what you didn't spend, win packs and build better decks.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5530860/e2f8c2bfe3305a18db0c7d5bd3e6798af51f6656/ss_e2f8c2bfe3305a18db0c7d5bd3e6798af51f6656.1920x1080.jpg?t=1794507828",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5368500,
-      "name": "Mimic Hunt",
-      "description": "Mimic Hunt is a multiplayer stealth game where you blend into crowds of NPCs, pretend to be one of them, and outsmart your opponents across different game modes. Play as a Hider or Hunter, team up with friends in co-op or compete against other players.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5368500/78257cea595a886fba43a7fa3d04bba8f4517a1c/ss_78257cea595a886fba43a7fa3d04bba8f4517a1c.1920x1080.jpg?t=1794318443",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 4871280,
-      "name": "The Heir's Guild",
-      "description": "A turn-based RPG Roguelite where your choices will pave the path to victory! The Dragon Queen Tiametia threatens to take control of Realm... It is up to you, the Heir, to rally three loyal subjects to battle your way back to the Grand Palace and put an end to her tyranny!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871280/1ecf1e9f4ae48a630f64cef57a5cfce3a684840c/ss_1ecf1e9f4ae48a630f64cef57a5cfce3a684840c.1920x1080.jpg?t=1794322595",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5559510,
-      "name": "RATS",
-      "description": "Hide from your friends in the dark. Find the parts, feed the terminal and get out, while one or two of them hunt you by sound as one of nine killers. No markers, no waypoints: only your torch, your phone and what you hear.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559510/17f972704772100e0def2a955cd2366e4c4ccf1e/ss_17f972704772100e0def2a955cd2366e4c4ccf1e.1920x1080.jpg?t=1794619971",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 5140400,
-      "name": "Babel Rising Reborn",
-      "description": "Humanity wants to reach the heavens. You're God. Make them regret it. Unleash the elements and bring the Tower of Babel crashing down in this remastered god game, more spectacular than ever. The Unreal Engine 5 remake of a cult god game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140400/2d273e736aed2ad3660d0db2cb5ebd736c6836f3/ss_2d273e736aed2ad3660d0db2cb5ebd736c6836f3.1920x1080.jpg?t=1794691078",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5398350,
-      "name": "Take Care!!!",
-      "description": "A chaotic co-op pharmacy sim for 1–4 players. Serve patients, fill prescriptions, hit your quotas—and pray nobody loses it. Turn mounting stress into a resource and somehow make it to closing time!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398350/2e2b88924eadb16aea6ee83673f501ed817fbc16/ss_2e2b88924eadb16aea6ee83673f501ed817fbc16.1920x1080.jpg?t=1794753684",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "incremental",
-      "score": 9
-    },
-    {
-      "id": 5532860,
-      "name": "Sortman",
-      "description": "A Swiss sorting hall buried under a million letters and parcels. Sort by hand, weigh, throw, load the vans, answer furious customers, then build a chain of belts and machines that fills the vans by itself. Solo or up to four players, no timer.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532860/aabaad30d6a27eac1b123f0e2dd441db63c054ba/ss_aabaad30d6a27eac1b123f0e2dd441db63c054ba.1920x1080.jpg?t=1794737843",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5442140,
-      "name": "Hurlyburly",
-      "description": "Throw swords. Fall. Pick a card. Come back meaner. Hurlyburly is a top-down party brawler for 2–8 players where dying is how you upgrade and 150+ stacking cards turn every match into chaos.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442140/53964dee16d1c5ce110a34b629718f3a26d0cc18/ss_53964dee16d1c5ce110a34b629718f3a26d0cc18.1920x1080.jpg?t=1794593980",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5178940,
-      "name": "Gravith",
-      "description": "Gravith is a high-difficulty score attack game. Use the gravity of your mouse cursor (planet) to alter the path of incoming missiles and destroy targets. However, if a missile hits your planet, it's an instant game over. Experience high-risk gameplay where one slip-up ends it all.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5178940/b20081033832094ca9abde05d0a38127fefec0b8/ss_b20081033832094ca9abde05d0a38127fefec0b8.1920x1080.jpg?t=1794276353",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5094110,
-      "name": "Thirst Game",
-      "description": "Good evening, viewers! Welcome to The Thirst Games! Tonight’s lucky contestants are you and your unlucky friends! Place your bets, run the gauntlet, trip each other up—and see who gets rich overnight and who ends up as roadkill.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094110/33d5cc5ffbaecaf08f0010cb5e81bc6bb80517e3/ss_33d5cc5ffbaecaf08f0010cb5e81bc6bb80517e3.1920x1080.jpg?t=1794540989",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5562210,
-      "name": "Consume p/pixelplace",
-      "description": "Hack a fully simulated pixel canvas. Build your botnet, spread the Void, and watch fictional communities fight, rebuild, and complain on Pixxit. A single-player incremental game with active and Idle modes, territorial drama, and far too many crabs.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5562210/2b184293410e76b6df0f1454159327c9a50cf4d2/ss_2b184293410e76b6df0f1454159327c9a50cf4d2.1920x1080.jpg?t=1794294907",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5311190,
-      "name": "Test Your Luck: Gacha Simulator",
-      "description": "Welcome to GachaOS, the premier gacha gaming platform for whales! Play a gauntlet of incremental gacha games with Moby, our helpful Gacha Assistant. Build your fortune, then burn it all pulling characters, ripping packs, or opening crates. Unlucky? With GachaOS, turn your misfortune into fortune!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311190/35c4f468cbab3b1280dbb37b2af27514f0d1f3ab/ss_35c4f468cbab3b1280dbb37b2af27514f0d1f3ab.1920x1080.jpg?t=1794360642",
-      "firstSeen": "2026-11-10T08:15:20.210Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5565480,
-      "name": "ONE BRAINCELL",
-      "description": "Two bodies. One brain. Zero common sense. ONE BRAINCELL is a 2-player online co-op puzzle platformer where only one of you can think at a time. Pass the brain, steal it at the worst moment, yell secret codes across the room and fail gloriously together.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565480/99c7bb281d70f11d828a1766e2b27ff9004b6332/ss_99c7bb281d70f11d828a1766e2b27ff9004b6332.1920x1080.jpg?t=1794264848",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "physics",
       "score": 8
     }
   ]
