@@ -1,6 +1,60 @@
 {
-  "checkedAt": "2026-11-15T11:05:20.169Z",
+  "checkedAt": "2026-11-15T17:39:44.657Z",
   "games": [
+    {
+      "id": 4916020,
+      "name": "Crack the Stone",
+      "description": "Minimalist desktop idle game that lives in the corner of your screen. Upgrade the water flow from a single drop to a steady stream and keep wearing the stone down. Someday it will crack. Patience always wins.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916020/3109c66b4fcfbccbf515ad8c3b8a925a22c46c92/ss_3109c66b4fcfbccbf515ad8c3b8a925a22c46c92.1920x1080.jpg?t=1794382116",
+      "firstSeen": "2026-11-11T08:27:55.925Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5448180,
+      "name": "Anomaly Watch: Mine",
+      "description": "You watch an old mine through security cameras. Check the tunnels and the work areas, find what has changed and report it before the anomalies pile up.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448180/a63cd93a15b439f735d706fd0c82eed27e34823f/ss_a63cd93a15b439f735d706fd0c82eed27e34823f.1920x1080.jpg?t=1794489543",
+      "firstSeen": "2026-11-11T08:27:55.925Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5217270,
+      "name": "Othercrown",
+      "description": "A deck-building auto-battler roguelite where you build your own slot machine to deploy monsters and cast spells against the human kingdoms. Mutate your creatures, and maximize your slots to deploy as many creatures and spells as you can during your fights against the human kingdoms.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217270/98bd2320728d14ef2bb68f13cac0a80632de9756/ss_98bd2320728d14ef2bb68f13cac0a80632de9756.1920x1080.jpg?t=1794525136",
+      "firstSeen": "2026-11-11T08:27:55.925Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5261120,
+      "name": "Star Ring Convenience Store",
+      "description": "A supernatural adventure about working for a living and getting stuck in a time loop. On her first day on the job, intern Amo is trapped in the same day. Meet eccentric late-night customers, connect clues in your Mind Palace, and uncover the secrets hidden inside Star Ring Convenience Store.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261120/a778a5b6fb42ecb3a5d3fec6c6f8d49945317e3b/ss_a778a5b6fb42ecb3a5d3fec6c6f8d49945317e3b.1920x1080.jpg?t=1794492614",
+      "firstSeen": "2026-11-11T08:27:55.925Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5566210,
+      "name": "Good Boy Good Waves",
+      "description": "Set out on a relaxing paddleboard journey across scenic island waters with your faithful canine companion. Catch the rhythm of gentle waves, balance your board, explore peaceful coastlines, and uncover tranquil island secrets together.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566210/ea14a55bb16d90d7f8d8deab8aa23516b1a70d01/ss_ea14a55bb16d90d7f8d8deab8aa23516b1a70d01.1920x1080.jpg?t=1794358203",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5564820,
+      "name": "Panzertanken",
+      "description": "Turn-based tank artillery on fully destructible pixel terrain. Command about 200 tanks from WWI to today, dig in with shovels and steel plates, and blow up enemy bunkers in five campaigns, 3 vs 3 battles against bots, hot-seat duels and online matches.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5564820/7674130177a69c9529468cf43cf183534af04f46/ss_7674130177a69c9529468cf43cf183534af04f46.1920x1080.jpg?t=1794352305",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "physics",
+      "score": 8
+    },
     {
       "id": 5437300,
       "name": "The Bastion Protocol",
@@ -20,6 +74,42 @@
       "score": 8
     },
     {
+      "id": 5541910,
+      "name": "Eggcellent Guess",
+      "description": "A silly online party game for up to 12 friends. Everyone can read the word on your egg's headband except you. Ask questions, listen to the clues and guess it before the stopwatch gets away from you. Fastest total time wins.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5541910/f9e548bb7f953d7d29b479ff134c671ae819e57a/ss_f9e548bb7f953d7d29b479ff134c671ae819e57a.1920x1080.jpg?t=1794359350",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5565800,
+      "name": "Retail Empire",
+      "description": "Design, build, and manage a supermarket where store layout controls what shoppers see and buy. Use customer sightlines and smart display placement to trigger impulse buys, control eye-level shelf space across 250+ products, create your own store-brand products, and maximize your profits!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565800/c544adb4d2c3bbabd2a2d5353983738bac92c1e0/ss_c544adb4d2c3bbabd2a2d5353983738bac92c1e0.1920x1080.jpg?t=1794412316",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5537670,
+      "name": "Excabyte",
+      "description": "Excabyte is an incremental mining game where you start with a single miner and build your own mining empire. Extract valuable resources, purchase powerful machinery and avoid disasters.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537670/6cb3b4d53e6ad9b89c16b9ee1f6160aceff07bf7/ss_6cb3b4d53e6ad9b89c16b9ee1f6160aceff07bf7.1920x1080.jpg?t=1794350816",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5446810,
+      "name": "Meowside: Desktop Cats",
+      "description": "Adorable pixel cats live on your screen. Watch them eat, nap, and wander through daily routines. Pet them or play with a cat wand, and enjoy their company every day.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446810/8eb83fe4ae6fe0c65c5274c8afcebf5c8fae2511/ss_8eb83fe4ae6fe0c65c5274c8afcebf5c8fae2511.1920x1080.jpg?t=1794407506",
+      "firstSeen": "2026-11-11T01:50:14.181Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
       "id": 5352230,
       "name": "こもれびの丘",
       "description": "I accidentally overslept on the train and ended up in some kind of mysterious towns. This is a relaxing, slow-life game where you wander around the streets freely, meet the locals, and feel the changing seasons together with the main character, Rifa, who unexpectedly became the town's representative",
@@ -31,10 +121,10 @@
     {
       "id": 5570230,
       "name": "Mostly Absurd Battle Simulator",
-      "description": "Place an army of farmers, knights and giants, press Launch and see what happens. Mid-battle, grab anyone and throw them off a cliff, or jump into one of your soldiers and fight yourself. There is also a train with a face.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570230/4fbb203159185906968d7975ed8c7f98f2b61af1/ss_4fbb203159185906968d7975ed8c7f98f2b61af1.1920x1080.jpg?t=1794339945",
+      "description": "Wobbly physics battles. Place an army of farmers, knights, giants and a train with a face, press Launch and watch it all fall apart. Grab anyone and throw them off a cliff, or jump into a soldier and fight yourself.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570230/4fbb203159185906968d7975ed8c7f98f2b61af1/ss_4fbb203159185906968d7975ed8c7f98f2b61af1.1920x1080.jpg?t=1794750936",
       "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "party",
+      "mechanic": "physics",
       "score": 9
     },
     {
@@ -268,7 +358,7 @@
       "description": "Run a little radio repair shop in 1952, where every wireless on your bench is a working circuit, so the meter reads what's really there and the hum or the crackle you hear is the fault itself. You take each set apart by hand and fit new parts from the cabinet till it plays again for its owner.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5487950/dbb6606db681da18d109929dc08344c2650b43cc/ss_dbb6606db681da18d109929dc08344c2650b43cc.1920x1080.jpg?t=1794303430",
       "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "simulator",
+      "mechanic": "incremental",
       "score": 8
     },
     {
@@ -329,7 +419,7 @@
       "id": 5535880,
       "name": "Elysian Realms",
       "description": "A pixel-art tower defense for PC. Hold the road across seven realms. Each one changes a rule of the game, not the scenery. Every run, won or lost, feeds a skill tree that carries over to the next. No account, no telemetry: it runs on your machine and nowhere else.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5535880/2044ac557e0ff0bdf5f7c25361785dba060c51ba/ss_2044ac557e0ff0bdf5f7c25361785dba060c51ba.1920x1080.jpg?t=1794319810",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5535880/2044ac557e0ff0bdf5f7c25361785dba060c51ba/ss_2044ac557e0ff0bdf5f7c25361785dba060c51ba.1920x1080.jpg?t=1794755104",
       "firstSeen": "2026-11-10T16:28:25.363Z",
       "mechanic": "physics",
       "score": 6
@@ -383,7 +473,7 @@
       "id": 5398350,
       "name": "Take Care!!!",
       "description": "A chaotic co-op pharmacy sim for 1–4 players. Serve patients, fill prescriptions, hit your quotas—and pray nobody loses it. Turn mounting stress into a resource and somehow make it to closing time!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398350/2e2b88924eadb16aea6ee83673f501ed817fbc16/ss_2e2b88924eadb16aea6ee83673f501ed817fbc16.1920x1080.jpg?t=1794298037",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398350/2e2b88924eadb16aea6ee83673f501ed817fbc16/ss_2e2b88924eadb16aea6ee83673f501ed817fbc16.1920x1080.jpg?t=1794753684",
       "firstSeen": "2026-11-10T08:15:20.210Z",
       "mechanic": "incremental",
       "score": 9
@@ -449,96 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565480/99c7bb281d70f11d828a1766e2b27ff9004b6332/ss_99c7bb281d70f11d828a1766e2b27ff9004b6332.1920x1080.jpg?t=1794264848",
       "firstSeen": "2026-11-10T00:52:17.351Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5561230,
-      "name": "CatCat Panic",
-      "description": "CatCat Panic is a chaotic online party game for 3–4 players! Pick your cat and battle your friends in 14 crazy mini-games: rob Nazif’s house, escape the vacuum monster, hop on your skateboard and race. Only one cat takes the crown!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561230/c45b0f92039cd703eec4f52382b8ca8eb9c7099a/ss_c45b0f92039cd703eec4f52382b8ca8eb9c7099a.1920x1080.jpg?t=1794257699",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5561120,
-      "name": "Single File",
-      "description": "A pixel-art auto-battler. You get one save file. If your party wipes, it's deleted and you start over. Not quite from zero though cause the Scrolls you earned stay, and they make every new file stronger. Grow a party of six. Use their abilities. Fight against 36 bosses.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561120/d75a24b2c55708c7a188badbc59150770bd2cfca/ss_d75a24b2c55708c7a188badbc59150770bd2cfca.1920x1080.jpg?t=1794644639",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5553490,
-      "name": "CarCity",
-      "description": "Run your own neighborhood car garage. Fix customers' cars, buy and customize your dream rides at the dealership, and race them down the drag strip. Grow from a single lift to the best shop in town, one job at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5553490/58a154857f0aa0b824e182ea24765aa3a96c5da7/ss_58a154857f0aa0b824e182ea24765aa3a96c5da7.1920x1080.jpg?t=1794258762",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5523830,
-      "name": "Shutterbug Skies: Idle Camping",
-      "description": "A cozy corner idler built to be your daily desktop companion. Help Kes search for and photograph beautiful bugs while you work, study, or relax. Upgrade your camera equipment, complete your creature collection, and discover 7 unique floating islands!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5523830/de68d19a1dde00fd45ece5fbe2c1f2ae5c171167/ss_de68d19a1dde00fd45ece5fbe2c1f2ae5c171167.1920x1080.jpg?t=1794405657",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5385610,
-      "name": "Nook Beasts",
-      "description": "Digital monsters in the corner of your desktop! Hatch, Evolve, and Raise over 100 different beasts, and send them on adventures to grow stronger, earn rewards to upgrade your nook, and discover eggs from unknown species!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385610/0e10a84519c99976fcb6d143c1e28dfd81c17ee0/ss_0e10a84519c99976fcb6d143c1e28dfd81c17ee0.1920x1080.jpg?t=1794259423",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5300870,
-      "name": "CATLINES",
-      "description": "You're part of the sorting service, it's your final day on the job! Build your way through different worlds, use your skills, and deliver 8,196 cat-boxes to their owners. Drink milk, enjoy chocolate mint, sort every last cat-box to discover the mysterious gift waiting for you!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300870/4f7f2fc72f5dafa459f5781012df03bae934849d/ss_4f7f2fc72f5dafa459f5781012df03bae934849d.1920x1080.jpg?t=1794593066",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5191240,
-      "name": "Tidy Up The Christmas Shop",
-      "description": "Tidy up a cozy Christmas shop solo or with up to 3 friends in online co-op! Find, carry and sort thousands of festive objects across 765 item types. Upgrade your gift sack, unlock a little Christmas magic, and bring order to the holiday chaos, one shelf at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191240/f547c2b6a5172bca2089c0a1965af74940305f77/ss_f547c2b6a5172bca2089c0a1965af74940305f77.1920x1080.jpg?t=1794621439",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5130220,
-      "name": "The Cardkov",
-      "description": "Turn poker hands into weapons in this single-player, top-down extraction shooter. Collect discarded cards in the city's cold back alleys, build a hand, and use your new weapon to uncover the factory's secrets. Grab one more card, or make it back alive with the hand you've got.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5130220/bf3f9368af4d0001bc212b146e55f9ba49a93132/ss_bf3f9368af4d0001bc212b146e55f9ba49a93132.1920x1080.jpg?t=1794480200",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4931730,
-      "name": "Wild Myth",
-      "description": "An online co-op adventure where you and your friends hunt for proof of the world’s most dangerous myths. All for the views. Go live. Capture the chaos. Run. Cut it into viral content. Stay live. Stay alive.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931730/976fd945704dcae6ce7f9e63c663ad1d973babcf/ss_976fd945704dcae6ce7f9e63c663ad1d973babcf.1920x1080.jpg?t=1794505468",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4778330,
-      "name": "Sardoinky",
-      "description": "Sardoinky is a weird, chill, hand drawn clicker about opening cans of sardines. Buy a can, crack it open and sell whatever is inside. Spend the cash on better cans and upgrades. Collect every fish and find out what the company is hiding.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778330/944327632fb1f95bb7bcbee7ae540e0bd84d6eb7/ss_944327632fb1f95bb7bcbee7ae540e0bd84d6eb7.1920x1080.jpg?t=1794467615",
-      "firstSeen": "2026-11-10T00:52:17.351Z",
-      "mechanic": "incremental",
       "score": 8
     }
   ]
