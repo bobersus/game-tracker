@@ -1,6 +1,150 @@
 {
-  "checkedAt": "2026-11-16T09:50:59.026Z",
+  "checkedAt": "2026-11-16T19:53:53.168Z",
   "games": [
+    {
+      "id": 4965150,
+      "name": "It Works: Electronics Repair Simulator - First Short Circuit",
+      "description": "Take your first steps in the electronics repair business! Enter your home garage, master the basics of diagnostics, use the multimeter, and solve your very first hardware crises. Fix basic devices, satisfy your clients, and face the ultimate test: your first short circuit!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965150/44cd6bbb38e4e6d73971bf9cd10a0366b77c1c36/ss_44cd6bbb38e4e6d73971bf9cd10a0366b77c1c36.1920x1080.jpg?t=1794652730",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "simulator",
+      "score": 9
+    },
+    {
+      "id": 5022560,
+      "name": "Mall Security",
+      "description": "Co-op physics comedy for 1–4 mall guards. X-ray shoppers, yell orders into your mic, chase shoplifters and throw them in the cell. Every broken window goes on your report, so try not to get fired. Or switch sides in Thieves vs Guards PvP.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5022560/7f8c7c2fdea7b6e83b7d43409f5398d121604c24/ss_7f8c7c2fdea7b6e83b7d43409f5398d121604c24.1920x1080.jpg?t=1794482950",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 3987430,
+      "name": "Roads & Riches: Traveling Merchant Simulator",
+      "description": "Hit the road alone or with friends in your caravan! Travel across faraway lands, sell wonderful wares, and find magical treasures all in a dynamic economic world where every journey offers different opportunities - all to win over the world's hearts, minds... and wallets!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987430/b0070041062a247c8e094abf0b732a132abd794d/ss_b0070041062a247c8e094abf0b732a132abd794d.1920x1080.jpg?t=1794461298",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 2661110,
+      "name": "Kibble Rescue",
+      "description": "A cozy first-person cleanup game. The shop cats tore open a giant bag of pet food and buried Happy Paws Pet Shop under a million kibbles. Scoop it up, pack it into crates, wrap and ship the boxes, buy bigger tools, and put every product back on its shelf before closing time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661110/8228c5d49d62a94fc36cacf0953875c9d65d2be1/ss_8228c5d49d62a94fc36cacf0953875c9d65d2be1.1920x1080.jpg?t=1794544175",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4847830,
+      "name": "Living With Dad - Family Party",
+      "description": "Take on the Championn’Appart challenge with Dad’s Girls in this colourful party game! Who will take the top spot on the podium?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847830/2c26cf76f6f5a68d4fcc81285ae209f54fd235a0/ss_2c26cf76f6f5a68d4fcc81285ae209f54fd235a0.1920x1080.jpg?t=1794474200",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5227160,
+      "name": "Impferno",
+      "description": "An online co-op game for up to 8 players. Explore the Circles of Hell in search of monsters and collect their souls before time runs out. Work and fight together to survive. But never forget: trust has no place among demons!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5227160/783ad59a6d513cda1845783137e3b2560ba9bdf3/ss_783ad59a6d513cda1845783137e3b2560ba9bdf3.1920x1080.jpg?t=1794452485",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "incremental",
+      "score": 9
+    },
+    {
+      "id": 5566930,
+      "name": "Pack it! Part-Time Master",
+      "description": "Scan! Stack! The ultimate basket-packing challenge! Become a part-time master!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566930/dc6666e977625f9f51e2bfa7fcfddb1488a5b434/ss_dc6666e977625f9f51e2bfa7fcfddb1488a5b434.1920x1080.jpg?t=1794439303",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5197010,
+      "name": "Pump And Dump",
+      "description": "It's 1987 and you start in the mailroom. You have eight weeks to get your name on the door. Trade stocks, pump the ones you own, sell to dentists over the phone and keep the SEC off your back. A trading roguelite with scheme cards, a crew to hire and a new run every time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5197010/de766ce1d469e19af4c95a45aa5648538df892d6/ss_de766ce1d469e19af4c95a45aa5648538df892d6.1920x1080.jpg?t=1794785925",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5513180,
+      "name": "My Crazy Stupid Pong Life",
+      "description": "One summer, one paddle, and a megacorp that wants every court in the city... Life gets weird when every problem is settled over Ping Pong.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513180/cfa13361f750d33cc52412084c23ca20fa0190dc/ss_cfa13361f750d33cc52412084c23ca20fa0190dc.1920x1080.jpg?t=1794850578",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5565560,
+      "name": "One Million Chips",
+      "description": "A short first-person incremental game set in a flooded casino. Scoop, rake, shovel and vacuum one million in chips into the giant funnel, spend your tips at Valeria's counter, and clear every last chip from the Casino Fortuna.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565560/3123c5bdfee501832ba9e2c595ab687d2bf7314a/ss_3123c5bdfee501832ba9e2c595ab687d2bf7314a.1920x1080.jpg?t=1794689510",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5536370,
+      "name": "Deadlines",
+      "description": "A multiplayer melee combat game where you and your coworkers are trapped in a sprawling office building with an impossible deadline. Work together to survive, form alliances to improve your odds, or turn on your coworkers before they turn on you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536370/b4a2b0c595ea95028391984592195cf26e609cbe/ss_b4a2b0c595ea95028391984592195cf26e609cbe.1920x1080.jpg?t=1794438205",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5526980,
+      "name": "Planet Chess",
+      "description": "Six boards. Two players. One ultimate showdown. Planet Chess transforms classic chess into an intense multiplayer battle where you fight across six independent boards at once. Outsmart your opponent, master every move, and claim victory!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5526980/fa8cc68940d16cac68daac6b9cf47755e391d58e/ss_fa8cc68940d16cac68daac6b9cf47755e391d58e.1920x1080.jpg?t=1794443005",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5029900,
+      "name": "Knock Twice",
+      "description": "Queens, 1974. Something in Garland Court knocks twice, and it can only come in if you answer. It wears your neighbours' voices. Check the peephole, count the shadows, keep the chain on. Five apartments, three years of the building's past, thirty-two endings.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029900/659e3cfbbef5a46631dc9f8eb4d980081fec43b7/ss_659e3cfbbef5a46631dc9f8eb4d980081fec43b7.1920x1080.jpg?t=1794453874",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4570030,
+      "name": "HIGH HORNS",
+      "description": "CLIMB TO CONQUER! Physics-based co-op VR climbing",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570030/934e4451c4305b1048373953b2867e85e6c7af6f/ss_934e4451c4305b1048373953b2867e85e6c7af6f.1920x1080.jpg?t=1794450684",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4395320,
+      "name": "Logisticats",
+      "description": "Move to a floating island and start a new life alongside a colony of cats with unique personalities! In this cozy business sim, you'll help your cats to plant crops and build buildings before taking to the skies in your airship to lead your feline crew in search of treasure and adventure!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395320/b09bef87776c5f978abedccfd69532cfb3facb21/ss_b09bef87776c5f978abedccfd69532cfb3facb21.1920x1080.jpg?t=1794451438",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4582430,
+      "name": "This is not just a farm",
+      "description": "This Is Not Just a Farm is an idle farming simulator with horror elements where you can make progress while doing other things on your computer.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582430/854262f86815d2c55acbda39d7b49a32d5e3160c/ss_854262f86815d2c55acbda39d7b49a32d5e3160c.1920x1080.jpg?t=1794442995",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
     {
       "id": 5568040,
       "name": "Deep Clean",
@@ -131,7 +275,7 @@
       "id": 3204820,
       "name": "RippleLoop",
       "description": "Skip stones as far as you can in this relaxing incremental game. Launch, bounce across the water, upgrade, and go further with every throw. Buy new upgrades and powers to become the ultimate stone skipper.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204820/f2ecc166c3a2c53b9028345a5841df24bc70ce32/ss_f2ecc166c3a2c53b9028345a5841df24bc70ce32.1920x1080.jpg?t=1794427113",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204820/f2ecc166c3a2c53b9028345a5841df24bc70ce32/ss_f2ecc166c3a2c53b9028345a5841df24bc70ce32.1920x1080.jpg?t=1794847877",
       "firstSeen": "2026-11-11T22:56:55.856Z",
       "mechanic": "incremental",
       "score": 8
@@ -141,15 +285,6 @@
       "name": "Ooglie Booglies",
       "description": "A 2D shooter where chaos and fun are valued more than perfect skill and strategy. Get more powerful every round and unlock insane new abilities to beat your friends in hilarious and breathtaking ways.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527100/e24559caf2baadc411ae8fd1f46d2c7f682b2a4c/ss_e24559caf2baadc411ae8fd1f46d2c7f682b2a4c.1920x1080.jpg?t=1794446733",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5201590,
-      "name": "GACHA MASH FIGHT",
-      "description": "Mash away and your moves pop out of a gacha! A free-to-play slapstick 2D fighter. Every move is pure luck, with rarities N, R, SR and SSR. Pull an ultra-rare UR for a one-hit KO that flips any match! Three modes plus online battles: party with friends or climb the global leaderboard.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201590/481aa037fa5ea9f9eb99d67d9dd28d20aa054d49/ss_481aa037fa5ea9f9eb99d67d9dd28d20aa054d49.1920x1080.jpg?t=1794736826",
       "firstSeen": "2026-11-11T22:56:55.856Z",
       "mechanic": "party",
       "score": 7
@@ -203,7 +338,7 @@
       "id": 5558940,
       "name": "Blood Rails",
       "description": "An armored train, a straight track across a dead continent, and a horde that never stops chasing you. Turn your train into a fortress, loot abandoned villages and decide whether the next kilometer is worth the risk.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558940/20fd257270b251c669f4984bc421556016fd95d7/ss_20fd257270b251c669f4984bc421556016fd95d7.1920x1080.jpg?t=1794703813",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558940/20fd257270b251c669f4984bc421556016fd95d7/ss_20fd257270b251c669f4984bc421556016fd95d7.1920x1080.jpg?t=1794836798",
       "firstSeen": "2026-11-11T22:56:55.856Z",
       "mechanic": "party",
       "score": 5
@@ -273,9 +408,9 @@
     },
     {
       "id": 5542300,
-      "name": "Island Miner",
+      "name": "Flying Island Miner",
       "description": "Rise above the clouds and unearth the treasures of a floating island in this relaxing digging simulator. Dig through its layers, build a collection of curious finds, and unleash the full power of your tools. From your very first dig to the last grain of sand.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542300/539ccd28cf96a0af1797d1b7306be791e21643ad/ss_539ccd28cf96a0af1797d1b7306be791e21643ad.1920x1080.jpg?t=1794468266",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542300/539ccd28cf96a0af1797d1b7306be791e21643ad/ss_539ccd28cf96a0af1797d1b7306be791e21643ad.1920x1080.jpg?t=1794840608",
       "firstSeen": "2026-11-11T16:31:38.255Z",
       "mechanic": "simulator",
       "score": 8
@@ -405,141 +540,6 @@
       "firstSeen": "2026-11-11T16:31:38.255Z",
       "mechanic": "party",
       "score": 5
-    },
-    {
-      "id": 4182240,
-      "name": "Minotaur Hotel",
-      "description": "A mythology-inspired gay visual novel about the legendary Minotaur. Manage a magical hotel, explore the stories of mythical beings from around the world, and uncover the realm's dark history.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182240/c306b92ec135e4eaa0ec12127ed423e05af67770/ss_c306b92ec135e4eaa0ec12127ed423e05af67770.1920x1080.jpg?t=1794393719",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5556830,
-      "name": "Desktop Divinity",
-      "description": "Build a cozy idle kingdom at the bottom of your desktop. Recruit female followers, collect gold and faith, and summon goddesses. Watch your pixel companions stroll, dance, and pray while you grow your realm and upgrade its facilities.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556830/ff3e5a405d9a433b1e9f3c5ecbf495f0783b8f79/ss_ff3e5a405d9a433b1e9f3c5ecbf495f0783b8f79.1920x1080.jpg?t=1794362874",
-      "firstSeen": "2026-11-11T08:27:55.925Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5534140,
-      "name": "Retro Party",
-      "description": "Nostalgia for '90s games: 25+ mini-games in a single party. Play online with up to 8 people, or 4 on the same screen. Every game is its own kind of chaos: racing, shooting, a battle of wills, and plenty more. A chance to relive the good old days with your friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5534140/4b7f393616c540ac7e18631cd9ba74f0c45dcb2d/ss_4b7f393616c540ac7e18631cd9ba74f0c45dcb2d.1920x1080.jpg?t=1794723974",
-      "firstSeen": "2026-11-11T08:27:55.925Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5261120,
-      "name": "Star Ring Convenience Store",
-      "description": "A supernatural adventure about working for a living and getting stuck in a time loop. On her first day on the job, intern Amo is trapped in the same day. Meet eccentric late-night customers, connect clues in your Mind Palace, and uncover the secrets hidden inside Star Ring Convenience Store.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261120/a778a5b6fb42ecb3a5d3fec6c6f8d49945317e3b/ss_a778a5b6fb42ecb3a5d3fec6c6f8d49945317e3b.1920x1080.jpg?t=1794492614",
-      "firstSeen": "2026-11-11T08:27:55.925Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5566210,
-      "name": "Good Boy Good Waves",
-      "description": "Set out on a relaxing paddleboard journey across scenic island waters with your faithful canine companion. Catch the rhythm of gentle waves, balance your board, explore peaceful coastlines, and uncover tranquil island secrets together.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566210/ea14a55bb16d90d7f8d8deab8aa23516b1a70d01/ss_ea14a55bb16d90d7f8d8deab8aa23516b1a70d01.1920x1080.jpg?t=1794358203",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5564820,
-      "name": "Panzertanken",
-      "description": "Turn-based tank artillery on fully destructible pixel terrain. Command about 200 tanks from WWI to today, dig in with shovels and steel plates, and blow up enemy bunkers in five campaigns, 3 vs 3 battles against bots, hot-seat duels and online matches.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5564820/7674130177a69c9529468cf43cf183534af04f46/ss_7674130177a69c9529468cf43cf183534af04f46.1920x1080.jpg?t=1794352305",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5437300,
-      "name": "The Bastion Protocol",
-      "description": "The Bastion Protocol is an idle tower defense game where a lone tower faces relentless enemy waves. Earn Entropy from kills, strengthen your build, and survive until your tower falls. Turn each run’s rewards into lasting upgrades and return stronger.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437300/c12ea8e7d4db6a96cc42f6eefb4a58572858ee45/ss_c12ea8e7d4db6a96cc42f6eefb4a58572858ee45.1920x1080.jpg?t=1794011236",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 2245760,
-      "name": "Optiminer",
-      "description": "Optiminer is a minimalist incremental about mining radioactive materials. Dig through the rock to extract raw ore and radioactive materials, then pour it all into a branching upgrade tree and go deeper.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245760/ecc7f04a771d1900c3d05655f670f2be7272ac70/ss_ecc7f04a771d1900c3d05655f670f2be7272ac70.1920x1080.jpg?t=1794349621",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5541910,
-      "name": "Eggcellent Guess",
-      "description": "A silly online party game for up to 12 friends. Everyone can read the word on your egg's headband except you. Ask questions, listen to the clues and guess it before the stopwatch gets away from you. Fastest total time wins.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5541910/f9e548bb7f953d7d29b479ff134c671ae819e57a/ss_f9e548bb7f953d7d29b479ff134c671ae819e57a.1920x1080.jpg?t=1794359350",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5565800,
-      "name": "Retail Empire",
-      "description": "Design, build, and manage a supermarket where store layout controls what shoppers see and buy. Use customer sightlines and smart display placement to trigger impulse buys, control eye-level shelf space across 250+ products, create your own store-brand products, and maximize your profits!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565800/c544adb4d2c3bbabd2a2d5353983738bac92c1e0/ss_c544adb4d2c3bbabd2a2d5353983738bac92c1e0.1920x1080.jpg?t=1794412316",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5537670,
-      "name": "Excabyte",
-      "description": "Excabyte is an incremental mining game where you start with a single miner and build your own mining empire. Extract valuable resources, purchase powerful machinery and avoid disasters.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537670/6cb3b4d53e6ad9b89c16b9ee1f6160aceff07bf7/ss_6cb3b4d53e6ad9b89c16b9ee1f6160aceff07bf7.1920x1080.jpg?t=1794350816",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5352230,
-      "name": "こもれびの丘",
-      "description": "I accidentally overslept on the train and ended up in some kind of mysterious towns. This is a relaxing, slow-life game where you wander around the streets freely, meet the locals, and feel the changing seasons together with the main character, Rifa, who unexpectedly became the town's representative",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5352230/89e2aeed657507296cb28680d574cf31361e55a1/ss_89e2aeed657507296cb28680d574cf31361e55a1.1920x1080.jpg?t=1794352279",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5570230,
-      "name": "Mostly Absurd Battle Simulator",
-      "description": "Wobbly physics battles. Place an army of farmers, knights, giants and a train with a face, press Launch and watch it all fall apart. Grab anyone and throw them off a cliff, or jump into a soldier and fight yourself.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570230/4fbb203159185906968d7975ed8c7f98f2b61af1/ss_4fbb203159185906968d7975ed8c7f98f2b61af1.1920x1080.jpg?t=1794750936",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 9
-    },
-    {
-      "id": 5556170,
-      "name": "Drawbacks: Draw, Guess, Sabotage",
-      "description": "The draw-and-guess party game where your friends fight dirty. While you draw, they spend ink on sabotage cards that shake, flip, mirror and splatter your doodle. Guess fast, sabotage smart and laugh at the wreckage. 2–16 players online.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556170/e7b4ec6427bd76ae7750edea68e6ee9044c8377c/ss_e7b4ec6427bd76ae7750edea68e6ee9044c8377c.1920x1080.jpg?t=1794340078",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
-      "id": 5320720,
-      "name": "Pack Party",
-      "description": "The drawing party game where you and your friends make a deck of absurd cards to answer ridiculous prompts. 4 to 10 players.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5320720/0321476005c69ac72481114ccfb9d3fdb0b335d1/ss_0321476005c69ac72481114ccfb9d3fdb0b335d1.1920x1080.jpg?t=1794345465",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "party",
-      "score": 9
     }
   ]
 }
