@@ -1,6 +1,69 @@
 {
-  "checkedAt": "2026-11-15T22:07:25.738Z",
+  "checkedAt": "2026-11-16T02:12:58.277Z",
   "games": [
+    {
+      "id": 4697150,
+      "name": "Choo Choo Kingdom",
+      "description": "The Rift has swallowed the kingdom. Grow one archer’s carriage into a 16-carriage war-train that auto-battles endless hordes. Place troops beside supports for synergy, upgrade a deep skill tree, chase each boss through town and free the kingdom village by village.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697150/f27ec2ef59b523f32592a796706dfcca0b3aadf3/ss_f27ec2ef59b523f32592a796706dfcca0b3aadf3.1920x1080.jpg?t=1794698105",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 3204820,
+      "name": "RippleLoop",
+      "description": "Skip stones as far as you can in this relaxing incremental game. Launch, bounce across the water, upgrade, and go further with every throw. Buy new upgrades and powers to become the ultimate stone skipper.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204820/f2ecc166c3a2c53b9028345a5841df24bc70ce32/ss_f2ecc166c3a2c53b9028345a5841df24bc70ce32.1920x1080.jpg?t=1794427113",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4601590,
+      "name": "Hot Pot Pizza Edition",
+      "description": "Slice, bake, box and serve under pressure in a fast-paced first-person pizza game. Survive chaotic shifts, unlock kitchens and truck cosmetics, and go from a messy garage to your own restaurant.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601590/d6888f9b707e74a2d74d5840e36773cb69a0f2cb/ss_d6888f9b707e74a2d74d5840e36773cb69a0f2cb.1920x1080.jpg?t=1794421584",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 4960830,
+      "name": "Myconaut",
+      "description": "A puzzle platformer collectathon where secrets are hidden around every corner! Find your way through the vibrant undergrowth, while finding hidden seeds. Navigate the rich open-world with tight platformer controls and colourful graphics.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960830/ce5e073251af379b407d6ca9b1f49432c377b64e/ss_ce5e073251af379b407d6ca9b1f49432c377b64e.1920x1080.jpg?t=1794427565",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 2946800,
+      "name": "Proverbial",
+      "description": "Hire a team of monkeys and start typing. It's time to find out if the old thought experiment is right. Given enough monkeys and upgrades can you find every word? Manage your monkeys, purchase upgrades, items, and abilities, and start filling your collections to become the best.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2946800/db82ddd9be4ea359fcb95e21718e7858e84a5b3d/ss_db82ddd9be4ea359fcb95e21718e7858e84a5b3d.1920x1080.jpg?t=1794415370",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4945810,
+      "name": "Odysseus' 13th Ship",
+      "description": "Play as the forgotten 13th Ship of Odysseus. Cooperate with your friends to ascend the mountain of abstract geometric shapes. Do you have what it takes to reach Ithaca?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945810/3a8b3c15018db73c8fa57ede85780321f7d401c1/ss_3a8b3c15018db73c8fa57ede85780321f7d401c1.1920x1080.jpg?t=1794414817",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "party",
+      "score": 5
+    },
+    {
+      "id": 5555470,
+      "name": "ScrapHeads",
+      "description": "Smash it all and get paid! ScrapHeads is a chaotic co-op game for up to 4 players. Scrap spaceships, mechs, and anything else that lands in your yard with ridiculous tools, explosive mayhem, and wild physics. Feed Panzarius and turn every shift into a disaster!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555470/2ea281422b67fe8dfdbf2f4cd14d75b4d859066e/ss_2ea281422b67fe8dfdbf2f4cd14d75b4d859066e.1920x1080.jpg?t=1794410812",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "physics",
+      "score": 10
+    },
     {
       "id": 5392150,
       "name": "Ambulads",
@@ -9,6 +72,60 @@
       "firstSeen": "2026-11-11T16:31:38.255Z",
       "mechanic": "physics",
       "score": 9
+    },
+    {
+      "id": 5570320,
+      "name": "Magic Castle: Tidy Up The Kingdom",
+      "description": "Wield a magic wand and rebuild a scattered fairy-tale castle piece by piece in this cozy first-person game. Charm stones into place, sweep away rubble, earn upgrades and restore five enchanted halls, alone or in online co-op with up to 4 mages.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570320/26e8d41bcccc463bb942ca912dcbd6ac665d46fd/ss_26e8d41bcccc463bb942ca912dcbd6ac665d46fd.1920x1080.jpg?t=1794693273",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5569480,
+      "name": "Wooden Tower",
+      "description": "Pull wooden blocks from a teetering tower in a physics-based game of balance. Try the Daily Challenge, practice in Sandbox, face an AI opponent, or invite friends through Steam or Discord for online rounds with up to five players.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569480/334df8024c1fdef612259d38c89fc1ba06dd9053/ss_334df8024c1fdef612259d38c89fc1ba06dd9053.1920x1080.jpg?t=1794745822",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5568630,
+      "name": "Mind the Tilt",
+      "description": "Your house is balanced on a pin, and everything in it has weight. Do the jobs, keep it level, and don't be the one the game names for tipping it. A physics party game for 1 to 8 players, on one PC or online, across 29 houses that each tip in their own way.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568630/c669006cb2c469c5f8a8b8f3410aeb901e156b16/ss_c669006cb2c469c5f8a8b8f3410aeb901e156b16.1920x1080.jpg?t=1794412427",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5567110,
+      "name": "They Seemed Normal",
+      "description": "They Seemed Normal is a chaotic mix of inspection and tower defense where every stage affects the next. Work as a passport inspector and interrogate visitors. Let the right ones in and eliminate the &quot;uncannies&quot;. Buy and upgrade birds, then use them as turrets to defend your base at night.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5567110/2df384312ce10e23ffa843b3e6f754f32b4f89c7/ss_2df384312ce10e23ffa843b3e6f754f32b4f89c7.1920x1080.jpg?t=1794406817",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5542300,
+      "name": "Island Miner",
+      "description": "Rise above the clouds and unearth the treasures of a floating island in this relaxing digging simulator. Dig through its layers, build a collection of curious finds, and unleash the full power of your tools. From your very first dig to the last grain of sand.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542300/539ccd28cf96a0af1797d1b7306be791e21643ad/ss_539ccd28cf96a0af1797d1b7306be791e21643ad.1920x1080.jpg?t=1794468266",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5532470,
+      "name": "Idle Forgewarden",
+      "description": "A cozy pixel-art blacksmith forge that lives on your desktop and keeps working while you do other things. Step in whenever you like to time the hammer, take commissions, arm adventurers for the road and grow a humble forge into a legendary smithy.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532470/fddf831efa7a62086f1e79099ee3caa6694622b3/ss_fddf831efa7a62086f1e79099ee3caa6694622b3.1920x1080.jpg?t=1794462196",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5451090,
@@ -45,6 +162,24 @@
       "firstSeen": "2026-11-11T16:31:38.255Z",
       "mechanic": "incremental",
       "score": 8
+    },
+    {
+      "id": 5563980,
+      "name": "Taboo Eternal Life",
+      "description": "An Incremental Idle Exploration Game, Awaken in a silent, blood-soaked medieval vampire palace—where your kin lay dead. Who slaughtered them all? Uncover the chilling truth, break the endless loop of immortality, or sacrifice everything to restart the taboo cycle.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563980/42e2deedb49de45c8e3fa09b3f84382e4f218bb6/ss_42e2deedb49de45c8e3fa09b3f84382e4f218bb6.1920x1080.jpg?t=1794411616",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5548920,
+      "name": "FLICK: Knockout",
+      "description": "Every flick counts in FLICK: Knockout, a physics-driven competitive arena game. Aim your shot, knock rivals out, and turn precise hits into big plays. Build your puck lineup, master the angles, and switch things up in BOB mode. Small move. Big consequences.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5548920/3f7c3457d11ea0c23a1026a41bf058dc33cc6cc9/ss_3f7c3457d11ea0c23a1026a41bf058dc33cc6cc9.1920x1080.jpg?t=1794727460",
+      "firstSeen": "2026-11-11T16:31:38.255Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 5502030,
@@ -101,12 +236,12 @@
       "score": 6
     },
     {
-      "id": 5325340,
-      "name": "Prospects",
-      "description": "Strip the solar system of its bountiful resources, all for the betterment of mankind - and your corporation's bottom line. Build and command your fleet of industrial vessels, establish manufacturing outposts, and seek out the richest prospects to expand your mining empire.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325340/e220242a14ebe76504374f5352e724e8a23b9779/ss_e220242a14ebe76504374f5352e724e8a23b9779.1920x1080.jpg?t=1794479453",
+      "id": 5535250,
+      "name": "Splatterdunk",
+      "description": "90s-arcade 2-on-2 or 3 -on -3 basketball where the players are monsters and the fouls are fatal. Chain trick dunks, arm Fatalities, bribe the ref and dunk on monsters through the glass while VAT-9, a robot announcer who used to be a star, calls it. Up to 6 players, couch or online. Bring a mop.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5535250/3bbd44674844065cc9ee5283363c18b868ddabee/ss_3bbd44674844065cc9ee5283363c18b868ddabee.1920x1080.jpg?t=1794423683",
       "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "incremental",
+      "mechanic": "party",
       "score": 5
     },
     {
@@ -119,28 +254,10 @@
       "score": 5
     },
     {
-      "id": 5568130,
-      "name": "Marble Hoarder",
-      "description": "Sort thousands of glass marbles in a cozy, messy old marble shop. Pick them up, toss each one into the tray where it belongs, unlock skills like Spotlight, Gather and Auto-Place, and race your marbles on a wooden race machine. No timers, no pressure.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568130/5f24ff8141aace347bfa90ac3d5db648870f1053/ss_5f24ff8141aace347bfa90ac3d5db648870f1053.1920x1080.jpg?t=1794382259",
-      "firstSeen": "2026-11-11T08:27:55.925Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5556830,
       "name": "Desktop Divinity",
       "description": "Build a cozy idle kingdom at the bottom of your desktop. Recruit female followers, collect gold and faith, and summon goddesses. Watch your pixel companions stroll, dance, and pray while you grow your realm and upgrade its facilities.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556830/ff3e5a405d9a433b1e9f3c5ecbf495f0783b8f79/ss_ff3e5a405d9a433b1e9f3c5ecbf495f0783b8f79.1920x1080.jpg?t=1794362874",
-      "firstSeen": "2026-11-11T08:27:55.925Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4916020,
-      "name": "Crack the Stone",
-      "description": "Minimalist desktop idle game that lives in the corner of your screen. Upgrade the water flow from a single drop to a steady stream and keep wearing the stone down. Someday it will crack. Patience always wins.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916020/3109c66b4fcfbccbf515ad8c3b8a925a22c46c92/ss_3109c66b4fcfbccbf515ad8c3b8a925a22c46c92.1920x1080.jpg?t=1794382116",
       "firstSeen": "2026-11-11T08:27:55.925Z",
       "mechanic": "physics",
       "score": 8
@@ -152,24 +269,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5534140/4b7f393616c540ac7e18631cd9ba74f0c45dcb2d/ss_4b7f393616c540ac7e18631cd9ba74f0c45dcb2d.1920x1080.jpg?t=1794723974",
       "firstSeen": "2026-11-11T08:27:55.925Z",
       "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5448190,
-      "name": "Anomaly Watch: Rainy Night",
-      "description": "A rainy night, an empty house and a row of security cameras. Watch the rooms, notice what has changed and report it before the anomalies pile up.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448190/f42718242c661d35a5a92317b2deb387e72213bf/ss_f42718242c661d35a5a92317b2deb387e72213bf.1920x1080.jpg?t=1794489563",
-      "firstSeen": "2026-11-11T08:27:55.925Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5448180,
-      "name": "Anomaly Watch: Mine",
-      "description": "You watch an old mine through security cameras. Check the tunnels and the work areas, find what has changed and report it before the anomalies pile up.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448180/a63cd93a15b439f735d706fd0c82eed27e34823f/ss_a63cd93a15b439f735d706fd0c82eed27e34823f.1920x1080.jpg?t=1794489543",
-      "firstSeen": "2026-11-11T08:27:55.925Z",
-      "mechanic": "physics",
       "score": 6
     },
     {
@@ -251,15 +350,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537670/6cb3b4d53e6ad9b89c16b9ee1f6160aceff07bf7/ss_6cb3b4d53e6ad9b89c16b9ee1f6160aceff07bf7.1920x1080.jpg?t=1794350816",
       "firstSeen": "2026-11-11T01:50:14.181Z",
       "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5446810,
-      "name": "Meowside: Desktop Cats",
-      "description": "Adorable pixel cats live on your screen. Watch them eat, nap, and wander through daily routines. Pet them or play with a cat wand, and enjoy their company every day.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446810/8eb83fe4ae6fe0c65c5274c8afcebf5c8fae2511/ss_8eb83fe4ae6fe0c65c5274c8afcebf5c8fae2511.1920x1080.jpg?t=1794407506",
-      "firstSeen": "2026-11-11T01:50:14.181Z",
-      "mechanic": "physics",
       "score": 6
     },
     {
@@ -398,42 +488,6 @@
       "score": 8
     },
     {
-      "id": 5566330,
-      "name": "Ium Idle Companions Odyssey",
-      "description": "Monster-collecting auto-battler desktop companion. Assemble, customize, strategize elemental synergies, craft powerful skill loadouts, and conquer regions as your squad fights autonomously in fast-paced real-time combat at the edge of your screen while you work, study, or play.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566330/515a9176cf0788eb1a9eaeccee5f36a15c875781/ss_515a9176cf0788eb1a9eaeccee5f36a15c875781.1920x1080.jpg?t=1794366158",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5448210,
-      "name": "Anomaly Watch: Castle",
-      "description": "You are the night watch of an old castle. Look through the cameras in its halls and cellars, find what has changed and report it before the anomalies take the castle.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448210/0ee72cadf499a0399cc29ef4e56737ea8fa5a375/ss_0ee72cadf499a0399cc29ef4e56737ea8fa5a375.1920x1080.jpg?t=1794489527",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5448160,
-      "name": "Anomaly Watch: Catacombs",
-      "description": "You watch the catacombs through security cameras. Check the tunnels and chambers, find what has changed and report it before the anomalies pile up.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448160/621502b4209f59e9e7d6b0c0e910a7eec115c311/ss_621502b4209f59e9e7d6b0c0e910a7eec115c311.1920x1080.jpg?t=1794489510",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5448150,
-      "name": "Anomaly Watch: Polar Station",
-      "description": "You work a night shift at a polar station. Switch between the cameras, notice what has changed and report it. Make too many mistakes, or let too many anomalies pile up, and the shift is over.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448150/e97224980abb502981908407817ad385b064fb8b/ss_e97224980abb502981908407817ad385b064fb8b.1920x1080.jpg?t=1794489492",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 5292120,
       "name": "Unhistorical Warfare",
       "description": "Command 30+ historical armies across 3,000 years of warfare, from Persian spearmen to Abrams tanks, in real-time pixel-art battles where every soldier fights and flees on his own. Then deploy the anomalies: trolls, zombies, wizards, flying saucers and more!",
@@ -483,60 +537,6 @@
       "name": "Chalk Thrower Simulator",
       "description": "Keep a sleepy class awake by throwing chalk then a duster to finish. Draft perks between periods, climb twelve Standards, outlast Detention, race the Daily or crack 32 chalk puzzles. Solo, online co-op or versus.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559650/76bda88d0d474df6d6fd7138cc8a4bb0d3dee35a/ss_76bda88d0d474df6d6fd7138cc8a4bb0d3dee35a.1920x1080.jpg?t=1794315868",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5504320,
-      "name": "DeepSeaFishery",
-      "description": "A deep-sea idle fishing game. Cast, let your fish grow and your crew work while you are away. Descend from the shallows to coral reefs, polar ice and volcanic vents, collecting 252 species. Hire helpers, upgrade your gear, then retire to trade the run for permanent talents.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5504320/4e95d6fb9d7b2ed7331f1317b777d172c52ddd4c/ss_4e95d6fb9d7b2ed7331f1317b777d172c52ddd4c.1920x1080.jpg?t=1794318954",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5487950,
-      "name": "Fine Tuning: A Radio Repair Shop",
-      "description": "Run a little radio repair shop in 1952, where every wireless on your bench is a working circuit, so the meter reads what's really there and the hum or the crackle you hear is the fault itself. You take each set apart by hand and fit new parts from the cabinet till it plays again for its owner.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5487950/dbb6606db681da18d109929dc08344c2650b43cc/ss_dbb6606db681da18d109929dc08344c2650b43cc.1920x1080.jpg?t=1794303430",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5434050,
-      "name": "No Sleep Tonight",
-      "description": "No Sleep Tonight is an incremental game about counting sheep and late-night inspiration. You keep trying to fall asleep, only to get back up to jot down another idea. Your eyelids grow heavier, but the workshop in your head only gets busier…",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434050/31b458b3bc9b8c1023ec8c56d6a4cc2b5e362a4f/ss_31b458b3bc9b8c1023ec8c56d6a4cc2b5e362a4f.1920x1080.jpg?t=1794604745",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5076270,
-      "name": "YinShu",
-      "description": "Played The Message? YinShu is a free online social deduction card game inspired by it, for 4–8 players. Everyone hides a faction and passes intel; read friend from foe in who accepts and who refuses. Intercept, see through and swap intel with character skills. Collect three of your color to win.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076270/f4e46b2d86b30133149473907f8910b5d5a7df94/ss_f4e46b2d86b30133149473907f8910b5d5a7df94.1920x1080.jpg?t=1794649811",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4787330,
-      "name": "Baggage Belt",
-      "description": "Grow a tiny pixel-art airport all the way to the stars in this cozy idle game. Check in bags, hire the crew and book routes that multiply your income. Every airport has its own minigame, and the belt keeps running while you're away. Your crew chief is a corgi called Biscuit.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787330/1ff3d0b8a66832fe3f650f43bca71c4fc3c0d560/ss_1ff3d0b8a66832fe3f650f43bca71c4fc3c0d560.1920x1080.jpg?t=1794480759",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4184000,
-      "name": "Tidal Life",
-      "description": "Tidal Life is a first person open world exploration game. On this vast and boundless island, you must survive through diving, fishing, and beachcombing. Use the resources you gather to upgrade your equipment, complete the illustrated guide, enrich your island. collect or defeat them all !",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184000/d8e6f5c25c1dc43a5ae6374fbb0eda18d2ae2950/ss_d8e6f5c25c1dc43a5ae6374fbb0eda18d2ae2950.1920x1080.jpg?t=1794300144",
       "firstSeen": "2026-11-10T16:28:25.363Z",
       "mechanic": "simulator",
       "score": 8
