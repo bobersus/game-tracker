@@ -1,6 +1,123 @@
 {
-  "checkedAt": "2026-11-16T02:12:58.277Z",
+  "checkedAt": "2026-11-16T09:50:59.026Z",
   "games": [
+    {
+      "id": 5568040,
+      "name": "Deep Clean",
+      "description": "A co-op horror comedy for up to 4 players. You're a crew of space janitors: scrub stations after &quot;incidents&quot; and find out what roams the halls and how to survive it. There are no instructions: try everything, log your discoveries in the glossary and piece together the truth.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568040/7b498669fa595d922982be3f474b0475eb081d88/ss_7b498669fa595d922982be3f474b0475eb081d88.1920x1080.jpg?t=1794679270",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5052850,
+      "name": "Fast Food Together",
+      "description": "Start your culinary adventure in Winston Springs! Begin with a food truck and work your way up to opening your very own restaurant, either solo or in co-op! Take care of your customers, create your own recipes, set your prices and menu. Earn money and invest in growing your business.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052850/3637d2165bd0feaa7ff07d1eccd6058c992dafc7/ss_3637d2165bd0feaa7ff07d1eccd6058c992dafc7.1920x1080.jpg?t=1794420837",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "simulator",
+      "score": 9
+    },
+    {
+      "id": 5576260,
+      "name": "Beakwood",
+      "description": "As a stork, deliver packages across Beakwood, a cozy town that changes with every season, while a gang of jealous, gadget-crazed hawks glide, hover and rocket in to sabotage your route.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5576260/df6ac2ecb49567c8a9560dbb81a9651f26f3eb05/ss_df6ac2ecb49567c8a9560dbb81a9651f26f3eb05.1920x1080.jpg?t=1794541600",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5575900,
+      "name": "Tempo Derby",
+      "description": "Tempo Derby is a timing-driven horse-racing roguelike. Hit the sweet spot, build powerful relic combinations and race through a 15-stage campaign. Unlock new horses, fuse legendary relics and outpace five bosses on your way to the championship.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5575900/84dc1f6c2642d781b6e1bf8bebde29f479d2f775/ss_84dc1f6c2642d781b6e1bf8bebde29f479d2f775.1920x1080.jpg?t=1794730910",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5569600,
+      "name": "Baggage Bedlam",
+      "description": "Baggage Bedlam is a fast paced multiplayer party game where friends compete to route luggage through chaotic airport conveyor belts. Flip switches, grab power ups, dodge floor hazards, and sabotage your friends as you race to deliver bags to the right destinations!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569600/c864580193d90741323047f80014d23fd926fbf1/ss_c864580193d90741323047f80014d23fd926fbf1.1920x1080.jpg?t=1794446943",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5568640,
+      "name": "Tidy Up: Midnight Cleaner Simulator ",
+      "description": "Clean up spooky buildings at night as a caretaker. Sort the trash into the correct categories. Will you survive the nights?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568640/dae30f350fefb75396394848994db177cadd6118/ss_dae30f350fefb75396394848994db177cadd6118.1920x1080.jpg?t=1794391180",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5557730,
+      "name": "Dungeon Dealer",
+      "description": "Heroes bleed. You profit. Send squads into deadly dungeons, crack open chests of glowing loot and sell every find at the perfect moment. Arm your best heroes, conquer it all, then retire rich and start a bigger era in this pixel-art incremental game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557730/6d632e5b2482c32018b7e1ea5864be8d2297eb45/ss_6d632e5b2482c32018b7e1ea5864be8d2297eb45.1920x1080.jpg?t=1794769171",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5542070,
+      "name": "Tidy Up the Grocery Warehouse",
+      "description": "One partner snapped, and Ultra Fresh Food needs your help. About 3,000 products hit the floor. Restore order to the grocery warehouse with handy abilities or your own two hands, then pick and pack orders until the shelves are empty.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542070/188a4f30c59077128197cd3dbdbebd1b7134807b/ss_188a4f30c59077128197cd3dbdbebd1b7134807b.1920x1080.jpg?t=1794619442",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5539420,
+      "name": "Raisin Universe",
+      "description": "Your stream chat is the controller. Viewers play Minefield, Sudoku, Crossword, Marble Race and more by typing in Twitch or TikTok chat. Play 16 minigames on their own, or run a full board game with three boards.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5539420/6c7651723ef51a0f4289bfbc1354fda084e4ee9e/ss_6c7651723ef51a0f4289bfbc1354fda084e4ee9e.1920x1080.jpg?t=1794758934",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5522310,
+      "name": "Tiny Desktop Terrarium",
+      "description": "Tiny Desktop Terrarium is a glass world that lives on your desktop. You build it however you want, add creatures and inhabitants then watch it grow and flourish while you use your computer and go about your day. Pop in whenever you want to see how things are evolving!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5522310/a09d3289f51c6057409ca3232d527de4750db8b2/ss_a09d3289f51c6057409ca3232d527de4750db8b2.1920x1080.jpg?t=1794759173",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5455190,
+      "name": "Pale Like Lilacs",
+      "description": "Pale Like Lilacs is a short visual novel about an alcoholic vending machine whose only customer is a robot girl who loves beer. Talk with her, serve her drinks, and help each other survive a rapidly evolving dystopian city.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455190/5b340d15be782598f2153f46133554b58eb515e9/ss_5b340d15be782598f2153f46133554b58eb515e9.1920x1080.jpg?t=1794424928",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5432080,
+      "name": "Saucer Rumble Showdown",
+      "description": "Take control of your own flying saucer in this chaotic, physics-based arena party game! Ram opponents, dodge environmental hazards, and fight to be the last UFO flying. Battle in local multiplayer with CPU opponents or challenge players online!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5432080/4a3c5932349103d713c6b2feafcab7a8603e821d/ss_4a3c5932349103d713c6b2feafcab7a8603e821d.1920x1080.jpg?t=1794469643",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4967770,
+      "name": "Fast Point",
+      "description": "A cozy cartoon co-op pickup point simulator. Receive parcels, serve customers, protect fragile cargo and perishable food, then grow a tiny pickup point into a full-blown logistics hub. Play solo or with friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967770/e9c85603af5d8491951341b6993f6cf9c9cc1c38/ss_e9c85603af5d8491951341b6993f6cf9c9cc1c38.1920x1080.jpg?t=1794472068",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
     {
       "id": 4697150,
       "name": "Choo Choo Kingdom",
@@ -20,6 +137,24 @@
       "score": 8
     },
     {
+      "id": 5527100,
+      "name": "Ooglie Booglies",
+      "description": "A 2D shooter where chaos and fun are valued more than perfect skill and strategy. Get more powerful every round and unlock insane new abilities to beat your friends in hilarious and breathtaking ways.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527100/e24559caf2baadc411ae8fd1f46d2c7f682b2a4c/ss_e24559caf2baadc411ae8fd1f46d2c7f682b2a4c.1920x1080.jpg?t=1794446733",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5201590,
+      "name": "GACHA MASH FIGHT",
+      "description": "Mash away and your moves pop out of a gacha! A free-to-play slapstick 2D fighter. Every move is pure luck, with rarities N, R, SR and SSR. Pull an ultra-rare UR for a one-hit KO that flips any match! Three modes plus online battles: party with friends or climb the global leaderboard.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201590/481aa037fa5ea9f9eb99d67d9dd28d20aa054d49/ss_481aa037fa5ea9f9eb99d67d9dd28d20aa054d49.1920x1080.jpg?t=1794736826",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
       "id": 4601590,
       "name": "Hot Pot Pizza Edition",
       "description": "Slice, bake, box and serve under pressure in a fast-paced first-person pizza game. Survive chaotic shifts, unlock kitchens and truck cosmetics, and go from a messy garage to your own restaurant.",
@@ -27,6 +162,24 @@
       "firstSeen": "2026-11-11T22:56:55.856Z",
       "mechanic": "incremental",
       "score": 7
+    },
+    {
+      "id": 5586820,
+      "name": "Sweet Little Splash!",
+      "description": "Draw lines, guide water and fill glasses in Sweet Little Splash! Solve physics puzzles with coloured streams, wind and mechanisms, meet anime heroines, choose dialogue replies and unlock illustrations.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586820/9e6e3b478fd7376759c4bc47bc7ee1d51d18929c/ss_9e6e3b478fd7376759c4bc47bc7ee1d51d18929c.1920x1080.jpg?t=1794434324",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5165430,
+      "name": "PomoIdle Arena",
+      "description": "A Pomodoro timer × idle × command-battle RPG. Resources build up while you work — pull commands, power up your party, and battle other players between sessions. Your focused time becomes your strength.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165430/f4d98c564a1f8832d26d65d289686dc325625777/ss_f4d98c564a1f8832d26d65d289686dc325625777.1920x1080.jpg?t=1794420862",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 4960830,
@@ -47,6 +200,15 @@
       "score": 6
     },
     {
+      "id": 5558940,
+      "name": "Blood Rails",
+      "description": "An armored train, a straight track across a dead continent, and a horde that never stops chasing you. Turn your train into a fortress, loot abandoned villages and decide whether the next kilometer is worth the risk.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558940/20fd257270b251c669f4984bc421556016fd95d7/ss_20fd257270b251c669f4984bc421556016fd95d7.1920x1080.jpg?t=1794703813",
+      "firstSeen": "2026-11-11T22:56:55.856Z",
+      "mechanic": "party",
+      "score": 5
+    },
+    {
       "id": 4945810,
       "name": "Odysseus' 13th Ship",
       "description": "Play as the forgotten 13th Ship of Odysseus. Cooperate with your friends to ascend the mountain of abstract geometric shapes. Do you have what it takes to reach Ithaca?",
@@ -59,7 +221,7 @@
       "id": 5555470,
       "name": "ScrapHeads",
       "description": "Smash it all and get paid! ScrapHeads is a chaotic co-op game for up to 4 players. Scrap spaceships, mechs, and anything else that lands in your yard with ridiculous tools, explosive mayhem, and wild physics. Feed Panzarius and turn every shift into a disaster!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555470/2ea281422b67fe8dfdbf2f4cd14d75b4d859066e/ss_2ea281422b67fe8dfdbf2f4cd14d75b4d859066e.1920x1080.jpg?t=1794410812",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555470/2ea281422b67fe8dfdbf2f4cd14d75b4d859066e/ss_2ea281422b67fe8dfdbf2f4cd14d75b4d859066e.1920x1080.jpg?t=1794815118",
       "firstSeen": "2026-11-11T16:31:38.255Z",
       "mechanic": "physics",
       "score": 10
@@ -272,15 +434,6 @@
       "score": 6
     },
     {
-      "id": 5217270,
-      "name": "Othercrown",
-      "description": "A deck-building auto-battler roguelite where you build your own slot machine to deploy monsters and cast spells against the human kingdoms. Mutate your creatures, and maximize your slots to deploy as many creatures and spells as you can during your fights against the human kingdoms.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217270/98bd2320728d14ef2bb68f13cac0a80632de9756/ss_98bd2320728d14ef2bb68f13cac0a80632de9756.1920x1080.jpg?t=1794525136",
-      "firstSeen": "2026-11-11T08:27:55.925Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 5261120,
       "name": "Star Ring Convenience Store",
       "description": "A supernatural adventure about working for a living and getting stuck in a time loop. On her first day on the job, intern Amo is trapped in the same day. Meet eccentric late-night customers, connect clues in your Mind Palace, and uncover the secrets hidden inside Star Ring Convenience Store.",
@@ -387,159 +540,6 @@
       "firstSeen": "2026-11-10T21:55:51.835Z",
       "mechanic": "party",
       "score": 9
-    },
-    {
-      "id": 5565650,
-      "name": "Depthline",
-      "description": "Go 18 floors down a quarantined building. Pick the room, watch your survivor gun down the zombies and grab the gear they drop. Merge twins into rarer items, stack class bonuses and build a loadout that can reach Patient Zero. An inventory-management roguelite where the build wins the fight.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565650/43a0c6d9b3cdd1b2bb274ec9e3b072afbd1ba4e2/ss_43a0c6d9b3cdd1b2bb274ec9e3b072afbd1ba4e2.1920x1080.jpg?t=1794333236",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5564280,
-      "name": "Bloom & Broom",
-      "description": "Clean up an overgrown plot, turn the junk into blocks with your machine and sell them to passing customers. Upgrade your tools, find cards hidden all over the place and unlock new areas. This is just a cozy game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5564280/85ade6f44efb41ab6c470dd3bbd15ab6cd7d96eb/ss_85ade6f44efb41ab6c470dd3bbd15ab6cd7d96eb.1920x1080.jpg?t=1794668999",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5549740,
-      "name": "SimFarm",
-      "description": "A 3D farm management game where crops grow with the weather and the soil. Choose how tight money gets: play relaxed, or face real costs, loans and the risk of going broke. You give the orders; tractors and harvesters do the work. Rotate cows, sheep and horses through paddocks.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549740/d95fd9d202c5e65f0f8f10a9da044a964161f6e9/ss_d95fd9d202c5e65f0f8f10a9da044a964161f6e9.1920x1080.jpg?t=1794471670",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5506160,
-      "name": "Egg Harvest",
-      "description": "Egg Harvest is a roguelike farming game where you try to save your farm from debt. Produce eggs with your chickens, complete contracts, choose powerful upgrades, and fill your egg catalog. Keep producing until your debt is paid off!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5506160/5a37a93246f6dc80e57f90a7db4417ffd93f7e3e/ss_5a37a93246f6dc80e57f90a7db4417ffd93f7e3e.1920x1080.jpg?t=1794346253",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5425700,
-      "name": "Bouture",
-      "description": "Potted plants that live on your Windows desktop. They grow over days and weeks, droop when you forget them, and flower if you keep watering. Double-click a plant to water it.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5425700/4f4309b794fc0d719c6c6460a3fa99a243c10591/ss_4f4309b794fc0d719c6c6460a3fa99a243c10591.1920x1080.jpg?t=1794395081",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5386900,
-      "name": "Railtown",
-      "description": "Every great city starts with a station. In Railtown, trains bring tourists and money while you grow a tiny town into a bustling city: build homes, shops and tram lines, upgrade your train from steam to high-speed, and keep your citizens happy through every season.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5386900/3961e66aa4961428c3c505b36f9a6b511dd85746/ss_3961e66aa4961428c3c505b36f9a6b511dd85746.1920x1080.jpg?t=1794328892",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5285840,
-      "name": "Leif's Garden Tower",
-      "description": "Grow plants, tend the greenhouse, and fall in love with the customers of Leif's Garden Tower. Leif's Garden Tower is a cozy 2D tower-builder about a lonely leaf spirit rebuilding an abandoned greenhouse, help him restore the tower and learn its secrets.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285840/20c235975a6b4bbe9961be648380dfd4d9f03bb9/ss_20c235975a6b4bbe9961be648380dfd4d9f03bb9.1920x1080.jpg?t=1794607899",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5225330,
-      "name": "Dump Chaos",
-      "description": "Dig through piles of junk, place the items you find on their proper shelves, and sell them to make money. Take your time organizing, add rare finds to your collection, and enjoy the satisfying feeling of turning chaos into order.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5225330/e26e93786b580fc3eb1c2a759aa85d9e0ac6ea97/ss_e26e93786b580fc3eb1c2a759aa85d9e0ac6ea97.1920x1080.jpg?t=1794492816",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5203260,
-      "name": "Card Dice",
-      "description": "An idle progression game with a casino dice theme. Let your card dice roll automatically and beat opponents in timed matches. Collect gems and engravings to create different builds, trade up your equipment, and advance to higher-level tables.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5203260/3174035e926f7336c9ceb774d952fb55cd62e1b8/ss_3174035e926f7336c9ceb774d952fb55cd62e1b8.1920x1080.jpg?t=1794469769",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4636740,
-      "name": "Meteor Shower",
-      "description": "Blast away never-ending hordes of falling meteors in this incremental tower defense game! Smash rocks to pieces with railguns, flak cannons, giant lasers and more as you work to defend your base from the stellar onslaught.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4636740/0b46b4afb0e22ce1793747287abbfe5000e7bc68/ss_0b46b4afb0e22ce1793747287abbfe5000e7bc68.1920x1080.jpg?t=1794691638",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4190610,
-      "name": "Mini Pond Farm: Frogs & Lilypads",
-      "description": "Collect all the cute frogs! Shape your pond paradise, fill it with colorful hoppers, make them happy with reeds and lilies, and enjoy pure cozy serenity.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190610/0cdfab09caa63134d4f1b3888d259832d2720c36/ss_0cdfab09caa63134d4f1b3888d259832d2720c36.1920x1080.jpg?t=1794521870",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5292120,
-      "name": "Unhistorical Warfare",
-      "description": "Command 30+ historical armies across 3,000 years of warfare, from Persian spearmen to Abrams tanks, in real-time pixel-art battles where every soldier fights and flees on his own. Then deploy the anomalies: trolls, zombies, wizards, flying saucers and more!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5292120/75c805309fc5ff2cfcc99e468f6c127668cab7d6/ss_75c805309fc5ff2cfcc99e468f6c127668cab7d6.1920x1080.jpg?t=1794336986",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5570510,
-      "name": "Proviantmeister 1756",
-      "description": "His Majesty’s army shall march – provided you keep it supplied! Manage depots, organize wagon trains, procure provisions, fodder and ammunition, and contend with weather and war. A historical military logistics simulation set during the Seven Years’ War, 1756–1763.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570510/af364a16d2ec306f6a7b6e80c62b949e79862214/ss_af364a16d2ec306f6a7b6e80c62b949e79862214.1920x1080.jpg?t=1794340925",
-      "firstSeen": "2026-11-10T21:55:51.835Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5521080,
-      "name": "Gotta Catch Bugs!",
-      "description": "Gotta Catch Bugs! is a cozy first-person bug-catching game. A mutant plant has overgrown an underground lab and broken the control panel - 5,000 mutant insects are on the loose. Catch them with a net and jar, return all 500 species to their terrariums and unlock their powers!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5521080/7255090b5177bd2ecae657ea525c8bb151c05a37/ss_7255090b5177bd2ecae657ea525c8bb151c05a37.1920x1080.jpg?t=1794318822",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "simulator",
-      "score": 9
-    },
-    {
-      "id": 5496040,
-      "name": "Catch the Button",
-      "description": "Make aim practice fun! Warm up before your next match, sharpen your reflexes, improve your mouse accuracy and enjoy chaotic arcade challenges. Train your aim while having fun!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5496040/067de61090c954d2a9263e0cadee18ebd8a88b0a/ss_067de61090c954d2a9263e0cadee18ebd8a88b0a.1920x1080.jpg?t=1794681534",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "incremental",
-      "score": 9
-    },
-    {
-      "id": 5389800,
-      "name": "CRUMBKINS",
-      "description": "A 1–4 player physics-based co-op heist comedy about tiny, hungry thieves. Climb giant furniture, steal food for picky clients, and decide: deliver the loot, throw it to a friend, or eat a pepper and shoot fireballs.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5389800/72dc9bba41c995fbb755ff515be7c6ba899a1dfe/ss_72dc9bba41c995fbb755ff515be7c6ba899a1dfe.1920x1080.jpg?t=1794561169",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "physics",
-      "score": 9
-    },
-    {
-      "id": 5559650,
-      "name": "Chalk Thrower Simulator",
-      "description": "Keep a sleepy class awake by throwing chalk then a duster to finish. Draft perks between periods, climb twelve Standards, outlast Detention, race the Daily or crack 32 chalk puzzles. Solo, online co-op or versus.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559650/76bda88d0d474df6d6fd7138cc8a4bb0d3dee35a/ss_76bda88d0d474df6d6fd7138cc8a4bb0d3dee35a.1920x1080.jpg?t=1794315868",
-      "firstSeen": "2026-11-10T16:28:25.363Z",
-      "mechanic": "simulator",
-      "score": 8
     }
   ]
 }
