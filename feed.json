@@ -1,6 +1,69 @@
 {
-  "checkedAt": "2026-11-16T19:53:53.168Z",
+  "checkedAt": "2026-11-17T02:52:05.091Z",
   "games": [
+    {
+      "id": 1225770,
+      "name": "Sorted by Christmas",
+      "description": "It’s almost Christmas and there’s a mountain of 100,000 presents still to sort. Round up your Gonk Squad for first-person co-op chaos with vacuums, black holes and Festive Dynamite. Up to 8 players, or solo.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225770/870ccd6df68254e0714f36c9da26e2a7e8fbead7/ss_870ccd6df68254e0714f36c9da26e2a7e8fbead7.1920x1080.jpg?t=1794610221",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 4373420,
+      "name": "All Haul the King",
+      "description": "A co-op game where you and your friends embark on an epic journey to drag the goblin king’s dead body across the kingdom to resurrect him. Use brains, brawn and crazy goblin magic to navigate the tricky terrain and puzzles that lie in your path.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373420/015c554fd5a1cb749d9998cf63979f282925a3c0/ss_015c554fd5a1cb749d9998cf63979f282925a3c0.1920x1080.jpg?t=1794496435",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 3837070,
+      "name": "Enchantalot",
+      "description": "Strike and enchant weapons on a magic workbench. Each success makes them stronger and worth more - but the higher you climb, the riskier every blow. Send your gear out on quests, collect relics that build on each other, and watch the numbers spiral out of control.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837070/6e910b456109a9deab8e681659a659a4400f1782/ss_6e910b456109a9deab8e681659a659a4400f1782.1920x1080.jpg?t=1794499069",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 2526190,
+      "name": "Tiny Queendom: An Ant Terrarium",
+      "description": "A living ant colony on your desktop. Build a glass terrarium of sand, water and plants, add one queen, and watch her family dig tunnels, forage, learn from danger and raise new queens on its own. Keep it in a small window in the corner of your screen while you work.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526190/2ed7f01fb6ff0ed67e9d4d75962740755d5ad977/ss_2ed7f01fb6ff0ed67e9d4d75962740755d5ad977.1920x1080.jpg?t=1794498368",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 2420800,
+      "name": "Sol Mates",
+      "description": "Blast and laugh your way through space with up to 4 friends in this chaotic roguelike co-op. Every run is a new adventure so steer, shield, and work together to take on unpredictable challenges - or at least go out in style.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420800/ss_f7887599b1b2b88ab3cdaa66cded5cad43b7ba98.1920x1080.jpg?t=1794504738",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4515710,
+      "name": "Wisps & Wares: A Spirit of the North Idler",
+      "description": "Return to the enchanting world of Spirit of the North in a cozy shopkeeping idler. Send your Fox Guardian exploring, gather treasures, stock the Raccoon’s traveling shop, and journey across the Northern Isles in charming pixel art.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515710/a29f64af5a2dc12be02e6e9603997dc0aefa7afa/ss_a29f64af5a2dc12be02e6e9603997dc0aefa7afa.1920x1080.jpg?t=1794493703",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5022560,
+      "name": "Mall Security",
+      "description": "Co-op physics comedy for 1–4 mall guards. X-ray shoppers, yell orders into your mic, chase shoplifters and throw them in the cell. Every broken window goes on your report, so try not to get fired. Or switch sides in Thieves vs Guards PvP.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5022560/7f8c7c2fdea7b6e83b7d43409f5398d121604c24/ss_7f8c7c2fdea7b6e83b7d43409f5398d121604c24.1920x1080.jpg?t=1794482950",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "physics",
+      "score": 10
+    },
     {
       "id": 4965150,
       "name": "It Works: Electronics Repair Simulator - First Short Circuit",
@@ -11,19 +74,46 @@
       "score": 9
     },
     {
-      "id": 5022560,
-      "name": "Mall Security",
-      "description": "Co-op physics comedy for 1–4 mall guards. X-ray shoppers, yell orders into your mic, chase shoplifters and throw them in the cell. Every broken window goes on your report, so try not to get fired. Or switch sides in Thieves vs Guards PvP.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5022560/7f8c7c2fdea7b6e83b7d43409f5398d121604c24/ss_7f8c7c2fdea7b6e83b7d43409f5398d121604c24.1920x1080.jpg?t=1794482950",
+      "id": 5578770,
+      "name": "MOONWRIGHT",
+      "description": "A lunar mining sim where the time lag is part of the game. Age of a new Gold Rush started and you are one of the first prospectors on the Moon. Drive a rover, find and mine lunar ores and sell what you mined. Use money to upgrade rover and Moon base. Receive new missions and try your luck there.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578770/6d20a13e7fbde6d3afa66effcc0e341f3563a902/ss_6d20a13e7fbde6d3afa66effcc0e341f3563a902.1920x1080.jpg?t=1794466956",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5578410,
+      "name": "Mop & Plot",
+      "description": "Clock in, clean up, and watch your back: in this chaotic online social deduction game for up to 12 players, paint walls, scrub floors, and finish the job while hidden Saboteurs wreak havoc. Use proximity voice chat to spot the culprits and vote them out!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578410/960fe5fba6d7fae71275ae49cf0bfb8bea39a371/ss_960fe5fba6d7fae71275ae49cf0bfb8bea39a371.1920x1080.jpg?t=1794770545",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5550890,
+      "name": "The Perfect Quest: The Drowned King's Hoard",
+      "description": "A text adventure inspired by the Sierra classics. A pirate with a hat and no ship, a sarcastic parrot and a map torn in three: type your way across the Caribbean, dig up chests, forge papers, bribe a skeleton with a fish and out-fence your old captain to a legendary hoard.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5550890/e45a70c9bb2cadb79cd57c9736abfe48b8e81ebf/ss_e45a70c9bb2cadb79cd57c9736abfe48b8e81ebf.1920x1080.jpg?t=1794468256",
       "firstSeen": "2026-11-12T11:54:23.684Z",
       "mechanic": "physics",
       "score": 8
     },
     {
+      "id": 5514090,
+      "name": "Leaf to Sun",
+      "description": "Autumn is ending, and the sun grows weaker by the day. Blow fallen leaves into the bonfire to grow the fire, and power up your wind and flames with the skill tree. Before long, the journey heads to space. A relaxing pixel-art incremental game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514090/bc57c9421c75765905459adf9cd064badc4580bf/ss_bc57c9421c75765905459adf9cd064badc4580bf.1920x1080.jpg?t=1794713053",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
       "id": 3987430,
       "name": "Roads & Riches: Traveling Merchant Simulator",
-      "description": "Hit the road alone or with friends in your caravan! Travel across faraway lands, sell wonderful wares, and find magical treasures all in a dynamic economic world where every journey offers different opportunities - all to win over the world's hearts, minds... and wallets!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987430/b0070041062a247c8e094abf0b732a132abd794d/ss_b0070041062a247c8e094abf0b732a132abd794d.1920x1080.jpg?t=1794461298",
+      "description": "Hit the road and set up shop, solo or with friends! Take your caravan wherever demand leads, sell wonderful wares, and find magical treasures - all to win over the hearts, minds, and wallets of a vast, dynamic world!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3987430/b0070041062a247c8e094abf0b732a132abd794d/ss_b0070041062a247c8e094abf0b732a132abd794d.1920x1080.jpg?t=1794872775",
       "firstSeen": "2026-11-12T11:54:23.684Z",
       "mechanic": "simulator",
       "score": 8
@@ -38,6 +128,15 @@
       "score": 8
     },
     {
+      "id": 5573160,
+      "name": "STICKMAN DESKTOP MALWARS",
+      "description": "A physics stickman brawler on a living computer desktop. The taskbar is the floor, windows are platforms and every app opens a new arena. Brawl as eight ragdoll fighters, each with their own attacks, or be the giant mouse cursor: charge a RAM, run VirusGuard on them and open a black hole.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5573160/6be59197a677fe8e3c61f8d328861d24a7fac958/ss_6be59197a677fe8e3c61f8d328861d24a7fac958.1920x1080.jpg?t=1794857770",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "physics",
+      "score": 7
+    },
+    {
       "id": 4847830,
       "name": "Living With Dad - Family Party",
       "description": "Take on the Championn’Appart challenge with Dad’s Girls in this colourful party game! Who will take the top spot on the podium?",
@@ -45,6 +144,51 @@
       "firstSeen": "2026-11-12T11:54:23.684Z",
       "mechanic": "party",
       "score": 7
+    },
+    {
+      "id": 5561280,
+      "name": "Sitry & Chami Desktop Pet",
+      "description": "Meet Sitry &amp; Chami, your adorable hand-painted gouache desktop companions! Watch them climb active windows, dangle their legs from title bars, play bongo drums to your keyboard typing, and hilariously prank your screen with paint splatters and squeaky hammers.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561280/589c6566f266bb2b3940415f158c804ea649f7b7/ss_589c6566f266bb2b3940415f158c804ea649f7b7.1920x1080.jpg?t=1794465038",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5543420,
+      "name": "Clara Wraiths 3",
+      "description": "Clara Wraiths 3 is a 2D top-down survival horror game based on the story of a psychic, called Clara, who investigates the various haunted locations in the US in order to help the spirits move on or find peace.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5543420/352f6006b20abfe80e38f95d13a9fcc490e4ae93/ss_352f6006b20abfe80e38f95d13a9fcc490e4ae93.1920x1080.jpg?t=1794473769",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5467680,
+      "name": "Charmosaic",
+      "description": "Relax with Charmosaic, a cozy, free-to-play diamond painting game. Match colors, place thousands of tiny diamonds, and watch beautiful pictures come to life. Choose from three difficulty levels and enjoy new free paintings every month.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467680/4de749dfc56abdbe3eba6107a564671ab4661d3f/ss_4de749dfc56abdbe3eba6107a564671ab4661d3f.1920x1080.jpg?t=1794865849",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5465030,
+      "name": "Holy Nest",
+      "description": "Deep underground, where light has never been, live blind beetles. They know the world by sound, and by sound they know their god. A god game and colony sim with indirect control: the swarms live on their own, and you guide them with sound, touch and miracles. Your deeds decide what god you are.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465030/302a715a301e9eecf08af4a6f19752953aabe0c4/ss_302a715a301e9eecf08af4a6f19752953aabe0c4.1920x1080.jpg?t=1794456339",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5256420,
+      "name": "Dummy Works",
+      "description": "Unleash chaos on test dummies in this physics sandbox, but not all is as it seems.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256420/56dd9873e97c637e1ff141fce899a5b90ceb4b99/ss_56dd9873e97c637e1ff141fce899a5b90ceb4b99.1920x1080.jpg?t=1794456653",
+      "firstSeen": "2026-11-12T11:54:23.684Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 5227160,
@@ -59,16 +203,7 @@
       "id": 5566930,
       "name": "Pack it! Part-Time Master",
       "description": "Scan! Stack! The ultimate basket-packing challenge! Become a part-time master!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566930/dc6666e977625f9f51e2bfa7fcfddb1488a5b434/ss_dc6666e977625f9f51e2bfa7fcfddb1488a5b434.1920x1080.jpg?t=1794439303",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5197010,
-      "name": "Pump And Dump",
-      "description": "It's 1987 and you start in the mailroom. You have eight weeks to get your name on the door. Trade stocks, pump the ones you own, sell to dentists over the phone and keep the SEC off your back. A trading roguelite with scheme cards, a crew to hire and a new run every time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5197010/de766ce1d469e19af4c95a45aa5648538df892d6/ss_de766ce1d469e19af4c95a45aa5648538df892d6.1920x1080.jpg?t=1794785925",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566930/dc6666e977625f9f51e2bfa7fcfddb1488a5b434/ss_dc6666e977625f9f51e2bfa7fcfddb1488a5b434.1920x1080.jpg?t=1794883655",
       "firstSeen": "2026-11-12T03:44:16.673Z",
       "mechanic": "simulator",
       "score": 8
@@ -77,7 +212,7 @@
       "id": 5513180,
       "name": "My Crazy Stupid Pong Life",
       "description": "One summer, one paddle, and a megacorp that wants every court in the city... Life gets weird when every problem is settled over Ping Pong.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513180/cfa13361f750d33cc52412084c23ca20fa0190dc/ss_cfa13361f750d33cc52412084c23ca20fa0190dc.1920x1080.jpg?t=1794850578",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513180/e09f868daa2e27cdd040c2a12d422d2ba7771cc6/ss_e09f868daa2e27cdd040c2a12d422d2ba7771cc6.1920x1080.jpg?t=1794873326",
       "firstSeen": "2026-11-12T03:44:16.673Z",
       "mechanic": "incremental",
       "score": 7
@@ -119,6 +254,15 @@
       "score": 6
     },
     {
+      "id": 4582430,
+      "name": "This is not just a farm",
+      "description": "This Is Not Just a Farm is an idle farming simulator with horror elements where you can make progress while doing other things on your computer.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582430/854262f86815d2c55acbda39d7b49a32d5e3160c/ss_854262f86815d2c55acbda39d7b49a32d5e3160c.1920x1080.jpg?t=1794442995",
+      "firstSeen": "2026-11-12T03:44:16.673Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
       "id": 4570030,
       "name": "HIGH HORNS",
       "description": "CLIMB TO CONQUER! Physics-based co-op VR climbing",
@@ -135,15 +279,6 @@
       "firstSeen": "2026-11-12T03:44:16.673Z",
       "mechanic": "physics",
       "score": 6
-    },
-    {
-      "id": 4582430,
-      "name": "This is not just a farm",
-      "description": "This Is Not Just a Farm is an idle farming simulator with horror elements where you can make progress while doing other things on your computer.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582430/854262f86815d2c55acbda39d7b49a32d5e3160c/ss_854262f86815d2c55acbda39d7b49a32d5e3160c.1920x1080.jpg?t=1794442995",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "incremental",
-      "score": 5
     },
     {
       "id": 5568040,
@@ -221,7 +356,7 @@
       "id": 5539420,
       "name": "Raisin Universe",
       "description": "Your stream chat is the controller. Viewers play Minefield, Sudoku, Crossword, Marble Race and more by typing in Twitch or TikTok chat. Play 16 minigames on their own, or run a full board game with three boards.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5539420/6c7651723ef51a0f4289bfbc1354fda084e4ee9e/ss_6c7651723ef51a0f4289bfbc1354fda084e4ee9e.1920x1080.jpg?t=1794758934",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5539420/6c7651723ef51a0f4289bfbc1354fda084e4ee9e/ss_6c7651723ef51a0f4289bfbc1354fda084e4ee9e.1920x1080.jpg?t=1794871741",
       "firstSeen": "2026-11-11T22:56:55.856Z",
       "mechanic": "party",
       "score": 8
@@ -260,15 +395,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967770/e9c85603af5d8491951341b6993f6cf9c9cc1c38/ss_e9c85603af5d8491951341b6993f6cf9c9cc1c38.1920x1080.jpg?t=1794472068",
       "firstSeen": "2026-11-11T22:56:55.856Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4697150,
-      "name": "Choo Choo Kingdom",
-      "description": "The Rift has swallowed the kingdom. Grow one archer’s carriage into a 16-carriage war-train that auto-battles endless hordes. Place troops beside supports for synergy, upgrade a deep skill tree, chase each boss through town and free the kingdom village by village.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697150/f27ec2ef59b523f32592a796706dfcca0b3aadf3/ss_f27ec2ef59b523f32592a796706dfcca0b3aadf3.1920x1080.jpg?t=1794698105",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
       "score": 8
     },
     {
@@ -338,7 +464,7 @@
       "id": 5558940,
       "name": "Blood Rails",
       "description": "An armored train, a straight track across a dead continent, and a horde that never stops chasing you. Turn your train into a fortress, loot abandoned villages and decide whether the next kilometer is worth the risk.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558940/20fd257270b251c669f4984bc421556016fd95d7/ss_20fd257270b251c669f4984bc421556016fd95d7.1920x1080.jpg?t=1794836798",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558940/20fd257270b251c669f4984bc421556016fd95d7/ss_20fd257270b251c669f4984bc421556016fd95d7.1920x1080.jpg?t=1794863271",
       "firstSeen": "2026-11-11T22:56:55.856Z",
       "mechanic": "party",
       "score": 5
@@ -360,15 +486,6 @@
       "firstSeen": "2026-11-11T16:31:38.255Z",
       "mechanic": "physics",
       "score": 10
-    },
-    {
-      "id": 5392150,
-      "name": "Ambulads",
-      "description": "Rescue accident victims in a physics-based co-op game where your patient’s health determines your payday. Expand your ambulance, improvise with absurd tools and sell loot on the side.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5392150/3c3127a8efb9b7cca2cedc68d617c9108fe2836e/ss_3c3127a8efb9b7cca2cedc68d617c9108fe2836e.1920x1080.jpg?t=1794410075",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "physics",
-      "score": 9
     },
     {
       "id": 5570320,
@@ -423,123 +540,6 @@
       "firstSeen": "2026-11-11T16:31:38.255Z",
       "mechanic": "simulator",
       "score": 8
-    },
-    {
-      "id": 5451090,
-      "name": "Totally Legal Logging",
-      "description": "A co-op physics comedy about a crew of dwarves running a totally legal logging business. Fell trees with real physics, feed them to questionable machines, load the truck and get out before the forester arrives. Your friends are also a resource.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5451090/15154ac3a52217f7801fa0ccc4d393f9801c3d9b/ss_15154ac3a52217f7801fa0ccc4d393f9801c3d9b.1920x1080.jpg?t=1794403751",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5420060,
-      "name": "Fogblower",
-      "description": "Fogblower is an incremental game. Clear the fog with the fan on your little boat, discover treasures and strange creatures of the deep, and upgrade your boat until one day you can reach the mainland and earn your freedom.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5420060/90f66759634761a8c53ea374c11c1a1982592374/ss_90f66759634761a8c53ea374c11c1a1982592374.1920x1080.jpg?t=1794402181",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5209260,
-      "name": "DON’T CAMP ON BEAR ISLAND",
-      "description": "DON'T CAMP ON BEAR ISLAND! JUST DON'T DO IT! Stranded with 1-3 friends in online co-op, you have to haul your scattered gear up the mountain and build camp. The tent is heavy, nobody agrees which way is left, and something out there is listening.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5209260/5db407487c22319dbee020ba9e525397879d34fc/ss_5db407487c22319dbee020ba9e525397879d34fc.1920x1080.jpg?t=1794421744",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4601090,
-      "name": "Hold Your Position",
-      "description": "An incremental-style tower defense game where you face waves of orcs, undead, and demons. Recruit more troops, buy and upgrade skills, obtain powerful spells, and hold your position.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601090/67637a8cfda7f78c13c150842bafde2eb355c237/ss_67637a8cfda7f78c13c150842bafde2eb355c237.1920x1080.jpg?t=1794599402",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5563980,
-      "name": "Taboo Eternal Life",
-      "description": "An Incremental Idle Exploration Game, Awaken in a silent, blood-soaked medieval vampire palace—where your kin lay dead. Who slaughtered them all? Uncover the chilling truth, break the endless loop of immortality, or sacrifice everything to restart the taboo cycle.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563980/42e2deedb49de45c8e3fa09b3f84382e4f218bb6/ss_42e2deedb49de45c8e3fa09b3f84382e4f218bb6.1920x1080.jpg?t=1794411616",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5548920,
-      "name": "FLICK: Knockout",
-      "description": "Every flick counts in FLICK: Knockout, a physics-driven competitive arena game. Aim your shot, knock rivals out, and turn precise hits into big plays. Build your puck lineup, master the angles, and switch things up in BOB mode. Small move. Big consequences.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5548920/3f7c3457d11ea0c23a1026a41bf058dc33cc6cc9/ss_3f7c3457d11ea0c23a1026a41bf058dc33cc6cc9.1920x1080.jpg?t=1794727460",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5502030,
-      "name": "Food Fight Online",
-      "description": "Join a team of food and wage war on a giant kitchen counter. Rev up, let go and splat your enemies with throws, or capture regions to take over the map. Pineapples, watermelons and more battle online in chaotic deathmatch and capture modes. Last team splatting wins!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5502030/c70ec5da7fd39ef0c3bddec00cef655d389bd237/ss_c70ec5da7fd39ef0c3bddec00cef655d389bd237.1920x1080.jpg?t=1794407158",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5462080,
-      "name": "Who is the Thief?",
-      "description": "Runners hide in a crowd of identical NPCs. Hunters spot the one who moves like a human. An asymmetric online party game for 2–10 players: finish your tasks without getting caught, or hunt down the runners hiding in the crowd.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5462080/a549e2d2b8f2dc78dc196e1f1431d5ff70120f69/ss_a549e2d2b8f2dc78dc196e1f1431d5ff70120f69.1920x1080.jpg?t=1794401588",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5375520,
-      "name": "MOMENT: A Clockwork Melody",
-      "description": "Solve puzzles as you compose melodies. Place clockwork launchers, tune their timing and guide balls through colour-changing routes. Each collision plays a note, turning your solution into music. Explore 40 levels, experiment in Free Mode and share your own puzzles.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5375520/d828e73ff80f7b5a24a3b89bd07d8a41030b8b8f/ss_d828e73ff80f7b5a24a3b89bd07d8a41030b8b8f.1920x1080.jpg?t=1794558119",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5131770,
-      "name": "Slice the Mountain",
-      "description": "A relaxing incremental game about a red panda girl who wants to slice a mountain.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5131770/73fb9d13070b9efcd153e30875bdb4068005d8af/ss_73fb9d13070b9efcd153e30875bdb4068005d8af.1920x1080.jpg?t=1793277971",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4704120,
-      "name": "FLESHBAG",
-      "description": "FLESHBAG is a 3D physics sandbox about one very unlucky guy. He has organs, a brain, a face and a voice, and he has opinions about your machines. Build him a mixer, crusher or a cozy cabin. He will complain about all of them.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704120/15f723f20925941dffd1709498d16fac62cc0e92/ss_15f723f20925941dffd1709498d16fac62cc0e92.1920x1080.jpg?t=1794398235",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4314870,
-      "name": "Infinite Crosswalk",
-      "description": "Infinite Crosswalk is a psychedelic walking simulator and horror game in retro 3D style. You get hit on a zebra crossing and trapped in limbo. Uncover the victims' tragic stories to escape — or pay with parts of your own body.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314870/448dd7e23bdd4c17a52b1dd907a5e0d8e984e9a0/ss_448dd7e23bdd4c17a52b1dd907a5e0d8e984e9a0.1920x1080.jpg?t=1794397744",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5535250,
-      "name": "Splatterdunk",
-      "description": "90s-arcade 2-on-2 or 3 -on -3 basketball where the players are monsters and the fouls are fatal. Chain trick dunks, arm Fatalities, bribe the ref and dunk on monsters through the glass while VAT-9, a robot announcer who used to be a star, calls it. Up to 6 players, couch or online. Bring a mop.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5535250/3bbd44674844065cc9ee5283363c18b868ddabee/ss_3bbd44674844065cc9ee5283363c18b868ddabee.1920x1080.jpg?t=1794423683",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "party",
-      "score": 5
     }
   ]
 }
