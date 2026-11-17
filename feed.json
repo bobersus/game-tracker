@@ -1,6 +1,24 @@
 {
-  "checkedAt": "2026-11-17T02:52:05.091Z",
+  "checkedAt": "2026-11-17T11:15:41.924Z",
   "games": [
+    {
+      "id": 5520870,
+      "name": "Carrot Planet",
+      "description": "An entire planet of carrots to harvest. Team up with up to 16 players online, pick carrots, drive vehicles, automate everything, and befriend the locals. Build a massive carrot empire together in this cozy incremental automation life sim!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5520870/7bdd36017c4d6bf6a9c3af62c90f326a9bd1b817/ss_7bdd36017c4d6bf6a9c3af62c90f326a9bd1b817.1920x1080.jpg?t=1794902799",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 10
+    },
+    {
+      "id": 4770490,
+      "name": "Luck and Raid",
+      "description": "A 1–4 player online co-op, top-down action RPG/roguelike where luck is everything. You're fluffy, and you're adorable. Earn money and get stronger. Running low on cash? Try gambling! Lost it all? Just borrow some from a friend. Your friend is broke too? Congratulations! Now the real co-op begins.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770490/98502d1f7a430980a214780287feb64815bf068c/ss_98502d1f7a430980a214780287feb64815bf068c.1920x1080.jpg?t=1794490958",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "physics",
+      "score": 10
+    },
     {
       "id": 1225770,
       "name": "Sorted by Christmas",
@@ -9,6 +27,114 @@
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "party",
       "score": 10
+    },
+    {
+      "id": 5566820,
+      "name": "Apartment Empire",
+      "description": "Build your own apartment empire, one floor at a time. Design flats, collect rent, manage tenants with very different needs, and try to keep everyone happy. Meet colourful characters, uncover their stories, and discover that some residents are not entirely from around here.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566820/198074ffff385ac0b5d4b0410748d62aa7e020a9/ss_198074ffff385ac0b5d4b0410748d62aa7e020a9.1920x1080.jpg?t=1794495755",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5563270,
+      "name": "Fire Up the Stadium",
+      "description": "Fire Up the Stadium is an incremental restoration game where you bring a massive stadium back to its former glory. Restore faded seats, earn money, unlock powerful tools and upgrades, and build automated restoration machines. The more seats you restore, the faster and more powerful you become!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563270/87abf3f073075188ed0ca922a94358d87917bfae/ss_87abf3f073075188ed0ca922a94358d87917bfae.1920x1080.jpg?t=1794601328",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5533190,
+      "name": "The Endless Museum",
+      "description": "Wikipedia turned into a museum you can walk around, where every article is a room and every link is a doorway. You can wander wherever the links take you, race between articles, or go looking for the secret passages, puzzles and hidden rooms behind the bookcases.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533190/9fc27b0b43b1ce423244fa7589374f8f4d9d37b7/ss_9fc27b0b43b1ce423244fa7589374f8f4d9d37b7.1920x1080.jpg?t=1794826398",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5522800,
+      "name": "Just! Yell! FireBall!",
+      "description": "Turn your voice into magic in this chaotic online PvP party game! Shout spells into your microphone, collect magic scrolls, dodge incoming attacks, and blast your rivals away in colorful arenas. Challenge friends, other players, or bots!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5522800/998b30cf10e1845fc60831f64cbc97e2c380709a/ss_998b30cf10e1845fc60831f64cbc97e2c380709a.1920x1080.jpg?t=1794818638",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5518130,
+      "name": "Bakebound",
+      "description": "Bakebound is a short, active incremental game about harvesting a magical field that fights back. Sweep through living crops, dodge their attacks, and bake what you gather into recipes that make every trip stronger.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518130/098c3b76752e4255ad5ed1eba6ddb38a662d6923/ss_098c3b76752e4255ad5ed1eba6ddb38a662d6923.1920x1080.jpg?t=1794505100",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5435420,
+      "name": "Treasured Carpets",
+      "description": "Run a cozy carpet shop in an Istanbul-style bazaar. Buy rugs, wash away dirt, scrub grime, dry the fibers, and restore faded patterns. Unfold your finds for customers, match their tastes, and turn careful restoration into a thriving little showroom.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435420/1a30af3c185640c4c900a0f1ba4b08c5af1c8134/ss_1a30af3c185640c4c900a0f1ba4b08c5af1c8134.1920x1080.jpg?t=1794494793",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5408400,
+      "name": "SHOVEL BRIGADE",
+      "description": "Shovel Brigade is a free-to-play multiplayer war sandbox. Dig trenches, build bunkers, defend your camp, and survive chaotic battles with friends. Your defenses are destructible, your orders are unpredictable, and your shovel is always ready.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5408400/8f2397f336cd6eadf89aff2cb9ecda2097d5c40d/ss_8f2397f336cd6eadf89aff2cb9ecda2097d5c40d.1920x1080.jpg?t=1794753299",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5194160,
+      "name": "One Last Fish",
+      "description": "A cozy fishing idle game that sits anywhere on your desktop. Catch rare fish, buy upgrades and customize your island while you study, work or relax!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5194160/1f520e30a623348ed4a06c29412df77610acd248/ss_1f520e30a623348ed4a06c29412df77610acd248.1920x1080.jpg?t=1794488832",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5088770,
+      "name": "Arctic Shop Simulator",
+      "description": "Run a small shop at the edge of the Arctic wilderness. Ride your snowmobile into frozen regions, track and sedate wildlife, fish, survive brutal weather, and return home to sell your finds. Negotiate with customers, expand your shop, and build a thriving business in the far north.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088770/e40f478f96625f695bcb89cc6f74a245e9fa0d64/ss_e40f478f96625f695bcb89cc6f74a245e9fa0d64.1920x1080.jpg?t=1794461893",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4954850,
+      "name": "Chaos Conquest",
+      "description": "Chaos Conquest is a casual incremental auto-battler set in a fantasy world. Mine gold, grow your army from a lone soldier into a mighty battalion, and watch as your soldiers defeat hordes of quirky enemies!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954850/cbd1963b24490fa04c7e5fb2ed81f00faff8cc58/ss_cbd1963b24490fa04c7e5fb2ed81f00faff8cc58.1920x1080.jpg?t=1794507045",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4953380,
+      "name": "Sort, Spell & Meow",
+      "description": "Have you ever seen a cozy organizing game where the items actually fly? You broke into the witch’s workshop looking for valuable artifacts, but the cat activated one of them. Now everything is floating — everything swirls around the room. Put everything back in place to find what you came for.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953380/781edae938dd574c041f3f94d3c1fe1c4befda14/ss_781edae938dd574c041f3f94d3c1fe1c4befda14.1920x1080.jpg?t=1794502869",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4868090,
+      "name": "Rally King",
+      "description": "Rally King is a casino-themed ping pong roguelike where every rally puts the pot on the line. Play solo or with up to 3 friends. Hit chips, collect cards, roll dice, stack multipliers, and build broken paddle combos before one bad shot wipes it all.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868090/da91000ffb468e6a51366949eb734e947992e7eb/ss_da91000ffb468e6a51366949eb734e947992e7eb.1920x1080.jpg?t=1794511598",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "physics",
+      "score": 8
     },
     {
       "id": 4373420,
@@ -47,6 +173,15 @@
       "score": 8
     },
     {
+      "id": 5435350,
+      "name": "Bad Call",
+      "description": "Bad Call is a social game for 3-6 players set in an underground bunker. You're locked in separate rooms. Win challenges, trade code digits, forge alliances, and lie over the phone. Everyone needs the same exit code, but not everyone will escape.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435350/7e9ffdbb870bbd2e662feb5370129a3e78cfc3cb/ss_7e9ffdbb870bbd2e662feb5370129a3e78cfc3cb.1920x1080.jpg?t=1794567942",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
       "id": 4515710,
       "name": "Wisps & Wares: A Spirit of the North Idler",
       "description": "Return to the enchanting world of Spirit of the North in a cozy shopkeeping idler. Send your Fox Guardian exploring, gather treasures, stock the Raccoon’s traveling shop, and journey across the Northern Isles in charming pixel art.",
@@ -54,6 +189,24 @@
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "incremental",
       "score": 6
+    },
+    {
+      "id": 5566650,
+      "name": "Poutamelo",
+      "description": "Create your own music and share your finished sheet music with the townspeople. Then, visit the local live music bar to hear them perform your songs. Help out with farming, get to know your neighbors, and create your own story in a peaceful little town in this life simulation game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566650/206506b569dd4805f406ac7dfc725e44b0eda148/ss_206506b569dd4805f406ac7dfc725e44b0eda148.1920x1080.jpg?t=1794495348",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 5
+    },
+    {
+      "id": 5431050,
+      "name": "Chain Detonator",
+      "description": "Set mines, lure robots into your trap and trigger explosive chain reactions—then escape the blast. A top-down action-puzzle game with 50 campaign levels, solo challenges, local PvP for 2–4 players and online PvP for up to 16 on dedicated servers.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5431050/4e927f495c15a4d28e396f7ea632f079bd0c64f8/ss_4e927f495c15a4d28e396f7ea632f079bd0c64f8.1920x1080.jpg?t=1794861735",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 5
     },
     {
       "id": 5022560,
@@ -203,7 +356,7 @@
       "id": 5566930,
       "name": "Pack it! Part-Time Master",
       "description": "Scan! Stack! The ultimate basket-packing challenge! Become a part-time master!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566930/dc6666e977625f9f51e2bfa7fcfddb1488a5b434/ss_dc6666e977625f9f51e2bfa7fcfddb1488a5b434.1920x1080.jpg?t=1794883655",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566930/dc6666e977625f9f51e2bfa7fcfddb1488a5b434/ss_dc6666e977625f9f51e2bfa7fcfddb1488a5b434.1920x1080.jpg?t=1794904561",
       "firstSeen": "2026-11-12T03:44:16.673Z",
       "mechanic": "simulator",
       "score": 8
@@ -386,159 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5432080/4a3c5932349103d713c6b2feafcab7a8603e821d/ss_4a3c5932349103d713c6b2feafcab7a8603e821d.1920x1080.jpg?t=1794469643",
       "firstSeen": "2026-11-11T22:56:55.856Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4967770,
-      "name": "Fast Point",
-      "description": "A cozy cartoon co-op pickup point simulator. Receive parcels, serve customers, protect fragile cargo and perishable food, then grow a tiny pickup point into a full-blown logistics hub. Play solo or with friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967770/e9c85603af5d8491951341b6993f6cf9c9cc1c38/ss_e9c85603af5d8491951341b6993f6cf9c9cc1c38.1920x1080.jpg?t=1794472068",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 3204820,
-      "name": "RippleLoop",
-      "description": "Skip stones as far as you can in this relaxing incremental game. Launch, bounce across the water, upgrade, and go further with every throw. Buy new upgrades and powers to become the ultimate stone skipper.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204820/f2ecc166c3a2c53b9028345a5841df24bc70ce32/ss_f2ecc166c3a2c53b9028345a5841df24bc70ce32.1920x1080.jpg?t=1794847877",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5527100,
-      "name": "Ooglie Booglies",
-      "description": "A 2D shooter where chaos and fun are valued more than perfect skill and strategy. Get more powerful every round and unlock insane new abilities to beat your friends in hilarious and breathtaking ways.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527100/e24559caf2baadc411ae8fd1f46d2c7f682b2a4c/ss_e24559caf2baadc411ae8fd1f46d2c7f682b2a4c.1920x1080.jpg?t=1794446733",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 4601590,
-      "name": "Hot Pot Pizza Edition",
-      "description": "Slice, bake, box and serve under pressure in a fast-paced first-person pizza game. Survive chaotic shifts, unlock kitchens and truck cosmetics, and go from a messy garage to your own restaurant.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601590/d6888f9b707e74a2d74d5840e36773cb69a0f2cb/ss_d6888f9b707e74a2d74d5840e36773cb69a0f2cb.1920x1080.jpg?t=1794421584",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5586820,
-      "name": "Sweet Little Splash!",
-      "description": "Draw lines, guide water and fill glasses in Sweet Little Splash! Solve physics puzzles with coloured streams, wind and mechanisms, meet anime heroines, choose dialogue replies and unlock illustrations.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586820/9e6e3b478fd7376759c4bc47bc7ee1d51d18929c/ss_9e6e3b478fd7376759c4bc47bc7ee1d51d18929c.1920x1080.jpg?t=1794434324",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5165430,
-      "name": "PomoIdle Arena",
-      "description": "A Pomodoro timer × idle × command-battle RPG. Resources build up while you work — pull commands, power up your party, and battle other players between sessions. Your focused time becomes your strength.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165430/f4d98c564a1f8832d26d65d289686dc325625777/ss_f4d98c564a1f8832d26d65d289686dc325625777.1920x1080.jpg?t=1794420862",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4960830,
-      "name": "Myconaut",
-      "description": "A puzzle platformer collectathon where secrets are hidden around every corner! Find your way through the vibrant undergrowth, while finding hidden seeds. Navigate the rich open-world with tight platformer controls and colourful graphics.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960830/ce5e073251af379b407d6ca9b1f49432c377b64e/ss_ce5e073251af379b407d6ca9b1f49432c377b64e.1920x1080.jpg?t=1794427565",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 2946800,
-      "name": "Proverbial",
-      "description": "Hire a team of monkeys and start typing. It's time to find out if the old thought experiment is right. Given enough monkeys and upgrades can you find every word? Manage your monkeys, purchase upgrades, items, and abilities, and start filling your collections to become the best.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2946800/db82ddd9be4ea359fcb95e21718e7858e84a5b3d/ss_db82ddd9be4ea359fcb95e21718e7858e84a5b3d.1920x1080.jpg?t=1794415370",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5558940,
-      "name": "Blood Rails",
-      "description": "An armored train, a straight track across a dead continent, and a horde that never stops chasing you. Turn your train into a fortress, loot abandoned villages and decide whether the next kilometer is worth the risk.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558940/20fd257270b251c669f4984bc421556016fd95d7/ss_20fd257270b251c669f4984bc421556016fd95d7.1920x1080.jpg?t=1794863271",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 4945810,
-      "name": "Odysseus' 13th Ship",
-      "description": "Play as the forgotten 13th Ship of Odysseus. Cooperate with your friends to ascend the mountain of abstract geometric shapes. Do you have what it takes to reach Ithaca?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945810/3a8b3c15018db73c8fa57ede85780321f7d401c1/ss_3a8b3c15018db73c8fa57ede85780321f7d401c1.1920x1080.jpg?t=1794414817",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 5555470,
-      "name": "ScrapHeads",
-      "description": "Smash it all and get paid! ScrapHeads is a chaotic co-op game for up to 4 players. Scrap spaceships, mechs, and anything else that lands in your yard with ridiculous tools, explosive mayhem, and wild physics. Feed Panzarius and turn every shift into a disaster!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5555470/2ea281422b67fe8dfdbf2f4cd14d75b4d859066e/ss_2ea281422b67fe8dfdbf2f4cd14d75b4d859066e.1920x1080.jpg?t=1794815118",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "physics",
-      "score": 10
-    },
-    {
-      "id": 5570320,
-      "name": "Magic Castle: Tidy Up The Kingdom",
-      "description": "Wield a magic wand and rebuild a scattered fairy-tale castle piece by piece in this cozy first-person game. Charm stones into place, sweep away rubble, earn upgrades and restore five enchanted halls, alone or in online co-op with up to 4 mages.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570320/26e8d41bcccc463bb942ca912dcbd6ac665d46fd/ss_26e8d41bcccc463bb942ca912dcbd6ac665d46fd.1920x1080.jpg?t=1794693273",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5569480,
-      "name": "Wooden Tower",
-      "description": "Pull wooden blocks from a teetering tower in a physics-based game of balance. Try the Daily Challenge, practice in Sandbox, face an AI opponent, or invite friends through Steam or Discord for online rounds with up to five players.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569480/334df8024c1fdef612259d38c89fc1ba06dd9053/ss_334df8024c1fdef612259d38c89fc1ba06dd9053.1920x1080.jpg?t=1794745822",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5568630,
-      "name": "Mind the Tilt",
-      "description": "Your house is balanced on a pin, and everything in it has weight. Do the jobs, keep it level, and don't be the one the game names for tipping it. A physics party game for 1 to 8 players, on one PC or online, across 29 houses that each tip in their own way.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568630/c669006cb2c469c5f8a8b8f3410aeb901e156b16/ss_c669006cb2c469c5f8a8b8f3410aeb901e156b16.1920x1080.jpg?t=1794412427",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5567110,
-      "name": "They Seemed Normal",
-      "description": "They Seemed Normal is a chaotic mix of inspection and tower defense where every stage affects the next. Work as a passport inspector and interrogate visitors. Let the right ones in and eliminate the &quot;uncannies&quot;. Buy and upgrade birds, then use them as turrets to defend your base at night.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5567110/2df384312ce10e23ffa843b3e6f754f32b4f89c7/ss_2df384312ce10e23ffa843b3e6f754f32b4f89c7.1920x1080.jpg?t=1794406817",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5542300,
-      "name": "Flying Island Miner",
-      "description": "Rise above the clouds and unearth the treasures of a floating island in this relaxing digging simulator. Dig through its layers, build a collection of curious finds, and unleash the full power of your tools. From your very first dig to the last grain of sand.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542300/539ccd28cf96a0af1797d1b7306be791e21643ad/ss_539ccd28cf96a0af1797d1b7306be791e21643ad.1920x1080.jpg?t=1794840608",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5532470,
-      "name": "Idle Forgewarden",
-      "description": "A cozy pixel-art blacksmith forge that lives on your desktop and keeps working while you do other things. Step in whenever you like to time the hammer, take commissions, arm adventurers for the road and grow a humble forge into a legendary smithy.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532470/fddf831efa7a62086f1e79099ee3caa6694622b3/ss_fddf831efa7a62086f1e79099ee3caa6694622b3.1920x1080.jpg?t=1794462196",
-      "firstSeen": "2026-11-11T16:31:38.255Z",
-      "mechanic": "simulator",
       "score": 8
     }
   ]
