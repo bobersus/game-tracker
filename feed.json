@@ -1,6 +1,60 @@
 {
-  "checkedAt": "2026-11-17T11:15:41.924Z",
+  "checkedAt": "2026-11-17T19:53:52.018Z",
   "games": [
+    {
+      "id": 5373730,
+      "name": "Nameless Fate",
+      "description": "Follow a bamboo path into a shared temple. Sweep leaves, meditate, strike a wooden fish, or count prayer beads. Earn incense and wish slips through practice, then light a stick or write a wish by hand as other players pass through the courtyard.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5373730/ba01925fd9660ce41146b8f21e2e37492bf1b11d/ss_ba01925fd9660ce41146b8f21e2e37492bf1b11d.1920x1080.jpg?t=1794521426",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5066430,
+      "name": "Sun Smith",
+      "description": "Help an ancient derelict repair itself. Harvest power, mine ore, fabricate components, clone colonists, and research technologies.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066430/ddd14416357e2c4951a1aaa6baa9861f148d121c/ss_ddd14416357e2c4951a1aaa6baa9861f148d121c.1920x1080.jpg?t=1794586362",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5170940,
+      "name": "Street Football: Foul Play",
+      "description": "Play football with no rules, solo or with up to 4 friends in local or online co-op. Customize the weather and disasters, unleash brutal tackles and super shots on your rivals, and turn every match into total chaos!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5170940/8d257008630b07ad8a9c8481682cf29599fe941e/ss_8d257008630b07ad8a9c8481682cf29599fe941e.1920x1080.jpg?t=1794574273",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 4309200,
+      "name": "Inside the Samosbor",
+      "description": "A first-person co-op horror game for 1–4 players set in the world of Samosbor. Explore contaminated residential blocks, find a way out, and evade monsters and anomalies. Beware of liquidators who may mistake you for the infected. Get out alive.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309200/124d032a4979f853920b21c6fa6d99e1f0f21eac/ss_124d032a4979f853920b21c6fa6d99e1f0f21eac.1920x1080.jpg?t=1794654081",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 4254260,
+      "name": "Corner Quest",
+      "description": "An idle auto-battler in the corner of your screen. Your Mage fights on her own while you work. Choose her Spells, reshape them with Forms and Runes, and fight through 50+ waves in 15 Biomes.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254260/0fe02c03e0a672a232576d5dfd5a2b176c78262b/ss_0fe02c03e0a672a232576d5dfd5a2b176c78262b.1920x1080.jpg?t=1794685414",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5582900,
+      "name": "One More Potato",
+      "description": "One More Potato is a cozy organizing simulator where you sort over 2,000 potatoes into their correct places across a countryside farm. Pick up potatoes, complete collections, unlock helpful upgrades, and turn a messy farm into a perfectly organized potato paradise, solo or with friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582900/3553daeb19ec446eebd9045d0bf87ee724abb171/ss_3553daeb19ec446eebd9045d0bf87ee724abb171.1920x1080.jpg?t=1794584328",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 10
+    },
     {
       "id": 5520870,
       "name": "Carrot Planet",
@@ -23,10 +77,46 @@
       "id": 1225770,
       "name": "Sorted by Christmas",
       "description": "It’s almost Christmas and there’s a mountain of 100,000 presents still to sort. Round up your Gonk Squad for first-person co-op chaos with vacuums, black holes and Festive Dynamite. Up to 8 players, or solo.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225770/870ccd6df68254e0714f36c9da26e2a7e8fbead7/ss_870ccd6df68254e0714f36c9da26e2a7e8fbead7.1920x1080.jpg?t=1794610221",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225770/870ccd6df68254e0714f36c9da26e2a7e8fbead7/ss_870ccd6df68254e0714f36c9da26e2a7e8fbead7.1920x1080.jpg?t=1794933491",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "party",
       "score": 10
+    },
+    {
+      "id": 5577540,
+      "name": "Overcharge",
+      "description": "Overcharge is a chaotic robot-themed co-op action platformer where holding the Energy Core for too long gets your team wiped. Grab 1-3 friends and pass it around as you run, jump, and dodge through deadly obstacle courses. Climb the Ascension spires, overcome the Gauntlet, or build your own maps.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577540/1b03c79d0c90da4aec68a28025f4b18cc4d0c127/ss_1b03c79d0c90da4aec68a28025f4b18cc4d0c127.1920x1080.jpg?t=1794824146",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5579170,
+      "name": "Starfuse",
+      "description": "A cozy fireworks incremental where your upgrade tree is the night sky. Set your Shell Rack, pop drifting wish lanterns and chain bursts that relight the stars. Every place adds its own rule and a new toy, from lighthouse beams to storm clouds, until you can rekindle the dead Sun.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5579170/ef1ff87b514e8f7ecb6d2b09511e33f49a89a258/ss_ef1ff87b514e8f7ecb6d2b09511e33f49a89a258.1920x1080.jpg?t=1794936072",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5578120,
+      "name": "Saw Down",
+      "description": "Turn a tiny robot with a saw into a machine that grinds through mountains of scrap. Gather resources, choose your upgrades, and unleash explosions, flying sawblades, and chain lightning. Grow stronger with every haul and cut your way deeper.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578120/9a92a07a1012a6b2e0cd3515b35423f92a2a7cdd/ss_9a92a07a1012a6b2e0cd3515b35423f92a2a7cdd.1920x1080.jpg?t=1794577467",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5575420,
+      "name": "Put Out The Sun",
+      "description": "Put Out The Sun is a co-op incremental game about one ridiculous job: extinguishing a star. Spit, spray and haul water as a crew of four-armed aliens, mine ice, build conveyor lines and turrets, and automate everything until the Sun finally goes dark. Play solo or with up to 6 friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5575420/ab09d2f088675e7749a2655e830dfc0d75901e79/ss_ab09d2f088675e7749a2655e830dfc0d75901e79.1920x1080.jpg?t=1794641629",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 8
     },
     {
       "id": 5566820,
@@ -41,18 +131,9 @@
       "id": 5563270,
       "name": "Fire Up the Stadium",
       "description": "Fire Up the Stadium is an incremental restoration game where you bring a massive stadium back to its former glory. Restore faded seats, earn money, unlock powerful tools and upgrades, and build automated restoration machines. The more seats you restore, the faster and more powerful you become!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563270/87abf3f073075188ed0ca922a94358d87917bfae/ss_87abf3f073075188ed0ca922a94358d87917bfae.1920x1080.jpg?t=1794601328",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563270/87abf3f073075188ed0ca922a94358d87917bfae/ss_87abf3f073075188ed0ca922a94358d87917bfae.1920x1080.jpg?t=1794923533",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5533190,
-      "name": "The Endless Museum",
-      "description": "Wikipedia turned into a museum you can walk around, where every article is a room and every link is a doorway. You can wander wherever the links take you, race between articles, or go looking for the secret passages, puzzles and hidden rooms behind the bookcases.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533190/9fc27b0b43b1ce423244fa7589374f8f4d9d37b7/ss_9fc27b0b43b1ce423244fa7589374f8f4d9d37b7.1920x1080.jpg?t=1794826398",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -173,6 +254,42 @@
       "score": 8
     },
     {
+      "id": 5586200,
+      "name": "CTRL+ALT+BURN",
+      "description": "Keep the company online. Avoid the boss. CTRL+ALT+BURN is a chaotic co-op IT game for 1 to 6 players: reboot crashed servers, swap dead disks, answer the helpdesk, put out the microwave fire and climb a 60-floor office tower, one shift at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586200/c3353f1fab5d0e738a744e84f28861049c8e91ab/ss_c3353f1fab5d0e738a744e84f28861049c8e91ab.1920x1080.jpg?t=1794908543",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5581540,
+      "name": "Pixel Life",
+      "description": "Move to the cozy pixel town of Pinewood and build a life from scratch. Land a job and climb the career ladder, cook, fish, paint, make friends and fall in love, all while keeping your needs up and making rent every Monday. Chase your dream, one day at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581540/4547671bf3e6760a16ab9d47e42db64c113506c3/ss_4547671bf3e6760a16ab9d47e42db64c113506c3.1920x1080.jpg?t=1794502424",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5580030,
+      "name": "Secret of Nox",
+      "description": "Immerse yourself in this action roguelike game, turn defeated enemies into your minions. Explore 12+ unique classes, endless playstyles, battle through 50+ maps, epic bosses and discover the Secret of Nox.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580030/0b099e0bca830b9f5bb0c183188cb358ae152a87/ss_0b099e0bca830b9f5bb0c183188cb358ae152a87.1920x1080.jpg?t=1794502077",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5578830,
+      "name": "The Last Coin",
+      "description": "Bet your soul against other players in a casino you can't escape. Take turns dropping coins into a glass of whiskey about to overflow, keep your hand steady and cheat with items. Whoever overflows it loses their soul.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578830/0ce484200ca61ed1e292ad9381e2bc8b71dfaa99/ss_0ce484200ca61ed1e292ad9381e2bc8b71dfaa99.1920x1080.jpg?t=1794857195",
+      "firstSeen": "2026-11-12T19:49:27.114Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
       "id": 5435350,
       "name": "Bad Call",
       "description": "Bad Call is a social game for 3-6 players set in an underground bunker. You're locked in separate rooms. Win challenges, trade code digits, forge alliances, and lie over the phone. Everyone needs the same exit code, but not everyone will escape.",
@@ -203,7 +320,7 @@
       "id": 5431050,
       "name": "Chain Detonator",
       "description": "Set mines, lure robots into your trap and trigger explosive chain reactions—then escape the blast. A top-down action-puzzle game with 50 campaign levels, solo challenges, local PvP for 2–4 players and online PvP for up to 16 on dedicated servers.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5431050/4e927f495c15a4d28e396f7ea632f079bd0c64f8/ss_4e927f495c15a4d28e396f7ea632f079bd0c64f8.1920x1080.jpg?t=1794861735",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5431050/4e927f495c15a4d28e396f7ea632f079bd0c64f8/ss_4e927f495c15a4d28e396f7ea632f079bd0c64f8.1920x1080.jpg?t=1794935922",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "party",
       "score": 5
@@ -423,123 +540,6 @@
       "firstSeen": "2026-11-12T03:44:16.673Z",
       "mechanic": "physics",
       "score": 6
-    },
-    {
-      "id": 4395320,
-      "name": "Logisticats",
-      "description": "Move to a floating island and start a new life alongside a colony of cats with unique personalities! In this cozy business sim, you'll help your cats to plant crops and build buildings before taking to the skies in your airship to lead your feline crew in search of treasure and adventure!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395320/b09bef87776c5f978abedccfd69532cfb3facb21/ss_b09bef87776c5f978abedccfd69532cfb3facb21.1920x1080.jpg?t=1794451438",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5568040,
-      "name": "Deep Clean",
-      "description": "A co-op horror comedy for up to 4 players. You're a crew of space janitors: scrub stations after &quot;incidents&quot; and find out what roams the halls and how to survive it. There are no instructions: try everything, log your discoveries in the glossary and piece together the truth.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568040/7b498669fa595d922982be3f474b0475eb081d88/ss_7b498669fa595d922982be3f474b0475eb081d88.1920x1080.jpg?t=1794679270",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
-      "id": 5052850,
-      "name": "Fast Food Together",
-      "description": "Start your culinary adventure in Winston Springs! Begin with a food truck and work your way up to opening your very own restaurant, either solo or in co-op! Take care of your customers, create your own recipes, set your prices and menu. Earn money and invest in growing your business.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052850/3637d2165bd0feaa7ff07d1eccd6058c992dafc7/ss_3637d2165bd0feaa7ff07d1eccd6058c992dafc7.1920x1080.jpg?t=1794420837",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "simulator",
-      "score": 9
-    },
-    {
-      "id": 5576260,
-      "name": "Beakwood",
-      "description": "As a stork, deliver packages across Beakwood, a cozy town that changes with every season, while a gang of jealous, gadget-crazed hawks glide, hover and rocket in to sabotage your route.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5576260/df6ac2ecb49567c8a9560dbb81a9651f26f3eb05/ss_df6ac2ecb49567c8a9560dbb81a9651f26f3eb05.1920x1080.jpg?t=1794541600",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5575900,
-      "name": "Tempo Derby",
-      "description": "Tempo Derby is a timing-driven horse-racing roguelike. Hit the sweet spot, build powerful relic combinations and race through a 15-stage campaign. Unlock new horses, fuse legendary relics and outpace five bosses on your way to the championship.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5575900/84dc1f6c2642d781b6e1bf8bebde29f479d2f775/ss_84dc1f6c2642d781b6e1bf8bebde29f479d2f775.1920x1080.jpg?t=1794730910",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5569600,
-      "name": "Baggage Bedlam",
-      "description": "Baggage Bedlam is a fast paced multiplayer party game where friends compete to route luggage through chaotic airport conveyor belts. Flip switches, grab power ups, dodge floor hazards, and sabotage your friends as you race to deliver bags to the right destinations!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569600/c864580193d90741323047f80014d23fd926fbf1/ss_c864580193d90741323047f80014d23fd926fbf1.1920x1080.jpg?t=1794446943",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5568640,
-      "name": "Tidy Up: Midnight Cleaner Simulator ",
-      "description": "Clean up spooky buildings at night as a caretaker. Sort the trash into the correct categories. Will you survive the nights?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568640/dae30f350fefb75396394848994db177cadd6118/ss_dae30f350fefb75396394848994db177cadd6118.1920x1080.jpg?t=1794391180",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5557730,
-      "name": "Dungeon Dealer",
-      "description": "Heroes bleed. You profit. Send squads into deadly dungeons, crack open chests of glowing loot and sell every find at the perfect moment. Arm your best heroes, conquer it all, then retire rich and start a bigger era in this pixel-art incremental game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557730/6d632e5b2482c32018b7e1ea5864be8d2297eb45/ss_6d632e5b2482c32018b7e1ea5864be8d2297eb45.1920x1080.jpg?t=1794769171",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5542070,
-      "name": "Tidy Up the Grocery Warehouse",
-      "description": "One partner snapped, and Ultra Fresh Food needs your help. About 3,000 products hit the floor. Restore order to the grocery warehouse with handy abilities or your own two hands, then pick and pack orders until the shelves are empty.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542070/188a4f30c59077128197cd3dbdbebd1b7134807b/ss_188a4f30c59077128197cd3dbdbebd1b7134807b.1920x1080.jpg?t=1794619442",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5539420,
-      "name": "Raisin Universe",
-      "description": "Your stream chat is the controller. Viewers play Minefield, Sudoku, Crossword, Marble Race and more by typing in Twitch or TikTok chat. Play 16 minigames on their own, or run a full board game with three boards.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5539420/6c7651723ef51a0f4289bfbc1354fda084e4ee9e/ss_6c7651723ef51a0f4289bfbc1354fda084e4ee9e.1920x1080.jpg?t=1794871741",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5522310,
-      "name": "Tiny Desktop Terrarium",
-      "description": "Tiny Desktop Terrarium is a glass world that lives on your desktop. You build it however you want, add creatures and inhabitants then watch it grow and flourish while you use your computer and go about your day. Pop in whenever you want to see how things are evolving!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5522310/a09d3289f51c6057409ca3232d527de4750db8b2/ss_a09d3289f51c6057409ca3232d527de4750db8b2.1920x1080.jpg?t=1794759173",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5455190,
-      "name": "Pale Like Lilacs",
-      "description": "Pale Like Lilacs is a short visual novel about an alcoholic vending machine whose only customer is a robot girl who loves beer. Talk with her, serve her drinks, and help each other survive a rapidly evolving dystopian city.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455190/5b340d15be782598f2153f46133554b58eb515e9/ss_5b340d15be782598f2153f46133554b58eb515e9.1920x1080.jpg?t=1794424928",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5432080,
-      "name": "Saucer Rumble Showdown",
-      "description": "Take control of your own flying saucer in this chaotic, physics-based arena party game! Ram opponents, dodge environmental hazards, and fight to be the last UFO flying. Battle in local multiplayer with CPU opponents or challenge players online!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5432080/4a3c5932349103d713c6b2feafcab7a8603e821d/ss_4a3c5932349103d713c6b2feafcab7a8603e821d.1920x1080.jpg?t=1794469643",
-      "firstSeen": "2026-11-11T22:56:55.856Z",
-      "mechanic": "physics",
-      "score": 8
     }
   ]
 }
