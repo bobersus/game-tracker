@@ -1,6 +1,78 @@
 {
-  "checkedAt": "2026-11-17T19:53:52.018Z",
+  "checkedAt": "2026-11-18T02:19:11.855Z",
   "games": [
+    {
+      "id": 5261090,
+      "name": "Best Dam Game",
+      "description": "Chew trees, throw logs, blow stuff up. Best Dam Game is co-op physics chaos for up to 4 beavers building one seriously big dam. Take the contract, beat the rising river, fire your friends out of a cannon, and hunt down some very important hats.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261090/e795cfb1d8959b038cfc377e123a8e4aeacbfe61/ss_e795cfb1d8959b038cfc377e123a8e4aeacbfe61.1920x1080.jpg?t=1794553775",
+      "firstSeen": "2026-11-13T07:23:33.760Z",
+      "mechanic": "physics",
+      "score": 10
+    },
+    {
+      "id": 5518570,
+      "name": "TrapRush",
+      "description": "TrapRush is an online party platformer for 2 to 12 players. Each round, everyone places one item on the same course: a bridge, a spring, or a saw hidden under it. Then you all race to the flag at once. Make it while your friends don't, and you score.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518570/073d68515b24ca982d451ff5675ad6697e46089b/ss_073d68515b24ca982d451ff5675ad6697e46089b.1920x1080.jpg?t=1794536928",
+      "firstSeen": "2026-11-13T07:23:33.760Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5435110,
+      "name": "$1 Pizza Slice",
+      "description": "Run a cozy New York pizza shop where every slice costs $1. Roll dough, prepare toppings, bake and cut pizzas, then serve hungry neighbors. Shop for ingredients, upgrade your kitchen, share leftovers, and chip away at your debt one slice at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435110/1b566c72be255a7d74f66a55736b76c66433887d/ss_1b566c72be255a7d74f66a55736b76c66433887d.1920x1080.jpg?t=1794717875",
+      "firstSeen": "2026-11-13T07:23:33.760Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5108820,
+      "name": "Explosive Express",
+      "description": "Explosive Express is a chaotic 1–4 player co-op physics game where tiny workers transport unstable bombs through a giant world. Work together, load the van, survive the hazards, and get the bomb home before time runs out.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5108820/1870ebda734fc876a83d329162d2c4575757dbd4/ss_1870ebda734fc876a83d329162d2c4575757dbd4.1920x1080.jpg?t=1794530918",
+      "firstSeen": "2026-11-13T07:23:33.760Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4174850,
+      "name": "Friendgeist",
+      "description": "An online co-op horror comedy for up to 5 players. You wake up trapped in a house haunted by the Friendgeist, a spirit that takes the shape of a friend to deceive and possess you. Find the way out. If one of you gets possessed, exorcise them before it's too late. Or escape, if they let you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174850/b9786c0f50230ff3cca79d27a9f28a765dc933b4/ss_b9786c0f50230ff3cca79d27a9f28a765dc933b4.1920x1080.jpg?t=1794954999",
+      "firstSeen": "2026-11-13T07:23:33.760Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4774560,
+      "name": "Anomalous Coffee Machine 3",
+      "description": "You're a broke freelance artist who just found a reality-bending coffee machine in your apartment stairwell. Discover anomalous drinks, dominate social media, sell your anomalous creations online, and spread the weirdness.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774560/7f70cc2b6e32d7e09a38afa0300c936a235959a4/ss_7f70cc2b6e32d7e09a38afa0300c936a235959a4.1920x1080.jpg?t=1794538239",
+      "firstSeen": "2026-11-13T07:23:33.760Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5578510,
+      "name": "Make It Burn",
+      "description": "A first-person incremental game about throwing gems into a hole. Press the buzzer, push the gems into the fire and buy machines to burn more and more. Bring the gem count on the wall down to zero to open the next room.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578510/96f37e419cf1bcaf1b8bfd1e02cac1adb80b76ff/ss_96f37e419cf1bcaf1b8bfd1e02cac1adb80b76ff.1920x1080.jpg?t=1794613761",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5577380,
+      "name": "Build to Survive",
+      "description": "Build a car, launch it down a mountain road and let physics decide. No steering, no second chances: pick the body, engine, suspension and tyres, then watch your machine fly, crash and fall apart. Beat gold times in Challenges or race two cars side by side in Free Drive.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577380/2f5a19896626b073ee40764191f79ac8f344591b/ss_2f5a19896626b073ee40764191f79ac8f344591b.1920x1080.jpg?t=1794522799",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "physics",
+      "score": 8
+    },
     {
       "id": 5373730,
       "name": "Nameless Fate",
@@ -18,6 +90,33 @@
       "firstSeen": "2026-11-13T00:43:33.020Z",
       "mechanic": "physics",
       "score": 8
+    },
+    {
+      "id": 5545970,
+      "name": "Guildlands",
+      "description": "Forge, fight and trade, together. A multiplayer idle RPG that lives on your taskbar: your hero fights, mines and fishes while you work, and every piece of gear you forge shows on them. Free to play, in a shared world where players set every price.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545970/5b7601127e554096567e0efc8f9356125a3c34a0/ss_5b7601127e554096567e0efc8f9356125a3c34a0.1920x1080.jpg?t=1794877341",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5528880,
+      "name": "Pawlifters!",
+      "description": "A 2–6 player party heist game, local or online. Cute animal thieves hide in plain sight: grab the loot and blend into the crowd. Or become the guard and whack your friends with a baton — just don’t mix them up with the visitors!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528880/59539c996fe6f1472b0ee313a988b8b578036ae2/ss_59539c996fe6f1472b0ee313a988b8b578036ae2.1920x1080.jpg?t=1794961781",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5475360,
+      "name": "Musicality",
+      "description": "A cozy co-op music toy. Plug synths, drums and pedals together in your own little home, record takes for the neighbours, and jam with friends over Steam.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475360/f86eb6768bf5ca6e68fc338f59db7f8e8b4b6217/ss_f86eb6768bf5ca6e68fc338f59db7f8e8b4b6217.1920x1080.jpg?t=1794755223",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 5170940,
@@ -45,6 +144,15 @@
       "firstSeen": "2026-11-13T00:43:33.020Z",
       "mechanic": "physics",
       "score": 6
+    },
+    {
+      "id": 5580310,
+      "name": "Tonald Dump: Make News Fake Again",
+      "description": "Lead Tonald Dump through a satirical, turn-based presidential campaign! Manipulate the media, influence voter groups, build political connections and navigate 600+ events across four campaign stages. Control the headlines. Win the election!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580310/1d9c195ef17837b4a915ece4d3b4ef21c64ca049/ss_1d9c195ef17837b4a915ece4d3b4ef21c64ca049.1920x1080.jpg?t=1794498544",
+      "firstSeen": "2026-11-13T00:43:33.020Z",
+      "mechanic": "incremental",
+      "score": 5
     },
     {
       "id": 5582900,
@@ -85,8 +193,8 @@
     {
       "id": 5577540,
       "name": "Overcharge",
-      "description": "Overcharge is a chaotic robot-themed co-op action platformer where holding the Energy Core for too long gets your team wiped. Grab 1-3 friends and pass it around as you run, jump, and dodge through deadly obstacle courses. Climb the Ascension spires, overcome the Gauntlet, or build your own maps.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577540/1b03c79d0c90da4aec68a28025f4b18cc4d0c127/ss_1b03c79d0c90da4aec68a28025f4b18cc4d0c127.1920x1080.jpg?t=1794824146",
+      "description": "Overcharge is a chaotic 2-4 player co-op platformer where holding the Energy Core for too long gets your team wiped. Catch and pass the core as you run, jump, and dodge through deadly obstacle courses. Climb the Ascension spires, overcome the Gauntlet, or build your own maps in Creative mode.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577540/1b03c79d0c90da4aec68a28025f4b18cc4d0c127/ss_1b03c79d0c90da4aec68a28025f4b18cc4d0c127.1920x1080.jpg?t=1794963914",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "party",
       "score": 9
@@ -131,7 +239,7 @@
       "id": 5563270,
       "name": "Fire Up the Stadium",
       "description": "Fire Up the Stadium is an incremental restoration game where you bring a massive stadium back to its former glory. Restore faded seats, earn money, unlock powerful tools and upgrades, and build automated restoration machines. The more seats you restore, the faster and more powerful you become!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563270/87abf3f073075188ed0ca922a94358d87917bfae/ss_87abf3f073075188ed0ca922a94358d87917bfae.1920x1080.jpg?t=1794923533",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563270/87abf3f073075188ed0ca922a94358d87917bfae/ss_87abf3f073075188ed0ca922a94358d87917bfae.1920x1080.jpg?t=1794961218",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "incremental",
       "score": 8
@@ -227,15 +335,6 @@
       "score": 8
     },
     {
-      "id": 3837070,
-      "name": "Enchantalot",
-      "description": "Strike and enchant weapons on a magic workbench. Each success makes them stronger and worth more - but the higher you climb, the riskier every blow. Send your gear out on quests, collect relics that build on each other, and watch the numbers spiral out of control.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837070/6e910b456109a9deab8e681659a659a4400f1782/ss_6e910b456109a9deab8e681659a659a4400f1782.1920x1080.jpg?t=1794499069",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 2526190,
       "name": "Tiny Queendom: An Ant Terrarium",
       "description": "A living ant colony on your desktop. Build a glass terrarium of sand, water and plants, add one queen, and watch her family dig tunnels, forage, learn from danger and raise new queens on its own. Keep it in a small window in the corner of your screen while you work.",
@@ -284,7 +383,7 @@
       "id": 5578830,
       "name": "The Last Coin",
       "description": "Bet your soul against other players in a casino you can't escape. Take turns dropping coins into a glass of whiskey about to overflow, keep your hand steady and cheat with items. Whoever overflows it loses their soul.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578830/0ce484200ca61ed1e292ad9381e2bc8b71dfaa99/ss_0ce484200ca61ed1e292ad9381e2bc8b71dfaa99.1920x1080.jpg?t=1794857195",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578830/0ce484200ca61ed1e292ad9381e2bc8b71dfaa99/ss_0ce484200ca61ed1e292ad9381e2bc8b71dfaa99.1920x1080.jpg?t=1794946890",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "party",
       "score": 6
@@ -428,7 +527,7 @@
       "id": 5543420,
       "name": "Clara Wraiths 3",
       "description": "Clara Wraiths 3 is a 2D top-down survival horror game based on the story of a psychic, called Clara, who investigates the various haunted locations in the US in order to help the spirits move on or find peace.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5543420/352f6006b20abfe80e38f95d13a9fcc490e4ae93/ss_352f6006b20abfe80e38f95d13a9fcc490e4ae93.1920x1080.jpg?t=1794473769",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5543420/352f6006b20abfe80e38f95d13a9fcc490e4ae93/ss_352f6006b20abfe80e38f95d13a9fcc490e4ae93.1920x1080.jpg?t=1794967599",
       "firstSeen": "2026-11-12T11:54:23.684Z",
       "mechanic": "physics",
       "score": 6
@@ -439,105 +538,6 @@
       "description": "Relax with Charmosaic, a cozy, free-to-play diamond painting game. Match colors, place thousands of tiny diamonds, and watch beautiful pictures come to life. Choose from three difficulty levels and enjoy new free paintings every month.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467680/4de749dfc56abdbe3eba6107a564671ab4661d3f/ss_4de749dfc56abdbe3eba6107a564671ab4661d3f.1920x1080.jpg?t=1794865849",
       "firstSeen": "2026-11-12T11:54:23.684Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5465030,
-      "name": "Holy Nest",
-      "description": "Deep underground, where light has never been, live blind beetles. They know the world by sound, and by sound they know their god. A god game and colony sim with indirect control: the swarms live on their own, and you guide them with sound, touch and miracles. Your deeds decide what god you are.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465030/302a715a301e9eecf08af4a6f19752953aabe0c4/ss_302a715a301e9eecf08af4a6f19752953aabe0c4.1920x1080.jpg?t=1794456339",
-      "firstSeen": "2026-11-12T11:54:23.684Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5256420,
-      "name": "Dummy Works",
-      "description": "Unleash chaos on test dummies in this physics sandbox, but not all is as it seems.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256420/56dd9873e97c637e1ff141fce899a5b90ceb4b99/ss_56dd9873e97c637e1ff141fce899a5b90ceb4b99.1920x1080.jpg?t=1794456653",
-      "firstSeen": "2026-11-12T11:54:23.684Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5227160,
-      "name": "Impferno",
-      "description": "An online co-op game for up to 8 players. Explore the Circles of Hell in search of monsters and collect their souls before time runs out. Work and fight together to survive. But never forget: trust has no place among demons!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5227160/783ad59a6d513cda1845783137e3b2560ba9bdf3/ss_783ad59a6d513cda1845783137e3b2560ba9bdf3.1920x1080.jpg?t=1794452485",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "incremental",
-      "score": 9
-    },
-    {
-      "id": 5566930,
-      "name": "Pack it! Part-Time Master",
-      "description": "Scan! Stack! The ultimate basket-packing challenge! Become a part-time master!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566930/dc6666e977625f9f51e2bfa7fcfddb1488a5b434/ss_dc6666e977625f9f51e2bfa7fcfddb1488a5b434.1920x1080.jpg?t=1794904561",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5513180,
-      "name": "My Crazy Stupid Pong Life",
-      "description": "One summer, one paddle, and a megacorp that wants every court in the city... Life gets weird when every problem is settled over Ping Pong.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513180/e09f868daa2e27cdd040c2a12d422d2ba7771cc6/ss_e09f868daa2e27cdd040c2a12d422d2ba7771cc6.1920x1080.jpg?t=1794873326",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5565560,
-      "name": "One Million Chips",
-      "description": "A short first-person incremental game set in a flooded casino. Scoop, rake, shovel and vacuum one million in chips into the giant funnel, spend your tips at Valeria's counter, and clear every last chip from the Casino Fortuna.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5565560/3123c5bdfee501832ba9e2c595ab687d2bf7314a/ss_3123c5bdfee501832ba9e2c595ab687d2bf7314a.1920x1080.jpg?t=1794689510",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5536370,
-      "name": "Deadlines",
-      "description": "A multiplayer melee combat game where you and your coworkers are trapped in a sprawling office building with an impossible deadline. Work together to survive, form alliances to improve your odds, or turn on your coworkers before they turn on you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536370/b4a2b0c595ea95028391984592195cf26e609cbe/ss_b4a2b0c595ea95028391984592195cf26e609cbe.1920x1080.jpg?t=1794438205",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5526980,
-      "name": "Planet Chess",
-      "description": "Six boards. Two players. One ultimate showdown. Planet Chess transforms classic chess into an intense multiplayer battle where you fight across six independent boards at once. Outsmart your opponent, master every move, and claim victory!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5526980/fa8cc68940d16cac68daac6b9cf47755e391d58e/ss_fa8cc68940d16cac68daac6b9cf47755e391d58e.1920x1080.jpg?t=1794443005",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5029900,
-      "name": "Knock Twice",
-      "description": "Queens, 1974. Something in Garland Court knocks twice, and it can only come in if you answer. It wears your neighbours' voices. Check the peephole, count the shadows, keep the chain on. Five apartments, three years of the building's past, thirty-two endings.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029900/659e3cfbbef5a46631dc9f8eb4d980081fec43b7/ss_659e3cfbbef5a46631dc9f8eb4d980081fec43b7.1920x1080.jpg?t=1794453874",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4582430,
-      "name": "This is not just a farm",
-      "description": "This Is Not Just a Farm is an idle farming simulator with horror elements where you can make progress while doing other things on your computer.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582430/854262f86815d2c55acbda39d7b49a32d5e3160c/ss_854262f86815d2c55acbda39d7b49a32d5e3160c.1920x1080.jpg?t=1794442995",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4570030,
-      "name": "HIGH HORNS",
-      "description": "CLIMB TO CONQUER! Physics-based co-op VR climbing",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570030/934e4451c4305b1048373953b2867e85e6c7af6f/ss_934e4451c4305b1048373953b2867e85e6c7af6f.1920x1080.jpg?t=1794450684",
-      "firstSeen": "2026-11-12T03:44:16.673Z",
       "mechanic": "physics",
       "score": 6
     }
