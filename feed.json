@@ -1,6 +1,105 @@
 {
-  "checkedAt": "2026-11-18T10:20:00.694Z",
+  "checkedAt": "2026-11-18T18:53:40.876Z",
   "games": [
+    {
+      "id": 5208040,
+      "name": "Multi Purpose Wheel Incremental",
+      "description": "Rotate everything in this new spin on the Incremental genre! Rotate satisfying contraptions to earn interconnected currencies. Upgrade the contraptions to earn more, earn faster, and earn whackier. Unlock new contraptions to expand your rotating horizons.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208040/49740d584d7bd832320da5f03ecf35dbac468523/ss_49740d584d7bd832320da5f03ecf35dbac468523.1920x1080.jpg?t=1794594435",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5191290,
+      "name": "MUTINY!",
+      "description": "MUTINY! is a multiplayer platformer fighter game that allows up to 10 players per round! Using different kinds of bombs and the power of physics, ensure your victory as the last man standing on pirate ships, treacherous waters, and other dynamic maps that aren't exactly on your side either.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191290/8d26d7b24e52217af264bcf6ff20978664f30fc4/ss_8d26d7b24e52217af264bcf6ff20978664f30fc4.1920x1080.jpg?t=1794838890",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4443690,
+      "name": "Cornerwitch",
+      "description": "Cornerwitch is a cozy idler game that sits on the corner of your screen. Study new spells and advance through a magical journey. Unlock cosmetics to dress up your little witch, level up and become stronger.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443690/fb207b9c0cc7402697a0da4f4238fbe660190a91/ss_fb207b9c0cc7402697a0da4f4238fbe660190a91.1920x1080.jpg?t=1794589572",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5585990,
+      "name": "Car Wash Crew",
+      "description": "Run a roadside car wash solo or with up to 3 friends. Blast mud, spread foam and build new bays by hand. Customers bring cars, buses, rugs—and the occasional house. Follow their tickets, split the work and try to keep your crew out of the soap.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585990/81ba024cfb96f77a57084f48f0cfe33d619dff51/ss_81ba024cfb96f77a57084f48f0cfe33d619dff51.1920x1080.jpg?t=1794695643",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5583880,
+      "name": "Cartastrophe",
+      "description": "CARTASTROPHE is a party game for 1–4 players, streamed live as the internet's most exciting death game. Crash, shoot and stab your way through minigames for likes, and survive the Final Showdown to walk out famous.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5583880/25deb64b6ab9a17310a30f5fa1dca1b9cc18f68f/ss_25deb64b6ab9a17310a30f5fa1dca1b9cc18f68f.1920x1080.jpg?t=1794783281",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5424320,
+      "name": "Magnet Fishing Together",
+      "description": "A cozy co-op game about magnet fishing with up to 4 friends. Throw, pull and hope for something good. Sometimes it’s a rusty spoon. Sometimes it’s a scooter you can ride. And sometimes your friend lets go of the rope at the worst possible moment.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5424320/ff947784f7b0b04b5fa6f38b9c9b81720684a2dd/ss_ff947784f7b0b04b5fa6f38b9c9b81720684a2dd.1920x1080.jpg?t=1794582866",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5584840,
+      "name": "Sort the Bazaar",
+      "description": "Sort The Bazaar is a cozy organizing simulator where you sort a variety of items and bring life and color back to a faded roadside market. Unlock new skills, automate tasks, and enjoy the satisfying process of turning a dull, messy bazaar into a vibrant, organized marketplace at your own pace.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584840/fc08bec2e17578ed0a03ea956b0cffaa3478215f/ss_fc08bec2e17578ed0a03ea956b0cffaa3478215f.1920x1080.jpg?t=1794581085",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5557460,
+      "name": "One More Asteroid",
+      "description": "Drill voxel asteroids apart in an incremental mining game. Grow from one drill to a swarm of drones that mine where you aim. Unlock powerful tools, crack the core and watch the asteroid collapse. Then take on the next, stranger rock.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557460/a3a710272dc796f95f9f59ed335cad0887064617/ss_a3a710272dc796f95f9f59ed335cad0887064617.1920x1080.jpg?t=1794842836",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5537680,
+      "name": "Capture the Flag: Arcade Car Battles",
+      "description": "Grab the flag and don't let go! Fast arcade car battles in a roaring stadium: campaign, 6-car free-for-all, 4v4 teams and Bring It Home goals, offline vs AI or online with friends. Boost, bump, dodge TNT and collect 15 cars. No ads.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537680/7c56f1b5a61f3d05c9afe1923aeaae856aa8e071/ss_7c56f1b5a61f3d05c9afe1923aeaae856aa8e071.1920x1080.jpg?t=1794575897",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5497470,
+      "name": "Social Net",
+      "description": "Incremental fishing in reverse: a fish catches people with money. Throw your net into the crowd, yank sunbathers out with the rod, hand in the catch, unlock the skill tree and new places - from a sunny beach to an icy bay and an ocean liner.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5497470/12c0b7e51342d28b7699887810b0203d99887f1d/ss_12c0b7e51342d28b7699887810b0203d99887f1d.1920x1080.jpg?t=1794561307",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5400290,
+      "name": "GUTTERGLOW",
+      "description": "A bowling roguelike with real pin physics. Aim and throw, score points for every pin that falls, and build your ball with pins, tricks and upgrades until one throw multiplies into a huge score. Ten levels, twelve bosses that change the lane, three modes.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5400290/4a34b1a897c4d51ddfd71e337005365b0c047d8b/ss_4a34b1a897c4d51ddfd71e337005365b0c047d8b.1920x1080.jpg?t=1794575641",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "physics",
+      "score": 8
+    },
     {
       "id": 5282710,
       "name": "Quiet Bloom",
@@ -8,6 +107,15 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282710/33e31be16bb2a1406c9ed3bd5fe05b88d1cd56ac/ss_33e31be16bb2a1406c9ed3bd5fe05b88d1cd56ac.1920x1080.jpg?t=1794950915",
       "firstSeen": "2026-11-13T15:38:34.837Z",
       "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4939790,
+      "name": "Loss Prevention: Prologue",
+      "description": "Loss Prevention is a social deduction game where you can shoplift your local grocery store with up to five friends. Experience the joy of petty crime as a shoplifter, or keep your eyes peeled for suspicious activity as the shopkeeper. Can you grab all the items on the shopping list?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939790/ffcb87f8de6d95a79730feb77d450d623f0ec549/ss_ffcb87f8de6d95a79730feb77d450d623f0ec549.1920x1080.jpg?t=1794561313",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "party",
       "score": 8
     },
     {
@@ -47,6 +155,24 @@
       "score": 8
     },
     {
+      "id": 5572530,
+      "name": "Tinsel Tumble",
+      "description": "A cozy Holiday falling-block puzzle game. Drop pairs of elves and presents into the well, land an elf beside presents of its color to wrap the lot, and set off chain reactions. Story, Endless, 50 Challenges, Daily, an Advent calendar, and couch Versus and Battle mode for up to 4 players.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5572530/ee7a3ff304e286baa11e26d60a2716d810b9cc41/ss_ee7a3ff304e286baa11e26d60a2716d810b9cc41.1920x1080.jpg?t=1794562000",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5482850,
+      "name": "Gnomes Garden: Fairy Kingdom",
+      "description": "The Gnome Queen uncovers the history of the fairies, restores friendship, and fights an ancient darkness.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482850/409b44f555896b424192a4ee7346d0a546ac89af/ss_409b44f555896b424192a4ee7346d0a546ac89af.1920x1080.jpg?t=1794980795",
+      "firstSeen": "2026-11-13T15:38:34.837Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
       "id": 5267090,
       "name": "Idle Raiders: Second Run",
       "description": "Idle Raiders: Second Run is an idle RPG about a band of pixel art heroes who farm, raid and loot on their own. You build their town, pick their gear, skills and AI, and send them out farming or into more than 25 raids. Version 2.0 of the browser classic from Pit Forest, rebuilt on a new engine.",
@@ -60,15 +186,6 @@
       "name": "I just wanted a marshmallow.",
       "description": "'I just wanted a marshmallow.' is a casual completely normal take on the arena shooter genre. Falling into the pits of despair over not having a marshmallow, you and your crew opt to take the matters into their own hands. There's not much else to say about this game.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965260/e6696502f46f2393e00fd9c2433cbf2c3cabe7a1/ss_e6696502f46f2393e00fd9c2433cbf2c3cabe7a1.1920x1080.jpg?t=1794603518",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 4939790,
-      "name": "Loss Prevention: Prologue",
-      "description": "Loss Prevention is a social deduction game where you can shoplift your local grocery store with up to five friends. Experience the joy of petty crime as a shoplifter, or keep your eyes peeled for suspicious activity as the shopkeeper. Can you grab all the items on the shopping list?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939790/ffcb87f8de6d95a79730feb77d450d623f0ec549/ss_ffcb87f8de6d95a79730feb77d450d623f0ec549.1920x1080.jpg?t=1794561313",
       "firstSeen": "2026-11-13T15:38:34.837Z",
       "mechanic": "party",
       "score": 6
@@ -221,7 +338,7 @@
       "id": 5545970,
       "name": "Guildlands",
       "description": "Forge, fight and trade, together. A multiplayer idle RPG that lives on your taskbar: your hero fights, mines and fishes while you work, and every piece of gear you forge shows on them. Free to play, in a shared world where players set every price.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545970/5b7601127e554096567e0efc8f9356125a3c34a0/ss_5b7601127e554096567e0efc8f9356125a3c34a0.1920x1080.jpg?t=1794974658",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545970/5b7601127e554096567e0efc8f9356125a3c34a0/ss_5b7601127e554096567e0efc8f9356125a3c34a0.1920x1080.jpg?t=1795010936",
       "firstSeen": "2026-11-13T00:43:33.020Z",
       "mechanic": "physics",
       "score": 6
@@ -230,7 +347,7 @@
       "id": 5528880,
       "name": "Pawlifters!",
       "description": "A 2–6 player party heist game, local or online. Cute animal thieves hide in plain sight: grab the loot and blend into the crowd. Or become the guard and whack your friends with a baton — just don’t mix them up with the visitors!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528880/59539c996fe6f1472b0ee313a988b8b578036ae2/ss_59539c996fe6f1472b0ee313a988b8b578036ae2.1920x1080.jpg?t=1794975243",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528880/59539c996fe6f1472b0ee313a988b8b578036ae2/ss_59539c996fe6f1472b0ee313a988b8b578036ae2.1920x1080.jpg?t=1795017850",
       "firstSeen": "2026-11-13T00:43:33.020Z",
       "mechanic": "party",
       "score": 6
@@ -272,15 +389,6 @@
       "score": 6
     },
     {
-      "id": 5580310,
-      "name": "Tonald Dump: Make News Fake Again",
-      "description": "Lead Tonald Dump through a satirical, turn-based presidential campaign! Manipulate the media, influence voter groups, build political connections and navigate 600+ events across four campaign stages. Control the headlines. Win the election!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580310/1d9c195ef17837b4a915ece4d3b4ef21c64ca049/ss_1d9c195ef17837b4a915ece4d3b4ef21c64ca049.1920x1080.jpg?t=1794498544",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
       "id": 5582900,
       "name": "One More Potato",
       "description": "One More Potato is a cozy organizing simulator where you sort over 2,000 potatoes into their correct places across a countryside farm. Pick up potatoes, complete collections, unlock helpful upgrades, and turn a messy farm into a perfectly organized potato paradise, solo or with friends.",
@@ -292,8 +400,8 @@
     {
       "id": 5520870,
       "name": "Carrot Planet",
-      "description": "An entire planet of carrots to harvest. Team up with up to 16 players online, pick carrots, drive vehicles, automate everything, and befriend the locals. Build a massive carrot empire together in this cozy incremental automation life sim!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5520870/7bdd36017c4d6bf6a9c3af62c90f326a9bd1b817/ss_7bdd36017c4d6bf6a9c3af62c90f326a9bd1b817.1920x1080.jpg?t=1794902799",
+      "description": "Cozy co-op incremental automation life sim for 1-8 players. Harvest an entire planet of carrots to feed the Bunny Mothership. Pick carrots, drive vehicles, automate everything, and befriend the locals. Build a massive carrot empire together!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5520870/7bdd36017c4d6bf6a9c3af62c90f326a9bd1b817/ss_7bdd36017c4d6bf6a9c3af62c90f326a9bd1b817.1920x1080.jpg?t=1795007159",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "incremental",
       "score": 10
@@ -320,7 +428,7 @@
       "id": 5577540,
       "name": "Overcharge",
       "description": "Overcharge is a chaotic 2-4 player co-op platformer where holding the Energy Core for too long gets your team wiped. Catch and pass the core as you run, jump, and dodge through deadly obstacle courses. Climb the Ascension spires, overcome the Gauntlet, or build your own maps in Creative mode.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577540/1b03c79d0c90da4aec68a28025f4b18cc4d0c127/ss_1b03c79d0c90da4aec68a28025f4b18cc4d0c127.1920x1080.jpg?t=1794963914",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577540/1b03c79d0c90da4aec68a28025f4b18cc4d0c127/ss_1b03c79d0c90da4aec68a28025f4b18cc4d0c127.1920x1080.jpg?t=1795011877",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "party",
       "score": 9
@@ -410,7 +518,7 @@
       "id": 5194160,
       "name": "One Last Fish",
       "description": "A cozy fishing idle game that sits anywhere on your desktop. Catch rare fish, buy upgrades and customize your island while you study, work or relax!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5194160/1f520e30a623348ed4a06c29412df77610acd248/ss_1f520e30a623348ed4a06c29412df77610acd248.1920x1080.jpg?t=1794488832",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5194160/1f520e30a623348ed4a06c29412df77610acd248/ss_1f520e30a623348ed4a06c29412df77610acd248.1920x1080.jpg?t=1795000389",
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "physics",
       "score": 8
@@ -432,114 +540,6 @@
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 4953380,
-      "name": "Sort, Spell & Meow",
-      "description": "Have you ever seen a cozy organizing game where the items actually fly? You broke into the witch’s workshop looking for valuable artifacts, but the cat activated one of them. Now everything is floating — everything swirls around the room. Put everything back in place to find what you came for.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953380/781edae938dd574c041f3f94d3c1fe1c4befda14/ss_781edae938dd574c041f3f94d3c1fe1c4befda14.1920x1080.jpg?t=1794502869",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4868090,
-      "name": "Rally King",
-      "description": "Rally King is a casino-themed ping pong roguelike where every rally puts the pot on the line. Play solo or with up to 3 friends. Hit chips, collect cards, roll dice, stack multipliers, and build broken paddle combos before one bad shot wipes it all.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868090/da91000ffb468e6a51366949eb734e947992e7eb/ss_da91000ffb468e6a51366949eb734e947992e7eb.1920x1080.jpg?t=1794511598",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4373420,
-      "name": "All Haul the King",
-      "description": "A co-op game where you and your friends embark on an epic journey to drag the goblin king’s dead body across the kingdom to resurrect him. Use brains, brawn and crazy goblin magic to navigate the tricky terrain and puzzles that lie in your path.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4373420/015c554fd5a1cb749d9998cf63979f282925a3c0/ss_015c554fd5a1cb749d9998cf63979f282925a3c0.1920x1080.jpg?t=1794496435",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 2526190,
-      "name": "Tiny Queendom: An Ant Terrarium",
-      "description": "A living ant colony on your desktop. Build a glass terrarium of sand, water and plants, add one queen, and watch her family dig tunnels, forage, learn from danger and raise new queens on its own. Keep it in a small window in the corner of your screen while you work.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526190/2ed7f01fb6ff0ed67e9d4d75962740755d5ad977/ss_2ed7f01fb6ff0ed67e9d4d75962740755d5ad977.1920x1080.jpg?t=1794498368",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 2420800,
-      "name": "Sol Mates",
-      "description": "Blast and laugh your way through space with up to 4 friends in this chaotic roguelike co-op. Every run is a new adventure so steer, shield, and work together to take on unpredictable challenges - or at least go out in style.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420800/ss_f7887599b1b2b88ab3cdaa66cded5cad43b7ba98.1920x1080.jpg?t=1794504738",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5586200,
-      "name": "CTRL+ALT+BURN",
-      "description": "Keep the company online. Avoid the boss. CTRL+ALT+BURN is a chaotic co-op IT game for 1 to 6 players: reboot crashed servers, swap dead disks, answer the helpdesk, put out the microwave fire and climb a 60-floor office tower, one shift at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586200/c3353f1fab5d0e738a744e84f28861049c8e91ab/ss_c3353f1fab5d0e738a744e84f28861049c8e91ab.1920x1080.jpg?t=1794908543",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5581540,
-      "name": "Pixel Life",
-      "description": "Move to the cozy pixel town of Pinewood and build a life from scratch. Land a job and climb the career ladder, cook, fish, paint, make friends and fall in love, all while keeping your needs up and making rent every Monday. Chase your dream, one day at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581540/4547671bf3e6760a16ab9d47e42db64c113506c3/ss_4547671bf3e6760a16ab9d47e42db64c113506c3.1920x1080.jpg?t=1794502424",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5580030,
-      "name": "Secret of Nox",
-      "description": "Immerse yourself in this action roguelike game, turn defeated enemies into your minions. Explore 12+ unique classes, endless playstyles, battle through 50+ maps, epic bosses and discover the Secret of Nox.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580030/0b099e0bca830b9f5bb0c183188cb358ae152a87/ss_0b099e0bca830b9f5bb0c183188cb358ae152a87.1920x1080.jpg?t=1794502077",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5578830,
-      "name": "The Last Coin",
-      "description": "Bet your soul against other players in a casino you can't escape. Take turns dropping coins into a glass of whiskey about to overflow, keep your hand steady and cheat with items. Whoever overflows it loses their soul.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578830/0ce484200ca61ed1e292ad9381e2bc8b71dfaa99/ss_0ce484200ca61ed1e292ad9381e2bc8b71dfaa99.1920x1080.jpg?t=1794946890",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5435350,
-      "name": "Bad Call",
-      "description": "Bad Call is a social game for 3-6 players set in an underground bunker. You're locked in separate rooms. Win challenges, trade code digits, forge alliances, and lie over the phone. Everyone needs the same exit code, but not everyone will escape.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435350/7e9ffdbb870bbd2e662feb5370129a3e78cfc3cb/ss_7e9ffdbb870bbd2e662feb5370129a3e78cfc3cb.1920x1080.jpg?t=1794567942",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 4515710,
-      "name": "Wisps & Wares: A Spirit of the North Idler",
-      "description": "Return to the enchanting world of Spirit of the North in a cozy shopkeeping idler. Send your Fox Guardian exploring, gather treasures, stock the Raccoon’s traveling shop, and journey across the Northern Isles in charming pixel art.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515710/a29f64af5a2dc12be02e6e9603997dc0aefa7afa/ss_a29f64af5a2dc12be02e6e9603997dc0aefa7afa.1920x1080.jpg?t=1794493703",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5566650,
-      "name": "Poutamelo",
-      "description": "Create your own music and share your finished sheet music with the townspeople. Then, visit the local live music bar to hear them perform your songs. Help out with farming, get to know your neighbors, and create your own story in a peaceful little town in this life simulation game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566650/206506b569dd4805f406ac7dfc725e44b0eda148/ss_206506b569dd4805f406ac7dfc725e44b0eda148.1920x1080.jpg?t=1794495348",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 5
     }
   ]
 }
