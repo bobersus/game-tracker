@@ -1,6 +1,150 @@
 {
-  "checkedAt": "2026-11-19T01:03:48.256Z",
+  "checkedAt": "2026-11-19T08:39:11.635Z",
   "games": [
+    {
+      "id": 5482580,
+      "name": "Loaded Bones",
+      "description": "Loaded Bones is a poker-inspired dice roguelike where every roll can change your fate. Build powerful combinations, collect game-changing Keepsakes, unleash mystical Incantations, and chase outrageous scores as you gamble your way through a supernatural world to challenge the Devil himself.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482580/43db1213e6c02755f29c1cd278c5f980b89f3e59/ss_43db1213e6c02755f29c1cd278c5f980b89f3e59.1920x1080.jpg?t=1794801072",
+      "firstSeen": "2026-11-14T08:08:53.965Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5306870,
+      "name": "Psst!",
+      "description": "Sit down with friends, give a few hints, and try not to give your secret away. In this party game, close guesses earn you points, but an exact answer knocks you out. Play as cats across five word-game modes, online with friends or solo with bots.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306870/8ab3552d9cc83f0f6d4707d0b2186ba8d3734ec9/ss_8ab3552d9cc83f0f6d4707d0b2186ba8d3734ec9.1920x1080.jpg?t=1794624561",
+      "firstSeen": "2026-11-14T08:08:53.965Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5556560,
+      "name": "Toque: Restaurant Tycoon",
+      "description": "A restaurant tycoon where you are part of the crew. Work wherever you want, in the kitchen, at the register or on the floor, build your place yourself and pick one of four restaurant types. Grow your menu with cooks who know the dishes and rise above the city's rival restaurants.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556560/fcedb0f9c5ad8e68ac49b00e7c1bca25a929e235/ss_fcedb0f9c5ad8e68ac49b00e7c1bca25a929e235.1920x1080.jpg?t=1794843449",
+      "firstSeen": "2026-11-14T08:08:53.965Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5184310,
+      "name": "Spuskaemsa!",
+      "description": "A cooperative roguelike looter-shooter (1–4 players). Descend into the infinite Buffer, explore procedurally generated floors, scavenge for supplies, and battle its inhabitants. Rescue your comrades and upgrade your elevator. Godspeed!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184310/f5cd0cc0978dff0a7b0254ed696f3f162ef834a8/ss_f5cd0cc0978dff0a7b0254ed696f3f162ef834a8.1920x1080.jpg?t=1794633266",
+      "firstSeen": "2026-11-14T08:08:53.965Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5278260,
+      "name": "Fire Buller",
+      "description": "Throw a flaming bull from a baseball stadium as far as it goes: over the city, past the Moon and Mars, to the edge of the universe and on to 10^1000 km. Wherever it lands, it crashes and rampages. Distance times destruction buys a stronger arm and twenty wilder bulls.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5278260/4c058ebbe369ce652c16b5a792bcbbeb3533a519/ss_4c058ebbe369ce652c16b5a792bcbbeb3533a519.1920x1080.jpg?t=1794628278",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "physics",
+      "score": 9
+    },
+    {
+      "id": 5589520,
+      "name": "50 Trillion Grains Of Sand",
+      "description": "Dig through 50 trillion grains of sand in a first-person incremental digging sim. Start with a spoon, buy bigger tools, and put machines and Egyptian gods to work as you uncover a buried pyramid and discover the treasure hidden in its tomb.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5589520/2139c71f2a39b920076538503e459a14e2e0f040/ss_2139c71f2a39b920076538503e459a14e2e0f040.1920x1080.jpg?t=1794618758",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5567570,
+      "name": "Junk Mountain",
+      "description": "One wedding ring is buried in a mountain of over 30,000 pieces of junk. Dig by hand, sweep up iron with a magnet, sell it at the scale and upgrade everything — from a backyard junkyard through a scrapyard, a port and a landfill all the way to orbit, until the junkyard runs itself.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5567570/21d71ff1a840097d003f9897c47b0627fc7ac919/ss_21d71ff1a840097d003f9897c47b0627fc7ac919.1920x1080.jpg?t=1794895350",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5563250,
+      "name": "Sort The Pandas",
+      "description": "Thousands of pandas, two amazing worlds and one mission – put everything perfectly in place! Over 5,000 pandas are waiting for you in a shop full of shelves and a lush bamboo grove. Every panda you place brings you closer to perfect order. Level up your skills and see how many pandas you can sort!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563250/0a8691887d1ae4012add8f76f629b293bd9d7f90/ss_0a8691887d1ae4012add8f76f629b293bd9d7f90.1920x1080.jpg?t=1794989352",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4903220,
+      "name": "TaskBound Saga",
+      "description": "An idle JRPG that sits above your taskbar. Four heroes fight through 12 realms on their own while you use your computer. Open the chests they earn, equip the gear and upgrade your party.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903220/250161f051946e6d56961474ceb749e3f0fe39ce/ss_250161f051946e6d56961474ceb749e3f0fe39ce.1920x1080.jpg?t=1794697961",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5581820,
+      "name": "Couch Potato",
+      "description": "A collection of party games for up to sixteen people on one TV, with the phones already in your pockets as controllers. Hop on the couch, scan the code and you're in. Fight, fish, feast, hop and scrum, and unlock new weapons, arenas, pets and rods as the night goes on.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581820/60aa7de3fec43120267ad5f124e29ed1072942c4/ss_60aa7de3fec43120267ad5f124e29ed1072942c4.1920x1080.jpg?t=1794613694",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5365070,
+      "name": "Don't Burn Out!",
+      "description": "A block-pushing puzzle game in corporate hell, where you must confront your boss and escape the soul-draining workplace before you literally burn out. Solve over 100 handcrafted &amp; unique puzzles that will require you to think strategically, with each step bringing you closer to flames!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365070/5d6364385fdd6790051a2d5ccbf1fedcd9eee5a4/ss_5d6364385fdd6790051a2d5ccbf1fedcd9eee5a4.1920x1080.jpg?t=1794609233",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "physics",
+      "score": 7
+    },
+    {
+      "id": 5537980,
+      "name": "Cheese Panic",
+      "description": "An asymmetric co-op stealth action game: one player is the Cat, up to four are mice. Raid a house, a factory and a dungeon for food, distract the predator and haul the loot together before you get caught. Silly physics, proximity voice chat and random events in every match.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537980/3195594d315a8c51db0ebe7a0c46a96507f1cb11/ss_3195594d315a8c51db0ebe7a0c46a96507f1cb11.1920x1080.jpg?t=1794978173",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4704810,
+      "name": "Junebug",
+      "description": "Junebug is a cat companion and cozy building game. Create charming little spaces, make them your own, then experience what you’ve built through your cat. Explore, play, relax, and enjoy the little moments you create together.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704810/f4da6da3d0d39048ad1feff0d32f6465aed7d663/ss_f4da6da3d0d39048ad1feff0d32f6465aed7d663.1920x1080.jpg?t=1794601454",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 2846470,
+      "name": "Aposis: Infinity Hero",
+      "description": "A sci-fi roguelike RPG about an agent from the past awakened deep inside the Cradle, a colossal AI-controlled megacity.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2846470/e49ef8a0bee38670024f140f452b7f788238cd88/ss_e49ef8a0bee38670024f140f452b7f788238cd88.1920x1080.jpg?t=1794647330",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5594580,
+      "name": "Arcana Clash",
+      "description": "A 2–6 player tarot card battler. Each of the 78 cards has two faces — upright and reversed — and you choose which one to unleash every time you play. Strike, curse, or turn the whole table upside down, and outlast your rivals before the Clock of Fate swallows everyone.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5594580/cf9cfc13bec40e3a3d417461985a808a59705bd2/ss_cf9cfc13bec40e3a3d417461985a808a59705bd2.1920x1080.jpg?t=1794618287",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "party",
+      "score": 5
+    },
+    {
+      "id": 4828470,
+      "name": "Caramba Caballeros",
+      "description": "Caramba Caballeros is a first-person pirate roguelike for 1–4 players. Explore islands and hunt for treasure by day. Defend your ship from enemy waves by night. Battle other pirates in a battle royale, solo or in teams, with matchmaking and custom lobbies.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828470/97423350d9fe41fc7ea14422820810955f78830d/ss_97423350d9fe41fc7ea14422820810955f78830d.1920x1080.jpg?t=1794938591",
+      "firstSeen": "2026-11-14T01:51:49.004Z",
+      "mechanic": "party",
+      "score": 5
+    },
     {
       "id": 5473610,
       "name": "Bazaar Below Zero",
@@ -18,15 +162,6 @@
       "firstSeen": "2026-11-13T21:40:21.281Z",
       "mechanic": "party",
       "score": 10
-    },
-    {
-      "id": 5592080,
-      "name": "Bricked",
-      "description": "Bricked is a city-building sandbox set on a tabletop above the clouds. Build a toy-brick city piece by piece, set kaiju, mechs and armies against each other, and watch every strike tear it apart. Put every brick back with one click, then fly, drive and ride through the city you made.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5592080/b9cb8c2313ac9d58e85920c1068e7302e95cb151/ss_b9cb8c2313ac9d58e85920c1068e7302e95cb151.1920x1080.jpg?t=1794866264",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "simulator",
-      "score": 8
     },
     {
       "id": 5577680,
@@ -62,15 +197,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5322890/20a338562750ca943e25cfc24d0b7b5126317976/ss_20a338562750ca943e25cfc24d0b7b5126317976.1920x1080.jpg?t=1794694589",
       "firstSeen": "2026-11-13T21:40:21.281Z",
       "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5255300,
-      "name": "Rekisen TCG",
-      "description": "With its signature &quot;Rekisen Summoning&quot; system, this snappy arcade card game offers a unique experience with 80 carefully balanced cards. Play your favorite modes, earn gold, and open booster packs to collect cards and build custom decks.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5255300/3da435c0c6851bcd9f3dbfd9ccb51e85a7e093a3/ss_3da435c0c6851bcd9f3dbfd9ccb51e85a7e093a3.1920x1080.jpg?t=1794675987",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -114,15 +240,6 @@
       "name": "Bibliopyre",
       "description": "A magical storm and a goblin horde tore a million forbidden pages from the Great Library. As the Warden Mage, burn them all: sweep piles with waves of fire, send ash flying home, and hear every book chime into place to the beat of the music.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585980/e89a3a61d5dad45b16648ec605a796f0237e3288/ss_e89a3a61d5dad45b16648ec605a796f0237e3288.1920x1080.jpg?t=1794586465",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5554180,
-      "name": "BONK! The Mole Show",
-      "description": "Whack-a-Mole, but one BONK can set off the whole machine. Move the hammer, pick the column and watch Tesla moles zap, bombs blast and golden chains roar. Build a wild combo engine in a pixel-art fairground roguelite.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554180/e19c3e61c899dcbde52da58fe77e9689ec5400a0/ss_e19c3e61c899dcbde52da58fe77e9689ec5400a0.1920x1080.jpg?t=1794642090",
       "firstSeen": "2026-11-13T21:40:21.281Z",
       "mechanic": "physics",
       "score": 6
@@ -326,15 +443,6 @@
       "score": 6
     },
     {
-      "id": 5261090,
-      "name": "Best Dam Game",
-      "description": "Chew trees, throw logs, blow stuff up. Best Dam Game is co-op physics chaos for up to 4 beavers building one seriously big dam. Take the contract, beat the rising river, fire your friends out of a cannon, and hunt down some very important hats.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261090/e795cfb1d8959b038cfc377e123a8e4aeacbfe61/ss_e795cfb1d8959b038cfc377e123a8e4aeacbfe61.1920x1080.jpg?t=1794553775",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "physics",
-      "score": 10
-    },
-    {
       "id": 5582500,
       "name": "Toy or Not",
       "description": "Toy or Not ? is an online hide-and-seek party game for up to 8 players. Sneak around as a toy, collect batteries, and rescue your teammates—or play as a kid, spot suspicious toys, and send them back to the toy box. Turn an ordinary room into a playground of sneaky tricks and surprises!",
@@ -371,10 +479,19 @@
       "score": 8
     },
     {
+      "id": 5261090,
+      "name": "Best Dam Game",
+      "description": "Chew trees, throw logs, blow stuff up. Best Dam Game is co-op physics chaos for up to 4 beavers building one seriously big dam. Take the contract, beat the rising river, fire your friends out of a cannon, and hunt down some very important hats.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261090/e795cfb1d8959b038cfc377e123a8e4aeacbfe61/ss_e795cfb1d8959b038cfc377e123a8e4aeacbfe61.1920x1080.jpg?t=1794553775",
+      "firstSeen": "2026-11-13T07:23:33.760Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
       "id": 5108820,
       "name": "Explosive Express",
       "description": "Explosive Express is a chaotic 1–4 player co-op physics game where tiny workers transport unstable bombs through a giant world. Work together, load the van, survive the hazards, and get the bomb home before time runs out.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5108820/1870ebda734fc876a83d329162d2c4575757dbd4/ss_1870ebda734fc876a83d329162d2c4575757dbd4.1920x1080.jpg?t=1794530918",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5108820/1870ebda734fc876a83d329162d2c4575757dbd4/ss_1870ebda734fc876a83d329162d2c4575757dbd4.1920x1080.jpg?t=1795052507",
       "firstSeen": "2026-11-13T07:23:33.760Z",
       "mechanic": "incremental",
       "score": 8
@@ -416,15 +533,6 @@
       "score": 6
     },
     {
-      "id": 5577910,
-      "name": "It's a Montage",
-      "description": "A pixel-art training game with no opponents, where every level you gain shows on your character and the world around you. Once you outgrow the dojo, you train at a waterfall, on the open sea, on the moon, on a star and at the edge of a black hole.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577910/07434c6154319594052946f78d5afdf8b6057f66/ss_07434c6154319594052946f78d5afdf8b6057f66.1920x1080.jpg?t=1794545222",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 5560010,
       "name": "Re-Ball",
       "description": "A first-person hyper-ball fighter. Hit the ball and it's yours: it flies in your colour and knocks out anyone it touches. Every hit makes it faster. One hit and you're out. Time a PERFECT swing, steal a parry, and send your friends back to the lobby.",
@@ -432,114 +540,6 @@
       "firstSeen": "2026-11-13T07:23:33.760Z",
       "mechanic": "party",
       "score": 5
-    },
-    {
-      "id": 5578510,
-      "name": "Make It Burn",
-      "description": "A first-person incremental game about throwing gems into a hole. Press the buzzer, push the gems into the fire and buy machines to burn more and more. Bring the gem count on the wall down to zero to open the next room.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578510/96f37e419cf1bcaf1b8bfd1e02cac1adb80b76ff/ss_96f37e419cf1bcaf1b8bfd1e02cac1adb80b76ff.1920x1080.jpg?t=1794613761",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5577380,
-      "name": "Build to Survive",
-      "description": "Build a car, launch it down a mountain road and let physics decide. No steering, no second chances: pick the body, engine, suspension and tyres, then watch your machine fly, crash and fall apart. Beat gold times in Challenges or race two cars side by side in Free Drive.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577380/2f5a19896626b073ee40764191f79ac8f344591b/ss_2f5a19896626b073ee40764191f79ac8f344591b.1920x1080.jpg?t=1794522799",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5373730,
-      "name": "Nameless Fate",
-      "description": "Follow a bamboo path into a shared temple. Sweep leaves, meditate, strike a wooden fish, or count prayer beads. Earn incense and wish slips through practice, then light a stick or write a wish by hand as other players pass through the courtyard.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5373730/ba01925fd9660ce41146b8f21e2e37492bf1b11d/ss_ba01925fd9660ce41146b8f21e2e37492bf1b11d.1920x1080.jpg?t=1794521426",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5066430,
-      "name": "Sun Smith",
-      "description": "Help an ancient derelict repair itself. Harvest power, mine ore, fabricate components, clone colonists, and research technologies.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5066430/ddd14416357e2c4951a1aaa6baa9861f148d121c/ss_ddd14416357e2c4951a1aaa6baa9861f148d121c.1920x1080.jpg?t=1794586362",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5545970,
-      "name": "Guildlands",
-      "description": "Forge, fight and trade, together. A multiplayer idle RPG that lives on your taskbar: your hero fights, mines and fishes while you work, and every piece of gear you forge shows on them. Free to play, in a shared world where players set every price.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545970/5b7601127e554096567e0efc8f9356125a3c34a0/ss_5b7601127e554096567e0efc8f9356125a3c34a0.1920x1080.jpg?t=1795010936",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5528880,
-      "name": "Pawlifters!",
-      "description": "A 2–6 player party heist game, local or online. Cute animal thieves hide in plain sight: grab the loot and blend into the crowd. Or become the guard and whack your friends with a baton — just don’t mix them up with the visitors!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5528880/59539c996fe6f1472b0ee313a988b8b578036ae2/ss_59539c996fe6f1472b0ee313a988b8b578036ae2.1920x1080.jpg?t=1795017850",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5475360,
-      "name": "Musicality",
-      "description": "A cozy co-op music toy. Plug synths, drums and pedals together in your own little home, record takes for the neighbours, and jam with friends over Steam.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475360/f86eb6768bf5ca6e68fc338f59db7f8e8b4b6217/ss_f86eb6768bf5ca6e68fc338f59db7f8e8b4b6217.1920x1080.jpg?t=1794755223",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5170940,
-      "name": "Street Football: Foul Play",
-      "description": "Play football with no rules, solo or with up to 4 friends in local or online co-op. Customize the weather and disasters, unleash brutal tackles and super shots on your rivals, and turn every match into total chaos!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5170940/8d257008630b07ad8a9c8481682cf29599fe941e/ss_8d257008630b07ad8a9c8481682cf29599fe941e.1920x1080.jpg?t=1794574273",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 4309200,
-      "name": "Inside the Samosbor",
-      "description": "A first-person co-op horror game for 1–4 players set in the world of Samosbor. Explore contaminated residential blocks, find a way out, and evade monsters and anomalies. Beware of liquidators who may mistake you for the infected. Get out alive.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4309200/124d032a4979f853920b21c6fa6d99e1f0f21eac/ss_124d032a4979f853920b21c6fa6d99e1f0f21eac.1920x1080.jpg?t=1794654081",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 4254260,
-      "name": "Corner Quest",
-      "description": "An idle auto-battler in the corner of your screen. Your Mage fights on her own while you work. Choose her Spells, reshape them with Forms and Runes, and fight through 50+ waves in 15 Biomes.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4254260/0fe02c03e0a672a232576d5dfd5a2b176c78262b/ss_0fe02c03e0a672a232576d5dfd5a2b176c78262b.1920x1080.jpg?t=1794685414",
-      "firstSeen": "2026-11-13T00:43:33.020Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5582900,
-      "name": "One More Potato",
-      "description": "One More Potato is a cozy organizing simulator where you sort over 2,000 potatoes into their correct places across a countryside farm. Pick up potatoes, complete collections, unlock helpful upgrades, and turn a messy farm into a perfectly organized potato paradise, solo or with friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582900/3553daeb19ec446eebd9045d0bf87ee724abb171/ss_3553daeb19ec446eebd9045d0bf87ee724abb171.1920x1080.jpg?t=1794584328",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5520870,
-      "name": "Carrot Planet",
-      "description": "Cozy co-op incremental automation life sim for 1-8 players. Harvest an entire planet of carrots to feed the Bunny Mothership. Pick carrots, drive vehicles, automate everything, and befriend the locals. Build a massive carrot empire together!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5520870/7bdd36017c4d6bf6a9c3af62c90f326a9bd1b817/ss_7bdd36017c4d6bf6a9c3af62c90f326a9bd1b817.1920x1080.jpg?t=1795007159",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 10
     }
   ]
 }
