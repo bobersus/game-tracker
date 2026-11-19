@@ -1,6 +1,123 @@
 {
-  "checkedAt": "2026-11-19T17:42:52.877Z",
+  "checkedAt": "2026-11-19T23:53:50.423Z",
   "games": [
+    {
+      "id": 4870120,
+      "name": "You Got Me Killed!",
+      "description": "Two players share one body: one controls the legs, the other the arms. Survive endless monster hordes, evolve your skills, summon bosses and blame each other for every death in this co-op roguelite bullet heaven.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870120/e9b730c526db5437f212abf50885c1313413b305/ss_e9b730c526db5437f212abf50885c1313413b305.1920x1080.jpg?t=1794731121",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 3369910,
+      "name": "Drunk Golf",
+      "description": "Drunk Golf is a 1-8 player multiplayer game where the more drunk you are -&gt; the further you shoot, but it also makes you wobblier. Master the physics-based swings, race &amp; drift across multiple courses, customize your look and mess with friends on the way to the lowest score.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3369910/803b788c24e9e17b37adfb330d2f6dec7fd676b5/ss_803b788c24e9e17b37adfb330d2f6dec7fd676b5.1920x1080.jpg?t=1794710021",
+      "firstSeen": "2026-11-15T03:09:42.094Z",
+      "mechanic": "physics",
+      "score": 9
+    },
+    {
+      "id": 5596070,
+      "name": "One More Jackpot!",
+      "description": "Your arcade is dying. Nobody comes in. So you play every machine yourself. An active arcade incremental: smash, upgrade, wire it up, hit the JACKPOT!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596070/5202deb67c7c9203f97491c57e9650b58141386e/ss_5202deb67c7c9203f97491c57e9650b58141386e.1920x1080.jpg?t=1795103172",
+      "firstSeen": "2026-11-15T03:09:42.094Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5485990,
+      "name": "Your \"Thing\"",
+      "description": "Finally, you can grow your own little thing. Water it, feed it, and experiment with your technique to shape how it grows. Every mushroom has its own size, patterns, and quirks. It lives right on your desktop, reacts to your touch, and sometimes gets up to mischief. How big will yours get?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5485990/7ac4f34b4e6abc597c164d002d74f9da328e0c6c/ss_7ac4f34b4e6abc597c164d002d74f9da328e0c6c.1920x1080.jpg?t=1794708394",
+      "firstSeen": "2026-11-15T03:09:42.094Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5384360,
+      "name": "Buzzwire",
+      "description": "Host your own buzz-in quiz show. Run it from your PC, put the board on your stream or Discord, and friends buzz in from their phones with a 6-letter room code. Or hand out controllers and play on one TV.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5384360/616b16d0eca8ce19fc6538ca4ec55a161f5e6d80/ss_616b16d0eca8ce19fc6538ca4ec55a161f5e6d80.1920x1080.jpg?t=1794710257",
+      "firstSeen": "2026-11-15T03:09:42.094Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 2921670,
+      "name": "Cultivation Realm: Card Survival",
+      "description": "Cultivation Realm: Card Survival is a cultivation survival game built around card-based interactions. Trapped in a mysterious realm that drains your lifespan but brims with spirit power, you must cultivate, survive, fight, and find a way to escape.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2921670/6e7fdf7525d77e9fa4bc3c4adb47ef68441ce9e5/ss_6e7fdf7525d77e9fa4bc3c4adb47ef68441ce9e5.1920x1080.jpg?t=1794906873",
+      "firstSeen": "2026-11-15T03:09:42.094Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 4574740,
+      "name": "The Last Grave Job",
+      "description": "Online co-op horror for up to 4 players. Sneak into a cemetery at night, find the right graves, dig up the loot and haul it back to your wheelbarrow. Stay quiet, avoid the Keeper and get out alive.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574740/89e89ac0370e8cfbeca8353ebe1948fbf9ec896b/ss_89e89ac0370e8cfbeca8353ebe1948fbf9ec896b.1920x1080.jpg?t=1794694852",
+      "firstSeen": "2026-11-14T23:49:06.030Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5575920,
+      "name": "One More Pop",
+      "description": "A cozy first-person incremental game about popping one million balloons. Shoot pins across a sunny meadow, chain combos and lightning, grow a constellation of 50 upgrades and watch the sky turn from sunrise to a starry night.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5575920/e57a02868f7c2e5b1f70c7c010607b728d6f818f/ss_e57a02868f7c2e5b1f70c7c010607b728d6f818f.1920x1080.jpg?t=1794947140",
+      "firstSeen": "2026-11-14T23:49:06.030Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5487890,
+      "name": "Golf Sim Sim",
+      "description": "Start with a bedsheet, a bargain-bin launch monitor, and a dream. Beat 40 arcade golf challenges, earn cash, and install 20 upgrades as you turn a janky garage setup into the ultimate home golf simulator.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5487890/f1b41029b0d9e18ed189997b9b7ba0090b1f5163/ss_f1b41029b0d9e18ed189997b9b7ba0090b1f5163.1920x1080.jpg?t=1794692141",
+      "firstSeen": "2026-11-14T23:49:06.030Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5235520,
+      "name": "How to Hunt",
+      "description": "A 1-4 player physics based hunting simulator. You and your friends crash your boat while on vacation. You must survive till you find a way back home.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235520/3a3a8ee0184baa114f68e5d85e15505e48328a11/ss_3a3a8ee0184baa114f68e5d85e15505e48328a11.1920x1080.jpg?t=1794974768",
+      "firstSeen": "2026-11-14T23:49:06.030Z",
+      "mechanic": "physics",
+      "score": 7
+    },
+    {
+      "id": 5561760,
+      "name": "Astral Wizards",
+      "description": "Pick a wizard, walk into the swarm and let your spells fire on their own. A neon pixel-art bullet heaven with 30 worlds across 3 galaxies, laws that bend the rules, ENDLESS boss marathons and 13 wizards to master. Evolve 24 weapons into screen-filling light shows. No ads, no microtransactions.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561760/1ea07b07fff9aad7207004f3577e5d94a493dd97/ss_1ea07b07fff9aad7207004f3577e5d94a493dd97.1920x1080.jpg?t=1794693953",
+      "firstSeen": "2026-11-14T23:49:06.030Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5015000,
+      "name": "Crafty Idle",
+      "description": "Crafty Idle is a Minecraft inspired idle RPG where every skill strengthens the rest. Mine and craft your way to the strongest gear, take down monsters that each have their own weakness to exploit, and optimize your farming by chasing down the best genes. Progress never stops, even offline.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015000/45d96dbcef84bea77e91f998f8ad68ba133aca58/ss_45d96dbcef84bea77e91f998f8ad68ba133aca58.1920x1080.jpg?t=1794698498",
+      "firstSeen": "2026-11-14T23:49:06.030Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5540280,
+      "name": "Caldera County",
+      "description": "Your callsign is Air Attack 51. Circling overhead, your job is to call in aerial drops and direct ground crews against a fire that spreads with the wind, terrain and fuel. You must hold the line and protect every structure you can, but keeping people safe (including your units) is top priority.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540280/af6384fcb80a0f94e6058553192e6360a0f974e3/ss_af6384fcb80a0f94e6058553192e6360a0f974e3.1920x1080.jpg?t=1795122486",
+      "firstSeen": "2026-11-14T23:49:06.030Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
     {
       "id": 4825930,
       "name": "Cozy Corner Cafe",
@@ -18,6 +135,15 @@
       "firstSeen": "2026-11-14T19:57:24.496Z",
       "mechanic": "incremental",
       "score": 8
+    },
+    {
+      "id": 5415730,
+      "name": "Note Defender: A Sight Reading Arcade",
+      "description": "Memorize the notes on the treble and bass staffs as well as 9 ledger lines above and below them. This covers every key of a standard 88 key piano and most instruments.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5415730/5fcf4a8a3137a26904e81ee6a1894c2ceecd21cc/ss_5fcf4a8a3137a26904e81ee6a1894c2ceecd21cc.1920x1080.jpg?t=1794679470",
+      "firstSeen": "2026-11-14T19:57:24.496Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 4566900,
@@ -414,132 +540,6 @@
       "firstSeen": "2026-11-13T21:40:21.281Z",
       "mechanic": "incremental",
       "score": 5
-    },
-    {
-      "id": 5303530,
-      "name": "Fleshwounds & Feathers",
-      "description": "Enter a world of bird wielding knights! Fight your friends in this online, PvP, free for all, deathmatch, arena shooter. Explore the map, find new goofy weapons to help defeat your friends. You set the playtime and score to beat. Enjoy all this along with game adaptive medieval drum and bass!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303530/c4c5b87417b090d82d1558cb14d7d176c8650c1d/ss_c4c5b87417b090d82d1558cb14d7d176c8650c1d.1920x1080.jpg?t=1794598946",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 5583880,
-      "name": "Cartastrophe",
-      "description": "CARTASTROPHE is a party game for 1–4 players, streamed live as the internet's most exciting death game. Crash, shoot and stab your way through minigames for likes, and survive the Final Showdown to walk out famous.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5583880/25deb64b6ab9a17310a30f5fa1dca1b9cc18f68f/ss_25deb64b6ab9a17310a30f5fa1dca1b9cc18f68f.1920x1080.jpg?t=1794783281",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5424320,
-      "name": "Magnet Fishing Together",
-      "description": "A cozy co-op game about magnet fishing with up to 4 friends. Throw, pull and hope for something good. Sometimes it’s a rusty spoon. Sometimes it’s a scooter you can ride. And sometimes your friend lets go of the rope at the worst possible moment.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5424320/ff947784f7b0b04b5fa6f38b9c9b81720684a2dd/ss_ff947784f7b0b04b5fa6f38b9c9b81720684a2dd.1920x1080.jpg?t=1794582866",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5584840,
-      "name": "Sort the Bazaar",
-      "description": "Sort The Bazaar is a cozy organizing simulator where you sort a variety of items and bring life and color back to a faded roadside market. Unlock new skills, automate tasks, and enjoy the satisfying process of turning a dull, messy bazaar into a vibrant, organized marketplace at your own pace.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584840/fc08bec2e17578ed0a03ea956b0cffaa3478215f/ss_fc08bec2e17578ed0a03ea956b0cffaa3478215f.1920x1080.jpg?t=1794581085",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5557460,
-      "name": "One More Asteroid",
-      "description": "Drill voxel asteroids apart in an incremental mining game. Grow from one drill to a swarm of drones that mine where you aim. Unlock powerful tools, crack the core and watch the asteroid collapse. Then take on the next, stranger rock.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557460/a3a710272dc796f95f9f59ed335cad0887064617/ss_a3a710272dc796f95f9f59ed335cad0887064617.1920x1080.jpg?t=1794842836",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5497470,
-      "name": "Social Net",
-      "description": "Incremental fishing in reverse: a fish catches people with money. Throw your net into the crowd, yank sunbathers out with the rod, hand in the catch, unlock the skill tree and new places - from a sunny beach to an icy bay and an ocean liner.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5497470/12c0b7e51342d28b7699887810b0203d99887f1d/ss_12c0b7e51342d28b7699887810b0203d99887f1d.1920x1080.jpg?t=1794561307",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5400290,
-      "name": "GUTTERGLOW",
-      "description": "A bowling roguelike with real pin physics. Aim and throw, score points for every pin that falls, and build your ball with pins, tricks and upgrades until one throw multiplies into a huge score. Ten levels, twelve bosses that change the lane, three modes.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5400290/4a34b1a897c4d51ddfd71e337005365b0c047d8b/ss_4a34b1a897c4d51ddfd71e337005365b0c047d8b.1920x1080.jpg?t=1794575641",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5282710,
-      "name": "Quiet Bloom",
-      "description": "Quiet Bloom is a cozy idle game. Awaken the wind, dig wells, and call the rain to tend your land for you. Gather wood, stone, and water, raise wind vanes and solar panels, and watch a cracked desert slowly bloom into a luxuriant green oasis.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282710/33e31be16bb2a1406c9ed3bd5fe05b88d1cd56ac/ss_33e31be16bb2a1406c9ed3bd5fe05b88d1cd56ac.1920x1080.jpg?t=1794950915",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4939790,
-      "name": "Loss Prevention: Prologue",
-      "description": "Loss Prevention is a social deduction game where you can shoplift your local grocery store with up to five friends. Experience the joy of petty crime as a shoplifter, or keep your eyes peeled for suspicious activity as the shopkeeper. Can you grab all the items on the shopping list?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939790/ffcb87f8de6d95a79730feb77d450d623f0ec549/ss_ffcb87f8de6d95a79730feb77d450d623f0ec549.1920x1080.jpg?t=1794561313",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4725930,
-      "name": "Idle Tides",
-      "description": "Idle Tides is an idle incremental where your goal is simple: Catch as many fish as you can. Unlock new boats to automate your fishing, upgrade your fleet, and help the island with this fish overpopulation!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725930/4134b36948e94da456b7a3e260c250e6b884e104/ss_4134b36948e94da456b7a3e260c250e6b884e104.1920x1080.jpg?t=1794578371",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4605420,
-      "name": "Orca Girl: Idle Fishing Story",
-      "description": "Enjoy idle fishing with your orca girl companion. Grow crops, craft bait, and collect rare and exotic fish. Decorate your own pixel aquarium and build a cozy desktop island. Play solo or enjoy relaxing fishing trips with friends in multiplayer for up to 8 players.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605420/ff799333e5f4333d80a53f65a935dbf102cb6316/ss_ff799333e5f4333d80a53f65a935dbf102cb6316.1920x1080.jpg?t=1794556307",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 3943450,
-      "name": "Island Keeper",
-      "description": "Island Keeper is a cozy exploration and restoration adventure. As maintenance robot Ferrum-1, clean up a polluted archipelago, recycle rubbish into gear and stations, and watch every island turn green again as wildlife returns.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3943450/1a40eadc6cb1be8346dc221004ca85a590c0d3d8/ss_1a40eadc6cb1be8346dc221004ca85a590c0d3d8.1920x1080.jpg?t=1794827484",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 3058500,
-      "name": "Cucumber",
-      "description": "One cucumber. One space bar. Suddenly, a collection. Make your cucumber jump, collect designs through activity in the game, combine cucumbers through crafting and display your favourites. A free meme game with optional cosmetic shop items.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058500/40bc7d6ad3276bf7fd456961bf1c5c609badabd1/ss_40bc7d6ad3276bf7fd456961bf1c5c609badabd1.1920x1080.jpg?t=1794579492",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5572530,
-      "name": "Tinsel Tumble",
-      "description": "A cozy Holiday falling-block puzzle game. Drop pairs of elves and presents into the well, land an elf beside presents of its color to wrap the lot, and set off chain reactions. Story, Endless, 50 Challenges, Daily, an Advent calendar, and couch Versus and Battle mode for up to 4 players.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5572530/ee7a3ff304e286baa11e26d60a2716d810b9cc41/ss_ee7a3ff304e286baa11e26d60a2716d810b9cc41.1920x1080.jpg?t=1794562000",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "party",
-      "score": 6
     }
   ]
 }
