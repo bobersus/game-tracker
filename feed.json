@@ -1,6 +1,78 @@
 {
-  "checkedAt": "2026-11-18T18:53:40.876Z",
+  "checkedAt": "2026-11-19T01:03:48.256Z",
   "games": [
+    {
+      "id": 5473610,
+      "name": "Bazaar Below Zero",
+      "description": "Don Morsa has kidnapped you. Time to get to work! Mine ice, uncover frozen items and sell them to seals in this incremental co-op game for 1–4 players. Organize your bazaar, upgrade your tools and hire penguins. Explore the glacier’s secrets as you plot your escape.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5473610/80b636e6673d24b4c50df57d23745f617b17c5b3/ss_80b636e6673d24b4c50df57d23745f617b17c5b3.1920x1080.jpg?t=1794617226",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "incremental",
+      "score": 10
+    },
+    {
+      "id": 5471930,
+      "name": "Sunbed Simulator",
+      "description": "Take over an unlicensed beach with a few sunbeds and become king of the coast! In this first-person business sim, serve guests, hire staff and grow your resort – solo or in online co-op with friends. Bribe the police and sabotage the hotel next door. On this beach, you make the rules!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5471930/71b30f66c10e36379b4896961668495bf71a3c6d/ss_71b30f66c10e36379b4896961668495bf71a3c6d.1920x1080.jpg?t=1794587018",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5592080,
+      "name": "Bricked",
+      "description": "Bricked is a city-building sandbox set on a tabletop above the clouds. Build a toy-brick city piece by piece, set kaiju, mechs and armies against each other, and watch every strike tear it apart. Put every brick back with one click, then fly, drive and ride through the city you made.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5592080/b9cb8c2313ac9d58e85920c1068e7302e95cb151/ss_b9cb8c2313ac9d58e85920c1068e7302e95cb151.1920x1080.jpg?t=1794866264",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5577680,
+      "name": "Greed, the dice game",
+      "description": "One more roll could change everything. Play with up to three friends or take on bots in a dice game of risky choices, devilish bargains, and playful table mischief. Bank your points, push your luck, and make the table your own.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577680/15901c899da486355366263c7d7487c76511380d/ss_15901c899da486355366263c7d7487c76511380d.1920x1080.jpg?t=1794671986",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5573530,
+      "name": "GermShake",
+      "description": "A pixel-art roguelike where you play a germ spreading through Shake City one handshake at a time. Mutate, dodge the immune system, and survive the sink.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5573530/2b91a633a422aff43d73996a8c6117b8b91df758/ss_2b91a633a422aff43d73996a8c6117b8b91df758.1920x1080.jpg?t=1794595254",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5445800,
+      "name": "Jingle Janitor",
+      "description": "Your first night as Santa's janitor, and the elves partied all night. Sort a gloriously messy workshop until every toy part sits on its shelf, learn handy magic, cheer up the elves and save Christmas. Cozy first-person tidying, alone or with a friend on the couch.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5445800/0334976eaa7a4efaf0dd38e5405645d8a0a8abe0/ss_0334976eaa7a4efaf0dd38e5405645d8a0a8abe0.1920x1080.jpg?t=1794613175",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5322890,
+      "name": "Tiny Crimes",
+      "description": "Who needs money when you can sneak your way into anywhere? Team up with your fellow rats, explore different stores, grab all the supplies, and fulfill your community’s peculiar requests… But watch out! Things can get out of paw pretty quickly.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5322890/20a338562750ca943e25cfc24d0b7b5126317976/ss_20a338562750ca943e25cfc24d0b7b5126317976.1920x1080.jpg?t=1794694589",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5255300,
+      "name": "Rekisen TCG",
+      "description": "With its signature &quot;Rekisen Summoning&quot; system, this snappy arcade card game offers a unique experience with 80 carefully balanced cards. Play your favorite modes, earn gold, and open booster packs to collect cards and build custom decks.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5255300/3da435c0c6851bcd9f3dbfd9ccb51e85a7e093a3/ss_3da435c0c6851bcd9f3dbfd9ccb51e85a7e093a3.1920x1080.jpg?t=1794675987",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
     {
       "id": 5208040,
       "name": "Multi Purpose Wheel Incremental",
@@ -9,6 +81,60 @@
       "firstSeen": "2026-11-13T21:40:21.281Z",
       "mechanic": "incremental",
       "score": 8
+    },
+    {
+      "id": 5586420,
+      "name": "POKUS",
+      "description": "Sling spells and shatter friendships in a chaotic wizard tavern. In this online card battler for 2-6 player, play as petty mages whose hexes hilariously backfire. Break fragile alliances and haunt your friends from the grave in frantic 15-minute bouts of magical mayhem.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586420/4e10167b7eacd946cd32afdd317d20ea3e11d1e2/ss_4e10167b7eacd946cd32afdd317d20ea3e11d1e2.1920x1080.jpg?t=1794592528",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5570280,
+      "name": "Default Zombie Shooter",
+      "description": "You and your team woke up in a ruined city. Hordes of zombies roam the streets. There will be no answers. Grab a gun and shoot!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570280/90e46b02dcc1cb93f7ebd507e8b388ed11727a58/ss_90e46b02dcc1cb93f7ebd507e8b388ed11727a58.1920x1080.jpg?t=1794589437",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5568580,
+      "name": "Kixball",
+      "description": "Kixball is top-down physics football where you are one player on the pitch. No animations, no auto-aim: just you, the ball and the walls. Train, earn transfer offers and rise from the lowest division in your career, or play with up to 3 friends on one screen.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568580/cafb217799c757fb6c5e73f527d8e421d68f3672/ss_cafb217799c757fb6c5e73f527d8e421d68f3672.1920x1080.jpg?t=1794585101",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "physics",
+      "score": 7
+    },
+    {
+      "id": 5585980,
+      "name": "Bibliopyre",
+      "description": "A magical storm and a goblin horde tore a million forbidden pages from the Great Library. As the Warden Mage, burn them all: sweep piles with waves of fire, send ash flying home, and hear every book chime into place to the beat of the music.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585980/e89a3a61d5dad45b16648ec605a796f0237e3288/ss_e89a3a61d5dad45b16648ec605a796f0237e3288.1920x1080.jpg?t=1794586465",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5554180,
+      "name": "BONK! The Mole Show",
+      "description": "Whack-a-Mole, but one BONK can set off the whole machine. Move the hammer, pick the column and watch Tesla moles zap, bombs blast and golden chains roar. Build a wild combo engine in a pixel-art fairground roguelite.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554180/e19c3e61c899dcbde52da58fe77e9689ec5400a0/ss_e19c3e61c899dcbde52da58fe77e9689ec5400a0.1920x1080.jpg?t=1794642090",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5510000,
+      "name": "Before We Sink",
+      "description": "Your island is sinking and the sea rises every minute. Gather wood, patch a wrecked boat and escape before the water swallows everything. Explore cursed islands, fight pirates and skeletons, and sail a galleon through storms, alone or in co-op for up to 5 players.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510000/1a022780a664247c717b5a2974ab7e45d4a889f9/ss_1a022780a664247c717b5a2974ab7e45d4a889f9.1920x1080.jpg?t=1794595562",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "incremental",
+      "score": 6
     },
     {
       "id": 5191290,
@@ -27,6 +153,24 @@
       "firstSeen": "2026-11-13T21:40:21.281Z",
       "mechanic": "incremental",
       "score": 6
+    },
+    {
+      "id": 5578780,
+      "name": "DYNASTY: Silk & Blood",
+      "description": "1980. You have $5 million and a family name. Build companies, conquer markets, marry, raise your heirs. Rival dynasties never rest and the world never waits. You will die. Your dynasty must not.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578780/4dfba1bda5ba30f31bfa3e83827481c7e6613783/ss_4dfba1bda5ba30f31bfa3e83827481c7e6613783.1920x1080.jpg?t=1794604781",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5303530,
+      "name": "Fleshwounds & Feathers",
+      "description": "Enter a world of bird wielding knights! Fight your friends in this online, PvP, free for all, deathmatch, arena shooter. Explore the map, find new goofy weapons to help defeat your friends. You set the playtime and score to beat. Enjoy all this along with game adaptive medieval drum and bass!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303530/c4c5b87417b090d82d1558cb14d7d176c8650c1d/ss_c4c5b87417b090d82d1558cb14d7d176c8650c1d.1920x1080.jpg?t=1794598946",
+      "firstSeen": "2026-11-13T21:40:21.281Z",
+      "mechanic": "party",
+      "score": 5
     },
     {
       "id": 5585990,
@@ -71,15 +215,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557460/a3a710272dc796f95f9f59ed335cad0887064617/ss_a3a710272dc796f95f9f59ed335cad0887064617.1920x1080.jpg?t=1794842836",
       "firstSeen": "2026-11-13T15:38:34.837Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5537680,
-      "name": "Capture the Flag: Arcade Car Battles",
-      "description": "Grab the flag and don't let go! Fast arcade car battles in a roaring stadium: campaign, 6-car free-for-all, 4v4 teams and Bring It Home goals, offline vs AI or online with friends. Boost, bump, dodge TNT and collect 15 cars. No ads.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537680/7c56f1b5a61f3d05c9afe1923aeaae856aa8e071/ss_7c56f1b5a61f3d05c9afe1923aeaae856aa8e071.1920x1080.jpg?t=1794575897",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "party",
       "score": 8
     },
     {
@@ -248,7 +383,7 @@
       "id": 4174850,
       "name": "Friendgeist",
       "description": "An online co-op horror comedy for up to 5 players. You wake up trapped in a house haunted by the Friendgeist, a spirit that takes the shape of a friend to deceive and possess you. Find the way out. If one of you gets possessed, exorcise them before it's too late. Or escape, if they let you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174850/b9786c0f50230ff3cca79d27a9f28a765dc933b4/ss_b9786c0f50230ff3cca79d27a9f28a765dc933b4.1920x1080.jpg?t=1794954999",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174850/b9786c0f50230ff3cca79d27a9f28a765dc933b4/ss_b9786c0f50230ff3cca79d27a9f28a765dc933b4.1920x1080.jpg?t=1795049566",
       "firstSeen": "2026-11-13T07:23:33.760Z",
       "mechanic": "party",
       "score": 8
@@ -405,141 +540,6 @@
       "firstSeen": "2026-11-12T19:49:27.114Z",
       "mechanic": "incremental",
       "score": 10
-    },
-    {
-      "id": 4770490,
-      "name": "Luck and Raid",
-      "description": "A 1–4 player online co-op, top-down action RPG/roguelike where luck is everything. You're fluffy, and you're adorable. Earn money and get stronger. Running low on cash? Try gambling! Lost it all? Just borrow some from a friend. Your friend is broke too? Congratulations! Now the real co-op begins.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770490/98502d1f7a430980a214780287feb64815bf068c/ss_98502d1f7a430980a214780287feb64815bf068c.1920x1080.jpg?t=1794490958",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "physics",
-      "score": 10
-    },
-    {
-      "id": 1225770,
-      "name": "Sorted by Christmas",
-      "description": "It’s almost Christmas and there’s a mountain of 100,000 presents still to sort. Round up your Gonk Squad for first-person co-op chaos with vacuums, black holes and Festive Dynamite. Up to 8 players, or solo.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225770/870ccd6df68254e0714f36c9da26e2a7e8fbead7/ss_870ccd6df68254e0714f36c9da26e2a7e8fbead7.1920x1080.jpg?t=1794933491",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5577540,
-      "name": "Overcharge",
-      "description": "Overcharge is a chaotic 2-4 player co-op platformer where holding the Energy Core for too long gets your team wiped. Catch and pass the core as you run, jump, and dodge through deadly obstacle courses. Climb the Ascension spires, overcome the Gauntlet, or build your own maps in Creative mode.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577540/1b03c79d0c90da4aec68a28025f4b18cc4d0c127/ss_1b03c79d0c90da4aec68a28025f4b18cc4d0c127.1920x1080.jpg?t=1795011877",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
-      "id": 5579170,
-      "name": "Starfuse",
-      "description": "A cozy fireworks incremental where your upgrade tree is the night sky. Set your Shell Rack, pop drifting wish lanterns and chain bursts that relight the stars. Every place adds its own rule and a new toy, from lighthouse beams to storm clouds, until you can rekindle the dead Sun.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5579170/ef1ff87b514e8f7ecb6d2b09511e33f49a89a258/ss_ef1ff87b514e8f7ecb6d2b09511e33f49a89a258.1920x1080.jpg?t=1794971939",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5578120,
-      "name": "Saw Down",
-      "description": "Turn a tiny robot with a saw into a machine that grinds through mountains of scrap. Gather resources, choose your upgrades, and unleash explosions, flying sawblades, and chain lightning. Grow stronger with every haul and cut your way deeper.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578120/9a92a07a1012a6b2e0cd3515b35423f92a2a7cdd/ss_9a92a07a1012a6b2e0cd3515b35423f92a2a7cdd.1920x1080.jpg?t=1794577467",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5575420,
-      "name": "Put Out The Sun",
-      "description": "Put Out The Sun is a co-op incremental game about one ridiculous job: extinguishing a star. Spit, spray and haul water as a crew of four-armed aliens, mine ice, build conveyor lines and turrets, and automate everything until the Sun finally goes dark. Play solo or with up to 6 friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5575420/ab09d2f088675e7749a2655e830dfc0d75901e79/ss_ab09d2f088675e7749a2655e830dfc0d75901e79.1920x1080.jpg?t=1794641629",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5566820,
-      "name": "Apartment Empire",
-      "description": "Build your own apartment empire, one floor at a time. Design flats, collect rent, manage tenants with very different needs, and try to keep everyone happy. Meet colourful characters, uncover their stories, and discover that some residents are not entirely from around here.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566820/198074ffff385ac0b5d4b0410748d62aa7e020a9/ss_198074ffff385ac0b5d4b0410748d62aa7e020a9.1920x1080.jpg?t=1794495755",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5563270,
-      "name": "Fire Up the Stadium",
-      "description": "Fire Up the Stadium is an incremental restoration game where you bring a massive stadium back to its former glory. Restore faded seats, earn money, unlock powerful tools and upgrades, and build automated restoration machines. The more seats you restore, the faster and more powerful you become!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563270/87abf3f073075188ed0ca922a94358d87917bfae/ss_87abf3f073075188ed0ca922a94358d87917bfae.1920x1080.jpg?t=1794961218",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5522800,
-      "name": "Just! Yell! FireBall!",
-      "description": "Turn your voice into magic in this chaotic online PvP party game! Shout spells into your microphone, collect magic scrolls, dodge incoming attacks, and blast your rivals away in colorful arenas. Challenge friends, other players, or bots!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5522800/998b30cf10e1845fc60831f64cbc97e2c380709a/ss_998b30cf10e1845fc60831f64cbc97e2c380709a.1920x1080.jpg?t=1794818638",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5518130,
-      "name": "Bakebound",
-      "description": "Bakebound is a short, active incremental game about harvesting a magical field that fights back. Sweep through living crops, dodge their attacks, and bake what you gather into recipes that make every trip stronger.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518130/098c3b76752e4255ad5ed1eba6ddb38a662d6923/ss_098c3b76752e4255ad5ed1eba6ddb38a662d6923.1920x1080.jpg?t=1794505100",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5435420,
-      "name": "Treasured Carpets",
-      "description": "Run a cozy carpet shop in an Istanbul-style bazaar. Buy rugs, wash away dirt, scrub grime, dry the fibers, and restore faded patterns. Unfold your finds for customers, match their tastes, and turn careful restoration into a thriving little showroom.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435420/1a30af3c185640c4c900a0f1ba4b08c5af1c8134/ss_1a30af3c185640c4c900a0f1ba4b08c5af1c8134.1920x1080.jpg?t=1794494793",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5408400,
-      "name": "SHOVEL BRIGADE",
-      "description": "Shovel Brigade is a free-to-play multiplayer war sandbox. Dig trenches, build bunkers, defend your camp, and survive chaotic battles with friends. Your defenses are destructible, your orders are unpredictable, and your shovel is always ready.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5408400/8f2397f336cd6eadf89aff2cb9ecda2097d5c40d/ss_8f2397f336cd6eadf89aff2cb9ecda2097d5c40d.1920x1080.jpg?t=1794753299",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5194160,
-      "name": "One Last Fish",
-      "description": "A cozy fishing idle game that sits anywhere on your desktop. Catch rare fish, buy upgrades and customize your island while you study, work or relax!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5194160/1f520e30a623348ed4a06c29412df77610acd248/ss_1f520e30a623348ed4a06c29412df77610acd248.1920x1080.jpg?t=1795000389",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5088770,
-      "name": "Arctic Shop Simulator",
-      "description": "Run a small shop at the edge of the Arctic wilderness. Ride your snowmobile into frozen regions, track and sedate wildlife, fish, survive brutal weather, and return home to sell your finds. Negotiate with customers, expand your shop, and build a thriving business in the far north.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088770/e40f478f96625f695bcb89cc6f74a245e9fa0d64/ss_e40f478f96625f695bcb89cc6f74a245e9fa0d64.1920x1080.jpg?t=1794984863",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4954850,
-      "name": "Chaos Conquest",
-      "description": "Chaos Conquest is a casual incremental auto-battler set in a fantasy world. Mine gold, grow your army from a lone soldier into a mighty battalion, and watch as your soldiers defeat hordes of quirky enemies!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954850/cbd1963b24490fa04c7e5fb2ed81f00faff8cc58/ss_cbd1963b24490fa04c7e5fb2ed81f00faff8cc58.1920x1080.jpg?t=1794507045",
-      "firstSeen": "2026-11-12T19:49:27.114Z",
-      "mechanic": "incremental",
-      "score": 8
     }
   ]
 }
