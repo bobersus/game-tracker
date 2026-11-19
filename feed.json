@@ -1,6 +1,132 @@
 {
-  "checkedAt": "2026-11-19T08:39:11.635Z",
+  "checkedAt": "2026-11-19T17:42:52.877Z",
   "games": [
+    {
+      "id": 4825930,
+      "name": "Cozy Corner Cafe",
+      "description": "Brew, upgrade, and relax! Build your dream coffee shop in Cozy Corner Cafe, a charming idle tycoon game. Automate prep stations, hire staff, handle in-store and online orders, and unlock upgrades through an extensive skill tree.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825930/334c68a5ed466b5436bb75d0d5fcb3a77ada44d5/ss_334c68a5ed466b5436bb75d0d5fcb3a77ada44d5.1920x1080.jpg?t=1794676268",
+      "firstSeen": "2026-11-14T19:57:24.496Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4434640,
+      "name": "The Long Mine",
+      "description": "An incremental mining game with fully destructible caves. Every pickaxe strike removes an actual piece of rock. Mine ores, sell them, and buy upgrades. Upgrades are not just +10% damage. Equipment and Curses change how you mine, move and explore. Combine them to create your own build.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434640/f3754aa48aa1402377f4e2a7e7131eb3faa90627/ss_f3754aa48aa1402377f4e2a7e7131eb3faa90627.1920x1080.jpg?t=1794946484",
+      "firstSeen": "2026-11-14T19:57:24.496Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4566900,
+      "name": "Those UnderHex",
+      "description": "A strategy roguelite about rebuilding the portal lands. Reveal dark hexes with beams of light and bring supplies home. Protect your workers, combine tower weapons and face successive monster waves. Each night, your people need food and shelter.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566900/c4165c80b3bec88de485106bd2e24e5931cc2cfe/ss_c4165c80b3bec88de485106bd2e24e5931cc2cfe.1920x1080.jpg?t=1794683824",
+      "firstSeen": "2026-11-14T19:57:24.496Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 1353450,
+      "name": "VoltHaven",
+      "description": "Build electric grid in small settlement. Advance from outdated generators to modern powerplants, use fossils and renewables. Accomodate growing customer base and weather changes. Farms or mines provide extra income. Map-free layout with drag-and-drop simplicity. Simulation based on european data.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1353450/41b08a08fc9702e61271957630878dfb694f0a17/ss_41b08a08fc9702e61271957630878dfb694f0a17.1920x1080.jpg?t=1794672820",
+      "firstSeen": "2026-11-14T19:57:24.496Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5585090,
+      "name": "Mine a Little",
+      "description": "Mine a Little is a fun and relaxing mining game! Control your pickaxe with your mouse, smash rocks, and collect valuable ores! Upgrade your pickaxe, break tougher rocks, and unlock new mining areas as you work your way toward becoming the ultimate miner!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585090/8bff4d738b99cffeac173f08c9c33bad28418de1/ss_8bff4d738b99cffeac173f08c9c33bad28418de1.1920x1080.jpg?t=1794901239",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5540170,
+      "name": "Idle Puzzler",
+      "description": "Puzzle shops don't run themselves. Yours will, eventually. Solve Sudoku, word locks and colour codes, hire staff who keep solving while you're away, and watch a market stall grow into something much bigger.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540170/c1db72122581fcdf0cd0e8137060baf87a4c4b2e/ss_c1db72122581fcdf0cd0e8137060baf87a4c4b2e.1920x1080.jpg?t=1794863081",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5513330,
+      "name": "Jester`s Anger",
+      "description": "A fast deckbuilding roguelike boomer shooter where your deck is your ammo. Hurl paint cards, playing cards and tarot spells to smash marble chess pieces to rubble, heal on their shards, and take revenge on The Hands - the giant chess player who ate the Jester's cake.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513330/08002e67b5eb07c17e666fa264cf64b30bc5af68/ss_08002e67b5eb07c17e666fa264cf64b30bc5af68.1920x1080.jpg?t=1794802088",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5490260,
+      "name": "Coal Rush 1990",
+      "description": "Eastern Europe, 1990s. Janusz is 21,370,000 PLN in debt, and an inherited coal mine might be his only way out! Dig for resources, hire workers, build machines, and automate production. Start with a shovel, build a mining empire, and pay off your debt before the creditors come knocking!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490260/4ce5cae5b6c14b54dc4155a056e816d9ffa63680/ss_4ce5cae5b6c14b54dc4155a056e816d9ffa63680.1920x1080.jpg?t=1794644718",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5246420,
+      "name": "Dash It!",
+      "description": "A pixel platformer about jumping and dashing. Race up to 8 players in real time, chase the world No. 1 ghost in Time Attack, clear 72 stages across 12 themes, and build and share your own maps. Hang out in the lobby, change outfits and decorate your own house.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246420/c4d657ecbe3603d82c54d0e2c2203d11dc8f6ba4/ss_c4d657ecbe3603d82c54d0e2c2203d11dc8f6ba4.1920x1080.jpg?t=1794666089",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4673010,
+      "name": "Gridbound",
+      "description": "GRIDBOUND is a co-op arcade action game on a shifting LED floor. Dodge red hazards, activate blue objectives, and reach green safe tiles. Coordinate with your teammates, react fast, and stay alive as the grid changes around you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673010/252c360b25eb01e1c591fe8f5ef03317e53e0c14/ss_252c360b25eb01e1c591fe8f5ef03317e53e0c14.1920x1080.jpg?t=1794662269",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5537570,
+      "name": "Alt-Tab Legend",
+      "description": "Ever seen that guy at the internet café running eight games at once? Your turn. Build the PC, set up the keyboard, raise a few Keysprites to mash keys for you, and open more games every night. You'll walk out of the café a winner, and there's a lot more waiting for you after that!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537570/eab5caffb5348d150853429fa53908c71362db9b/ss_eab5caffb5348d150853429fa53908c71362db9b.1920x1080.jpg?t=1794743129",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 3546980,
+      "name": "Friday at Ours",
+      "description": "Friday at Ours is a time management-adventure game about overcoming your anxiety and visiting a party you weren't invited to.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546980/a1917ba480d64faea8e7089d0036cd43983e2100/ss_a1917ba480d64faea8e7089d0036cd43983e2100.1920x1080.jpg?t=1794659619",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5589760,
+      "name": "Multi Miner Madness",
+      "description": "A mining party game for up to four players. Drill for ore, haul it up and sell it, then spend the money on bigger drills, bombs and rams. Play on one screen with friends on the couch, or online through Steam.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5589760/6a335b0cf66eb1098c9cdb96883d8c84623e4bba/ss_6a335b0cf66eb1098c9cdb96883d8c84623e4bba.1920x1080.jpg?t=1794624413",
+      "firstSeen": "2026-11-14T08:08:53.965Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5586990,
+      "name": "Boo! Boo! Train!",
+      "description": "A cozy train journey through a valley that keeps its own time. Drive slowly, pick a line at every junction, stop for the view and whistle at the neighbours. One real hour is one day in Pinewind Valley, and the season turns every week. Nothing to build, nothing to fail.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586990/79e7f584913972b280d8b61632b47d56b40a358b/ss_79e7f584913972b280d8b61632b47d56b40a358b.1920x1080.jpg?t=1794623462",
+      "firstSeen": "2026-11-14T08:08:53.965Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
     {
       "id": 5482580,
       "name": "Loaded Bones",
@@ -36,6 +162,24 @@
       "firstSeen": "2026-11-14T08:08:53.965Z",
       "mechanic": "party",
       "score": 7
+    },
+    {
+      "id": 5593910,
+      "name": "Alchemist's Codex",
+      "description": "Run a small alchemy shop and discover recipes by experiment. Grind, boil, distill and brew real ingredient properties, not fixed recipes. Take commissions, buy from the merchant, gather in your yard, and fill your Codex on the way to becoming a master alchemist.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593910/a59ab8c435836a0cf81965ef0397c929deee912c/ss_a59ab8c435836a0cf81965ef0397c929deee912c.1920x1080.jpg?t=1794672908",
+      "firstSeen": "2026-11-14T08:08:53.965Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5569910,
+      "name": "Paint the Town",
+      "description": "One morning, every color in town is gone. Grab a brush and bring it back: paint houses, cars, trees and towers until the gray city glows again. A calm, satisfying first-person incremental game — from a single brush to a paint cannon. Almost half a million square meters are waiting.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569910/7b676a58dddb9a1ba3b7c99bf963be0540becfec/ss_7b676a58dddb9a1ba3b7c99bf963be0540becfec.1920x1080.jpg?t=1794632093",
+      "firstSeen": "2026-11-14T08:08:53.965Z",
+      "mechanic": "incremental",
+      "score": 6
     },
     {
       "id": 5278260,
@@ -110,15 +254,6 @@
       "score": 6
     },
     {
-      "id": 4704810,
-      "name": "Junebug",
-      "description": "Junebug is a cat companion and cozy building game. Create charming little spaces, make them your own, then experience what you’ve built through your cat. Explore, play, relax, and enjoy the little moments you create together.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704810/f4da6da3d0d39048ad1feff0d32f6465aed7d663/ss_f4da6da3d0d39048ad1feff0d32f6465aed7d663.1920x1080.jpg?t=1794601454",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
       "id": 2846470,
       "name": "Aposis: Infinity Hero",
       "description": "A sci-fi roguelike RPG about an agent from the past awakened deep inside the Cradle, a colossal AI-controlled megacity.",
@@ -148,8 +283,8 @@
     {
       "id": 5473610,
       "name": "Bazaar Below Zero",
-      "description": "Don Morsa has kidnapped you. Time to get to work! Mine ice, uncover frozen items and sell them to seals in this incremental co-op game for 1–4 players. Organize your bazaar, upgrade your tools and hire penguins. Explore the glacier’s secrets as you plot your escape.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5473610/80b636e6673d24b4c50df57d23745f617b17c5b3/ss_80b636e6673d24b4c50df57d23745f617b17c5b3.1920x1080.jpg?t=1794617226",
+      "description": "Don Morsa has kidnapped you and put you to work digging ice to stock his bazaar. You obey… but every tunnel you dig brings you a little closer to the way out. A co-op incremental for 1–4 players: sell to seals, upgrade your tools, hire penguins and plan the great escape.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5473610/5df4e20916929e4b0fbeeb3905bfc81ec5dcd9bf/ss_5df4e20916929e4b0fbeeb3905bfc81ec5dcd9bf.1920x1080.jpg?t=1795108811",
       "firstSeen": "2026-11-13T21:40:21.281Z",
       "mechanic": "incremental",
       "score": 10
@@ -290,15 +425,6 @@
       "score": 5
     },
     {
-      "id": 5585990,
-      "name": "Car Wash Crew",
-      "description": "Run a roadside car wash solo or with up to 3 friends. Blast mud, spread foam and build new bays by hand. Customers bring cars, buses, rugs—and the occasional house. Follow their tickets, split the work and try to keep your crew out of the soap.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585990/81ba024cfb96f77a57084f48f0cfe33d619dff51/ss_81ba024cfb96f77a57084f48f0cfe33d619dff51.1920x1080.jpg?t=1794695643",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
       "id": 5583880,
       "name": "Cartastrophe",
       "description": "CARTASTROPHE is a party game for 1–4 players, streamed live as the internet's most exciting death game. Crash, shoot and stab your way through minigames for likes, and survive the Final Showdown to walk out famous.",
@@ -414,132 +540,6 @@
       "firstSeen": "2026-11-13T15:38:34.837Z",
       "mechanic": "party",
       "score": 6
-    },
-    {
-      "id": 5482850,
-      "name": "Gnomes Garden: Fairy Kingdom",
-      "description": "The Gnome Queen uncovers the history of the fairies, restores friendship, and fights an ancient darkness.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482850/409b44f555896b424192a4ee7346d0a546ac89af/ss_409b44f555896b424192a4ee7346d0a546ac89af.1920x1080.jpg?t=1794980795",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5267090,
-      "name": "Idle Raiders: Second Run",
-      "description": "Idle Raiders: Second Run is an idle RPG about a band of pixel art heroes who farm, raid and loot on their own. You build their town, pick their gear, skills and AI, and send them out farming or into more than 25 raids. Version 2.0 of the browser classic from Pit Forest, rebuilt on a new engine.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5267090/1fb451bd0d591a307a83a0fe5ea2da8b825f091f/ss_1fb451bd0d591a307a83a0fe5ea2da8b825f091f.1920x1080.jpg?t=1794793442",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4965260,
-      "name": "I just wanted a marshmallow.",
-      "description": "'I just wanted a marshmallow.' is a casual completely normal take on the arena shooter genre. Falling into the pits of despair over not having a marshmallow, you and your crew opt to take the matters into their own hands. There's not much else to say about this game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965260/e6696502f46f2393e00fd9c2433cbf2c3cabe7a1/ss_e6696502f46f2393e00fd9c2433cbf2c3cabe7a1.1920x1080.jpg?t=1794603518",
-      "firstSeen": "2026-11-13T15:38:34.837Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5582500,
-      "name": "Toy or Not",
-      "description": "Toy or Not ? is an online hide-and-seek party game for up to 8 players. Sneak around as a toy, collect batteries, and rescue your teammates—or play as a kid, spot suspicious toys, and send them back to the toy box. Turn an ordinary room into a playground of sneaky tricks and surprises!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582500/20c2a445bb54a6006c967ee362fc36f9cd0b5622/ss_20c2a445bb54a6006c967ee362fc36f9cd0b5622.1920x1080.jpg?t=1794655468",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5568730,
-      "name": "Desktop Fantasy Packs: Idle Auto Battler",
-      "description": "An idle auto-battler that lives in a small window on your desktop. Spend the gold your party earns on fantasy packs, collect hero, monster and even boss cards, and field a party of four. They fight on their own while you work. Sweep your mouse across the field to leave a trail of fire.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568730/5f2089fb5219836621f909b72c17a00350fc461f/ss_5f2089fb5219836621f909b72c17a00350fc461f.1920x1080.jpg?t=1794937503",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5518570,
-      "name": "TrapRush",
-      "description": "TrapRush is an online party platformer for 2 to 12 players. Each round, everyone places one item on the same course: a bridge, a spring, or a saw hidden under it. Then you all race to the flag at once. Make it while your friends don't, and you score.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518570/073d68515b24ca982d451ff5675ad6697e46089b/ss_073d68515b24ca982d451ff5675ad6697e46089b.1920x1080.jpg?t=1794536928",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5435110,
-      "name": "$1 Pizza Slice",
-      "description": "Run a cozy New York pizza shop where every slice costs $1. Roll dough, prepare toppings, bake and cut pizzas, then serve hungry neighbors. Shop for ingredients, upgrade your kitchen, share leftovers, and chip away at your debt one slice at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435110/1b566c72be255a7d74f66a55736b76c66433887d/ss_1b566c72be255a7d74f66a55736b76c66433887d.1920x1080.jpg?t=1794717875",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5261090,
-      "name": "Best Dam Game",
-      "description": "Chew trees, throw logs, blow stuff up. Best Dam Game is co-op physics chaos for up to 4 beavers building one seriously big dam. Take the contract, beat the rising river, fire your friends out of a cannon, and hunt down some very important hats.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261090/e795cfb1d8959b038cfc377e123a8e4aeacbfe61/ss_e795cfb1d8959b038cfc377e123a8e4aeacbfe61.1920x1080.jpg?t=1794553775",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5108820,
-      "name": "Explosive Express",
-      "description": "Explosive Express is a chaotic 1–4 player co-op physics game where tiny workers transport unstable bombs through a giant world. Work together, load the van, survive the hazards, and get the bomb home before time runs out.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5108820/1870ebda734fc876a83d329162d2c4575757dbd4/ss_1870ebda734fc876a83d329162d2c4575757dbd4.1920x1080.jpg?t=1795052507",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4174850,
-      "name": "Friendgeist",
-      "description": "An online co-op horror comedy for up to 5 players. You wake up trapped in a house haunted by the Friendgeist, a spirit that takes the shape of a friend to deceive and possess you. Find the way out. If one of you gets possessed, exorcise them before it's too late. Or escape, if they let you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174850/b9786c0f50230ff3cca79d27a9f28a765dc933b4/ss_b9786c0f50230ff3cca79d27a9f28a765dc933b4.1920x1080.jpg?t=1795049566",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4774560,
-      "name": "Anomalous Coffee Machine 3",
-      "description": "You're a broke freelance artist who just found a reality-bending coffee machine in your apartment stairwell. Discover anomalous drinks, dominate social media, sell your anomalous creations online, and spread the weirdness.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774560/7f70cc2b6e32d7e09a38afa0300c936a235959a4/ss_7f70cc2b6e32d7e09a38afa0300c936a235959a4.1920x1080.jpg?t=1794538239",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5586190,
-      "name": "Elf Raid!",
-      "description": "Storm the castle with a band of brave little elves and rescue Fairycorn before Sir Grumblebottom marries her! Couch co-op for 1 to 3 kids aged 3 to 10: pick a boy or girl elf in your own colours, choose your own difficulty, and nobody gets left behind.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586190/d5f8abd9a02229473086ecc0345a5d7c01942b0f/ss_d5f8abd9a02229473086ecc0345a5d7c01942b0f.1920x1080.jpg?t=1794553948",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5580090,
-      "name": "Monolith Zero - An Incremental Odyssey",
-      "description": "A pixel art incremental game of mining and drones. &quot;Captain, the mothership has lost control near an unknown structure. We're stuck. It's pulling iron-laden asteroids towards us… It seems to want to help us.&quot;",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580090/bc63bb3105391e1f1b6530293d5ef51ccf8255a9/ss_bc63bb3105391e1f1b6530293d5ef51ccf8255a9.1920x1080.jpg?t=1794894652",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5560010,
-      "name": "Re-Ball",
-      "description": "A first-person hyper-ball fighter. Hit the ball and it's yours: it flies in your colour and knocks out anyone it touches. Every hit makes it faster. One hit and you're out. Time a PERFECT swing, steal a parry, and send your friends back to the lobby.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5560010/6c7ad503cc6a45f237a905b50b21b0e9e604c103/ss_6c7ad503cc6a45f237a905b50b21b0e9e604c103.1920x1080.jpg?t=1794536511",
-      "firstSeen": "2026-11-13T07:23:33.760Z",
-      "mechanic": "party",
-      "score": 5
     }
   ]
 }
