@@ -1,6 +1,105 @@
 {
-  "checkedAt": "2026-11-20T16:01:39.835Z",
+  "checkedAt": "2026-11-20T22:35:57.901Z",
   "games": [
+    {
+      "id": 1333930,
+      "name": "World's Worst Handyman",
+      "description": "Suit up as the &quot;World's Worst Handyman&quot; in this comedy stealth game where every job is a chaotic adventure! Dodge disgruntled clients, bungle repairs, and save your beloved animal shelter from bankruptcy.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333930/c1e88b0e36b4ede3ea81a58b21296800bffb1616/ss_c1e88b0e36b4ede3ea81a58b21296800bffb1616.1920x1080.jpg?t=1794858187",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "simulator",
+      "score": 9
+    },
+    {
+      "id": 3024700,
+      "name": "Sweet Order: Candy Shop Tidy Up!",
+      "description": "A magical candy shop is a sticky mess! Play as an adorable marshmallow in this cozy first-person cleaning and organizing sim. Vacuum up gummies, scrape away syrup, and sort colorful candies to perfection. No timers, no stress, just pure satisfaction!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024700/498d1fdf1f8e87ab254bb1718cc942a0df561717/ss_498d1fdf1f8e87ab254bb1718cc942a0df561717.1920x1080.jpg?t=1794814816",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 2697050,
+      "name": "Project Polygon",
+      "description": "32 players. 5 rounds. Nobody is ever eliminated. Race, dive and tumble through a chaotic TV game show armed with Goat Launchers, Chicken Rays and Black Hole Bombs. Get knocked over, bounce back up and climb the scoreboard – the Final counts double!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697050/a6036bc2a44769db575aa6b1a5487f4123449070/ss_a6036bc2a44769db575aa6b1a5487f4123449070.1920x1080.jpg?t=1794847418",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 2519750,
+      "name": "Pulp Friction",
+      "description": "Fruit-on-fruit kitchen brawls! Roll, slice and parry as one of 18 living fruits, carve chunks off your rivals until their core shows and be the last fruit standing. 15 party modes for up to 8 players online or 4 on one couch, plus co-op raids against the mold.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519750/c722b7458eaf45987d7de69fea0b4d31377eb56f/ss_c722b7458eaf45987d7de69fea0b4d31377eb56f.1920x1080.jpg?t=1795034740",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5599050,
+      "name": "Kicked Out",
+      "description": "The bailiffs are at the door and you have only one minute. Throw what you can out of the window, then jump after it. Beg, dig through the trash, survive the nights and save $100 before the street breaks you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5599050/e37e98ad117b53be466a353d3c715fd30c861ac8/ss_e37e98ad117b53be466a353d3c715fd30c861ac8.1920x1080.jpg?t=1794813261",
+      "firstSeen": "2026-11-16T09:50:59.026Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5456630,
+      "name": "Wharflet",
+      "description": "Build a tiny fishing fleet on your desktop. Ride the waves, catch fish, sell and upgrade - all while you do other things. Just sit back and relax!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5456630/44a424577030a9ec079fe76233e34ef86e099977/ss_44a424577030a9ec079fe76233e34ef86e099977.1920x1080.jpg?t=1794809077",
+      "firstSeen": "2026-11-16T09:50:59.026Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4614970,
+      "name": "Plink Lab",
+      "description": "A satisfying active plinko incremental where you drop and bounce fantastic creatures (tiny humans for starters) to clear pegs and earn a trillion $! Wacky balls, massive tech tree, total physics-based chaos, and a very chatty goblin shop owner.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4614970/d2b38748926b22bcaea06f903750a68c8b1e5ea5/ss_d2b38748926b22bcaea06f903750a68c8b1e5ea5.1920x1080.jpg?t=1794973659",
+      "firstSeen": "2026-11-16T09:50:59.026Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5503210,
+      "name": "TideLight",
+      "description": "Spend the summer with Nana June on Gull Island: fish the pond, the brook and the sea, fix up Grandpa's old boat and light the lighthouse again. Then come back five summers later and sail an archipelago of nine islands to relight their tidelights, one keeper and one fishy problem at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5503210/a75d281b1481e9549f9ecbb0a4cde0d77d0dd26c/ss_a75d281b1481e9549f9ecbb0a4cde0d77d0dd26c.1920x1080.jpg?t=1794804288",
+      "firstSeen": "2026-11-16T09:50:59.026Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5494590,
+      "name": "Anef Liffa : Tree of Hope",
+      "description": "Anef Liffa : Tree of Hope is a story about a tree in the town Van Dyck. Explore the town, talk with people and solve problems with puzzles.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5494590/366d5e5b3ec86b7c7a0cbf16e9f3ea5d1ed3ac49/ss_366d5e5b3ec86b7c7a0cbf16e9f3ea5d1ed3ac49.1920x1080.jpg?t=1794808348",
+      "firstSeen": "2026-11-16T09:50:59.026Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5367810,
+      "name": "Blacksmith of sword master ~ IDLE ~",
+      "description": "■ Your Own Little Forge, Right on Your Desktop[BoS] Blacksmith of Sword Master ~IDLE~ is an idle RPG that runs in a small corner of your desktop.No matter what you're doing, the training never stops.Start with a humble forge and rise to become the greatest martial arts master!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5367810/2452958c8836c60a577b801d65daa72c7a0d973b/ss_2452958c8836c60a577b801d65daa72c7a0d973b.1920x1080.jpg?t=1794899119",
+      "firstSeen": "2026-11-16T09:50:59.026Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5588570,
+      "name": "My Cat Cafe Simulator",
+      "description": "Build your dream cat café! Adopt adorable cats, care for them, and fill your café with love. Decorate your space, collect unique cats, play with your furry friends, and welcome happy customers. Grow your business and create the ultimate cozy paradise for CAT !!!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5588570/c6f48ad5172ec45ebb4c788dcebea8de5ef99004/ss_c6f48ad5172ec45ebb4c788dcebea8de5ef99004.1920x1080.jpg?t=1795173969",
+      "firstSeen": "2026-11-16T02:12:58.277Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
     {
       "id": 4511810,
       "name": "Idle Slot Machine",
@@ -9,6 +108,15 @@
       "firstSeen": "2026-11-16T02:12:58.277Z",
       "mechanic": "physics",
       "score": 8
+    },
+    {
+      "id": 5463090,
+      "name": "NoroiStation",
+      "description": "This console is cursed. Play the cartridges one by one on an old CRT. If something is wrong, reset at once.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5463090/b1f42efd4ca8cc47d7b918544a43c6d501c5b9dc/ss_b1f42efd4ca8cc47d7b918544a43c6d501c5b9dc.1920x1080.jpg?t=1794837462",
+      "firstSeen": "2026-11-16T02:12:58.277Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 5238330,
@@ -67,8 +175,8 @@
     {
       "id": 4434530,
       "name": "9 Layers of Hell",
-      "description": "Carve through thousands of demons on your way down the nine layers of Hell. Combine your own spells, chase legendaries that rewrite your build and craft the perfect gear between waves. A horde survivor with the loot of an action RPG. How deep can you go?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434530/f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b/ss_f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b.1920x1080.jpg?t=1794774989",
+      "description": "Carve through thousands of demons on your way down the nine layers of Hell. Combine your own spells, chase legendaries that rewrite your build and craft the perfect gear between waves. A horde survivor with the loot of an action RPG. How deep can you and your party go?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434530/f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b/ss_f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b.1920x1080.jpg?t=1795200719",
       "firstSeen": "2026-11-15T22:07:25.738Z",
       "mechanic": "physics",
       "score": 6
@@ -194,7 +302,7 @@
       "id": 5585140,
       "name": "The Dungeon",
       "description": "An idle RPG in pixels: your hero fights, shops and descends on its own, even while you are away, through 600 floors in three realms. On Mythic every archfoe has an ability of its own, and you fight it yourself. Twelve classes, no ads, money only buys looks.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585140/c84dc76112079bbaae9dd30ec59d6d598cf2da0a/ss_c84dc76112079bbaae9dd30ec59d6d598cf2da0a.1920x1080.jpg?t=1794731240",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585140/c84dc76112079bbaae9dd30ec59d6d598cf2da0a/ss_c84dc76112079bbaae9dd30ec59d6d598cf2da0a.1920x1080.jpg?t=1795208039",
       "firstSeen": "2026-11-15T11:05:20.169Z",
       "mechanic": "physics",
       "score": 6
@@ -329,7 +437,7 @@
       "id": 5540280,
       "name": "Caldera County",
       "description": "Your callsign is Air Attack 51. Circling overhead, your job is to call in aerial drops and direct ground crews against a fire that spreads with the wind, terrain and fuel. You must hold the line and protect every structure you can, but keeping people safe (including your units) is top priority.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540280/af6384fcb80a0f94e6058553192e6360a0f974e3/ss_af6384fcb80a0f94e6058553192e6360a0f974e3.1920x1080.jpg?t=1795122486",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540280/af6384fcb80a0f94e6058553192e6360a0f974e3/ss_af6384fcb80a0f94e6058553192e6360a0f974e3.1920x1080.jpg?t=1795212623",
       "firstSeen": "2026-11-14T23:49:06.030Z",
       "mechanic": "incremental",
       "score": 5
@@ -347,7 +455,7 @@
       "id": 4434640,
       "name": "The Long Mine",
       "description": "An incremental mining game with fully destructible caves. Every pickaxe strike removes an actual piece of rock. Mine ores, sell them, and buy upgrades. Upgrades are not just +10% damage. Equipment and Curses change how you mine, move and explore. Combine them to create your own build.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434640/f3754aa48aa1402377f4e2a7e7131eb3faa90627/ss_f3754aa48aa1402377f4e2a7e7131eb3faa90627.1920x1080.jpg?t=1794946484",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434640/f3754aa48aa1402377f4e2a7e7131eb3faa90627/ss_f3754aa48aa1402377f4e2a7e7131eb3faa90627.1920x1080.jpg?t=1795212481",
       "firstSeen": "2026-11-14T19:57:24.496Z",
       "mechanic": "incremental",
       "score": 8
@@ -431,114 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246420/c4d657ecbe3603d82c54d0e2c2203d11dc8f6ba4/ss_c4d657ecbe3603d82c54d0e2c2203d11dc8f6ba4.1920x1080.jpg?t=1794666089",
       "firstSeen": "2026-11-14T15:09:12.545Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4673010,
-      "name": "Gridbound",
-      "description": "GRIDBOUND is a co-op arcade action game on a shifting LED floor. Dodge red hazards, activate blue objectives, and reach green safe tiles. Coordinate with your teammates, react fast, and stay alive as the grid changes around you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673010/252c360b25eb01e1c591fe8f5ef03317e53e0c14/ss_252c360b25eb01e1c591fe8f5ef03317e53e0c14.1920x1080.jpg?t=1794662269",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 3546980,
-      "name": "Friday at Ours",
-      "description": "Friday at Ours is a time management-adventure game about overcoming your anxiety and visiting a party you weren't invited to.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546980/a1917ba480d64faea8e7089d0036cd43983e2100/ss_a1917ba480d64faea8e7089d0036cd43983e2100.1920x1080.jpg?t=1794659619",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5589760,
-      "name": "Multi Miner Madness",
-      "description": "A mining party game for up to four players. Drill for ore, haul it up and sell it, then spend the money on bigger drills, bombs and rams. Play on one screen with friends on the couch, or online through Steam.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5589760/6a335b0cf66eb1098c9cdb96883d8c84623e4bba/ss_6a335b0cf66eb1098c9cdb96883d8c84623e4bba.1920x1080.jpg?t=1794624413",
-      "firstSeen": "2026-11-14T08:08:53.965Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5586990,
-      "name": "Boo! Boo! Train!",
-      "description": "A cozy train journey through a valley that keeps its own time. Drive slowly, pick a line at every junction, stop for the view and whistle at the neighbours. One real hour is one day in Pinewind Valley, and the season turns every week. Nothing to build, nothing to fail.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586990/79e7f584913972b280d8b61632b47d56b40a358b/ss_79e7f584913972b280d8b61632b47d56b40a358b.1920x1080.jpg?t=1794623462",
-      "firstSeen": "2026-11-14T08:08:53.965Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5482580,
-      "name": "Loaded Bones",
-      "description": "Loaded Bones is a poker-inspired dice roguelike where every roll can change your fate. Build powerful combinations, collect game-changing Keepsakes, unleash mystical Incantations, and chase outrageous scores as you gamble your way through a supernatural world to challenge the Devil himself.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482580/43db1213e6c02755f29c1cd278c5f980b89f3e59/ss_43db1213e6c02755f29c1cd278c5f980b89f3e59.1920x1080.jpg?t=1794801072",
-      "firstSeen": "2026-11-14T08:08:53.965Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5306870,
-      "name": "Psst!",
-      "description": "Sit down with friends, give a few hints, and try not to give your secret away. In this party game, close guesses earn you points, but an exact answer knocks you out. Play as cats across five word-game modes, online with friends or solo with bots.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306870/8ab3552d9cc83f0f6d4707d0b2186ba8d3734ec9/ss_8ab3552d9cc83f0f6d4707d0b2186ba8d3734ec9.1920x1080.jpg?t=1794624561",
-      "firstSeen": "2026-11-14T08:08:53.965Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5184310,
-      "name": "Spuskaemsa!",
-      "description": "A cooperative roguelike looter-shooter (1–4 players). Descend into the infinite Buffer, explore procedurally generated floors, scavenge for supplies, and battle its inhabitants. Rescue your comrades and upgrade your elevator. Godspeed!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184310/f5cd0cc0978dff0a7b0254ed696f3f162ef834a8/ss_f5cd0cc0978dff0a7b0254ed696f3f162ef834a8.1920x1080.jpg?t=1795188388",
-      "firstSeen": "2026-11-14T08:08:53.965Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5593910,
-      "name": "Alchemist's Codex",
-      "description": "Run a small alchemy shop and discover recipes by experiment. Grind, boil, distill and brew real ingredient properties, not fixed recipes. Take commissions, buy from the merchant, gather in your yard, and fill your Codex on the way to becoming a master alchemist.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593910/a59ab8c435836a0cf81965ef0397c929deee912c/ss_a59ab8c435836a0cf81965ef0397c929deee912c.1920x1080.jpg?t=1794672908",
-      "firstSeen": "2026-11-14T08:08:53.965Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5569910,
-      "name": "Paint the Town",
-      "description": "One morning, every color in town is gone. Grab a brush and bring it back: paint houses, cars, trees and towers until the gray city glows again. A calm, satisfying first-person incremental game — from a single brush to a paint cannon. Almost half a million square meters are waiting.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569910/7b676a58dddb9a1ba3b7c99bf963be0540becfec/ss_7b676a58dddb9a1ba3b7c99bf963be0540becfec.1920x1080.jpg?t=1794632093",
-      "firstSeen": "2026-11-14T08:08:53.965Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5278260,
-      "name": "Fire Buller",
-      "description": "Throw a flaming bull from a baseball stadium as far as it goes: over the city, past the Moon and Mars, to the edge of the universe and on to 10^1000 km. Wherever it lands, it crashes and rampages. Distance times destruction buys a stronger arm and twenty wilder bulls.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5278260/4c058ebbe369ce652c16b5a792bcbbeb3533a519/ss_4c058ebbe369ce652c16b5a792bcbbeb3533a519.1920x1080.jpg?t=1794628278",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "physics",
-      "score": 9
-    },
-    {
-      "id": 5589520,
-      "name": "50 Trillion Grains Of Sand",
-      "description": "Dig through 50 trillion grains of sand in a first-person incremental digging sim. Start with a spoon, buy bigger tools, and put machines and Egyptian gods to work as you uncover a buried pyramid and discover the treasure hidden in its tomb.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5589520/2139c71f2a39b920076538503e459a14e2e0f040/ss_2139c71f2a39b920076538503e459a14e2e0f040.1920x1080.jpg?t=1794618758",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5563250,
-      "name": "Sort The Pandas",
-      "description": "Thousands of pandas, two amazing worlds and one mission – put everything perfectly in place! Over 5,000 pandas are waiting for you in a shop full of shelves and a lush bamboo grove. Every panda you place brings you closer to perfect order. Level up your skills and see how many pandas you can sort!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563250/0a8691887d1ae4012add8f76f629b293bd9d7f90/ss_0a8691887d1ae4012add8f76f629b293bd9d7f90.1920x1080.jpg?t=1794989352",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "simulator",
       "score": 8
     }
   ]
