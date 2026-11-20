@@ -1,6 +1,123 @@
 {
-  "checkedAt": "2026-11-20T06:57:59.677Z",
+  "checkedAt": "2026-11-20T16:01:39.835Z",
   "games": [
+    {
+      "id": 4511810,
+      "name": "Idle Slot Machine",
+      "description": "Build a bustling pixel-art casino in this idle management game. Hire monkeys to spin your slots, combine machines and chain reactions, shape your skill tree, and prestige for lasting progress. Collect cosmetics and take on challenges beyond the casino floor.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511810/a690d0433abb089fd38546824eab5f8776557c31/ss_a690d0433abb089fd38546824eab5f8776557c31.1920x1080.jpg?t=1794790933",
+      "firstSeen": "2026-11-16T02:12:58.277Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5238330,
+      "name": "Incremental Dungeoncrawler",
+      "description": "An Incremental Party-Based RPG inside an endless ASCII dungeon. Command a squad of 4 unique heroes, crawl through procedurally generated grids, and strategically unlock massive, custom skill trees. No mindless backtracking! Only forward progression, permanent prestige, and numbers going up!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5238330/ed88396d75574cbb7f341446b0874f0b86f63765/ss_ed88396d75574cbb7f341446b0874f0b86f63765.1920x1080.jpg?t=1794782919",
+      "firstSeen": "2026-11-16T02:12:58.277Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5475590,
+      "name": "Choo City",
+      "description": "Choo City is a cozy train puzzle game. Lay tracks, flip switches and dispatch your trains to deliver coal, wood and people to construction sites. Avoid crashes, beat the clock and build 24 unique buildings to bring your toy town to life.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475590/47e3308b7cd636db7de8df016a06b3129fc1946b/ss_47e3308b7cd636db7de8df016a06b3129fc1946b.1920x1080.jpg?t=1794948979",
+      "firstSeen": "2026-11-15T22:07:25.738Z",
+      "mechanic": "incremental",
+      "score": 9
+    },
+    {
+      "id": 5464540,
+      "name": "Space Nanny",
+      "description": "A chaotic sci-fi multitasking game where minigames share controls and an alien baby keeps pressing the wrong buttons. Juggle multiple challenges, fling the baby away, and undo its mischief before alarms, smoke, and blackouts overwhelm your board. Remember: Never let him press the big red button!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5464540/4b256227e545e76fe5fd0145d178334745f82246/ss_4b256227e545e76fe5fd0145d178334745f82246.1920x1080.jpg?t=1794772399",
+      "firstSeen": "2026-11-15T22:07:25.738Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4801630,
+      "name": "Us Against Wood",
+      "description": "Us Against Wood is a co-op casual game where you and your friends share one simple goal: chop down a single enormous tree. Work together or alone to carve deeper into the trunk.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801630/57c2d943db88e89027ab197a32cbf73927021bb6/ss_57c2d943db88e89027ab197a32cbf73927021bb6.1920x1080.jpg?t=1794770690",
+      "firstSeen": "2026-11-15T22:07:25.738Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5356450,
+      "name": "That Mountain Needs to Fall",
+      "description": "An incremental game about dwarves and mining. Send your dwarves against the mountain, watch the ore fly and turn a single house into an army of different dwarves. Call the heroes of Ragnarok, conquer the mountain, unleash Ragnarok and start over stronger with Odin's blessings.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5356450/52d5cda35656a2006e49844d7731592ab800b1be/ss_52d5cda35656a2006e49844d7731592ab800b1be.1920x1080.jpg?t=1794170815",
+      "firstSeen": "2026-11-15T22:07:25.738Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4843470,
+      "name": "Most Games Flop",
+      "description": "You’re 12. It’s 2006. You’ve got the family laptop and one dream: make a hit on Studz. Plan every month, build games, chase the algorithm and survive copycats for 20 years. Most games flop. Try anyway. Then do it again with up to 7 friends online.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843470/13c3eb65ac7155ea9d5d28facd757dc041f02361/ss_13c3eb65ac7155ea9d5d28facd757dc041f02361.1920x1080.jpg?t=1794770234",
+      "firstSeen": "2026-11-15T22:07:25.738Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4434530,
+      "name": "9 Layers of Hell",
+      "description": "Carve through thousands of demons on your way down the nine layers of Hell. Combine your own spells, chase legendaries that rewrite your build and craft the perfect gear between waves. A horde survivor with the loot of an action RPG. How deep can you go?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434530/f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b/ss_f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b.1920x1080.jpg?t=1794774989",
+      "firstSeen": "2026-11-15T22:07:25.738Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3853110,
+      "name": "Crusaders Quest : Tactics",
+      "description": "Crusaders Quest: Tactics is a roguelike auto battler where you build a party of charming pixel art heroes. Recruit heroes from Shasha's shop, promote them, and craft Soulbound Weapons. Find the right hero synergies and take on bosses across five acts.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3853110/aff3a60752426307373440a8a80903740a28c8dc/ss_aff3a60752426307373440a8a80903740a28c8dc.1920x1080.jpg?t=1794804243",
+      "firstSeen": "2026-11-15T22:07:25.738Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 1891970,
+      "name": "BOOOOST!!!!",
+      "description": "BOOOOST!!!! is a skill-based, sci-fi themed action platformer with some narrative driven elements and some minor puzzle elements.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1891970/ss_5e865e290cdc728754d88e1b86463b77e07e71e1.1920x1080.jpg?t=1794761653",
+      "firstSeen": "2026-11-15T22:07:25.738Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5468730,
+      "name": "Maple's Secret",
+      "description": "Pet Maple at his own rhythm, earn upgrades to get away with more, and make it to 8:00 AM without getting caught.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5468730/ea4b920b443b3d4c6ef148b4e53fb10f38584d4d/ss_ea4b920b443b3d4c6ef148b4e53fb10f38584d4d.1920x1080.jpg?t=1794802517",
+      "firstSeen": "2026-11-15T17:39:44.657Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5088590,
+      "name": "Armory Chaos: Tidy Up",
+      "description": "Clock in as a robot and bring order to a chaotic armory. Sort weapons, pack ammo, and haul crates solo or with up to 3 friends. Use magnets and air cannons to get the job done, and watch a stray explosion turn your tidy shift into a glorious mess.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088590/6893a4deccb4644f0eaea4630d7eb0ae87c81beb/ss_6893a4deccb4644f0eaea4630d7eb0ae87c81beb.1920x1080.jpg?t=1794742729",
+      "firstSeen": "2026-11-15T17:39:44.657Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4736860,
+      "name": "FD's Industry Tycoon",
+      "description": "Build a global industrial empire from a 1990s desktop. A retro business management sim, hand-drawn in pixel art. Alone or in MP: open factories worldwide, broker supply deals across continents, and acquire rivals when they falter. Markets shift, empires grow, and the CRT flickers.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736860/0104a0e120ae8d9b2f3a26a4e24d0ecca8a3a514/ss_0104a0e120ae8d9b2f3a26a4e24d0ecca8a3a514.1920x1080.jpg?t=1794753160",
+      "firstSeen": "2026-11-15T17:39:44.657Z",
+      "mechanic": "physics",
+      "score": 8
+    },
     {
       "id": 3834020,
       "name": "Supa-Market: Japanese Super-Market Simulator",
@@ -18,6 +135,15 @@
       "firstSeen": "2026-11-15T17:39:44.657Z",
       "mechanic": "party",
       "score": 7
+    },
+    {
+      "id": 5581890,
+      "name": "Warelings",
+      "description": "A tiny 2000s gadget that lives in the corner of your desktop. Feed your Ware, take it on walks and send it into battle while you work. Every creature is a post from an internet forum that no longer exists.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581890/6cddfce00b12c231728d97bf3345e64fe7887109/ss_6cddfce00b12c231728d97bf3345e64fe7887109.1920x1080.jpg?t=1794763739",
+      "firstSeen": "2026-11-15T17:39:44.657Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 5595710,
@@ -214,7 +340,7 @@
       "description": "Brew, upgrade, and relax! Build your dream coffee shop in Cozy Corner Cafe, a charming idle tycoon game. Automate prep stations, hire staff, handle in-store and online orders, and unlock upgrades through an extensive skill tree.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825930/334c68a5ed466b5436bb75d0d5fcb3a77ada44d5/ss_334c68a5ed466b5436bb75d0d5fcb3a77ada44d5.1920x1080.jpg?t=1794676268",
       "firstSeen": "2026-11-14T19:57:24.496Z",
-      "mechanic": "simulator",
+      "mechanic": "incremental",
       "score": 8
     },
     {
@@ -365,7 +491,7 @@
       "id": 5184310,
       "name": "Spuskaemsa!",
       "description": "A cooperative roguelike looter-shooter (1–4 players). Descend into the infinite Buffer, explore procedurally generated floors, scavenge for supplies, and battle its inhabitants. Rescue your comrades and upgrade your elevator. Godspeed!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184310/f5cd0cc0978dff0a7b0254ed696f3f162ef834a8/ss_f5cd0cc0978dff0a7b0254ed696f3f162ef834a8.1920x1080.jpg?t=1794633266",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184310/f5cd0cc0978dff0a7b0254ed696f3f162ef834a8/ss_f5cd0cc0978dff0a7b0254ed696f3f162ef834a8.1920x1080.jpg?t=1795188388",
       "firstSeen": "2026-11-14T08:08:53.965Z",
       "mechanic": "party",
       "score": 7
@@ -413,132 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563250/0a8691887d1ae4012add8f76f629b293bd9d7f90/ss_0a8691887d1ae4012add8f76f629b293bd9d7f90.1920x1080.jpg?t=1794989352",
       "firstSeen": "2026-11-14T01:51:49.004Z",
       "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4903220,
-      "name": "TaskBound Saga",
-      "description": "An idle JRPG that sits above your taskbar. Four heroes fight through 12 realms on their own while you use your computer. Open the chests they earn, equip the gear and upgrade your party.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903220/250161f051946e6d56961474ceb749e3f0fe39ce/ss_250161f051946e6d56961474ceb749e3f0fe39ce.1920x1080.jpg?t=1794697961",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5581820,
-      "name": "Couch Potato",
-      "description": "A collection of party games for up to sixteen people on one TV, with the phones already in your pockets as controllers. Hop on the couch, scan the code and you're in. Fight, fish, feast, hop and scrum, and unlock new weapons, arenas, pets and rods as the night goes on.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581820/60aa7de3fec43120267ad5f124e29ed1072942c4/ss_60aa7de3fec43120267ad5f124e29ed1072942c4.1920x1080.jpg?t=1794613694",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5365070,
-      "name": "Don't Burn Out!",
-      "description": "A block-pushing puzzle game in corporate hell, where you must confront your boss and escape the soul-draining workplace before you literally burn out. Solve over 100 handcrafted &amp; unique puzzles that will require you to think strategically, with each step bringing you closer to flames!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365070/5d6364385fdd6790051a2d5ccbf1fedcd9eee5a4/ss_5d6364385fdd6790051a2d5ccbf1fedcd9eee5a4.1920x1080.jpg?t=1794609233",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
-      "id": 5537980,
-      "name": "Cheese Panic",
-      "description": "An asymmetric co-op stealth action game: one player is the Cat, up to four are mice. Raid a house, a factory and a dungeon for food, distract the predator and haul the loot together before you get caught. Silly physics, proximity voice chat and random events in every match.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537980/3195594d315a8c51db0ebe7a0c46a96507f1cb11/ss_3195594d315a8c51db0ebe7a0c46a96507f1cb11.1920x1080.jpg?t=1794978173",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 2846470,
-      "name": "Aposis: Infinity Hero",
-      "description": "A sci-fi roguelike RPG about an agent from the past awakened deep inside the Cradle, a colossal AI-controlled megacity.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2846470/e49ef8a0bee38670024f140f452b7f788238cd88/ss_e49ef8a0bee38670024f140f452b7f788238cd88.1920x1080.jpg?t=1794647330",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5594580,
-      "name": "Arcana Clash",
-      "description": "A 2–6 player tarot card battler. Each of the 78 cards has two faces — upright and reversed — and you choose which one to unleash every time you play. Strike, curse, or turn the whole table upside down, and outlast your rivals before the Clock of Fate swallows everyone.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5594580/cf9cfc13bec40e3a3d417461985a808a59705bd2/ss_cf9cfc13bec40e3a3d417461985a808a59705bd2.1920x1080.jpg?t=1794618287",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 4828470,
-      "name": "Caramba Caballeros",
-      "description": "Caramba Caballeros is a first-person pirate roguelike for 1–4 players. Explore islands and hunt for treasure by day. Defend your ship from enemy waves by night. Battle other pirates in a battle royale, solo or in teams, with matchmaking and custom lobbies.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828470/97423350d9fe41fc7ea14422820810955f78830d/ss_97423350d9fe41fc7ea14422820810955f78830d.1920x1080.jpg?t=1794938591",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 5473610,
-      "name": "Bazaar Below Zero",
-      "description": "Don Morsa has kidnapped you and put you to work digging ice to stock his bazaar. You obey… but every tunnel you dig brings you a little closer to the way out. A co-op incremental for 1–4 players: sell to seals, upgrade your tools, hire penguins and plan the great escape.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5473610/5df4e20916929e4b0fbeeb3905bfc81ec5dcd9bf/ss_5df4e20916929e4b0fbeeb3905bfc81ec5dcd9bf.1920x1080.jpg?t=1795108811",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "incremental",
-      "score": 10
-    },
-    {
-      "id": 5471930,
-      "name": "Sunbed Simulator",
-      "description": "Take over an unlicensed beach with a few sunbeds and become king of the coast! In this first-person business sim, serve guests, hire staff and grow your resort – solo or in online co-op with friends. Bribe the police and sabotage the hotel next door. On this beach, you make the rules!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5471930/71b30f66c10e36379b4896961668495bf71a3c6d/ss_71b30f66c10e36379b4896961668495bf71a3c6d.1920x1080.jpg?t=1794587018",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5577680,
-      "name": "Greed, the dice game",
-      "description": "One more roll could change everything. Play with up to three friends or take on bots in a dice game of risky choices, devilish bargains, and playful table mischief. Bank your points, push your luck, and make the table your own.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577680/15901c899da486355366263c7d7487c76511380d/ss_15901c899da486355366263c7d7487c76511380d.1920x1080.jpg?t=1794671986",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5573530,
-      "name": "GermShake",
-      "description": "A pixel-art roguelike where you play a germ spreading through Shake City one handshake at a time. Mutate, dodge the immune system, and survive the sink.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5573530/2b91a633a422aff43d73996a8c6117b8b91df758/ss_2b91a633a422aff43d73996a8c6117b8b91df758.1920x1080.jpg?t=1794595254",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5445800,
-      "name": "Jingle Janitor",
-      "description": "Your first night as Santa's janitor, and the elves partied all night. Sort a gloriously messy workshop until every toy part sits on its shelf, learn handy magic, cheer up the elves and save Christmas. Cozy first-person tidying, alone or with a friend on the couch.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5445800/0334976eaa7a4efaf0dd38e5405645d8a0a8abe0/ss_0334976eaa7a4efaf0dd38e5405645d8a0a8abe0.1920x1080.jpg?t=1794613175",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5322890,
-      "name": "Tiny Crimes",
-      "description": "Who needs money when you can sneak your way into anywhere? Team up with your fellow rats, explore different stores, grab all the supplies, and fulfill your community’s peculiar requests… But watch out! Things can get out of paw pretty quickly.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5322890/20a338562750ca943e25cfc24d0b7b5126317976/ss_20a338562750ca943e25cfc24d0b7b5126317976.1920x1080.jpg?t=1794694589",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5208040,
-      "name": "Multi Purpose Wheel Incremental",
-      "description": "Rotate everything in this new spin on the Incremental genre! Rotate satisfying contraptions to earn interconnected currencies. Upgrade the contraptions to earn more, earn faster, and earn whackier. Unlock new contraptions to expand your rotating horizons.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208040/49740d584d7bd832320da5f03ecf35dbac468523/ss_49740d584d7bd832320da5f03ecf35dbac468523.1920x1080.jpg?t=1794594435",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "incremental",
       "score": 8
     }
   ]
