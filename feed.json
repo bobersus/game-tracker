@@ -1,6 +1,42 @@
 {
-  "checkedAt": "2026-11-19T23:53:50.423Z",
+  "checkedAt": "2026-11-20T06:57:59.677Z",
   "games": [
+    {
+      "id": 3834020,
+      "name": "Supa-Market: Japanese Super-Market Simulator",
+      "description": "Build your own Japanese supermarket! Stock unique products, organize shelves, serve customers, hire staff, set prices, and grow your cozy anime-inspired store into a thriving business. Every decision shapes your supermarket!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3834020/0bd188f030cd9ad387c45709f0a6c67480779dd1/ss_0bd188f030cd9ad387c45709f0a6c67480779dd1.1920x1080.jpg?t=1794769947",
+      "firstSeen": "2026-11-15T17:39:44.657Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4078600,
+      "name": "PiPu Party",
+      "description": "PiPu Party is a chaotic puzzle action game. Share a magic symbol bag to reshape the entire level in real time. No single 'correct' way to play it. 2 player co-op &amp; 2-8 player competitive chaos party.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078600/1555c3ce9a5d9e9e92e9ad0a0cfd73fe7c4c4281/ss_1555c3ce9a5d9e9e92e9ad0a0cfd73fe7c4c4281.1920x1080.jpg?t=1795143710",
+      "firstSeen": "2026-11-15T17:39:44.657Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5595710,
+      "name": "Charmbound",
+      "description": "An adult idle clicker. Tap each girl to fill her gauge and unlock three ever-bolder pictures, then spend Crystals on uncensored CGs and animated scenes. 622 girls, 2,500+ images and 129 animated scenes to collect, with upgrades, auto-play and offline progress, so you never hit a wall.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595710/7d15948319301f83c2a8173008f234871242c7f6/ss_7d15948319301f83c2a8173008f234871242c7f6.1920x1080.jpg?t=1794722753",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5593450,
+      "name": "DAN DAN THE TIER LIST TOGETHER!",
+      "description": "A co-op party game about tier lists. Only the host needs a copy; up to 111 guests join free in a browser on a phone or PC. Guess secret ranks and add words or images as your list grows. Build lists with no right or wrong answers in Tier Together!, or play solo with “My Tier!”.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593450/7c5ab911a82bfe344cc45d0f8fed0a1fe387f4f1/ss_7c5ab911a82bfe344cc45d0f8fed0a1fe387f4f1.1920x1080.jpg?t=1795125094",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "party",
+      "score": 8
+    },
     {
       "id": 4870120,
       "name": "You Got Me Killed!",
@@ -9,6 +45,69 @@
       "firstSeen": "2026-11-15T11:05:20.169Z",
       "mechanic": "party",
       "score": 8
+    },
+    {
+      "id": 5300330,
+      "name": "Drift Riot",
+      "description": "Drift Riot is an arcade racer where style is speed. Chain drifts, jumps and near misses into huge scores, outrun the Patrols in Heat Run, conquer 150 career courses, race leaderboard ghosts, and build tracks to share.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300330/bd363c04ace0d29fc1670a8841364c6331e33553/ss_bd363c04ace0d29fc1670a8841364c6331e33553.1920x1080.jpg?t=1795144098",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5590510,
+      "name": "AntiClimatic",
+      "description": "A physics based weather simulator where you change the weather patterns throughout 30+ scenarios.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5590510/686b9e0e6fec4b21dccd693e1c8ee718cd424c23/ss_686b9e0e6fec4b21dccd693e1c8ee718cd424c23.1920x1080.jpg?t=1794738047",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5585140,
+      "name": "The Dungeon",
+      "description": "An idle RPG in pixels: your hero fights, shops and descends on its own, even while you are away, through 600 floors in three realms. On Mythic every archfoe has an ability of its own, and you fight it yourself. Twelve classes, no ads, money only buys looks.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585140/c84dc76112079bbaae9dd30ec59d6d598cf2da0a/ss_c84dc76112079bbaae9dd30ec59d6d598cf2da0a.1920x1080.jpg?t=1794731240",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5536560,
+      "name": "Big Bad Wool",
+      "description": "Wolves in sheep's clothing versus watchful shepherds. Blend into the flock, fool your friends or spot the impostors. BigBadWool is an asymmetric hide-and-seek game for 2–6 players online, with bot practice to learn both sides.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5536560/fea2978ff946bd9516b7784972537bbb8c113fdf/ss_fea2978ff946bd9516b7784972537bbb8c113fdf.1920x1080.jpg?t=1794966332",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5478800,
+      "name": "Domino Party",
+      "description": "Stand up thousands of dominoes to build a picture, then watch it all topple in one glorious chain! Make domino art and up to 10,000-piece jigsaws from your own photos with friends, then party in the lodge and playland with 28 mini-games like curling and sled races.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5478800/4163673b982427dc40fbd12a10b2237b468aa811/ss_4163673b982427dc40fbd12a10b2237b468aa811.1920x1080.jpg?t=1794713596",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5461690,
+      "name": "Pay to Think",
+      "description": "An incremental game centered on intelligence as its core asset. Once, humanity became the master of the Earth by virtue of its intelligence; now, intelligence has found a new master. Intelligence no longer belongs to the smartest humans—it belongs to whoever possesses it.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5461690/9e240bc2680ae490cbe0893c16823b61cb38e9a6/ss_9e240bc2680ae490cbe0893c16823b61cb38e9a6.1920x1080.jpg?t=1794716975",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5186160,
+      "name": "Mow The Planet",
+      "description": "Start on Mum's back lawn and keep going: the street, the city, the planet, then the Moon, Mars and every world after that. Mow ground that stays mowed, bolt ridiculous kits onto one growing machine, and run a mowing company big enough to stripe the solar system.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5186160/a11db9b90815d82f74b95089fea0be4d8b5988b4/ss_a11db9b90815d82f74b95089fea0be4d8b5988b4.1920x1080.jpg?t=1794732540",
+      "firstSeen": "2026-11-15T11:05:20.169Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 3369910,
@@ -92,15 +191,6 @@
       "score": 7
     },
     {
-      "id": 5561760,
-      "name": "Astral Wizards",
-      "description": "Pick a wizard, walk into the swarm and let your spells fire on their own. A neon pixel-art bullet heaven with 30 worlds across 3 galaxies, laws that bend the rules, ENDLESS boss marathons and 13 wizards to master. Evolve 24 weapons into screen-filling light shows. No ads, no microtransactions.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561760/1ea07b07fff9aad7207004f3577e5d94a493dd97/ss_1ea07b07fff9aad7207004f3577e5d94a493dd97.1920x1080.jpg?t=1794693953",
-      "firstSeen": "2026-11-14T23:49:06.030Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 5015000,
       "name": "Crafty Idle",
       "description": "Crafty Idle is a Minecraft inspired idle RPG where every skill strengthens the rest. Mine and craft your way to the strongest gear, take down monsters that each have their own weakness to exploit, and optimize your farming by chasing down the best genes. Progress never stops, even offline.",
@@ -124,7 +214,7 @@
       "description": "Brew, upgrade, and relax! Build your dream coffee shop in Cozy Corner Cafe, a charming idle tycoon game. Automate prep stations, hire staff, handle in-store and online orders, and unlock upgrades through an extensive skill tree.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825930/334c68a5ed466b5436bb75d0d5fcb3a77ada44d5/ss_334c68a5ed466b5436bb75d0d5fcb3a77ada44d5.1920x1080.jpg?t=1794676268",
       "firstSeen": "2026-11-14T19:57:24.496Z",
-      "mechanic": "incremental",
+      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -182,6 +272,15 @@
       "score": 8
     },
     {
+      "id": 5537570,
+      "name": "Alt-Tab Legend",
+      "description": "An incremental multiboxing game where you run every game at once on one PC. Pull games from blind boxes, pack hardware into a grid case, place plugins on your keyboard, and raise Keysprites to hit keys for you. No game over, just more games every night.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537570/eab5caffb5348d150853429fa53908c71362db9b/ss_eab5caffb5348d150853429fa53908c71362db9b.1920x1080.jpg?t=1795152907",
+      "firstSeen": "2026-11-14T15:09:12.545Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
       "id": 5513330,
       "name": "Jester`s Anger",
       "description": "A fast deckbuilding roguelike boomer shooter where your deck is your ammo. Hurl paint cards, playing cards and tarot spells to smash marble chess pieces to rubble, heal on their shards, and take revenge on The Hands - the giant chess player who ate the Jester's cake.",
@@ -216,15 +315,6 @@
       "firstSeen": "2026-11-14T15:09:12.545Z",
       "mechanic": "party",
       "score": 8
-    },
-    {
-      "id": 5537570,
-      "name": "Alt-Tab Legend",
-      "description": "Ever seen that guy at the internet café running eight games at once? Your turn. Build the PC, set up the keyboard, raise a few Keysprites to mash keys for you, and open more games every night. You'll walk out of the café a winner, and there's a lot more waiting for you after that!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537570/eab5caffb5348d150853429fa53908c71362db9b/ss_eab5caffb5348d150853429fa53908c71362db9b.1920x1080.jpg?t=1794743129",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "incremental",
-      "score": 6
     },
     {
       "id": 3546980,
@@ -272,15 +362,6 @@
       "score": 8
     },
     {
-      "id": 5556560,
-      "name": "Toque: Restaurant Tycoon",
-      "description": "A restaurant tycoon where you are part of the crew. Work wherever you want, in the kitchen, at the register or on the floor, build your place yourself and pick one of four restaurant types. Grow your menu with cooks who know the dishes and rise above the city's rival restaurants.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556560/fcedb0f9c5ad8e68ac49b00e7c1bca25a929e235/ss_fcedb0f9c5ad8e68ac49b00e7c1bca25a929e235.1920x1080.jpg?t=1794843449",
-      "firstSeen": "2026-11-14T08:08:53.965Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
       "id": 5184310,
       "name": "Spuskaemsa!",
       "description": "A cooperative roguelike looter-shooter (1–4 players). Descend into the infinite Buffer, explore procedurally generated floors, scavenge for supplies, and battle its inhabitants. Rescue your comrades and upgrade your elevator. Godspeed!",
@@ -323,15 +404,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5589520/2139c71f2a39b920076538503e459a14e2e0f040/ss_2139c71f2a39b920076538503e459a14e2e0f040.1920x1080.jpg?t=1794618758",
       "firstSeen": "2026-11-14T01:51:49.004Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5567570,
-      "name": "Junk Mountain",
-      "description": "One wedding ring is buried in a mountain of over 30,000 pieces of junk. Dig by hand, sweep up iron with a magnet, sell it at the scale and upgrade everything — from a backyard junkyard through a scrapyard, a port and a landfill all the way to orbit, until the junkyard runs itself.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5567570/21d71ff1a840097d003f9897c47b0627fc7ac919/ss_21d71ff1a840097d003f9897c47b0627fc7ac919.1920x1080.jpg?t=1794895350",
-      "firstSeen": "2026-11-14T01:51:49.004Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -468,78 +540,6 @@
       "firstSeen": "2026-11-13T21:40:21.281Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 5586420,
-      "name": "POKUS",
-      "description": "Sling spells and shatter friendships in a chaotic wizard tavern. In this online card battler for 2-6 player, play as petty mages whose hexes hilariously backfire. Break fragile alliances and haunt your friends from the grave in frantic 15-minute bouts of magical mayhem.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586420/4e10167b7eacd946cd32afdd317d20ea3e11d1e2/ss_4e10167b7eacd946cd32afdd317d20ea3e11d1e2.1920x1080.jpg?t=1794592528",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5570280,
-      "name": "Default Zombie Shooter",
-      "description": "You and your team woke up in a ruined city. Hordes of zombies roam the streets. There will be no answers. Grab a gun and shoot!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570280/90e46b02dcc1cb93f7ebd507e8b388ed11727a58/ss_90e46b02dcc1cb93f7ebd507e8b388ed11727a58.1920x1080.jpg?t=1794589437",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5568580,
-      "name": "Kixball",
-      "description": "Kixball is top-down physics football where you are one player on the pitch. No animations, no auto-aim: just you, the ball and the walls. Train, earn transfer offers and rise from the lowest division in your career, or play with up to 3 friends on one screen.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568580/cafb217799c757fb6c5e73f527d8e421d68f3672/ss_cafb217799c757fb6c5e73f527d8e421d68f3672.1920x1080.jpg?t=1794585101",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
-      "id": 5585980,
-      "name": "Bibliopyre",
-      "description": "A magical storm and a goblin horde tore a million forbidden pages from the Great Library. As the Warden Mage, burn them all: sweep piles with waves of fire, send ash flying home, and hear every book chime into place to the beat of the music.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585980/e89a3a61d5dad45b16648ec605a796f0237e3288/ss_e89a3a61d5dad45b16648ec605a796f0237e3288.1920x1080.jpg?t=1794586465",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5510000,
-      "name": "Before We Sink",
-      "description": "Your island is sinking and the sea rises every minute. Gather wood, patch a wrecked boat and escape before the water swallows everything. Explore cursed islands, fight pirates and skeletons, and sail a galleon through storms, alone or in co-op for up to 5 players.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510000/1a022780a664247c717b5a2974ab7e45d4a889f9/ss_1a022780a664247c717b5a2974ab7e45d4a889f9.1920x1080.jpg?t=1794595562",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5191290,
-      "name": "MUTINY!",
-      "description": "MUTINY! is a multiplayer platformer fighter game that allows up to 10 players per round! Using different kinds of bombs and the power of physics, ensure your victory as the last man standing on pirate ships, treacherous waters, and other dynamic maps that aren't exactly on your side either.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191290/8d26d7b24e52217af264bcf6ff20978664f30fc4/ss_8d26d7b24e52217af264bcf6ff20978664f30fc4.1920x1080.jpg?t=1794838890",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4443690,
-      "name": "Cornerwitch",
-      "description": "Cornerwitch is a cozy idler game that sits on the corner of your screen. Study new spells and advance through a magical journey. Unlock cosmetics to dress up your little witch, level up and become stronger.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443690/fb207b9c0cc7402697a0da4f4238fbe660190a91/ss_fb207b9c0cc7402697a0da4f4238fbe660190a91.1920x1080.jpg?t=1794589572",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5578780,
-      "name": "DYNASTY: Silk & Blood",
-      "description": "1980. You have $5 million and a family name. Build companies, conquer markets, marry, raise your heirs. Rival dynasties never rest and the world never waits. You will die. Your dynasty must not.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578780/4dfba1bda5ba30f31bfa3e83827481c7e6613783/ss_4dfba1bda5ba30f31bfa3e83827481c7e6613783.1920x1080.jpg?t=1794604781",
-      "firstSeen": "2026-11-13T21:40:21.281Z",
-      "mechanic": "incremental",
-      "score": 5
     }
   ]
 }
