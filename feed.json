@@ -1,6 +1,114 @@
 {
-  "checkedAt": "2026-11-21T18:15:38.597Z",
+  "checkedAt": "2026-11-21T23:25:06.563Z",
   "games": [
+    {
+      "id": 5582130,
+      "name": "Christmas TCG Tidy Up Together",
+      "description": "Tidy up nearly 5,000 festive trading cards scattered across the floor of a Christmas TCG store, solo or with up to two friends online. Clean your finds and complete 15 festive sets in regular and holo finishes. Earn coins for boosters packs, hunt for exclusive rare cards.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582130/4c6861d8fc49e8495d5bc77e06c3fd289ac63acd/ss_4c6861d8fc49e8495d5bc77e06c3fd289ac63acd.1920x1080.jpg?t=1794924558",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5579310,
+      "name": "Build a Sand Castle",
+      "description": "Build a Sand Castle. Complete the task from the rich man and earn yourself 1M Dollars. The Castle is Enormous so you will be here for a while... But it would be faster if you used the Abilities and &quot;Sugar&quot; the man gave to you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5579310/cbc168c8352c254da59b9d590d9c86e6025f8552/ss_cbc168c8352c254da59b9d590d9c86e6025f8552.1920x1080.jpg?t=1795179013",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5569030,
+      "name": "My Little Animal Care Center",
+      "description": "Run a cozy little animal clinic in the heart of a colorful town! Treat hurt pets on the care table, pamper your boarders in their pens, welcome over a dozen species and grow your small center into a whole neighborhood of care.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569030/c8cdfde2f173c691c2894b143ccfe398750d4ed8/ss_c8cdfde2f173c691c2894b143ccfe398750d4ed8.1920x1080.jpg?t=1795192551",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5544770,
+      "name": "Tiny Winter Market",
+      "description": "Build and decorate your own cozy Christmas market in a charming pixel-art winter village! Welcome visitors, manage festive stalls, help Santa deliver presents, discover hidden surprises, and enjoy the magic of Christmas in Tiny Winter Market.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5544770/575f85291b363ba823ea00e4ddd7e91edf751139/ss_575f85291b363ba823ea00e4ddd7e91edf751139.1920x1080.jpg?t=1794932371",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4681370,
+      "name": "DeadLoop",
+      "description": "DeadLoop is a competitive arena action game for 2–4 players, combining monster-wave survival with PvP duels. Choose a hero, buy items, and upgrade abilities between battles. Bet in-match gold on duel outcomes and turn smart decisions into an advantage over your rivals.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681370/71f425e5a24e3c9961237144644dabad1d6f77bb/ss_71f425e5a24e3c9961237144644dabad1d6f77bb.1920x1080.jpg?t=1794923811",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 2866010,
+      "name": "Paschalis TD",
+      "description": "Build and upgrade towers to defend yourself against various enemies.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866010/47c132288e6f6d8e784786a2e7a9a42441d3db26/ss_47c132288e6f6d8e784786a2e7a9a42441d3db26.1920x1080.jpg?t=1794944097",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5426260,
+      "name": "Quiet Hours",
+      "description": "It's 2AM, the truck is loud, your friends are louder, and everybody on this street is a light sleeper. Quiet Hours is online co-op for 1–4 players on a night garbage route, where your real voice is noise the street can hear. Microphone strongly recommended.#",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5426260/03b6b99999c88ca16ad9485a9bf83be6c6fa8d19/ss_03b6b99999c88ca16ad9485a9bf83be6c6fa8d19.1920x1080.jpg?t=1794924625",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 4661800,
+      "name": "Base Boomers",
+      "description": "Fire cannons, blast holes through enemy walls and watch entire bases collapse in this chaotic physics-based destruction FPS for up to 4 players. Gather resources, build and defend your base. Play free-for-all or in teams. The last base standing wins!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661800/bb88ac3797691d304b0f40e1fa131df1744b1cbc/ss_bb88ac3797691d304b0f40e1fa131df1744b1cbc.1920x1080.jpg?t=1795190042",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5298740,
+      "name": "DDDig",
+      "description": "Nagged out of the house by his mother, an unemployed young man grabs a shovel and digs for riches. How deep can you go? *This game contains cognitive distortion, social isolation, body horror, blood, and themes of suicide.*",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298740/83acd5066e0b1eab883729469db8325af46fb15f/ss_83acd5066e0b1eab883729469db8325af46fb15f.1920x1080.jpg?t=1795038347",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5208230,
+      "name": "Popping Off",
+      "description": "An evolving bubble wrap simulator made of chain reactions and upgrades. Tune in, gear up, pop off.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208230/02a6673dc5db138af617d5a4c32d2fd115416493/ss_02a6673dc5db138af617d5a4c32d2fd115416493.1920x1080.jpg?t=1794938141",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5115040,
+      "name": "Quest Dice",
+      "description": "A solo gamebook with a real, physics-rolled d20. Read the story, make your choices, roll the dice and live with the result. Create your hero, play handcrafted adventures in 22 languages, or write and share your own books.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115040/431e5c93d4b0d9a542101ef590d397df8aaa6013/ss_431e5c93d4b0d9a542101ef590d397df8aaa6013.1920x1080.jpg?t=1794944441",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5604610,
+      "name": "ALL PASSENGERS BUCKLE UP",
+      "description": "Run a budget airline in 1-6 player co-op. Check passports, load the bags, fly the route and keep the passengers fed while the jet catches fire around you. Take bribes, dodge storms and climb onto the roof mid-flight. Hit the quota or the whole crew is fired.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5604610/80f3a0dc50f30000b5e57ad405e32947f24cc24e/ss_80f3a0dc50f30000b5e57ad405e32947f24cc24e.1920x1080.jpg?t=1794936368",
+      "firstSeen": "2026-11-17T11:15:41.924Z",
+      "mechanic": "incremental",
+      "score": 10
+    },
     {
       "id": 5598710,
       "name": "Million Layer Gift Simulator",
@@ -36,15 +144,6 @@
       "firstSeen": "2026-11-17T11:15:41.924Z",
       "mechanic": "party",
       "score": 9
-    },
-    {
-      "id": 5602420,
-      "name": "Break Even",
-      "description": "You owe your boss a billion dollars. Smash repossessed furniture with a hammer, set off chain reactions, and spend the coins on bigger hammers and upgrades in this active incremental roguelite. Can’t make the payment? You’re fired.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5602420/85ff41e7612c6523922734f71cd7a3f4558a5367/ss_85ff41e7612c6523922734f71cd7a3f4558a5367.1920x1080.jpg?t=1795180808",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
-      "score": 8
     },
     {
       "id": 5601220,
@@ -126,6 +225,15 @@
       "firstSeen": "2026-11-17T11:15:41.924Z",
       "mechanic": "simulator",
       "score": 8
+    },
+    {
+      "id": 5602420,
+      "name": "Break Even",
+      "description": "You owe your boss a billion dollars. Smash repossessed furniture with a hammer, set off chain reactions, and spend the coins on bigger hammers and upgrades in this active incremental roguelite. Can’t make the payment? You’re fired.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5602420/85ff41e7612c6523922734f71cd7a3f4558a5367/ss_85ff41e7612c6523922734f71cd7a3f4558a5367.1920x1080.jpg?t=1795180808",
+      "firstSeen": "2026-11-17T11:15:41.924Z",
+      "mechanic": "incremental",
+      "score": 7
     },
     {
       "id": 5602250,
@@ -230,7 +338,7 @@
       "id": 4453940,
       "name": "ANTARIUM 2",
       "description": "Long ago, the Old Colony filled these depths. Now your queen begins to dig. Grow a living ant colony in a cross-section of the earth, automate it with belts and machines, survive storms and raids, wake the ancient Engine, then fly to found a stronger colony.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453940/34e7b92bf688b7078c846eb0bbbff4a6822e6a01/ss_34e7b92bf688b7078c846eb0bbbff4a6822e6a01.1920x1080.jpg?t=1795125921",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453940/34e7b92bf688b7078c846eb0bbbff4a6822e6a01/ss_34e7b92bf688b7078c846eb0bbbff4a6822e6a01.1920x1080.jpg?t=1795288883",
       "firstSeen": "2026-11-17T02:52:05.091Z",
       "mechanic": "physics",
       "score": 8
@@ -338,7 +446,7 @@
       "id": 5581730,
       "name": "Phantom Shapes",
       "description": "An online co-op horror party game for 2 to 7 players. The Phantom hides a cursed shape that looks like a normal object and protects it. Up to 6 Workers search the map, argue about which thing is fake and confirm it before the Phantom catches them all. No microtransactions.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581730/7332dbd88708e0a655388f95f7d2519dd5b5a9ca/ss_7332dbd88708e0a655388f95f7d2519dd5b5a9ca.1920x1080.jpg?t=1795280050",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581730/7332dbd88708e0a655388f95f7d2519dd5b5a9ca/ss_7332dbd88708e0a655388f95f7d2519dd5b5a9ca.1920x1080.jpg?t=1795293556",
       "firstSeen": "2026-11-16T19:53:53.168Z",
       "mechanic": "party",
       "score": 7
@@ -432,114 +540,6 @@
       "firstSeen": "2026-11-16T09:50:59.026Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 5503210,
-      "name": "TideLight",
-      "description": "Spend the summer with Nana June on Gull Island: fish the pond, the brook and the sea, fix up Grandpa's old boat and light the lighthouse again. Then come back five summers later and sail an archipelago of nine islands to relight their tidelights, one keeper and one fishy problem at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5503210/a75d281b1481e9549f9ecbb0a4cde0d77d0dd26c/ss_a75d281b1481e9549f9ecbb0a4cde0d77d0dd26c.1920x1080.jpg?t=1794804288",
-      "firstSeen": "2026-11-16T09:50:59.026Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5367810,
-      "name": "Blacksmith of sword master ~ IDLE ~",
-      "description": "■ Your Own Little Forge, Right on Your Desktop[BoS] Blacksmith of Sword Master ~IDLE~ is an idle RPG that runs in a small corner of your desktop.No matter what you're doing, the training never stops.Start with a humble forge and rise to become the greatest martial arts master!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5367810/2452958c8836c60a577b801d65daa72c7a0d973b/ss_2452958c8836c60a577b801d65daa72c7a0d973b.1920x1080.jpg?t=1794899119",
-      "firstSeen": "2026-11-16T09:50:59.026Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5588570,
-      "name": "My Cat Cafe Simulator",
-      "description": "Build your dream cat café! Adopt adorable cats, care for them, and fill your café with love. Decorate your space, collect unique cats, play with your furry friends, and welcome happy customers. Grow your business and create the ultimate cozy paradise for CAT !!!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5588570/c6f48ad5172ec45ebb4c788dcebea8de5ef99004/ss_c6f48ad5172ec45ebb4c788dcebea8de5ef99004.1920x1080.jpg?t=1795173969",
-      "firstSeen": "2026-11-16T02:12:58.277Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4511810,
-      "name": "Idle Slot Machine",
-      "description": "Build a bustling pixel-art casino in this idle management game. Hire monkeys to spin your slots, combine machines and chain reactions, shape your skill tree, and prestige for lasting progress. Collect cosmetics and take on challenges beyond the casino floor.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511810/a690d0433abb089fd38546824eab5f8776557c31/ss_a690d0433abb089fd38546824eab5f8776557c31.1920x1080.jpg?t=1794790933",
-      "firstSeen": "2026-11-16T02:12:58.277Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5463090,
-      "name": "NoroiStation",
-      "description": "This console is cursed. Play the cartridges one by one on an old CRT. If something is wrong, reset at once.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5463090/b1f42efd4ca8cc47d7b918544a43c6d501c5b9dc/ss_b1f42efd4ca8cc47d7b918544a43c6d501c5b9dc.1920x1080.jpg?t=1794837462",
-      "firstSeen": "2026-11-16T02:12:58.277Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5238330,
-      "name": "Incremental Dungeoncrawler",
-      "description": "An Incremental Party-Based RPG inside an endless ASCII dungeon. Command a squad of 4 unique heroes, crawl through procedurally generated grids, and strategically unlock massive, custom skill trees. No mindless backtracking! Only forward progression, permanent prestige, and numbers going up!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5238330/ed88396d75574cbb7f341446b0874f0b86f63765/ss_ed88396d75574cbb7f341446b0874f0b86f63765.1920x1080.jpg?t=1794782919",
-      "firstSeen": "2026-11-16T02:12:58.277Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5475590,
-      "name": "Choo City",
-      "description": "Choo City is a cozy train puzzle game. Lay tracks, flip switches and dispatch your trains to deliver coal, wood and people to construction sites. Avoid crashes, beat the clock and build 24 unique buildings to bring your toy town to life.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475590/47e3308b7cd636db7de8df016a06b3129fc1946b/ss_47e3308b7cd636db7de8df016a06b3129fc1946b.1920x1080.jpg?t=1794948979",
-      "firstSeen": "2026-11-15T22:07:25.738Z",
-      "mechanic": "incremental",
-      "score": 9
-    },
-    {
-      "id": 5464540,
-      "name": "Space Nanny",
-      "description": "A chaotic sci-fi multitasking game where minigames share controls and an alien baby keeps pressing the wrong buttons. Juggle multiple challenges, fling the baby away, and undo its mischief before alarms, smoke, and blackouts overwhelm your board. Remember: Never let him press the big red button!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5464540/4b256227e545e76fe5fd0145d178334745f82246/ss_4b256227e545e76fe5fd0145d178334745f82246.1920x1080.jpg?t=1794772399",
-      "firstSeen": "2026-11-15T22:07:25.738Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4801630,
-      "name": "Us Against Wood",
-      "description": "Us Against Wood is a co-op casual game where you and your friends share one simple goal: chop down a single enormous tree. Work together or alone to carve deeper into the trunk.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801630/57c2d943db88e89027ab197a32cbf73927021bb6/ss_57c2d943db88e89027ab197a32cbf73927021bb6.1920x1080.jpg?t=1794770690",
-      "firstSeen": "2026-11-15T22:07:25.738Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5356450,
-      "name": "That Mountain Needs to Fall",
-      "description": "An incremental game about dwarves and mining. Send your dwarves against the mountain, watch the ore fly and turn a single house into an army of different dwarves. Call the heroes of Ragnarok, conquer the mountain, unleash Ragnarok and start over stronger with Odin's blessings.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5356450/52d5cda35656a2006e49844d7731592ab800b1be/ss_52d5cda35656a2006e49844d7731592ab800b1be.1920x1080.jpg?t=1794170815",
-      "firstSeen": "2026-11-15T22:07:25.738Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4843470,
-      "name": "Most Games Flop",
-      "description": "You’re 12. It’s 2006. You’ve got the family laptop and one dream: make a hit on Studz. Plan every month, build games, chase the algorithm and survive copycats for 20 years. Most games flop. Try anyway. Then do it again with up to 7 friends online.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843470/13c3eb65ac7155ea9d5d28facd757dc041f02361/ss_13c3eb65ac7155ea9d5d28facd757dc041f02361.1920x1080.jpg?t=1794770234",
-      "firstSeen": "2026-11-15T22:07:25.738Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 4434530,
-      "name": "9 Layers of Hell",
-      "description": "Carve through thousands of demons on your way down the nine layers of Hell. Combine your own spells, chase legendaries that rewrite your build and craft the perfect gear between waves. A horde survivor with the loot of an action RPG. How deep can you and your party go?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434530/f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b/ss_f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b.1920x1080.jpg?t=1795217813",
-      "firstSeen": "2026-11-15T22:07:25.738Z",
-      "mechanic": "physics",
-      "score": 6
     }
   ]
 }
