@@ -1,6 +1,42 @@
 {
-  "checkedAt": "2026-11-20T22:35:57.901Z",
+  "checkedAt": "2026-11-21T03:25:58.363Z",
   "games": [
+    {
+      "id": 5554430,
+      "name": "Butt Out!",
+      "description": "The neighbors are coming to drag you off the toilet. Feed the hero, combine foods, and aim a flexible pipe in this arcade wave defense game. Unlock new projectiles, stock up on food, build obstacles, and choose your upgrade path.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554430/4dedf6578a98391ed2e1f0d222ad651dec541346/ss_4dedf6578a98391ed2e1f0d222ad651dec541346.1920x1080.jpg?t=1795092945",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5551820,
+      "name": "Pave The Universe",
+      "description": "Your home planet sent you and your alien crew with one job: pave the whole planet, every last square metre. Dig, level, cut pavers to size, build factories and robots, and turn a wild little world into one giant parking lot. Solo or with up to 8 friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5551820/dcad7e8ca69fefcdfd914d86bf50415852bf5420/ss_dcad7e8ca69fefcdfd914d86bf50415852bf5420.1920x1080.jpg?t=1795112878",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5549530,
+      "name": "A Gift for Everyone",
+      "description": "New Year's is almost here! A mountain of gifts is piled up under a giant Christmas tree, with a toy in every box. Start with your bare mittens, sell the toys to Father Frost, hire a dwarf and mechanical arms, bring up to three friends and keep going until the last box is open. All 100,000 of them.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549530/21fdad477450cc2ba14c254aaa74dcd71390813b/ss_21fdad477450cc2ba14c254aaa74dcd71390813b.1920x1080.jpg?t=1794850282",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "simulator",
+      "score": 9
+    },
+    {
+      "id": 5486540,
+      "name": "Age of Balls",
+      "description": "Lead your own countryball, grow your army and build up your nation. Besiege cities, expand through diplomacy and conquer the world!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5486540/85833b4b0b393b581349bba53c2bc0f6fa52be2d/ss_85833b4b0b393b581349bba53c2bc0f6fa52be2d.1920x1080.jpg?t=1794932103",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 9
+    },
     {
       "id": 1333930,
       "name": "World's Worst Handyman",
@@ -9,6 +45,42 @@
       "firstSeen": "2026-11-16T19:53:53.168Z",
       "mechanic": "simulator",
       "score": 9
+    },
+    {
+      "id": 5522360,
+      "name": "Seek Lot",
+      "description": "Evolve a tiny neural-net brain that learns to drive a scrap buggy across 12 hazard-filled lots. Watch 100 ghost buggies a generation get sharper, buy sensors and upgrades, race your own or a friend's ghost (SL1: codes), export GIF bloopers, and prestige your lab. Pay once: no IAP.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5522360/af3a4b088a9efaf7503eeb405d187daf6eda0da1/ss_af3a4b088a9efaf7503eeb405d187daf6eda0da1.1920x1080.jpg?t=1794830451",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5297630,
+      "name": "MAYBE YOU!",
+      "description": "Somewhere in that herd of 30 animals, one is a real person. Find them and shoot first. Your 29 NPC teammates move on your ping. Killed by an NPC? Possess an ally and keep hunting. You only lose to the real player. A 1v1 hide-and-seek FPS across a resort, sinking pirate ships and a Halloween castle.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5297630/01159cf66302b40fa453f25910bb08d921eefbbd/ss_01159cf66302b40fa453f25910bb08d921eefbbd.1920x1080.jpg?t=1794835761",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4378240,
+      "name": "Tidy Up",
+      "description": "A peaceful cleaning and organizing game where you explore different locations, collect trash, clean stains, and arrange items to turn mess into perfection.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4378240/ec7a75fa740a6c6b9e0eb4877464e2a5c14e4382/ss_ec7a75fa740a6c6b9e0eb4877464e2a5c14e4382.1920x1080.jpg?t=1794847638",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 3806350,
+      "name": "Harventure",
+      "description": "Harvest, collect and upgrade! Harventure is a short incremental game about harvesting and using resources on upgrades to purify islands from corruption.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806350/32d82b19d7a4ad43f968be0a5b22dbe3961358c7/ss_32d82b19d7a4ad43f968be0a5b22dbe3961358c7.1920x1080.jpg?t=1794846530",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "incremental",
+      "score": 8
     },
     {
       "id": 3024700,
@@ -27,6 +99,78 @@
       "firstSeen": "2026-11-16T19:53:53.168Z",
       "mechanic": "party",
       "score": 8
+    },
+    {
+      "id": 5581730,
+      "name": "Phantom Shapes",
+      "description": "A funny online hide-and-seek horror game for 2 to 7 players. One of you is the Phantom and hides a cursed shape on the map. The others work the night shift with flashlights, a Scanner and Ghost Salt, and must find it before time runs out or the Phantom catches them all. No microtransactions.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581730/7332dbd88708e0a655388f95f7d2519dd5b5a9ca/ss_7332dbd88708e0a655388f95f7d2519dd5b5a9ca.1920x1080.jpg?t=1795077615",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5070980,
+      "name": "Who?",
+      "description": "Who? is a game of deduction and chaos among friends. Each player uploads any photo from their computer, which is assigned to another participant. Everyone can see the others’ images, but not their own, and asks questions that can only be answered with “yes” or “no” to discover who—or what—they are.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070980/dd5523567aace10579dc5b35c9fd47f18c4d84a3/ss_dd5523567aace10579dc5b35c9fd47f18c4d84a3.1920x1080.jpg?t=1794836320",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5577740,
+      "name": "Arcadeous",
+      "description": "Own an arcade from minute one. Fill the floor with cabinets you can walk up to and actually play, set the ticket payout, stock the prize counter and keep the crowd coming back. A first-person arcade management sim where every machine is a real game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577740/59ada435638a8cd9d0f9f0865cfc23664c150114/ss_59ada435638a8cd9d0f9f0865cfc23664c150114.1920x1080.jpg?t=1794858620",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5543640,
+      "name": "Gang Birds",
+      "description": "Gang Birds is a turn-based game of bluffing and social deduction for 4–16 players. Uncover secret teams, play unexpected cards and aim at the right bird. Customize your character, question every alibi and decide who you can still trust around the table.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5543640/73972f25f47f2a09e5cbc5912124f922d6fb2d17/ss_73972f25f47f2a09e5cbc5912124f922d6fb2d17.1920x1080.jpg?t=1795092284",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5446860,
+      "name": "Eyelord Returns",
+      "description": "Eyelord is an intense, fast-paced, heavy metal match-3 pop 'em up. It is a relentless massacre of innocent rolling eyeballs, using a mouse, touchscreen, or game controller. Get into the flow alone, or bring a friend to the slaughter!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446860/72a9a3d11c9d348dadc51fe00a3e12c95e4d7f83/ss_72a9a3d11c9d348dadc51fe00a3e12c95e4d7f83.1920x1080.jpg?t=1794844222",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5349620,
+      "name": "Pluralys: Exp.14",
+      "description": "Discover Pluralys: Exp.14, a cozy indie adventure. Play as Elie on a day that seems ordinary... until his/her house fills up with friends and strangers. Why are they there, and how will you handle the situation? There's only one way to find out...",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5349620/09a947d8dede5ff91b3242390ba479e555107743/ss_09a947d8dede5ff91b3242390ba479e555107743.1920x1080.jpg?t=1794858442",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3869250,
+      "name": "Auto Grind: Dungeons",
+      "description": "AUTO GRIND: DUNGEONS is a singleplayer auto-attack dungeon crawler that fuses party management with snap decisions. Build your party, synergize skills and masteries, discover unique relics, craft items and adapt your allies' combat tactics in real time as you fight your way through enemy hordes!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3869250/f32aece43ad2e63ce04c3c101ede72d78ea65d89/ss_f32aece43ad2e63ce04c3c101ede72d78ea65d89.1920x1080.jpg?t=1794849577",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3584130,
+      "name": "Swarm Chess",
+      "description": "Chess with thousands of pieces. Place your towers then relax and watch the chaos of battle unfold in this incremental auto battler.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584130/d2ed154ce0d78fd7e11dcafdf5c163159a6d8e82/ss_d2ed154ce0d78fd7e11dcafdf5c163159a6d8e82.1920x1080.jpg?t=1794928765",
+      "firstSeen": "2026-11-16T19:53:53.168Z",
+      "mechanic": "incremental",
+      "score": 6
     },
     {
       "id": 2519750,
@@ -69,15 +213,6 @@
       "name": "TideLight",
       "description": "Spend the summer with Nana June on Gull Island: fish the pond, the brook and the sea, fix up Grandpa's old boat and light the lighthouse again. Then come back five summers later and sail an archipelago of nine islands to relight their tidelights, one keeper and one fishy problem at a time.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5503210/a75d281b1481e9549f9ecbb0a4cde0d77d0dd26c/ss_a75d281b1481e9549f9ecbb0a4cde0d77d0dd26c.1920x1080.jpg?t=1794804288",
-      "firstSeen": "2026-11-16T09:50:59.026Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5494590,
-      "name": "Anef Liffa : Tree of Hope",
-      "description": "Anef Liffa : Tree of Hope is a story about a tree in the town Van Dyck. Explore the town, talk with people and solve problems with puzzles.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5494590/366d5e5b3ec86b7c7a0cbf16e9f3ea5d1ed3ac49/ss_366d5e5b3ec86b7c7a0cbf16e9f3ea5d1ed3ac49.1920x1080.jpg?t=1794808348",
       "firstSeen": "2026-11-16T09:50:59.026Z",
       "mechanic": "physics",
       "score": 6
@@ -176,7 +311,7 @@
       "id": 4434530,
       "name": "9 Layers of Hell",
       "description": "Carve through thousands of demons on your way down the nine layers of Hell. Combine your own spells, chase legendaries that rewrite your build and craft the perfect gear between waves. A horde survivor with the loot of an action RPG. How deep can you and your party go?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434530/f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b/ss_f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b.1920x1080.jpg?t=1795200719",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434530/f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b/ss_f2c13c6caa6bd8eb92d0c445280b0f7dcae3148b.1920x1080.jpg?t=1795217813",
       "firstSeen": "2026-11-15T22:07:25.738Z",
       "mechanic": "physics",
       "score": 6
@@ -371,15 +506,6 @@
       "score": 8
     },
     {
-      "id": 5384360,
-      "name": "Buzzwire",
-      "description": "Host your own buzz-in quiz show. Run it from your PC, put the board on your stream or Discord, and friends buzz in from their phones with a 6-letter room code. Or hand out controllers and play on one TV.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5384360/616b16d0eca8ce19fc6538ca4ec55a161f5e6d80/ss_616b16d0eca8ce19fc6538ca4ec55a161f5e6d80.1920x1080.jpg?t=1794710257",
-      "firstSeen": "2026-11-15T03:09:42.094Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
       "id": 2921670,
       "name": "Cultivation Realm: Card Survival",
       "description": "Cultivation Realm: Card Survival is a cultivation survival game built around card-based interactions. Trapped in a mysterious realm that drains your lifespan but brims with spirit power, you must cultivate, survive, fight, and find a way to escape.",
@@ -413,132 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5487890/f1b41029b0d9e18ed189997b9b7ba0090b1f5163/ss_f1b41029b0d9e18ed189997b9b7ba0090b1f5163.1920x1080.jpg?t=1794692141",
       "firstSeen": "2026-11-14T23:49:06.030Z",
       "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5235520,
-      "name": "How to Hunt",
-      "description": "A 1-4 player physics based hunting simulator. You and your friends crash your boat while on vacation. You must survive till you find a way back home.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235520/3a3a8ee0184baa114f68e5d85e15505e48328a11/ss_3a3a8ee0184baa114f68e5d85e15505e48328a11.1920x1080.jpg?t=1794974768",
-      "firstSeen": "2026-11-14T23:49:06.030Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
-      "id": 5015000,
-      "name": "Crafty Idle",
-      "description": "Crafty Idle is a Minecraft inspired idle RPG where every skill strengthens the rest. Mine and craft your way to the strongest gear, take down monsters that each have their own weakness to exploit, and optimize your farming by chasing down the best genes. Progress never stops, even offline.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015000/45d96dbcef84bea77e91f998f8ad68ba133aca58/ss_45d96dbcef84bea77e91f998f8ad68ba133aca58.1920x1080.jpg?t=1794698498",
-      "firstSeen": "2026-11-14T23:49:06.030Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5540280,
-      "name": "Caldera County",
-      "description": "Your callsign is Air Attack 51. Circling overhead, your job is to call in aerial drops and direct ground crews against a fire that spreads with the wind, terrain and fuel. You must hold the line and protect every structure you can, but keeping people safe (including your units) is top priority.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540280/af6384fcb80a0f94e6058553192e6360a0f974e3/ss_af6384fcb80a0f94e6058553192e6360a0f974e3.1920x1080.jpg?t=1795212623",
-      "firstSeen": "2026-11-14T23:49:06.030Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 4825930,
-      "name": "Cozy Corner Cafe",
-      "description": "Brew, upgrade, and relax! Build your dream coffee shop in Cozy Corner Cafe, a charming idle tycoon game. Automate prep stations, hire staff, handle in-store and online orders, and unlock upgrades through an extensive skill tree.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4825930/334c68a5ed466b5436bb75d0d5fcb3a77ada44d5/ss_334c68a5ed466b5436bb75d0d5fcb3a77ada44d5.1920x1080.jpg?t=1794676268",
-      "firstSeen": "2026-11-14T19:57:24.496Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4434640,
-      "name": "The Long Mine",
-      "description": "An incremental mining game with fully destructible caves. Every pickaxe strike removes an actual piece of rock. Mine ores, sell them, and buy upgrades. Upgrades are not just +10% damage. Equipment and Curses change how you mine, move and explore. Combine them to create your own build.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434640/f3754aa48aa1402377f4e2a7e7131eb3faa90627/ss_f3754aa48aa1402377f4e2a7e7131eb3faa90627.1920x1080.jpg?t=1795212481",
-      "firstSeen": "2026-11-14T19:57:24.496Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5415730,
-      "name": "Note Defender: A Sight Reading Arcade",
-      "description": "Memorize the notes on the treble and bass staffs as well as 9 ledger lines above and below them. This covers every key of a standard 88 key piano and most instruments.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5415730/5fcf4a8a3137a26904e81ee6a1894c2ceecd21cc/ss_5fcf4a8a3137a26904e81ee6a1894c2ceecd21cc.1920x1080.jpg?t=1794679470",
-      "firstSeen": "2026-11-14T19:57:24.496Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4566900,
-      "name": "Those UnderHex",
-      "description": "A strategy roguelite about rebuilding the portal lands. Reveal dark hexes with beams of light and bring supplies home. Protect your workers, combine tower weapons and face successive monster waves. Each night, your people need food and shelter.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566900/c4165c80b3bec88de485106bd2e24e5931cc2cfe/ss_c4165c80b3bec88de485106bd2e24e5931cc2cfe.1920x1080.jpg?t=1794683824",
-      "firstSeen": "2026-11-14T19:57:24.496Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 1353450,
-      "name": "VoltHaven",
-      "description": "Build electric grid in small settlement. Advance from outdated generators to modern powerplants, use fossils and renewables. Accomodate growing customer base and weather changes. Farms or mines provide extra income. Map-free layout with drag-and-drop simplicity. Simulation based on european data.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1353450/41b08a08fc9702e61271957630878dfb694f0a17/ss_41b08a08fc9702e61271957630878dfb694f0a17.1920x1080.jpg?t=1794672820",
-      "firstSeen": "2026-11-14T19:57:24.496Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5585090,
-      "name": "Mine a Little",
-      "description": "Mine a Little is a fun and relaxing mining game! Control your pickaxe with your mouse, smash rocks, and collect valuable ores! Upgrade your pickaxe, break tougher rocks, and unlock new mining areas as you work your way toward becoming the ultimate miner!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5585090/8bff4d738b99cffeac173f08c9c33bad28418de1/ss_8bff4d738b99cffeac173f08c9c33bad28418de1.1920x1080.jpg?t=1794901239",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5540170,
-      "name": "Idle Puzzler",
-      "description": "Puzzle shops don't run themselves. Yours will, eventually. Solve Sudoku, word locks and colour codes, hire staff who keep solving while you're away, and watch a market stall grow into something much bigger.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5540170/c1db72122581fcdf0cd0e8137060baf87a4c4b2e/ss_c1db72122581fcdf0cd0e8137060baf87a4c4b2e.1920x1080.jpg?t=1794863081",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5537570,
-      "name": "Alt-Tab Legend",
-      "description": "An incremental multiboxing game where you run every game at once on one PC. Pull games from blind boxes, pack hardware into a grid case, place plugins on your keyboard, and raise Keysprites to hit keys for you. No game over, just more games every night.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5537570/eab5caffb5348d150853429fa53908c71362db9b/ss_eab5caffb5348d150853429fa53908c71362db9b.1920x1080.jpg?t=1795152907",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5513330,
-      "name": "Jester`s Anger",
-      "description": "A fast deckbuilding roguelike boomer shooter where your deck is your ammo. Hurl paint cards, playing cards and tarot spells to smash marble chess pieces to rubble, heal on their shards, and take revenge on The Hands - the giant chess player who ate the Jester's cake.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513330/08002e67b5eb07c17e666fa264cf64b30bc5af68/ss_08002e67b5eb07c17e666fa264cf64b30bc5af68.1920x1080.jpg?t=1794802088",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5490260,
-      "name": "Coal Rush 1990",
-      "description": "Eastern Europe, 1990s. Janusz is 21,370,000 PLN in debt, and an inherited coal mine might be his only way out! Dig for resources, hire workers, build machines, and automate production. Start with a shovel, build a mining empire, and pay off your debt before the creditors come knocking!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490260/4ce5cae5b6c14b54dc4155a056e816d9ffa63680/ss_4ce5cae5b6c14b54dc4155a056e816d9ffa63680.1920x1080.jpg?t=1794644718",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5246420,
-      "name": "Dash It!",
-      "description": "A pixel platformer about jumping and dashing. Race up to 8 players in real time, chase the world No. 1 ghost in Time Attack, clear 72 stages across 12 themes, and build and share your own maps. Hang out in the lobby, change outfits and decorate your own house.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246420/c4d657ecbe3603d82c54d0e2c2203d11dc8f6ba4/ss_c4d657ecbe3603d82c54d0e2c2203d11dc8f6ba4.1920x1080.jpg?t=1794666089",
-      "firstSeen": "2026-11-14T15:09:12.545Z",
-      "mechanic": "physics",
       "score": 8
     }
   ]
