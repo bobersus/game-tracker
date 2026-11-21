@@ -1,6 +1,114 @@
 {
-  "checkedAt": "2026-11-21T03:25:58.363Z",
+  "checkedAt": "2026-11-21T11:39:21.620Z",
   "games": [
+    {
+      "id": 4442220,
+      "name": "The Altar Boy Adventures",
+      "description": "Step into the shoes of Józef, a young man and altar server in a Polish village. Repair electronic equipment, prepare the sacristy for Mass, and help your neighbors. Experience a unique and moving adventure centered around liturgical service.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442220/076c9ec7e647b55157108c5f438cc237549cce09/ss_076c9ec7e647b55157108c5f438cc237549cce09.1920x1080.jpg?t=1794910750",
+      "firstSeen": "2026-11-17T11:15:41.924Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4238180,
+      "name": "Lone Tower",
+      "description": "Defend one tower. Face endless waves. Build synergies, unlock permanent upgrades, and survive the chaos.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238180/48aa37a4bfad733b6557dc7b7aa2dd49be2c2cb9/ss_48aa37a4bfad733b6557dc7b7aa2dd49be2c2cb9.1920x1080.jpg?t=1794889636",
+      "firstSeen": "2026-11-17T11:15:41.924Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5455710,
+      "name": "Plants Need Some Space",
+      "description": "The world's sweetest grocery starts with a little cozy chaos. A mafia boss tomato, a comrade potato, a disco lettuce, and dozens more oddballs who can't stand each other. Good luck! Plant everyone in the right spot to sort out the chaos, sell the harvest, and design your own shop.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455710/2f1f6d70ed1b59c00692ee32d7dbac7d4cf7e5f6/ss_2f1f6d70ed1b59c00692ee32d7dbac7d4cf7e5f6.1920x1080.jpg?t=1794911021",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "simulator",
+      "score": 9
+    },
+    {
+      "id": 5603230,
+      "name": "Sad Virus Mythic Land",
+      "description": "Sad virus third person simulation adventure game series continue now in small map which include forest and castle themed adventure where mission avoid traps and collect bottles",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603230/ff5a4da21eb843f4c3e3a16676bb6fa3f254f1f6/ss_ff5a4da21eb843f4c3e3a16676bb6fa3f254f1f6.1920x1080.jpg?t=1794864712",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5577270,
+      "name": "Get Your Cards in a Row",
+      "description": "Your uncle Jeff left you his game shop, and it's been ransacked. Put over 25,000 things back where they belong in this first-person physics sim. Dig through the heaps, unlock rooms, upgrade your tools, and tidy up alone or with up to 3 friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577270/1fda38f669e3741b9b00cd7b2aca2bfa04530c10/ss_1fda38f669e3741b9b00cd7b2aca2bfa04530c10.1920x1080.jpg?t=1794874029",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5507780,
+      "name": "SCRAP RECLAIM スクラップ・リクレイム",
+      "description": "Clear mountains of junk, sell it, and upgrade your tools! Go from bare hands to a drill and a vacuum to collect faster, and team up with tiny robots to clean out the warehouse. Assemble your means of escape and break out of the warehouse!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507780/a104ffd0c7ea363c4082997305d8d3bd896521de/ss_a104ffd0c7ea363c4082997305d8d3bd896521de.1920x1080.jpg?t=1794881844",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5385570,
+      "name": "Idle Pirates",
+      "description": "A pirate-themed incremental idle game! Destroy crates, collect treasure and venture deep into ships to rescue your crew to help you haul in even more loot. Fight your way deep into ships and take down mighty bosses.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385570/cbcd5ef48f080ed8286613a4c8e4feb270c68416/ss_cbcd5ef48f080ed8286613a4c8e4feb270c68416.1920x1080.jpg?t=1795167677",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5117550,
+      "name": "Fart Together",
+      "description": "Fart Together is a physics-based co-op game where 2–4 players steer a shared raft using fart power. Coordinate your direction, timing and gas power with friends to overcome challenging obstacle courses.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117550/0306cd3c3c86eb5f1537e7f33d46165d12057b86/ss_0306cd3c3c86eb5f1537e7f33d46165d12057b86.1920x1080.jpg?t=1795160437",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4453940,
+      "name": "ANTARIUM 2",
+      "description": "Long ago, the Old Colony filled these depths. Now your queen begins to dig. Grow a living ant colony in a cross-section of the earth, automate it with belts and machines, survive storms and raids, wake the ancient Engine, then fly to found a stronger colony.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453940/34e7b92bf688b7078c846eb0bbbff4a6822e6a01/ss_34e7b92bf688b7078c846eb0bbbff4a6822e6a01.1920x1080.jpg?t=1795125921",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5603090,
+      "name": "Spin & Win: Casino Business Sim",
+      "description": "Their luck. Your business. Build your casino, work the floor, and hire a crew to keep the cash flowing. Draw crowds with live shows, then join your guests for poker, blackjack, or a spin on the slots.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603090/402323b165f252d3615f8fb043d203b63cf8948f/ss_402323b165f252d3615f8fb043d203b63cf8948f.1920x1080.jpg?t=1794871153",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5551130,
+      "name": "Vault Traitors",
+      "description": "Social deduction with MOBA-style abilities, 25+ roles, 50+ unique items, an arsenal of weapons and air that's running out. 16 players are sealed in an underground vault with traitors among them. Lock your door - and survive the night.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5551130/90b48660142f6940da3ebb13c61bbd37a1d024c3/ss_90b48660142f6940da3ebb13c61bbd37a1d024c3.1920x1080.jpg?t=1794866938",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5324270,
+      "name": "Chessboxing Arcade",
+      "description": "Chess Boxing Arcade is a 2D arcade take on the real sport: alternate between timed chess rounds and fast-paced boxing rounds. Win by checkmate, knockout or the clock against adaptive AI, friends locally, or opponents online.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5324270/7119b9f705b248071faa1892d24354caa8fa7de4/ss_7119b9f705b248071faa1892d24354caa8fa7de4.1920x1080.jpg?t=1794862617",
+      "firstSeen": "2026-11-17T02:52:05.091Z",
+      "mechanic": "physics",
+      "score": 6
+    },
     {
       "id": 5554430,
       "name": "Butt Out!",
@@ -29,15 +137,6 @@
       "score": 9
     },
     {
-      "id": 5486540,
-      "name": "Age of Balls",
-      "description": "Lead your own countryball, grow your army and build up your nation. Besiege cities, expand through diplomacy and conquer the world!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5486540/85833b4b0b393b581349bba53c2bc0f6fa52be2d/ss_85833b4b0b393b581349bba53c2bc0f6fa52be2d.1920x1080.jpg?t=1794932103",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
       "id": 1333930,
       "name": "World's Worst Handyman",
       "description": "Suit up as the &quot;World's Worst Handyman&quot; in this comedy stealth game where every job is a chaotic adventure! Dodge disgruntled clients, bungle repairs, and save your beloved animal shelter from bankruptcy.",
@@ -53,15 +152,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5522360/af3a4b088a9efaf7503eeb405d187daf6eda0da1/ss_af3a4b088a9efaf7503eeb405d187daf6eda0da1.1920x1080.jpg?t=1794830451",
       "firstSeen": "2026-11-16T19:53:53.168Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5297630,
-      "name": "MAYBE YOU!",
-      "description": "Somewhere in that herd of 30 animals, one is a real person. Find them and shoot first. Your 29 NPC teammates move on your ping. Killed by an NPC? Possess an ally and keep hunting. You only lose to the real player. A 1v1 hide-and-seek FPS across a resort, sinking pirate ships and a Halloween castle.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5297630/01159cf66302b40fa453f25910bb08d921eefbbd/ss_01159cf66302b40fa453f25910bb08d921eefbbd.1920x1080.jpg?t=1794835761",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
       "score": 8
     },
     {
@@ -401,7 +491,7 @@
       "id": 5593450,
       "name": "DAN DAN THE TIER LIST TOGETHER!",
       "description": "A co-op party game about tier lists. Only the host needs a copy; up to 111 guests join free in a browser on a phone or PC. Guess secret ranks and add words or images as your list grows. Build lists with no right or wrong answers in Tier Together!, or play solo with “My Tier!”.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593450/7c5ab911a82bfe344cc45d0f8fed0a1fe387f4f1/ss_7c5ab911a82bfe344cc45d0f8fed0a1fe387f4f1.1920x1080.jpg?t=1795125094",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593450/7c5ab911a82bfe344cc45d0f8fed0a1fe387f4f1/ss_7c5ab911a82bfe344cc45d0f8fed0a1fe387f4f1.1920x1080.jpg?t=1795250072",
       "firstSeen": "2026-11-15T11:05:20.169Z",
       "mechanic": "party",
       "score": 8
@@ -416,19 +506,10 @@
       "score": 8
     },
     {
-      "id": 5300330,
-      "name": "Drift Riot",
-      "description": "Drift Riot is an arcade racer where style is speed. Chain drifts, jumps and near misses into huge scores, outrun the Patrols in Heat Run, conquer 150 career courses, race leaderboard ghosts, and build tracks to share.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300330/bd363c04ace0d29fc1670a8841364c6331e33553/ss_bd363c04ace0d29fc1670a8841364c6331e33553.1920x1080.jpg?t=1795144098",
-      "firstSeen": "2026-11-15T11:05:20.169Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
       "id": 5590510,
       "name": "AntiClimatic",
       "description": "A physics based weather simulator where you change the weather patterns throughout 30+ scenarios.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5590510/686b9e0e6fec4b21dccd693e1c8ee718cd424c23/ss_686b9e0e6fec4b21dccd693e1c8ee718cd424c23.1920x1080.jpg?t=1794738047",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5590510/686b9e0e6fec4b21dccd693e1c8ee718cd424c23/ss_686b9e0e6fec4b21dccd693e1c8ee718cd424c23.1920x1080.jpg?t=1795240336",
       "firstSeen": "2026-11-15T11:05:20.169Z",
       "mechanic": "physics",
       "score": 6
@@ -459,87 +540,6 @@
       "firstSeen": "2026-11-15T11:05:20.169Z",
       "mechanic": "party",
       "score": 6
-    },
-    {
-      "id": 5461690,
-      "name": "Pay to Think",
-      "description": "An incremental game centered on intelligence as its core asset. Once, humanity became the master of the Earth by virtue of its intelligence; now, intelligence has found a new master. Intelligence no longer belongs to the smartest humans—it belongs to whoever possesses it.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5461690/9e240bc2680ae490cbe0893c16823b61cb38e9a6/ss_9e240bc2680ae490cbe0893c16823b61cb38e9a6.1920x1080.jpg?t=1794716975",
-      "firstSeen": "2026-11-15T11:05:20.169Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5186160,
-      "name": "Mow The Planet",
-      "description": "Start on Mum's back lawn and keep going: the street, the city, the planet, then the Moon, Mars and every world after that. Mow ground that stays mowed, bolt ridiculous kits onto one growing machine, and run a mowing company big enough to stripe the solar system.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5186160/a11db9b90815d82f74b95089fea0be4d8b5988b4/ss_a11db9b90815d82f74b95089fea0be4d8b5988b4.1920x1080.jpg?t=1794732540",
-      "firstSeen": "2026-11-15T11:05:20.169Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3369910,
-      "name": "Drunk Golf",
-      "description": "Drunk Golf is a 1-8 player multiplayer game where the more drunk you are -&gt; the further you shoot, but it also makes you wobblier. Master the physics-based swings, race &amp; drift across multiple courses, customize your look and mess with friends on the way to the lowest score.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3369910/803b788c24e9e17b37adfb330d2f6dec7fd676b5/ss_803b788c24e9e17b37adfb330d2f6dec7fd676b5.1920x1080.jpg?t=1794710021",
-      "firstSeen": "2026-11-15T03:09:42.094Z",
-      "mechanic": "physics",
-      "score": 9
-    },
-    {
-      "id": 5596070,
-      "name": "One More Jackpot!",
-      "description": "Your arcade is dying. Nobody comes in. So you play every machine yourself. An active arcade incremental: smash, upgrade, wire it up, hit the JACKPOT!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596070/5202deb67c7c9203f97491c57e9650b58141386e/ss_5202deb67c7c9203f97491c57e9650b58141386e.1920x1080.jpg?t=1795103172",
-      "firstSeen": "2026-11-15T03:09:42.094Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5485990,
-      "name": "Your \"Thing\"",
-      "description": "Finally, you can grow your own little thing. Water it, feed it, and experiment with your technique to shape how it grows. Every mushroom has its own size, patterns, and quirks. It lives right on your desktop, reacts to your touch, and sometimes gets up to mischief. How big will yours get?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5485990/7ac4f34b4e6abc597c164d002d74f9da328e0c6c/ss_7ac4f34b4e6abc597c164d002d74f9da328e0c6c.1920x1080.jpg?t=1794708394",
-      "firstSeen": "2026-11-15T03:09:42.094Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 2921670,
-      "name": "Cultivation Realm: Card Survival",
-      "description": "Cultivation Realm: Card Survival is a cultivation survival game built around card-based interactions. Trapped in a mysterious realm that drains your lifespan but brims with spirit power, you must cultivate, survive, fight, and find a way to escape.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2921670/6e7fdf7525d77e9fa4bc3c4adb47ef68441ce9e5/ss_6e7fdf7525d77e9fa4bc3c4adb47ef68441ce9e5.1920x1080.jpg?t=1794906873",
-      "firstSeen": "2026-11-15T03:09:42.094Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 4574740,
-      "name": "The Last Grave Job",
-      "description": "Online co-op horror for up to 4 players. Sneak into a cemetery at night, find the right graves, dig up the loot and haul it back to your wheelbarrow. Stay quiet, avoid the Keeper and get out alive.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574740/89e89ac0370e8cfbeca8353ebe1948fbf9ec896b/ss_89e89ac0370e8cfbeca8353ebe1948fbf9ec896b.1920x1080.jpg?t=1794694852",
-      "firstSeen": "2026-11-14T23:49:06.030Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
-      "id": 5575920,
-      "name": "One More Pop",
-      "description": "A cozy first-person incremental game about popping one million balloons. Shoot pins across a sunny meadow, chain combos and lightning, grow a constellation of 50 upgrades and watch the sky turn from sunrise to a starry night.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5575920/e57a02868f7c2e5b1f70c7c010607b728d6f818f/ss_e57a02868f7c2e5b1f70c7c010607b728d6f818f.1920x1080.jpg?t=1794947140",
-      "firstSeen": "2026-11-14T23:49:06.030Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5487890,
-      "name": "Golf Sim Sim",
-      "description": "Start with a bedsheet, a bargain-bin launch monitor, and a dream. Beat 40 arcade golf challenges, earn cash, and install 20 upgrades as you turn a janky garage setup into the ultimate home golf simulator.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5487890/f1b41029b0d9e18ed189997b9b7ba0090b1f5163/ss_f1b41029b0d9e18ed189997b9b7ba0090b1f5163.1920x1080.jpg?t=1794692141",
-      "firstSeen": "2026-11-14T23:49:06.030Z",
-      "mechanic": "simulator",
-      "score": 8
     }
   ]
 }
