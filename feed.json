@@ -1,6 +1,132 @@
 {
-  "checkedAt": "2026-11-22T11:53:42.235Z",
+  "checkedAt": "2026-11-22T19:26:28.008Z",
   "games": [
+    {
+      "id": 4797900,
+      "name": "Chodd",
+      "description": "The council of gods has no ruler, and you intend to keep it that way. A Difficult Coop roguelike: march your Warp Core across a hostile world, command your goons in real time, and play scheming gods against each other so none grow strong enough to stop you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797900/be93d27f4dd925083c6184e1d3a4db806cfd91aa/ss_be93d27f4dd925083c6184e1d3a4db806cfd91aa.1920x1080.jpg?t=1795008537",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "physics",
+      "score": 9
+    },
+    {
+      "id": 5479340,
+      "name": "An incremental city from a word search: Wordhood",
+      "description": "Build an incremental town powered by word searches. Wordhood is an addictive blend of finding words and watching numbers grow. Gather resources, combine upgrades, and unleash combos to grow a hungry town.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5479340/7ca4a606e8c536b79f7603e9467d851d6fef8dc5/ss_7ca4a606e8c536b79f7603e9467d851d6fef8dc5.1920x1080.jpg?t=1795041554",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5336790,
+      "name": "Cook & Sail",
+      "description": "A 1-4 player co-op restaurant that happens to be a ship. Work the day as a crew, keep hungry customers from walking out, and spend what you make on a vessel that can actually handle the job. The tables want a good meal. The fleet wants its share.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5336790/c6f706821a8709fb135ec90501f6c313094a3bbf/ss_c6f706821a8709fb135ec90501f6c313094a3bbf.1920x1080.jpg?t=1795021604",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4961680,
+      "name": "FATHOM",
+      "description": "Send your crew deep into an alien ocean in this pixel-art desktop companion idler. Research strange creatures, harvest and refine resources, expand your deep-sea research platform, and discover the secrets lurking beneath the waves.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961680/c1379fedf0269e60fd716a99ef374b01ebbcb42f/ss_c1379fedf0269e60fd716a99ef374b01ebbcb42f.1920x1080.jpg?t=1795025646",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4241310,
+      "name": "Oceanarium Fishing",
+      "description": "Fish, explore and survive in a co-op horror adventure for 1–4 players. Brave the ocean, upgrade your boat and build your aquarium. But save enough of your catch to feed the island’s Keeper: its daily quota is growing, and the water hides more than fish.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241310/16121fefaabbda17fdb29dc2959176bbba6c99d2/ss_16121fefaabbda17fdb29dc2959176bbba6c99d2.1920x1080.jpg?t=1795021140",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 2278200,
+      "name": "Compicactus",
+      "description": "Compi is a little cactus on your windowsill, and it wants to keep a diary. Help it write about your days with a few taps: the people you love, what you did and how you felt. Watch it grow and bloom, dress it up, and read your days as Compi saw them.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278200/70bc5b9d8521f885c44b3338f5584ad0a3aa8b1e/ss_70bc5b9d8521f885c44b3338f5584ad0a3aa8b1e.1920x1080.jpg?t=1795094375",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 1699300,
+      "name": "Caboosh",
+      "description": "Caboosh! is a roguelite where you build a train one silly wagon at a time. Every car has its own effects and synergies, so line up the combos, stack the crates waaay up high and pray the money outruns the fuel bill!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1699300/74d8d462c9a6a022c466b99f6cc6fe9f6637e7e4/ss_74d8d462c9a6a022c466b99f6cc6fe9f6637e7e4.1920x1080.jpg?t=1795026063",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5199150,
+      "name": "9 Box",
+      "description": "Ten players. Nine boxes. Grab a box, pick one of two abilities, take aim — then every ability fires at the same moment. Fast, chaotic online battles for up to 10 toys in a giant kid's bedroom. Matches last under 5 minutes.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5199150/11f8ad53b5b6e81623e4999ef1055b91f97a9802/ss_11f8ad53b5b6e81623e4999ef1055b91f97a9802.1920x1080.jpg?t=1795348299",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 4999380,
+      "name": "Haunted! But Sorted.",
+      "description": "It's 1996. Wojak needs money, and his girlfriend Dodoo is counting on him. His job: the night shift at a shop in the middle of a graveyard. Haul in deliveries, sort every product and keep one eye on the dark. Play solo or co-op, but don't go outside alone.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4999380/c4742596b7da7900c6583f6c533cb3db6485b9f2/ss_c4742596b7da7900c6583f6c533cb3db6485b9f2.1920x1080.jpg?t=1795008620",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 4304890,
+      "name": "Mad Scientist Simulator – Society of World Destruction",
+      "description": "Run a mad science shop by day, pilot a giant robot by night. In this 1-4 player co-op comedy sim you stock shelves, brew unstable potions and expose undercover agents - then split the robot's controls with your friends to flatten 5 cities and beat 5 superheroes.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304890/83a97f4e03ff082551d0eb959f459fbc124d5f8a/ss_83a97f4e03ff082551d0eb959f459fbc124d5f8a.1920x1080.jpg?t=1795026667",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 4206100,
+      "name": "SlotsNStocks",
+      "description": "Rig the market in this deckbuilding slot machine roguelite. Draft hundreds of bullish and bearish symbols, build money-making combinations, and manipulate the odds in your favor. Adapt to an ever-shifting market and make enough to survive your next margin call.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4206100/e9a2da55d7afd0ccc8c7fbc93630b1bf133b99c7/ss_e9a2da55d7afd0ccc8c7fbc93630b1bf133b99c7.1920x1080.jpg?t=1795015887",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5310790,
+      "name": "Paradice Run Club",
+      "description": "Roll dice, gather resources, and hit the target! Paradice Run Club is a precision strategy roguelike where players get as close as possible to a target number. Compete with other runners or against your own records to follow those targets as they climb from 17, to 21, to 100!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5310790/b38c2046cb874e40bed9bbb2b6fb249ad2ff0ebd/ss_b38c2046cb874e40bed9bbb2b6fb249ad2ff0ebd.1920x1080.jpg?t=1795039984",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "party",
+      "score": 5
+    },
+    {
+      "id": 5124580,
+      "name": "Überlauf",
+      "description": "Build a mine with cards on a freshly rolled voxel island: place mines, lay belts, smelt ore into ingots. You get 75 seconds per round. Then your jokers multiply the takings until the number catches fire. A roguelike blend of factory building and cards.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124580/1cfad0abd8a663fda69a85241887efee38d78913/ss_1cfad0abd8a663fda69a85241887efee38d78913.1920x1080.jpg?t=1795009686",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5582710,
+      "name": "Gun Party",
+      "description": "Roll for stars. Sabotage your friends. Gun Party packs 5 boards and 79 mini-games into one chaotic party night, from cart crashes to crew disasters and horror rounds. Play with 2–10 online or up to 4 in couch split-screen. Full controller support. Add bots to any match.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582710/bc8c9112d5d3432860188b6d8817d1a51f7b09c3/ss_bc8c9112d5d3432860188b6d8817d1a51f7b09c3.1920x1080.jpg?t=1795119848",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "party",
+      "score": 8
+    },
     {
       "id": 5580180,
       "name": "SERPENTER",
@@ -83,6 +209,24 @@
       "score": 8
     },
     {
+      "id": 5608020,
+      "name": "Flag Boom! Chronicles",
+      "description": "Plant your flag on a fort and your WHOLE ARMY DOUBLES! A pixel-art RTS where hundreds of archers, spearmen and cavalry clash in a rock-paper-scissors war. Pick a unit type, march, seize forts and watch your army explode. 20 stages, 4 giant bosses.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5608020/bb53490a6da71e00e7d173664a01ebf14d13f94f/ss_bb53490a6da71e00e7d173664a01ebf14d13f94f.1920x1080.jpg?t=1794988627",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5604090,
+      "name": "Corner Club",
+      "description": "A tiny pixel nightclub living in the corner of your desktop. Put on any music and the dancers move on its beat!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5604090/6facaec5f320f57ad440870574fa0dc6b84ea68f/ss_6facaec5f320f57ad440870574fa0dc6b84ea68f.1920x1080.jpg?t=1795088765",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
       "id": 5416340,
       "name": "Fish Fish Pop",
       "description": "A slow, cozy match-three under the sea. Swap, pop, and pick a new card every round. Thirty rounds, no timer, and you can't lose. The only question is how few moves you need. Oh, and the sea has secrets.",
@@ -99,15 +243,6 @@
       "firstSeen": "2026-11-18T10:20:00.694Z",
       "mechanic": "incremental",
       "score": 6
-    },
-    {
-      "id": 3998620,
-      "name": "Beetle Battle Bros",
-      "description": "Chaotic 1v1 physics-based beetle sumo fights. Play against your friend in this easy-to-pick-up 3D fighter where beetles battle in sumo-style arenas - the rule is simple: knock your opponent off for a silly, fun time. Plus a Rocket League-style Beetle Ball mode!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998620/d0f30a93afc9171271523a4221ac70fffb7bc126/ss_d0f30a93afc9171271523a4221ac70fffb7bc126.1920x1080.jpg?t=1794964826",
-      "firstSeen": "2026-11-18T10:20:00.694Z",
-      "mechanic": "party",
-      "score": 5
     },
     {
       "id": 5603370,
@@ -221,7 +356,7 @@
       "id": 5582130,
       "name": "Christmas TCG Tidy Up Together",
       "description": "Tidy up nearly 5,000 festive trading cards scattered across the floor of a Christmas TCG store, solo or with up to two friends online. Clean your finds and complete 15 festive sets in regular and holo finishes. Earn coins for boosters packs, hunt for exclusive rare cards.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582130/4c6861d8fc49e8495d5bc77e06c3fd289ac63acd/ss_4c6861d8fc49e8495d5bc77e06c3fd289ac63acd.1920x1080.jpg?t=1794924558",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582130/4c6861d8fc49e8495d5bc77e06c3fd289ac63acd/ss_4c6861d8fc49e8495d5bc77e06c3fd289ac63acd.1920x1080.jpg?t=1795362951",
       "firstSeen": "2026-11-17T19:53:52.018Z",
       "mechanic": "simulator",
       "score": 8
@@ -299,15 +434,6 @@
       "score": 6
     },
     {
-      "id": 4661800,
-      "name": "Base Boomers",
-      "description": "Fire cannons, blast holes through enemy walls and watch entire bases collapse in this chaotic physics-based destruction FPS for up to 4 players. Gather resources, build and defend your base. Play free-for-all or in teams. The last base standing wins!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661800/bb88ac3797691d304b0f40e1fa131df1744b1cbc/ss_bb88ac3797691d304b0f40e1fa131df1744b1cbc.1920x1080.jpg?t=1795190042",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
       "id": 5604610,
       "name": "ALL PASSENGERS BUCKLE UP",
       "description": "Run a budget airline in 1-6 player co-op. Check passports, load the bags, fly the route and keep the passengers fed while the jet catches fire around you. Take bribes, dodge storms and climb onto the roof mid-flight. Hit the quota or the whole crew is fired.",
@@ -351,15 +477,6 @@
       "firstSeen": "2026-11-17T11:15:41.924Z",
       "mechanic": "party",
       "score": 9
-    },
-    {
-      "id": 5602420,
-      "name": "Break Even",
-      "description": "You owe your boss a billion dollars. Smash repossessed furniture with a hammer, set off chain reactions, and spend the coins on bigger hammers and upgrades in this active incremental roguelite. Can’t make the payment? You’re fired.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5602420/85ff41e7612c6523922734f71cd7a3f4558a5367/ss_85ff41e7612c6523922734f71cd7a3f4558a5367.1920x1080.jpg?t=1795180808",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
-      "score": 8
     },
     {
       "id": 5601220,
@@ -422,123 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769130/7db97a8e671007fbbed1c2ae562622f56e658d2e/ss_7db97a8e671007fbbed1c2ae562622f56e658d2e.1920x1080.jpg?t=1794912348",
       "firstSeen": "2026-11-17T11:15:41.924Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4655060,
-      "name": "Super Galaxy Gladiator",
-      "description": "Super Galaxy Gladiator is a survivor roguelite focused on buildcrafting and inventory management. Fight waves of enemies, buy and upgrade items mid-run, and arrange your gear to create insane builds and synergies in the galactic arena.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655060/8504aa84950d6f4d939884eaef8ca8a903957f94/ss_8504aa84950d6f4d939884eaef8ca8a903957f94.1920x1080.jpg?t=1794901163",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4442220,
-      "name": "The Altar Boy Adventures",
-      "description": "Step into the shoes of Józef, a young man and altar server in a Polish village. Repair electronic equipment, prepare the sacristy for Mass, and help your neighbors. Experience a unique and moving adventure centered around liturgical service.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442220/076c9ec7e647b55157108c5f438cc237549cce09/ss_076c9ec7e647b55157108c5f438cc237549cce09.1920x1080.jpg?t=1794910750",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5602250,
-      "name": "Rolling Toolman 3: Darkness",
-      "description": "Toolman is back in this 3prd person adventure game. Roll and try to reach goal as soon as you can and avoid falling from map and beware obstacles and traps",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5602250/bf73c754db760832aeaf51bd84d4556702a6ee27/ss_bf73c754db760832aeaf51bd84d4556702a6ee27.1920x1080.jpg?t=1794891141",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5593160,
-      "name": "Rails of Fortune",
-      "description": "Build your transport company across Europe from 1850. Connect cities with trains, ships and airships, carry passengers and supply factories. Plan profitable supply chains, research new technology and compete with rival companies.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593160/bd22c8acc7cca0cafb1adbfa6d30a13d6df7fe06/ss_bd22c8acc7cca0cafb1adbfa6d30a13d6df7fe06.1920x1080.jpg?t=1794950193",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5478750,
-      "name": "Gemwood",
-      "description": "Run a cozy jewelry workshop in the woods. Mine for gems, cut and polish them, then design rings, necklaces and brooches for your animal customers. Mix metals and decorations, wrap each order and haggle over the price, or craft freely and display your favorites.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5478750/5dc05b33a34c53616236fe7f083f1b7622af2c84/ss_5dc05b33a34c53616236fe7f083f1b7622af2c84.1920x1080.jpg?t=1794895480",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5130980,
-      "name": "The Grand Book Archive: Tidy Up",
-      "description": "Restore The Grand Book Archive by sorting 2,990 books onto their rightful shelves. Use your observation and magical spells to organize the collection as quickly as possible. Explore a variety of book themes and discover endless possibilities within the archive.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5130980/6c641de4bdaa17b8a37d55e7ce0f1369ff2af1c6/ss_6c641de4bdaa17b8a37d55e7ce0f1369ff2af1c6.1920x1080.jpg?t=1794900474",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5014420,
-      "name": "Cat Survivor",
-      "description": "Cat Survivor is a minefield auto-battler where mines become your greatest weapon. Read the numbers, place your flags, trigger explosive chain reactions, and wipe out entire hordes. Win with strategy, not brute force.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014420/077ca7c318be3755b21c36935312e6b1cbd156f7/ss_077ca7c318be3755b21c36935312e6b1cbd156f7.1920x1080.jpg?t=1794906890",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5455710,
-      "name": "Plants Need Some Space",
-      "description": "The world's sweetest grocery starts with a little cozy chaos. A mafia boss tomato, a comrade potato, a disco lettuce, and dozens more oddballs who can't stand each other. Good luck! Plant everyone in the right spot to sort out the chaos, sell the harvest, and design your own shop.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455710/2f1f6d70ed1b59c00692ee32d7dbac7d4cf7e5f6/ss_2f1f6d70ed1b59c00692ee32d7dbac7d4cf7e5f6.1920x1080.jpg?t=1794911021",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "simulator",
-      "score": 9
-    },
-    {
-      "id": 5603230,
-      "name": "Sad Virus Mythic Land",
-      "description": "Sad virus third person simulation adventure game series continue now in small map which include forest and castle themed adventure where mission avoid traps and collect bottles",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603230/ff5a4da21eb843f4c3e3a16676bb6fa3f254f1f6/ss_ff5a4da21eb843f4c3e3a16676bb6fa3f254f1f6.1920x1080.jpg?t=1794864712",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5577270,
-      "name": "Get Your Cards in a Row",
-      "description": "Your uncle Jeff left you his game shop, and it's been ransacked. Put over 25,000 things back where they belong in this first-person physics sim. Dig through the heaps, unlock rooms, upgrade your tools, and tidy up alone or with up to 3 friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577270/1fda38f669e3741b9b00cd7b2aca2bfa04530c10/ss_1fda38f669e3741b9b00cd7b2aca2bfa04530c10.1920x1080.jpg?t=1794874029",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5385570,
-      "name": "Idle Pirates",
-      "description": "A pirate-themed incremental idle game! Destroy crates, collect treasure and venture deep into ships to rescue your crew to help you haul in even more loot. Fight your way deep into ships and take down mighty bosses.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385570/cbcd5ef48f080ed8286613a4c8e4feb270c68416/ss_cbcd5ef48f080ed8286613a4c8e4feb270c68416.1920x1080.jpg?t=1795167677",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5117550,
-      "name": "Fart Together",
-      "description": "Fart Together is a physics-based co-op game where 2–4 players steer a shared raft using fart power. Coordinate your direction, timing and gas power with friends to overcome challenging obstacle courses.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117550/0306cd3c3c86eb5f1537e7f33d46165d12057b86/ss_0306cd3c3c86eb5f1537e7f33d46165d12057b86.1920x1080.jpg?t=1795160437",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4453940,
-      "name": "ANTARIUM 2",
-      "description": "Long ago, the Old Colony filled these depths. Now your queen begins to dig. Grow a living ant colony in a cross-section of the earth, automate it with belts and machines, survive storms and raids, wake the ancient Engine, then fly to found a stronger colony.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453940/34e7b92bf688b7078c846eb0bbbff4a6822e6a01/ss_34e7b92bf688b7078c846eb0bbbff4a6822e6a01.1920x1080.jpg?t=1795288883",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "physics",
       "score": 8
     }
   ]
