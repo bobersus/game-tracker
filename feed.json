@@ -1,6 +1,114 @@
 {
-  "checkedAt": "2026-11-22T03:25:15.677Z",
+  "checkedAt": "2026-11-22T11:53:42.235Z",
   "games": [
+    {
+      "id": 5580180,
+      "name": "SERPENTER",
+      "description": "A fast, colorful 3D snake adventure across 9 floating worlds and 63 levels! Dodge crumbling floors, slippery ice and wild hazards, unleash power-ups, tackle endless runs and daily challenges, or play with up to 4 friends. Help Zip find Ray!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580180/74fa04b0b7cb8823a8138ce1bff6157efb2f0d84/ss_74fa04b0b7cb8823a8138ce1bff6157efb2f0d84.1920x1080.jpg?t=1794995182",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5574800,
+      "name": "Curator: Tidy Up the Sleeping Gallery!",
+      "description": "Become the curator of a vast, magical museum! In this relaxing game, find the right place for over 3,000 paintings, restore damaged works and uncover their fascinating stories. Upgrade your curator, work faster and unlock new galleries!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5574800/30fecf1d31dc5c58f40c05d7945c6d8fae5540b2/ss_30fecf1d31dc5c58f40c05d7945c6d8fae5540b2.1920x1080.jpg?t=1795189627",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5502130,
+      "name": "Pimple Pop",
+      "description": "Get up close. Really, really close. Squeeze pimples, scrape plaque, roll out earwax, pluck nose hairs and trim nails in 21 levels of ultra-detailed close-up work. Be gentle, be precise, and never touch the eardrum. Earn 3 stars on every level and unlock them all.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5502130/15596b3e548b3cc74cb32a1a95a0675c73055e4e/ss_15596b3e548b3cc74cb32a1a95a0675c73055e4e.1920x1080.jpg?t=1794982483",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5502010,
+      "name": "Hair Stylist Simulator",
+      "description": "Every client brings a photo. Match it with your scissors and clippers before time runs out, then shampoo, blow-dry and sweep up. Run your own salon, cut 8 different styles for 8 clients, and earn five stars. Cut too much and you can't put it back!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5502010/8a40aee6ac1cbb93c6f933fea95a13194a76b2b0/ss_8a40aee6ac1cbb93c6f933fea95a13194a76b2b0.1920x1080.jpg?t=1794982613",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5484060,
+      "name": "Switchroom",
+      "description": "You were naughty this year. Now you're stuck in Santa's warehouse with your friends. Every switch might drop a toy, kill the lights or let something in. Find the toys on the list, ship them, and survive each other.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5484060/db4e58c6f97b41c663de7abcfaa83486de0a5c9c/ss_db4e58c6f97b41c663de7abcfaa83486de0a5c9c.1920x1080.jpg?t=1795075480",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5395860,
+      "name": "Gnome Cottage Cleanup!",
+      "description": "A whimsical organizing simulator about tracking down thousands of Gnomes, Plants, Books, Potions and more! Use magical abilities and upgrades on your quest to sort 4,060 items scattered across the Gnome Cottage. Just pure exploration, organizing, and collecting with no time limits or pressure.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395860/9b809730ef936aa9fbe19bb3e03f549cd776fda2/ss_9b809730ef936aa9fbe19bb3e03f549cd776fda2.1920x1080.jpg?t=1795072451",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4609090,
+      "name": "A Game About Feeding Pigeons",
+      "description": "Relax and build the ultimate pigeon sanctuary! Start with basic crumbs, scatter seed, and attract dozens of unique birds. Upgrade your feed, unlock automated machines, and discover beautiful new locations in this cozy idle incremental game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609090/7d4817652c7545e8d9aa03dcb63fcbd180ea051b/ss_7d4817652c7545e8d9aa03dcb63fcbd180ea051b.1920x1080.jpg?t=1794987081",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 3275780,
+      "name": "Bet Your Friends",
+      "description": "Shocking twist on Monopoly, your FRIENDS now become your prized ASSETS! BUY, WORK, BID or GAMBLE. First one to REACH $1,000,000 WINS! Have YOU ever bet with your FRIEND'S LIFE on the line?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275780/75afe0f9bc5cc05a45254259ddf6c22b973374af/ss_75afe0f9bc5cc05a45254259ddf6c22b973374af.1920x1080.jpg?t=1794983444",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 2597090,
+      "name": "Gravity well",
+      "description": "Explore vast galaxies through gravity wells and realistic physics. Launch and combine celestial bodies to uncover mysterious stories hidden in space. Race friends and players worldwide for the top spot, or slow down and enjoy a tranquil deep-space atmosphere beneath the stars.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597090/ec2ca10eaabc4b674d24003480f4b7d3b169a0d6/ss_ec2ca10eaabc4b674d24003480f4b7d3b169a0d6.1920x1080.jpg?t=1794972423",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5416340,
+      "name": "Fish Fish Pop",
+      "description": "A slow, cozy match-three under the sea. Swap, pop, and pick a new card every round. Thirty rounds, no timer, and you can't lose. The only question is how few moves you need. Oh, and the sea has secrets.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5416340/9526ac3f7775f934095c83ca4d3b2b65bb10f5f6/ss_9526ac3f7775f934095c83ca4d3b2b65bb10f5f6.1920x1080.jpg?t=1795013415",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4145840,
+      "name": "Her in the Abyss",
+      "description": "You accidentally intercept a distress signal from space—a girl codenamed C804 is venturing alone into a forbidden zone. Game time runs in perfect real-time sync with reality; every response, every silence, shapes her actions and decisions.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145840/ca187ef166282f58aaf5e5164e65de1d4d684779/ss_ca187ef166282f58aaf5e5164e65de1d4d684779.1920x1080.jpg?t=1795329242",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 3998620,
+      "name": "Beetle Battle Bros",
+      "description": "Chaotic 1v1 physics-based beetle sumo fights. Play against your friend in this easy-to-pick-up 3D fighter where beetles battle in sumo-style arenas - the rule is simple: knock your opponent off for a silly, fun time. Plus a Rocket League-style Beetle Ball mode!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998620/d0f30a93afc9171271523a4221ac70fffb7bc126/ss_d0f30a93afc9171271523a4221ac70fffb7bc126.1920x1080.jpg?t=1794964826",
+      "firstSeen": "2026-11-18T10:20:00.694Z",
+      "mechanic": "party",
+      "score": 5
+    },
     {
       "id": 5603370,
       "name": "Zoo Life Tycoon",
@@ -14,7 +122,7 @@
       "id": 5603020,
       "name": "Carry Crew",
       "description": "&quot;There’s room for one more!&quot; Pick your cargo, pile it onto a board, and grab opposite ends in this couch co-op adventure for two. When the ice cracks underfoot, jump together on three. You both made it across. Did your cargo?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603020/ae305022ca54d97b5a474852bdd08b20555a27c5/ss_ae305022ca54d97b5a474852bdd08b20555a27c5.1920x1080.jpg?t=1795051932",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603020/ae305022ca54d97b5a474852bdd08b20555a27c5/ss_ae305022ca54d97b5a474852bdd08b20555a27c5.1920x1080.jpg?t=1795322591",
       "firstSeen": "2026-11-18T02:19:11.855Z",
       "mechanic": "party",
       "score": 8
@@ -27,6 +135,24 @@
       "firstSeen": "2026-11-18T02:19:11.855Z",
       "mechanic": "incremental",
       "score": 8
+    },
+    {
+      "id": 5607830,
+      "name": "Stay Lit",
+      "description": "You're the last ember. He's the jerk who blew out the rest. Roll through 130 trap-packed levels in 26 worlds while Snuff, a shadow imp, rigs each level right in front of you and takes notes on how you play, so the level changes after you die.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607830/a59bfdf5cb3ce7a59ac9b5bb9e767dea4381ec5c/ss_a59bfdf5cb3ce7a59ac9b5bb9e767dea4381ec5c.1920x1080.jpg?t=1795327514",
+      "firstSeen": "2026-11-18T02:19:11.855Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5604930,
+      "name": "Maiden Taskbar",
+      "description": "A little adventure begins at the bottom of your screen. Keep this idle RPG running above your taskbar and build a squad of maidens from 100+ cards across five races.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5604930/148b91196e4f4113d5bb9ff3d05f7dc3d6b96f23/ss_148b91196e4f4113d5bb9ff3d05f7dc3d6b96f23.1920x1080.jpg?t=1794931955",
+      "firstSeen": "2026-11-18T02:19:11.855Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 5519290,
@@ -155,30 +281,12 @@
       "score": 7
     },
     {
-      "id": 4661800,
-      "name": "Base Boomers",
-      "description": "Fire cannons, blast holes through enemy walls and watch entire bases collapse in this chaotic physics-based destruction FPS for up to 4 players. Gather resources, build and defend your base. Play free-for-all or in teams. The last base standing wins!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661800/bb88ac3797691d304b0f40e1fa131df1744b1cbc/ss_bb88ac3797691d304b0f40e1fa131df1744b1cbc.1920x1080.jpg?t=1795190042",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
       "id": 5607900,
       "name": "You Don't Have to Be a Hero!",
       "description": "A cozy raising sim inspired by Princess Maker. As homeroom teacher, spend three years beside one student at Sebit Academy: plan her weeks, share small everyday moments, and help her find a future of her own. She doesn't have to be a hero.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607900/aff6dbd3b71163bf04ead4894eef851bda0d55c8/ss_aff6dbd3b71163bf04ead4894eef851bda0d55c8.1920x1080.jpg?t=1795067750",
       "firstSeen": "2026-11-17T19:53:52.018Z",
       "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5208230,
-      "name": "Popping Off",
-      "description": "An evolving bubble wrap simulator made of chain reactions and upgrades. Tune in, gear up, pop off.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208230/02a6673dc5db138af617d5a4c32d2fd115416493/ss_02a6673dc5db138af617d5a4c32d2fd115416493.1920x1080.jpg?t=1794938141",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "physics",
       "score": 6
     },
     {
@@ -189,6 +297,15 @@
       "firstSeen": "2026-11-17T19:53:52.018Z",
       "mechanic": "physics",
       "score": 6
+    },
+    {
+      "id": 4661800,
+      "name": "Base Boomers",
+      "description": "Fire cannons, blast holes through enemy walls and watch entire bases collapse in this chaotic physics-based destruction FPS for up to 4 players. Gather resources, build and defend your base. Play free-for-all or in teams. The last base standing wins!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661800/bb88ac3797691d304b0f40e1fa131df1744b1cbc/ss_bb88ac3797691d304b0f40e1fa131df1744b1cbc.1920x1080.jpg?t=1795190042",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "party",
+      "score": 5
     },
     {
       "id": 5604610,
@@ -234,6 +351,15 @@
       "firstSeen": "2026-11-17T11:15:41.924Z",
       "mechanic": "party",
       "score": 9
+    },
+    {
+      "id": 5602420,
+      "name": "Break Even",
+      "description": "You owe your boss a billion dollars. Smash repossessed furniture with a hammer, set off chain reactions, and spend the coins on bigger hammers and upgrades in this active incremental roguelite. Can’t make the payment? You’re fired.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5602420/85ff41e7612c6523922734f71cd7a3f4558a5367/ss_85ff41e7612c6523922734f71cd7a3f4558a5367.1920x1080.jpg?t=1795180808",
+      "firstSeen": "2026-11-17T11:15:41.924Z",
+      "mechanic": "incremental",
+      "score": 8
     },
     {
       "id": 5601220,
@@ -317,15 +443,6 @@
       "score": 8
     },
     {
-      "id": 5602420,
-      "name": "Break Even",
-      "description": "You owe your boss a billion dollars. Smash repossessed furniture with a hammer, set off chain reactions, and spend the coins on bigger hammers and upgrades in this active incremental roguelite. Can’t make the payment? You’re fired.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5602420/85ff41e7612c6523922734f71cd7a3f4558a5367/ss_85ff41e7612c6523922734f71cd7a3f4558a5367.1920x1080.jpg?t=1795180808",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
       "id": 5602250,
       "name": "Rolling Toolman 3: Darkness",
       "description": "Toolman is back in this 3prd person adventure game. Roll and try to reach goal as soon as you can and avoid falling from map and beware obstacles and traps",
@@ -398,15 +515,6 @@
       "score": 8
     },
     {
-      "id": 5507780,
-      "name": "SCRAP RECLAIM スクラップ・リクレイム",
-      "description": "Clear mountains of junk, sell it, and upgrade your tools! Go from bare hands to a drill and a vacuum to collect faster, and team up with tiny robots to clean out the warehouse. Assemble your means of escape and break out of the warehouse!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507780/a104ffd0c7ea363c4082997305d8d3bd896521de/ss_a104ffd0c7ea363c4082997305d8d3bd896521de.1920x1080.jpg?t=1794881844",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 5385570,
       "name": "Idle Pirates",
       "description": "A pirate-themed incremental idle game! Destroy crates, collect treasure and venture deep into ships to rescue your crew to help you haul in even more loot. Fight your way deep into ships and take down mighty bosses.",
@@ -432,114 +540,6 @@
       "firstSeen": "2026-11-17T02:52:05.091Z",
       "mechanic": "physics",
       "score": 8
-    },
-    {
-      "id": 5603090,
-      "name": "Spin & Win: Casino Business Sim",
-      "description": "Their luck. Your business. Build your casino, work the floor, and hire a crew to keep the cash flowing. Draw crowds with live shows, then join your guests for poker, blackjack, or a spin on the slots.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603090/402323b165f252d3615f8fb043d203b63cf8948f/ss_402323b165f252d3615f8fb043d203b63cf8948f.1920x1080.jpg?t=1794871153",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5551130,
-      "name": "Vault Traitors",
-      "description": "Social deduction with MOBA-style abilities, 25+ roles, 50+ unique items, an arsenal of weapons and air that's running out. 16 players are sealed in an underground vault with traitors among them. Lock your door - and survive the night.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5551130/90b48660142f6940da3ebb13c61bbd37a1d024c3/ss_90b48660142f6940da3ebb13c61bbd37a1d024c3.1920x1080.jpg?t=1794866938",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5554430,
-      "name": "Butt Out!",
-      "description": "The neighbors are coming to drag you off the toilet. Feed the hero, combine foods, and aim a flexible pipe in this arcade wave defense game. Unlock new projectiles, stock up on food, build obstacles, and choose your upgrade path.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5554430/4dedf6578a98391ed2e1f0d222ad651dec541346/ss_4dedf6578a98391ed2e1f0d222ad651dec541346.1920x1080.jpg?t=1795092945",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5551820,
-      "name": "Pave The Universe",
-      "description": "Your home planet sent you and your alien crew with one job: pave the whole planet, every last square metre. Dig, level, cut pavers to size, build factories and robots, and take over a wild little planet. Solo or with up to 8 friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5551820/dcad7e8ca69fefcdfd914d86bf50415852bf5420/ss_dcad7e8ca69fefcdfd914d86bf50415852bf5420.1920x1080.jpg?t=1795276865",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
-      "id": 5549530,
-      "name": "A Gift for Everyone",
-      "description": "New Year's is almost here! A mountain of gifts is piled up under a giant Christmas tree, with a toy in every box. Start with your bare mittens, sell the toys to Father Frost, hire a dwarf and mechanical arms, bring up to three friends and keep going until the last box is open. All 100,000 of them.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549530/21fdad477450cc2ba14c254aaa74dcd71390813b/ss_21fdad477450cc2ba14c254aaa74dcd71390813b.1920x1080.jpg?t=1794850282",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "simulator",
-      "score": 9
-    },
-    {
-      "id": 1333930,
-      "name": "World's Worst Handyman",
-      "description": "Suit up as the &quot;World's Worst Handyman&quot; in this comedy stealth game where every job is a chaotic adventure! Dodge disgruntled clients, bungle repairs, and save your beloved animal shelter from bankruptcy.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333930/c1e88b0e36b4ede3ea81a58b21296800bffb1616/ss_c1e88b0e36b4ede3ea81a58b21296800bffb1616.1920x1080.jpg?t=1794858187",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "simulator",
-      "score": 9
-    },
-    {
-      "id": 5522360,
-      "name": "Seek Lot",
-      "description": "Evolve a tiny neural-net brain that learns to drive a scrap buggy across 12 hazard-filled lots. Watch 100 ghost buggies a generation get sharper, buy sensors and upgrades, race your own or a friend's ghost (SL1: codes), export GIF bloopers, and prestige your lab. Pay once: no IAP.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5522360/af3a4b088a9efaf7503eeb405d187daf6eda0da1/ss_af3a4b088a9efaf7503eeb405d187daf6eda0da1.1920x1080.jpg?t=1794830451",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 3806350,
-      "name": "Harventure",
-      "description": "Harvest, collect and upgrade! Harventure is a short incremental game about harvesting and using resources on upgrades to purify islands from corruption.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3806350/32d82b19d7a4ad43f968be0a5b22dbe3961358c7/ss_32d82b19d7a4ad43f968be0a5b22dbe3961358c7.1920x1080.jpg?t=1794846530",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 2697050,
-      "name": "Project Polygon",
-      "description": "32 players. 5 rounds. Nobody is ever eliminated. Race, dive and tumble through a chaotic TV game show armed with Goat Launchers, Chicken Rays and Black Hole Bombs. Get knocked over, bounce back up and climb the scoreboard – the Final counts double!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697050/a6036bc2a44769db575aa6b1a5487f4123449070/ss_a6036bc2a44769db575aa6b1a5487f4123449070.1920x1080.jpg?t=1794847418",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5581730,
-      "name": "Phantom Shapes",
-      "description": "An online co-op horror party game for 2 to 7 players. The Phantom hides a cursed shape that looks like a normal object and protects it. Up to 6 Workers search the map, argue about which thing is fake and confirm it before the Phantom catches them all. No microtransactions.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581730/7332dbd88708e0a655388f95f7d2519dd5b5a9ca/ss_7332dbd88708e0a655388f95f7d2519dd5b5a9ca.1920x1080.jpg?t=1795293556",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5070980,
-      "name": "Who?",
-      "description": "Who? is a game of deduction and chaos among friends. Each player uploads any photo from their computer, which is assigned to another participant. Everyone can see the others’ images, but not their own, and asks questions that can only be answered with “yes” or “no” to discover who—or what—they are.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070980/dd5523567aace10579dc5b35c9fd47f18c4d84a3/ss_dd5523567aace10579dc5b35c9fd47f18c4d84a3.1920x1080.jpg?t=1794836320",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5577740,
-      "name": "Arcadeous",
-      "description": "Own an arcade from minute one. Fill the floor with cabinets you can walk up to and actually play, set the ticket payout, stock the prize counter and keep the crowd coming back. A first-person arcade management sim where every machine is a real game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5577740/59ada435638a8cd9d0f9f0865cfc23664c150114/ss_59ada435638a8cd9d0f9f0865cfc23664c150114.1920x1080.jpg?t=1794858620",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "physics",
-      "score": 6
     }
   ]
 }
