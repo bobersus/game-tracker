@@ -1,6 +1,96 @@
 {
-  "checkedAt": "2026-11-21T23:25:06.563Z",
+  "checkedAt": "2026-11-22T03:25:15.677Z",
   "games": [
+    {
+      "id": 5603370,
+      "name": "Zoo Life Tycoon",
+      "description": "Inherit a run-down zoo at the edge of town and turn it into the pride of the city. Repair pens, care for 21 species, welcome families and juggle your own life too: eat, sleep, make friends and upgrade your home in this cozy pixel-art zoo tycoon and life sim.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603370/abb0412cdf7d8d49075895bd42d4ca0a11ff5e8a/ss_abb0412cdf7d8d49075895bd42d4ca0a11ff5e8a.1920x1080.jpg?t=1795076861",
+      "firstSeen": "2026-11-18T02:19:11.855Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5603020,
+      "name": "Carry Crew",
+      "description": "&quot;There’s room for one more!&quot; Pick your cargo, pile it onto a board, and grab opposite ends in this couch co-op adventure for two. When the ice cracks underfoot, jump together on three. You both made it across. Did your cargo?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603020/ae305022ca54d97b5a474852bdd08b20555a27c5/ss_ae305022ca54d97b5a474852bdd08b20555a27c5.1920x1080.jpg?t=1795051932",
+      "firstSeen": "2026-11-18T02:19:11.855Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5595950,
+      "name": "Pinball Bonanza Live",
+      "description": "Run a live stream from your garage and build a seven-floor pinball machine with your viewers’ donations. Flip, nudge and chase multiball while chat cheers you on — then automate it all in a hands-on incremental pinball game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595950/9a8caeb74296283d789cc5c812c9bd8413d8bf47/ss_9a8caeb74296283d789cc5c812c9bd8413d8bf47.1920x1080.jpg?t=1795203469",
+      "firstSeen": "2026-11-18T02:19:11.855Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5519290,
+      "name": "Let 'er Ride",
+      "description": "A Wild West roguelike based on casino Let It Ride. Post three bets, then pull them home or let ’em ride as the Board turns. Hire a posse of oddballs, beat crooked Proprietors at their own rules, and win Her back from the Baron.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5519290/82b32a8431f19c8c3970ff3274b0b411f2311e8e/ss_82b32a8431f19c8c3970ff3274b0b411f2311e8e.1920x1080.jpg?t=1794979669",
+      "firstSeen": "2026-11-18T02:19:11.855Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5417280,
+      "name": "Why Does the Ball Fall?",
+      "description": "An idle and clicker game about dropping balls, over and over. Hit a goal hole and the ball rolls one lane deeper; miss and it is gone. Spend coins to seal holes, widen the goals and unlock fruit and animal balls, then keep descending lanes that go on forever.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417280/9d3ecf0d9a99f2bdbb8c9d0d36358355e8466291/ss_9d3ecf0d9a99f2bdbb8c9d0d36358355e8466291.1920x1080.jpg?t=1794968337",
+      "firstSeen": "2026-11-18T02:19:11.855Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5607180,
+      "name": "Bottom Feeders: Crab Crew",
+      "description": "Haul up crab pots with 1–6 friends in this silly co-op crabbing game. Throw pots off the pier, pull up 37 kinds of ridiculous crabs, sell them, and trade your leaky rowboat for a solid gold yacht. Or just shove your crew into the sea.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607180/c621d6668a76c2f30736225c89294a3aada4f15e/ss_c621d6668a76c2f30736225c89294a3aada4f15e.1920x1080.jpg?t=1794940776",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5598430,
+      "name": "Paint The Wall",
+      "description": "400 meters of bare concrete. Out you go! Paint the Wall is a satisfying painting sim where the higher you climb, the more you earn. Upgrade to paint cannons and hot air balloons, hire robots and drones, and paint it all, solo or with friends. That wall won't paint itself!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5598430/ccc2b18d8c0b0224b0cbc252cc314139dc2b51b0/ss_ccc2b18d8c0b0224b0cbc252cc314139dc2b51b0.1920x1080.jpg?t=1794932090",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5608870,
+      "name": "Smash Arena",
+      "description": "An online party game for up to 12 players: brick-built toys clash in wild, physics-driven challenges. Run, jump, shove, survive the glass bridge and Red Light… and climb onto the podium. Dress up your toy and challenge your friends!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5608870/f996ed8821263522b16d8bcf52140a7082d81819/ss_f996ed8821263522b16d8bcf52140a7082d81819.1920x1080.jpg?t=1794943569",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5606400,
+      "name": "Bubble Tea Simulator",
+      "description": "Run a cozy little bubble tea café with up to six friends. Cook the pearls, shake the drinks and keep the queue smiling, then close up, pile into bed and wake up ready to open your next branch. Play solo or in online co-op.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5606400/321f5c9c9ef3702186829612f5278bad92eec759/ss_321f5c9c9ef3702186829612f5278bad92eec759.1920x1080.jpg?t=1795265328",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5596240,
+      "name": "AquaScape Desk",
+      "description": "A planted aquarium sim that lives on your desktop. Build a hardscape from stones and driftwood, plant it, and let the fish swim. Plants grow in real time, so trimming matters. You can even scan real stones and driftwood and drop them straight in. Reef tanks with corals, too.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596240/54268981b5918c28e1421a919859ebd71d2a294d/ss_54268981b5918c28e1421a919859ebd71d2a294d.1920x1080.jpg?t=1794927425",
+      "firstSeen": "2026-11-17T19:53:52.018Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
     {
       "id": 5582130,
       "name": "Christmas TCG Tidy Up Together",
@@ -56,12 +146,12 @@
       "score": 8
     },
     {
-      "id": 5426260,
-      "name": "Quiet Hours",
-      "description": "It's 2AM, the truck is loud, your friends are louder, and everybody on this street is a light sleeper. Quiet Hours is online co-op for 1–4 players on a night garbage route, where your real voice is noise the street can hear. Microphone strongly recommended.#",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5426260/03b6b99999c88ca16ad9485a9bf83be6c6fa8d19/ss_03b6b99999c88ca16ad9485a9bf83be6c6fa8d19.1920x1080.jpg?t=1794924625",
+      "id": 5609430,
+      "name": "GALLOP",
+      "description": "Ride, explore and puzzle your way across a wild medieval land with your friends. Reach the far-off castle, rescue the queen and return her to the king – past bandit ambushes, untamed nature and the occasional friendly shove off a cliff.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5609430/abc869731b888c185d2428034a841cc730c4d252/ss_abc869731b888c185d2428034a841cc730c4d252.1920x1080.jpg?t=1794939020",
       "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "incremental",
+      "mechanic": "party",
       "score": 7
     },
     {
@@ -74,12 +164,12 @@
       "score": 7
     },
     {
-      "id": 5298740,
-      "name": "DDDig",
-      "description": "Nagged out of the house by his mother, an unemployed young man grabs a shovel and digs for riches. How deep can you go? *This game contains cognitive distortion, social isolation, body horror, blood, and themes of suicide.*",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298740/83acd5066e0b1eab883729469db8325af46fb15f/ss_83acd5066e0b1eab883729469db8325af46fb15f.1920x1080.jpg?t=1795038347",
+      "id": 5607900,
+      "name": "You Don't Have to Be a Hero!",
+      "description": "A cozy raising sim inspired by Princess Maker. As homeroom teacher, spend three years beside one student at Sebit Academy: plan her weeks, share small everyday moments, and help her find a future of her own. She doesn't have to be a hero.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607900/aff6dbd3b71163bf04ead4894eef851bda0d55c8/ss_aff6dbd3b71163bf04ead4894eef851bda0d55c8.1920x1080.jpg?t=1795067750",
       "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "physics",
+      "mechanic": "incremental",
       "score": 6
     },
     {
@@ -362,15 +452,6 @@
       "score": 6
     },
     {
-      "id": 5324270,
-      "name": "Chessboxing Arcade",
-      "description": "Chess Boxing Arcade is a 2D arcade take on the real sport: alternate between timed chess rounds and fast-paced boxing rounds. Win by checkmate, knockout or the clock against adaptive AI, friends locally, or opponents online.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5324270/7119b9f705b248071faa1892d24354caa8fa7de4/ss_7119b9f705b248071faa1892d24354caa8fa7de4.1920x1080.jpg?t=1794862617",
-      "firstSeen": "2026-11-17T02:52:05.091Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 5554430,
       "name": "Butt Out!",
       "description": "The neighbors are coming to drag you off the toilet. Feed the hero, combine foods, and aim a flexible pipe in this arcade wave defense game. Unlock new projectiles, stock up on food, build obstacles, and choose your upgrade path.",
@@ -425,15 +506,6 @@
       "score": 8
     },
     {
-      "id": 3024700,
-      "name": "Sweet Order: Candy Shop Tidy Up!",
-      "description": "A magical candy shop is a sticky mess! Play as an adorable marshmallow in this cozy first-person cleaning and organizing sim. Vacuum up gummies, scrape away syrup, and sort colorful candies to perfection. No timers, no stress, just pure satisfaction!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024700/498d1fdf1f8e87ab254bb1718cc942a0df561717/ss_498d1fdf1f8e87ab254bb1718cc942a0df561717.1920x1080.jpg?t=1794814816",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
       "id": 2697050,
       "name": "Project Polygon",
       "description": "32 players. 5 rounds. Nobody is ever eliminated. Race, dive and tumble through a chaotic TV game show armed with Goat Launchers, Chicken Rays and Black Hole Bombs. Get knocked over, bounce back up and climb the scoreboard – the Final counts double!",
@@ -468,78 +540,6 @@
       "firstSeen": "2026-11-16T19:53:53.168Z",
       "mechanic": "physics",
       "score": 6
-    },
-    {
-      "id": 5543640,
-      "name": "Gang Birds",
-      "description": "Gang Birds is a bluffing and deduction game around a table in a backroom. Your job and two hidden contacts decide whether you play for the Gang, the Cops or the Junkies. Play with friends, up to 10 at one table, in 1v1 duels or against bots.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5543640/73972f25f47f2a09e5cbc5912124f922d6fb2d17/ss_73972f25f47f2a09e5cbc5912124f922d6fb2d17.1920x1080.jpg?t=1795274583",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5446860,
-      "name": "Eyelord Returns",
-      "description": "Eyelord is an intense, fast-paced, heavy metal match-3 pop 'em up. It is a relentless massacre of innocent rolling eyeballs, using a mouse, touchscreen, or game controller. Get into the flow alone, or bring a friend to the slaughter!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446860/72a9a3d11c9d348dadc51fe00a3e12c95e4d7f83/ss_72a9a3d11c9d348dadc51fe00a3e12c95e4d7f83.1920x1080.jpg?t=1794844222",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5349620,
-      "name": "Pluralys: Exp.14",
-      "description": "Discover Pluralys: Exp.14, a cozy indie adventure. Play as Elie on a day that seems ordinary... until his/her house fills up with friends and strangers. Why are they there, and how will you handle the situation? There's only one way to find out...",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5349620/09a947d8dede5ff91b3242390ba479e555107743/ss_09a947d8dede5ff91b3242390ba479e555107743.1920x1080.jpg?t=1794858442",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3584130,
-      "name": "Swarm Chess",
-      "description": "Chess with thousands of pieces. Place your towers then relax and watch the chaos of battle unfold in this incremental auto battler.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584130/d2ed154ce0d78fd7e11dcafdf5c163159a6d8e82/ss_d2ed154ce0d78fd7e11dcafdf5c163159a6d8e82.1920x1080.jpg?t=1794928765",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 2519750,
-      "name": "Pulp Friction",
-      "description": "Fruit-on-fruit kitchen brawls! Roll, slice and parry as one of 18 living fruits, carve chunks off your rivals until their core shows and be the last fruit standing. 15 party modes for up to 8 players online or 4 on one couch, plus co-op raids against the mold.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519750/c722b7458eaf45987d7de69fea0b4d31377eb56f/ss_c722b7458eaf45987d7de69fea0b4d31377eb56f.1920x1080.jpg?t=1795034740",
-      "firstSeen": "2026-11-16T19:53:53.168Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5599050,
-      "name": "Kicked Out",
-      "description": "The bailiffs are at the door and you have only one minute. Throw what you can out of the window, then jump after it. Beg, dig through the trash, survive the nights and save $100 before the street breaks you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5599050/e37e98ad117b53be466a353d3c715fd30c861ac8/ss_e37e98ad117b53be466a353d3c715fd30c861ac8.1920x1080.jpg?t=1794813261",
-      "firstSeen": "2026-11-16T09:50:59.026Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5456630,
-      "name": "Wharflet",
-      "description": "Build a tiny fishing fleet on your desktop. Ride the waves, catch fish, sell and upgrade - all while you do other things. Just sit back and relax!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5456630/44a424577030a9ec079fe76233e34ef86e099977/ss_44a424577030a9ec079fe76233e34ef86e099977.1920x1080.jpg?t=1794809077",
-      "firstSeen": "2026-11-16T09:50:59.026Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4614970,
-      "name": "Plink Lab",
-      "description": "A satisfying active plinko incremental where you drop and bounce fantastic creatures (tiny humans for starters) to clear pegs and earn a trillion $! Wacky balls, massive tech tree, total physics-based chaos, and a very chatty goblin shop owner.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4614970/d2b38748926b22bcaea06f903750a68c8b1e5ea5/ss_d2b38748926b22bcaea06f903750a68c8b1e5ea5.1920x1080.jpg?t=1794973659",
-      "firstSeen": "2026-11-16T09:50:59.026Z",
-      "mechanic": "incremental",
-      "score": 8
     }
   ]
 }
