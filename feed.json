@@ -1,6 +1,60 @@
 {
-  "checkedAt": "2026-11-22T19:26:28.008Z",
+  "checkedAt": "2026-11-23T00:26:03.152Z",
   "games": [
+    {
+      "id": 5307120,
+      "name": "A Place for Hue",
+      "description": "A relaxing single-player sorting game where you restore 30 hand-crafted color gradients by finding the perfect spot for each piece! Pick up, sort and place over 6,000 mosaic pieces of all shapes and colors, earn money, unlock helpful upgrades, and watch your messy gallery slowly come to life!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307120/b0b3cfa44584ce0f96f0bfb6c16354d1a17f6e87/ss_b0b3cfa44584ce0f96f0bfb6c16354d1a17f6e87.1920x1080.jpg?t=1795038930",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4661090,
+      "name": "Inn Kreeper",
+      "description": "Run a spooky-cozy haunted inn as a broke lich, stress out your guests, trap them in rooms to turn them into ghost, and sell them online to rebuild your retro game collection.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661090/a678ff764f45b36a5f8932a36c8ec3d7f614cac9/ss_a678ff764f45b36a5f8932a36c8ec3d7f614cac9.1920x1080.jpg?t=1795186305",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4210810,
+      "name": "NIGHT SHIFT: HAUNTED MALL",
+      "description": "The mall closed at midnight. The ghosts didn't. 1–6 friends. 5 lost items. 1 date with Mika… and only one of you gets it. Frying pans, bazookas, banana peels: anything goes. And don't scream: the ghosts can hear your mic.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210810/ca1b21ba12a3426f90bdfdee7c490d1a14885b35/ss_ca1b21ba12a3426f90bdfdee7c490d1a14885b35.1920x1080.jpg?t=1795048511",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 3928950,
+      "name": "Duckload",
+      "description": "1,000,000 rubber ducks have been dumped deep in a mountain forest. Alone. Scared. Squeaky. Ship every last duck downstream for cash. Start with your bare hands and scale up across a massive upgrade tree to increase your duck harvesting power!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3928950/345c07cb61a79503163f3f3c4cd7ec1c78830bd7/ss_345c07cb61a79503163f3f3c4cd7ec1c78830bd7.1920x1080.jpg?t=1795108213",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4200910,
+      "name": "COREDUMP: 口口口口",
+      "description": "COREDUMP: 口口口口 is a Metroidvania inspired puzzle platformer where you recover lost colliders, switch between phasing through walls and charged bouncing, and uncover hidden paths across an interconnected world.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200910/d12642df0dc5e774676c321d6c40a723cc5efd86/ss_d12642df0dc5e774676c321d6c40a723cc5efd86.1920x1080.jpg?t=1795042581",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3780750,
+      "name": "Flarebound",
+      "description": "Tiny dungeon puzzle game. One flare. Ten steps. Draw a path through a forgotten dungeon before your light runs out. Avoid dangerous traps and evil creatures. 20 quests, 100 rooms.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780750/7cb84be904d5e78a2465927d6bea0774460e7691/ss_7cb84be904d5e78a2465927d6bea0774460e7691.1920x1080.jpg?t=1795038820",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "physics",
+      "score": 6
+    },
     {
       "id": 4797900,
       "name": "Chodd",
@@ -9,6 +63,78 @@
       "firstSeen": "2026-11-18T18:53:40.876Z",
       "mechanic": "physics",
       "score": 9
+    },
+    {
+      "id": 5613240,
+      "name": "Snowman Left Behind",
+      "description": "A cozy team snowball fight for up to eight friends. Build a snow fort, pelt the other team until they're snowmen, then hurry over to rescue your frozen friends. Twelve wintry maps, each with its own trick: sleds, toy trains, catapults, sheep and Grandma's cookies.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5613240/fd4c156e4291997a2d5fed1aaea928436a85d471/ss_fd4c156e4291997a2d5fed1aaea928436a85d471.1920x1080.jpg?t=1795265411",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5610780,
+      "name": "Drug Shop: Tidy Up Together",
+      "description": "Talwer and Pesse finally went legit, but their shop is a disaster. A first-person sorting game for 1 to 4 players: put thousands of products on the right shelves, cook in the lab and stock the store, alone or in online co-op.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5610780/324482c792714d0862708931b174632b800981f0/ss_324482c792714d0862708931b174632b800981f0.1920x1080.jpg?t=1795014525",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5606970,
+      "name": "We Have a Robot Problem",
+      "description": "Every robot in the vault has wandered off its charging rack. Catch them, stack them in your arms and put each one back in its own spot. Thousands of robots with hats and costumes, handy tools and a Workshop full of upgrades. A cosy, silly tidy up game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5606970/26aaec0601dccb2cc4819cabb4f483cd405c740b/ss_26aaec0601dccb2cc4819cabb4f483cd405c740b.1920x1080.jpg?t=1795355761",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5595350,
+      "name": "Ah Sheep, Here We Go Again",
+      "description": "An incremental game about a hungry flock that eats straight through the Earth, all the way to New Zealand. Sweep your cursor over the sheep and they bite the ground beneath them. Grow the flock, hire dogs and shepherds, and keep going down.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595350/7c97b0e130e6b6fd068e5a1badb2c3dcd8b6d1ac/ss_7c97b0e130e6b6fd068e5a1badb2c3dcd8b6d1ac.1920x1080.jpg?t=1795013238",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5576650,
+      "name": "PAIN(T)",
+      "description": "You have one job: paint the wall yellow. All of it. PAIN(T) is a co-op dystopian comedy for 1-4 colleagues sharing one shaky lift, with proximity voice chat. Whoever drives it ruins everyone's stroke. Buy bigger rollers, and try not to ask what the doors are for.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5576650/b60e84440b1a03b4d947e48b466bbedba0fe4b4f/ss_b60e84440b1a03b4d947e48b466bbedba0fe4b4f.1920x1080.jpg?t=1795253454",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5549270,
+      "name": "Crack the Crate",
+      "description": "Crack the Crate is a super-satisfying crate-smashing incremental game. Open crates, collect 288 items and their rare variants, and upgrade your way from wooden boxes to cosmic crates. Can you find the legendary Dodo?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549270/38b65d88f51033eb5012bab33dba0a02859dfcf5/ss_38b65d88f51033eb5012bab33dba0a02859dfcf5.1920x1080.jpg?t=1795172630",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5511380,
+      "name": "Taso Idle",
+      "description": "Taso Idle is an incremental game where you flip tasos at recess and sell your stack for cash. Rip open snack packs for rare tasos, buy upgrades and leave the collecting to your little brothers. The bullies can take everything but your name. Start with a bottle cap, become the Schoolyard Legend.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5511380/dbed09fcba7afc93aaf6077374719f475001d5c0/ss_dbed09fcba7afc93aaf6077374719f475001d5c0.1920x1080.jpg?t=1795008857",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5501000,
+      "name": "Incremon",
+      "description": "Build a thriving farm powered by Incremons! Capture roaming pets, evolve them, and keep them well-fed. Harvest, stockpile, and manage resources to unlock upgrades and expand your farm in this cozy incremental game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5501000/17335efd5399555994d913d81ff72df603c24fe3/ss_17335efd5399555994d913d81ff72df603c24fe3.1920x1080.jpg?t=1795008713",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 8
     },
     {
       "id": 5479340,
@@ -65,6 +191,15 @@
       "score": 8
     },
     {
+      "id": 5575540,
+      "name": "Fantasy Guild Manager",
+      "description": "Your heroes handle the fighting. Everything else is your problem. Recruit and level up adventurers, send them into auto-battles before quest timers run out, and grow your Guild Town in real time while Chaos creeps across the land.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5575540/5704cf25261232a02df483d04c635c098c0564cb/ss_5704cf25261232a02df483d04c635c098c0564cb.1920x1080.jpg?t=1795024813",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
       "id": 5199150,
       "name": "9 Box",
       "description": "Ten players. Nine boxes. Grab a box, pick one of two abilities, take aim — then every ability fires at the same moment. Fast, chaotic online battles for up to 10 toys in a giant kid's bedroom. Matches last under 5 minutes.",
@@ -90,6 +225,24 @@
       "firstSeen": "2026-11-18T18:53:40.876Z",
       "mechanic": "party",
       "score": 7
+    },
+    {
+      "id": 5603680,
+      "name": "Desktop Reimu",
+      "description": "Desktop Reimu is a Touhou Project fan-made idle game that sits along the bottom edge of your screen. Your key presses and clicks turn into donations while you work, and Reimu heads out to resolve incidents.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603680/2df1001e405852ea8f4d12e0c16d6727d89b804a/ss_2df1001e405852ea8f4d12e0c16d6727d89b804a.1920x1080.jpg?t=1795166070",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5549420,
+      "name": "ZOO CATCHER / SUNSHARD FARM",
+      "description": "A two-game indie collection featuring ZOO CATCHER, a keyboard typing game, and SUNSHARD FARM, a farming adventure with real-time combat. Enjoy two different ways to play in one collection.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549420/d0372a73adfaf3642c8ba4863a93f5804400c3fd/ss_d0372a73adfaf3642c8ba4863a93f5804400c3fd.1920x1080.jpg?t=1795243304",
+      "firstSeen": "2026-11-18T18:53:40.876Z",
+      "mechanic": "physics",
+      "score": 6
     },
     {
       "id": 4206100,
@@ -329,7 +482,7 @@
       "id": 5608870,
       "name": "Smash Arena",
       "description": "An online party game for up to 12 players: brick-built toys clash in wild, physics-driven challenges. Run, jump, shove, survive the glass bridge and Red Light… and climb onto the podium. Dress up your toy and challenge your friends!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5608870/f996ed8821263522b16d8bcf52140a7082d81819/ss_f996ed8821263522b16d8bcf52140a7082d81819.1920x1080.jpg?t=1794943569",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5608870/f996ed8821263522b16d8bcf52140a7082d81819/ss_f996ed8821263522b16d8bcf52140a7082d81819.1920x1080.jpg?t=1795376805",
       "firstSeen": "2026-11-17T19:53:52.018Z",
       "mechanic": "physics",
       "score": 8
@@ -386,159 +539,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5544770/575f85291b363ba823ea00e4ddd7e91edf751139/ss_575f85291b363ba823ea00e4ddd7e91edf751139.1920x1080.jpg?t=1794932371",
       "firstSeen": "2026-11-17T19:53:52.018Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4681370,
-      "name": "DeadLoop",
-      "description": "DeadLoop is a competitive arena action game for 2–4 players, combining monster-wave survival with PvP duels. Choose a hero, buy items, and upgrade abilities between battles. Bet in-match gold on duel outcomes and turn smart decisions into an advantage over your rivals.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681370/71f425e5a24e3c9961237144644dabad1d6f77bb/ss_71f425e5a24e3c9961237144644dabad1d6f77bb.1920x1080.jpg?t=1794923811",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 2866010,
-      "name": "Paschalis TD",
-      "description": "Build and upgrade towers to defend yourself against various enemies.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866010/47c132288e6f6d8e784786a2e7a9a42441d3db26/ss_47c132288e6f6d8e784786a2e7a9a42441d3db26.1920x1080.jpg?t=1794944097",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5609430,
-      "name": "GALLOP",
-      "description": "Ride, explore and puzzle your way across a wild medieval land with your friends. Reach the far-off castle, rescue the queen and return her to the king – past bandit ambushes, untamed nature and the occasional friendly shove off a cliff.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5609430/abc869731b888c185d2428034a841cc730c4d252/ss_abc869731b888c185d2428034a841cc730c4d252.1920x1080.jpg?t=1794939020",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5607900,
-      "name": "You Don't Have to Be a Hero!",
-      "description": "A cozy raising sim inspired by Princess Maker. As homeroom teacher, spend three years beside one student at Sebit Academy: plan her weeks, share small everyday moments, and help her find a future of her own. She doesn't have to be a hero.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607900/aff6dbd3b71163bf04ead4894eef851bda0d55c8/ss_aff6dbd3b71163bf04ead4894eef851bda0d55c8.1920x1080.jpg?t=1795067750",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5115040,
-      "name": "Quest Dice",
-      "description": "A solo gamebook with a real, physics-rolled d20. Read the story, make your choices, roll the dice and live with the result. Create your hero, play handcrafted adventures in 22 languages, or write and share your own books.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115040/431e5c93d4b0d9a542101ef590d397df8aaa6013/ss_431e5c93d4b0d9a542101ef590d397df8aaa6013.1920x1080.jpg?t=1794944441",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5604610,
-      "name": "ALL PASSENGERS BUCKLE UP",
-      "description": "Run a budget airline in 1-6 player co-op. Check passports, load the bags, fly the route and keep the passengers fed while the jet catches fire around you. Take bribes, dodge storms and climb onto the roof mid-flight. Hit the quota or the whole crew is fired.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5604610/80f3a0dc50f30000b5e57ad405e32947f24cc24e/ss_80f3a0dc50f30000b5e57ad405e32947f24cc24e.1920x1080.jpg?t=1794936368",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
-      "score": 10
-    },
-    {
-      "id": 5598710,
-      "name": "Million Layer Gift Simulator",
-      "description": "A giant gift with 1,000,000 layers of wrapping paper. Peel it strip by strip, sell the paper, and buy better tools, from nail clippers to a leaf blower. Play alone or with up to 4 friends. What’s inside? There’s only one way to find out.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5598710/3fa273853649fa3c44f17f214d8e5b37eb68791e/ss_3fa273853649fa3c44f17f214d8e5b37eb68791e.1920x1080.jpg?t=1794896539",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5580080,
-      "name": "Void Drive",
-      "description": "Chain your cars together and drive across roads hanging over the void. If one falls, everyone falls. Jump, crash and laugh through 17 trap-filled worlds with up to 3 friends online, or go solo and chase your best time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580080/5ed3f2ff940ba1fc48c4da32e9ab65f9fabc839e/ss_5ed3f2ff940ba1fc48c4da32e9ab65f9fabc839e.1920x1080.jpg?t=1794913497",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5439710,
-      "name": "Lost in the Post",
-      "description": "Fly a rickety hot-air balloon with 2-4 friends and deliver the mail across a world that wants you dead. Work the burner, drop the ballast, catch the parcels, slap your crewmates, and try not to fall out. We always deliver. Mostly.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5439710/3a3ff1bdbbf926a671a7afd99ed958ab19855ee2/ss_3a3ff1bdbbf926a671a7afd99ed958ab19855ee2.1920x1080.jpg?t=1795023343",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5331770,
-      "name": "Bot Jump",
-      "description": "Jump, shoot and keep moving in Bot Jump, a side-scrolling platformer for solo play or online co-op with up to 8 players. Guide little robots through changing scenery, blast enemies out of the way and link up with friends by rope. How far can you go together?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5331770/183637ee4f44751dd342367b2dc0a4f62af81c15/ss_183637ee4f44751dd342367b2dc0a4f62af81c15.1920x1080.jpg?t=1794909246",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
-      "id": 5601220,
-      "name": "A Sheet-ton of Bingo",
-      "description": "Fill one whole bingo sheet out of a thousand before the old regular across the hall yells BINGO. Call numbers, dab squares and buy auto-daubers in this incremental race to find the bingo in a sheet haystack. He has been doing this for decades. You have no idea how good he is.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5601220/87de0a499a2bec8faac7f029ba13c0fb3be93592/ss_87de0a499a2bec8faac7f029ba13c0fb3be93592.1920x1080.jpg?t=1794957654",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5578730,
-      "name": "No, I'm Not Addicted to Opening Packs",
-      "description": "Rip open packs in this incremental trading card game! Collect hundreds of unique cards across themed sets, upgrade your packs, sacrifice cards for rewards and complete challenges to earn stars for permanent upgrades. Chase the rarest pulls and build your ultimate collection!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578730/7603e958ab453045963b315390ffeca12e5bc0d3/ss_7603e958ab453045963b315390ffeca12e5bc0d3.1920x1080.jpg?t=1795007430",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5566450,
-      "name": "TRIANGLE: Geometric Exclusion Zone",
-      "description": "TRIANGLE: Geometric Exclusion Zone is a neon top-down shooter. Customize your ship's left and right cannons, fight through branching rooms, collect gear, and build powerful weapon combos. Face geometric enemies, elite threats, and multi-phase bosses.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5566450/0be8c5a4d7a276cff071fa3ca456a350ee25d826/ss_0be8c5a4d7a276cff071fa3ca456a350ee25d826.1920x1080.jpg?t=1795024732",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5563500,
-      "name": "FootBall Inc",
-      "description": "Take direct control of the rods in a physics-driven foosball game, then build the club behind every match. Master powerful shots, sign and develop players, climb four divisions, upgrade your facilities, and earn your place at the World Cup.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563500/dec55b6dd872a40d50d7104501a2e7e132ae9010/ss_dec55b6dd872a40d50d7104501a2e7e132ae9010.1920x1080.jpg?t=1795105692",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5556690,
-      "name": "PokerCat Battle",
-      "description": "Turn poker hands into powerful attacks in a fantasy adventure starring a sword-wielding cat. Bend your hand with Tarot cards, battle bosses, collect gear, and grow stronger. Play each hand yourself or let auto-battle run in a compact desktop bar.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556690/e77b3b4adf5cdff648b898077b7f3405b40ac20a/ss_e77b3b4adf5cdff648b898077b7f3405b40ac20a.1920x1080.jpg?t=1794884911",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5548060,
-      "name": "Bitnook",
-      "description": "A cozy idle game that lives at the bottom of your screen. Tiny Bit Friends guard your desktop from mischievous bugs while you work: they fight, build and grow on their own, and parade out to tell you what they did when you come back.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5548060/d5a0d3a875a31cdc77fc6e8c0cc68ff8a679cd7d/ss_d5a0d3a875a31cdc77fc6e8c0cc68ff8a679cd7d.1920x1080.jpg?t=1795019740",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4769130,
-      "name": "Magical Girl: incremental gaiden",
-      "description": "Start as a weak Magical Girl and become an unstoppable force! Fight weird Shadows, collect resources, unlock powerful upgrades, and annihilate the Witches in this Incremental Bullet Hell!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769130/7db97a8e671007fbbed1c2ae562622f56e658d2e/ss_7db97a8e671007fbbed1c2ae562622f56e658d2e.1920x1080.jpg?t=1794912348",
-      "firstSeen": "2026-11-17T11:15:41.924Z",
-      "mechanic": "incremental",
       "score": 8
     }
   ]
