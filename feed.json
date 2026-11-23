@@ -1,6 +1,96 @@
 {
-  "checkedAt": "2026-11-23T08:04:39.864Z",
+  "checkedAt": "2026-11-23T20:04:50.283Z",
   "games": [
+    {
+      "id": 4796520,
+      "name": "Counter Ducks",
+      "description": "An asymmetric FPP/TPP shooter with two different game modes. In PvE, hunt ducks solo or in co-op, earn money, and upgrade your gear. In PvP, switch roles and play as a duck against hunters in chaotic 4v4 battles!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796520/466c5665a2c2f6b8730b3bf868604fd504bc9012/ss_466c5665a2c2f6b8730b3bf868604fd504bc9012.1920x1080.jpg?t=1795106144",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5437280,
+      "name": "Crack & Stack",
+      "description": "Race up to six friends to stack dice and crack puzzles in this chaotic party game! Based on the 2025 board game, Crack &amp; Stack, you can now play online, split-screen, or solo against the commentary team, and turn on Chaos Mode for rounds that bend all the rules!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437280/81151dff4bf59a0ed1826621e2eb987777883d0b/ss_81151dff4bf59a0ed1826621e2eb987777883d0b.1920x1080.jpg?t=1795432453",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5121190,
+      "name": "Sort Cats Together",
+      "description": "A toy store full of cats needs sorting! Play solo or team up with friends in this cozy 1–4 player co-op game. Find 200 different cat designs, sort 4,000 toys onto their matching shelves, and unlock upgrades to turn a mountain of cats into a tidy collection.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5121190/eb678de459e97cfa7939a8621fca5ce86f5c93c8/ss_eb678de459e97cfa7939a8621fca5ce86f5c93c8.1920x1080.jpg?t=1795386160",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 1259770,
+      "name": "Sovia: Five Year Plan",
+      "description": "A cozy competitive card game in Sovia's broadcast station. Race to complete five plans, hand your building resources to rivals, scout their cards, and survive disasters. Six seats by default, with computer players and friend rooms.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259770/d030300c10970a6c69f47a9f441e3063a9472c58/ss_d030300c10970a6c69f47a9f441e3063a9472c58.1920x1080.jpg?t=1795157070",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 3801400,
+      "name": "Sovia: Box & Order",
+      "description": "Run a busy little paper warehouse. Shelve chilled, fragile and bulky goods, pack the right boxes, rest a tired crew and chain their skills into an ensemble. Follow eight stops to recover a lost route book, then reshape any warehouse in the level editor.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/100738ca8a4099211fa9fe68bd940689bc43f905/ss_100738ca8a4099211fa9fe68bd940689bc43f905.1920x1080.jpg?t=1795153951",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5169310,
+      "name": "Shadows of Hollow Creek",
+      "description": "Uncover the truth. Survive the night. Hollow Creek is a narrative-driven psychological thriller game where investigative journalism leads Clara Pierce to an isolated town plagued by disappearances, buried secrets, and whispers of a witch. Some stories are better left untold.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169310/9e3d35574d59d40fd6fea8bf3f182057532666d9/ss_9e3d35574d59d40fd6fea8bf3f182057532666d9.1920x1080.jpg?t=1795109124",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5159310,
+      "name": "Limited-time Game Bundle Challenge",
+      "description": "A bunch of Normal Retro Classic games, but what if, you need to change to another game when the Count Down ends. How many Score can you get?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5159310/b660c4986939435e407955b107e4e6f534e8dbbf/ss_b660c4986939435e407955b107e4e6f534e8dbbf.1920x1080.jpg?t=1795182338",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5132020,
+      "name": "INTERNET4",
+      "description": "INTERNET4 lets up to 8 people control one browser together and turn the internet into a shared playground. Watch videos and livestreams, split the browser to explore the web, or draw together. Enjoy Wikipedia-based minigames or unwind with some fishing.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5132020/39d937a56e744f3ae043eeeca7c7e511936b5b0d/ss_39d937a56e744f3ae043eeeca7c7e511936b5b0d.1920x1080.jpg?t=1795139604",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 4743280,
+      "name": "Dominus Manager",
+      "description": "Take the mantle of a Lanista in ancient Rome. Build your ludus, scout and train fierce gladiators, manipulate political factions, and schedule high-stakes arena battles in this deep management simulation. Blood entertains the crowd, but gold builds an empire.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743280/fa42abbebb64d3466be0a54765ccd589c0879fe9/ss_fa42abbebb64d3466be0a54765ccd589c0879fe9.1920x1080.jpg?t=1795089204",
+      "firstSeen": "2026-11-19T17:42:52.877Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5614760,
+      "name": "BONKABIND",
+      "description": "Ever forgotten how to shoot in the middle of a gunfight? In BONKABIND, players can swap each other's keyboard and mouse controls! One round you're a sharpshooter. The next, you're running backward, crouching by accident, and wondering where your shoot button went.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5614760/28a74bea1ab13f8ba901c240c28c0e18197fc572/ss_28a74bea1ab13f8ba901c240c28c0e18197fc572.1920x1080.jpg?t=1795065139",
+      "firstSeen": "2026-11-19T08:39:11.635Z",
+      "mechanic": "party",
+      "score": 9
+    },
     {
       "id": 5514010,
       "name": "Puppetria",
@@ -29,6 +119,15 @@
       "score": 7
     },
     {
+      "id": 5607430,
+      "name": "Retro Cinema - Movie Theater Simulator",
+      "description": "It's 1988 and the neighborhood cinema is yours. Tear tickets at the box office, pop fresh popcorn, pour sodas and slushies, and thread the reels in the projection booth. A cozy, nostalgic single-player sim about the simple satisfaction of running your own movie theater.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607430/22ef8d680ea5c1fade0c0e8b770615ab6f9293ed/ss_22ef8d680ea5c1fade0c0e8b770615ab6f9293ed.1920x1080.jpg?t=1795296861",
+      "firstSeen": "2026-11-19T08:39:11.635Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
       "id": 5482210,
       "name": "Hide & Chisel",
       "description": "Carve your body out of marble, and stand as still as a statue! Hide &amp; Chisel is a hide-and-seek game where you carve a block of stone into any shape you can think of. Hide from the Curator and his hammer!",
@@ -45,24 +144,6 @@
       "firstSeen": "2026-11-19T08:39:11.635Z",
       "mechanic": "physics",
       "score": 6
-    },
-    {
-      "id": 5609350,
-      "name": "Grandma's Button Shop",
-      "description": "Grandma's button shop has gotten out of hand. Pick up the buttons scattered across her cozy old house and sort each one into its own labelled drawer, tray, tin or card. Unlock skills that light up, gather and auto-place buttons, and try your luck at the plinko board.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5609350/42478eeefdfb5bfc80dab907526ae53bf664b9d3/ss_42478eeefdfb5bfc80dab907526ae53bf664b9d3.1920x1080.jpg?t=1795088741",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5556920,
-      "name": "Sort My Money",
-      "description": "Collect more than 46 currencies from around the world in this cozy organizing game! Sort 292 unique banknotes, arrange them by country and denomination, complete collections, and build your own museum of world money.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556920/2a141ea08b5a0ca1c29ed200f595b552fdbb994d/ss_2a141ea08b5a0ca1c29ed200f595b552fdbb994d.1920x1080.jpg?t=1795026691",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "simulator",
-      "score": 8
     },
     {
       "id": 5455430,
@@ -88,7 +169,7 @@
       "description": "Run a spooky-cozy haunted inn as a broke lich, stress out your guests, trap them in rooms to turn them into ghost, and sell them online to rebuild your retro game collection.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661090/a678ff764f45b36a5f8932a36c8ec3d7f614cac9/ss_a678ff764f45b36a5f8932a36c8ec3d7f614cac9.1920x1080.jpg?t=1795186305",
       "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "simulator",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -113,7 +194,7 @@
       "id": 5613590,
       "name": "Dreams to Studio",
       "description": "Build your dream career from a small room to your own gaming empire! Create content, stream, develop games, upgrade your equipment and shape your future in an open-ended life and management simulation where every decision matters.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5613590/ec37d34bc85353a01eb6c8bac3ae486cd8d4545e/ss_ec37d34bc85353a01eb6c8bac3ae486cd8d4545e.1920x1080.jpg?t=1795169699",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5613590/c1ae585edaa41c4b9f1534150dbd8c12235ac794/ss_c1ae585edaa41c4b9f1534150dbd8c12235ac794.1920x1080.jpg?t=1795445796",
       "firstSeen": "2026-11-19T01:03:48.256Z",
       "mechanic": "incremental",
       "score": 7
@@ -141,15 +222,6 @@
       "name": "PinDOS",
       "description": "Play your own copies of Epic Pinball, Silver Ball, Silver Ball 2 Plus and Extreme Pinball in a new front end: the whole table on one tall screen with no scrolling, 2-4 players online or on your home network, and a full virtual pinball cabinet mode. The games are not included.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475170/748c0a1a166f8a9708ce184a983de22ece8d05f5/ss_748c0a1a166f8a9708ce184a983de22ece8d05f5.1920x1080.jpg?t=1795041198",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4200910,
-      "name": "COREDUMP: 口口口口",
-      "description": "COREDUMP: 口口口口 is a Metroidvania inspired puzzle platformer where you recover lost colliders, switch between phasing through walls and charged bouncing, and uncover hidden paths across an interconnected world.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200910/d12642df0dc5e774676c321d6c40a723cc5efd86/ss_d12642df0dc5e774676c321d6c40a723cc5efd86.1920x1080.jpg?t=1795042581",
       "firstSeen": "2026-11-19T01:03:48.256Z",
       "mechanic": "physics",
       "score": 6
@@ -221,7 +293,7 @@
       "id": 5549270,
       "name": "Crack the Crate",
       "description": "Crack the Crate is a super-satisfying crate-smashing incremental game. Open crates, collect 288 items and their rare variants, and upgrade your way from wooden boxes to cosmic crates. Can you find the legendary Dodo?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549270/38b65d88f51033eb5012bab33dba0a02859dfcf5/ss_38b65d88f51033eb5012bab33dba0a02859dfcf5.1920x1080.jpg?t=1795172630",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549270/38b65d88f51033eb5012bab33dba0a02859dfcf5/ss_38b65d88f51033eb5012bab33dba0a02859dfcf5.1920x1080.jpg?t=1795441796",
       "firstSeen": "2026-11-18T18:53:40.876Z",
       "mechanic": "incremental",
       "score": 8
@@ -302,7 +374,7 @@
       "id": 5199150,
       "name": "9 Box",
       "description": "Ten players. Nine boxes. Grab a box, pick one of two abilities, take aim — then every ability fires at the same moment. Fast, chaotic online battles for up to 10 toys in a giant kid's bedroom. Matches last under 5 minutes.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5199150/11f8ad53b5b6e81623e4999ef1055b91f97a9802/ss_11f8ad53b5b6e81623e4999ef1055b91f97a9802.1920x1080.jpg?t=1795348299",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5199150/11f8ad53b5b6e81623e4999ef1055b91f97a9802/ss_11f8ad53b5b6e81623e4999ef1055b91f97a9802.1920x1080.jpg?t=1795426205",
       "firstSeen": "2026-11-18T18:53:40.876Z",
       "mechanic": "party",
       "score": 7
@@ -419,7 +491,7 @@
       "id": 5395860,
       "name": "Gnome Cottage Cleanup!",
       "description": "A whimsical organizing simulator about tracking down thousands of Gnomes, Plants, Books, Potions and more! Use magical abilities and upgrades on your quest to sort 4,060 items scattered across the Gnome Cottage. Just pure exploration, organizing, and collecting with no time limits or pressure.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395860/9b809730ef936aa9fbe19bb3e03f549cd776fda2/ss_9b809730ef936aa9fbe19bb3e03f549cd776fda2.1920x1080.jpg?t=1795072451",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395860/9b809730ef936aa9fbe19bb3e03f549cd776fda2/ss_9b809730ef936aa9fbe19bb3e03f549cd776fda2.1920x1080.jpg?t=1795451144",
       "firstSeen": "2026-11-18T10:20:00.694Z",
       "mechanic": "simulator",
       "score": 8
@@ -431,15 +503,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609090/7d4817652c7545e8d9aa03dcb63fcbd180ea051b/ss_7d4817652c7545e8d9aa03dcb63fcbd180ea051b.1920x1080.jpg?t=1794987081",
       "firstSeen": "2026-11-18T10:20:00.694Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 3275780,
-      "name": "Bet Your Friends",
-      "description": "Shocking twist on Monopoly, your FRIENDS now become your prized ASSETS! BUY, WORK, BID or GAMBLE. First one to REACH $1,000,000 WINS! Have YOU ever bet with your FRIEND'S LIFE on the line?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275780/75afe0f9bc5cc05a45254259ddf6c22b973374af/ss_75afe0f9bc5cc05a45254259ddf6c22b973374af.1920x1080.jpg?t=1794983444",
-      "firstSeen": "2026-11-18T10:20:00.694Z",
-      "mechanic": "party",
       "score": 8
     },
     {
@@ -477,69 +540,6 @@
       "firstSeen": "2026-11-18T10:20:00.694Z",
       "mechanic": "incremental",
       "score": 6
-    },
-    {
-      "id": 5603370,
-      "name": "Zoo Life Tycoon",
-      "description": "Inherit a run-down zoo at the edge of town and turn it into the pride of the city. Repair pens, care for 21 species, welcome families and juggle your own life too: eat, sleep, make friends and upgrade your home in this cozy pixel-art zoo tycoon and life sim.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603370/abb0412cdf7d8d49075895bd42d4ca0a11ff5e8a/ss_abb0412cdf7d8d49075895bd42d4ca0a11ff5e8a.1920x1080.jpg?t=1795076861",
-      "firstSeen": "2026-11-18T02:19:11.855Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5603020,
-      "name": "Carry Crew",
-      "description": "“We can fit one more!” Pick your cargo, stack it high, and grab opposite ends of the board in this physics-based co-op delivery game for two. Match your steps as the rope bridge sways. The finish line is in sight, and the top box just started to slide.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603020/ae305022ca54d97b5a474852bdd08b20555a27c5/ss_ae305022ca54d97b5a474852bdd08b20555a27c5.1920x1080.jpg?t=1795413714",
-      "firstSeen": "2026-11-18T02:19:11.855Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5595950,
-      "name": "Pinball Bonanza Live",
-      "description": "Run a live stream from your garage and build a seven-floor pinball machine with your viewers’ donations. Flip, nudge and chase multiball while chat cheers you on — then automate it all in a hands-on incremental pinball game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595950/9a8caeb74296283d789cc5c812c9bd8413d8bf47/ss_9a8caeb74296283d789cc5c812c9bd8413d8bf47.1920x1080.jpg?t=1795203469",
-      "firstSeen": "2026-11-18T02:19:11.855Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5607830,
-      "name": "Stay Lit",
-      "description": "You're the last ember. He's the jerk who blew out the rest. Roll through 130 trap-packed levels in 26 worlds while Snuff, a shadow imp, rigs each level right in front of you and takes notes on how you play, so the level changes after you die.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607830/a59bfdf5cb3ce7a59ac9b5bb9e767dea4381ec5c/ss_a59bfdf5cb3ce7a59ac9b5bb9e767dea4381ec5c.1920x1080.jpg?t=1795327514",
-      "firstSeen": "2026-11-18T02:19:11.855Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5417280,
-      "name": "Why Does the Ball Fall?",
-      "description": "An idle and clicker game about dropping balls, over and over. Hit a goal hole and the ball rolls one lane deeper; miss and it is gone. Spend coins to seal holes, widen the goals and unlock fruit and animal balls, then keep descending lanes that go on forever.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417280/9d3ecf0d9a99f2bdbb8c9d0d36358355e8466291/ss_9d3ecf0d9a99f2bdbb8c9d0d36358355e8466291.1920x1080.jpg?t=1794968337",
-      "firstSeen": "2026-11-18T02:19:11.855Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5607180,
-      "name": "Bottom Feeders: Crab Crew",
-      "description": "Haul up crab pots with 1–6 friends in this silly co-op crabbing game. Throw pots off the pier, pull up 37 kinds of ridiculous crabs, sell them, and trade your leaky rowboat for a solid gold yacht. Or just shove your crew into the sea.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607180/c621d6668a76c2f30736225c89294a3aada4f15e/ss_c621d6668a76c2f30736225c89294a3aada4f15e.1920x1080.jpg?t=1794940776",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "party",
-      "score": 10
-    },
-    {
-      "id": 5598430,
-      "name": "Paint The Wall",
-      "description": "400 meters of bare concrete. Out you go! Paint the Wall is a satisfying painting sim where the higher you climb, the more you earn. Upgrade to paint cannons and hot air balloons, hire robots and drones, and paint it all, solo or with friends. That wall won't paint itself!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5598430/ccc2b18d8c0b0224b0cbc252cc314139dc2b51b0/ss_ccc2b18d8c0b0224b0cbc252cc314139dc2b51b0.1920x1080.jpg?t=1794932090",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "party",
-      "score": 10
     }
   ]
 }
