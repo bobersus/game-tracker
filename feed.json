@@ -1,6 +1,78 @@
 {
-  "checkedAt": "2026-11-23T00:26:03.152Z",
+  "checkedAt": "2026-11-23T08:04:39.864Z",
   "games": [
+    {
+      "id": 5514010,
+      "name": "Puppetria",
+      "description": "A slightly unusual tea party in an old mansion. As you serve tea and sweets, teapots begin to dance and little ghosts appear... Your job is to quietly smooth over the mansion's lively welcome. Keep an eye on each new surprise and make sure the tea party stays elegant until the very end.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514010/aa31c59b708bfbb6d0649567d12ebb1c016159f3/ss_aa31c59b708bfbb6d0649567d12ebb1c016159f3.1920x1080.jpg?t=1795170453",
+      "firstSeen": "2026-11-19T08:39:11.635Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4994150,
+      "name": "Cat Stack",
+      "description": "Kidnapped by cats! In this frantic physics-based roguelite, your goal is to balance an endless tower of kitties on your head. Dash back and forth to keep your balance, survive chaotic events, and use special cats with unique powers to keep the stack from collapsing under its own weight.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994150/e18079c50f5b941fdd08ff6414bee52d226d06d3/ss_e18079c50f5b941fdd08ff6414bee52d226d06d3.1920x1080.jpg?t=1795226618",
+      "firstSeen": "2026-11-19T08:39:11.635Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5570980,
+      "name": "Earthworks",
+      "description": "Build your own earthmoving company! Buy trucks and excavators, compete for contracts, hire employees, manage your fleet, and grow your business. Overcome economic challenges, expand your operations, and build your construction empire in this 2D management simulation.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570980/3cb4344c92c86d967235f8d816f6ad28d30c4dd9/ss_3cb4344c92c86d967235f8d816f6ad28d30c4dd9.1920x1080.jpg?t=1795035003",
+      "firstSeen": "2026-11-19T08:39:11.635Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5482210,
+      "name": "Hide & Chisel",
+      "description": "Carve your body out of marble, and stand as still as a statue! Hide &amp; Chisel is a hide-and-seek game where you carve a block of stone into any shape you can think of. Hide from the Curator and his hammer!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482210/42baba19f4477c964d2d16e73f7d8ce1caf00531/ss_42baba19f4477c964d2d16e73f7d8ce1caf00531.1920x1080.jpg?t=1795062240",
+      "firstSeen": "2026-11-19T08:39:11.635Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5004740,
+      "name": "Popo and the Moonlit Shop",
+      "description": "A magical shop simulator where you gather materials with your Popos, craft goods, and keep display stands full while fulfilling your customers' requests. Customise the shop to fit your aesthetic, and travel between worlds to open new branches of your Moonlit Shop!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004740/8e5e6b9ebce3f119ce8b3caeb7430984a90ab82d/ss_8e5e6b9ebce3f119ce8b3caeb7430984a90ab82d.1920x1080.jpg?t=1795100497",
+      "firstSeen": "2026-11-19T08:39:11.635Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5609350,
+      "name": "Grandma's Button Shop",
+      "description": "Grandma's button shop has gotten out of hand. Pick up the buttons scattered across her cozy old house and sort each one into its own labelled drawer, tray, tin or card. Unlock skills that light up, gather and auto-place buttons, and try your luck at the plinko board.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5609350/42478eeefdfb5bfc80dab907526ae53bf664b9d3/ss_42478eeefdfb5bfc80dab907526ae53bf664b9d3.1920x1080.jpg?t=1795088741",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5556920,
+      "name": "Sort My Money",
+      "description": "Collect more than 46 currencies from around the world in this cozy organizing game! Sort 292 unique banknotes, arrange them by country and denomination, complete collections, and build your own museum of world money.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5556920/2a141ea08b5a0ca1c29ed200f595b552fdbb994d/ss_2a141ea08b5a0ca1c29ed200f595b552fdbb994d.1920x1080.jpg?t=1795026691",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5455430,
+      "name": "Let It Snow",
+      "description": "Grab a shovel and dig into real, deformable snow. Clear your yard scoop by scoop, sell every load to the Snow-O-Matic, upgrade your tools and uncover what winter has buried. A cozy, satisfying snow-clearing sim.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455430/58adf8d253624dc3491061a9e7ef1e6f9a7f1cbb/ss_58adf8d253624dc3491061a9e7ef1e6f9a7f1cbb.1920x1080.jpg?t=1795293002",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
     {
       "id": 5307120,
       "name": "A Place for Hue",
@@ -16,7 +88,7 @@
       "description": "Run a spooky-cozy haunted inn as a broke lich, stress out your guests, trap them in rooms to turn them into ghost, and sell them online to rebuild your retro game collection.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661090/a678ff764f45b36a5f8932a36c8ec3d7f614cac9/ss_a678ff764f45b36a5f8932a36c8ec3d7f614cac9.1920x1080.jpg?t=1795186305",
       "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "physics",
+      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -38,6 +110,42 @@
       "score": 8
     },
     {
+      "id": 5613590,
+      "name": "Dreams to Studio",
+      "description": "Build your dream career from a small room to your own gaming empire! Create content, stream, develop games, upgrade your equipment and shape your future in an open-ended life and management simulation where every decision matters.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5613590/ec37d34bc85353a01eb6c8bac3ae486cd8d4545e/ss_ec37d34bc85353a01eb6c8bac3ae486cd8d4545e.1920x1080.jpg?t=1795169699",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5323210,
+      "name": "Dead Last",
+      "description": "Dead Last is a horror party game for 2-8 friends where the monsters are only half the danger. Survive terrifying minigames, use items to save yourself and sabotage everyone else, and whatever you do, don't finish dead last.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5323210/b4de79893a3a0df9adcb934cdc07a20398083ba9/ss_b4de79893a3a0df9adcb934cdc07a20398083ba9.1920x1080.jpg?t=1795040836",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "physics",
+      "score": 7
+    },
+    {
+      "id": 5538160,
+      "name": "Word War",
+      "description": "Word War is a crossword strategy game for 1–4 players. Make words to capture star territories, then change a letter or two to steal your enemy's. Mind-game your friends with ambushes and flanks to hold the most territories before the time runs out!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5538160/35f7222c4da10bb8b2913b35cbf1d3bbecb85ee2/ss_35f7222c4da10bb8b2913b35cbf1d3bbecb85ee2.1920x1080.jpg?t=1795050072",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5475170,
+      "name": "PinDOS",
+      "description": "Play your own copies of Epic Pinball, Silver Ball, Silver Ball 2 Plus and Extreme Pinball in a new front end: the whole table on one tall screen with no scrolling, 2-4 players online or on your home network, and a full virtual pinball cabinet mode. The games are not included.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475170/748c0a1a166f8a9708ce184a983de22ece8d05f5/ss_748c0a1a166f8a9708ce184a983de22ece8d05f5.1920x1080.jpg?t=1795041198",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
       "id": 4200910,
       "name": "COREDUMP: 口口口口",
       "description": "COREDUMP: 口口口口 is a Metroidvania inspired puzzle platformer where you recover lost colliders, switch between phasing through walls and charged bouncing, and uncover hidden paths across an interconnected world.",
@@ -56,13 +164,13 @@
       "score": 6
     },
     {
-      "id": 4797900,
-      "name": "Chodd",
-      "description": "The council of gods has no ruler, and you intend to keep it that way. A Difficult Coop roguelike: march your Warp Core across a hostile world, command your goons in real time, and play scheming gods against each other so none grow strong enough to stop you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797900/be93d27f4dd925083c6184e1d3a4db806cfd91aa/ss_be93d27f4dd925083c6184e1d3a4db806cfd91aa.1920x1080.jpg?t=1795008537",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "physics",
-      "score": 9
+      "id": 5465280,
+      "name": "Unknown Caller",
+      "description": "The ghost never lies. Your friends do. Answer the phone, hear what she wants, then lie your way out of it. Mystery boxes, bombs, poisoned wine and terrible luck. 2-8 players with voice chat. Last one alive wins.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465280/3f9d90fd5888d6174ce2ff189f5c00d5359955fc/ss_3f9d90fd5888d6174ce2ff189f5c00d5359955fc.1920x1080.jpg?t=1795111099",
+      "firstSeen": "2026-11-19T01:03:48.256Z",
+      "mechanic": "party",
+      "score": 5
     },
     {
       "id": 5613240,
@@ -182,15 +290,6 @@
       "score": 8
     },
     {
-      "id": 1699300,
-      "name": "Caboosh",
-      "description": "Caboosh! is a roguelite where you build a train one silly wagon at a time. Every car has its own effects and synergies, so line up the combos, stack the crates waaay up high and pray the money outruns the fuel bill!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1699300/74d8d462c9a6a022c466b99f6cc6fe9f6637e7e4/ss_74d8d462c9a6a022c466b99f6cc6fe9f6637e7e4.1920x1080.jpg?t=1795026063",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 5575540,
       "name": "Fantasy Guild Manager",
       "description": "Your heroes handle the fighting. Everything else is your problem. Recruit and level up adventurers, send them into auto-battles before quest timers run out, and grow your Guild Town in real time while Chaos creeps across the land.",
@@ -275,7 +374,7 @@
       "id": 5582710,
       "name": "Gun Party",
       "description": "Roll for stars. Sabotage your friends. Gun Party packs 5 boards and 79 mini-games into one chaotic party night, from cart crashes to crew disasters and horror rounds. Play with 2–10 online or up to 4 in couch split-screen. Full controller support. Add bots to any match.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582710/bc8c9112d5d3432860188b6d8817d1a51f7b09c3/ss_bc8c9112d5d3432860188b6d8817d1a51f7b09c3.1920x1080.jpg?t=1795119848",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582710/d4944f154db10535b2536b794a412bac472db2f1/ss_d4944f154db10535b2536b794a412bac472db2f1.1920x1080.jpg?t=1795408742",
       "firstSeen": "2026-11-18T10:20:00.694Z",
       "mechanic": "party",
       "score": 8
@@ -287,15 +386,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580180/74fa04b0b7cb8823a8138ce1bff6157efb2f0d84/ss_74fa04b0b7cb8823a8138ce1bff6157efb2f0d84.1920x1080.jpg?t=1794995182",
       "firstSeen": "2026-11-18T10:20:00.694Z",
       "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5574800,
-      "name": "Curator: Tidy Up the Sleeping Gallery!",
-      "description": "Become the curator of a vast, magical museum! In this relaxing game, find the right place for over 3,000 paintings, restore damaged works and uncover their fascinating stories. Upgrade your curator, work faster and unlock new galleries!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5574800/30fecf1d31dc5c58f40c05d7945c6d8fae5540b2/ss_30fecf1d31dc5c58f40c05d7945c6d8fae5540b2.1920x1080.jpg?t=1795189627",
-      "firstSeen": "2026-11-18T10:20:00.694Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -380,15 +470,6 @@
       "score": 6
     },
     {
-      "id": 5416340,
-      "name": "Fish Fish Pop",
-      "description": "A slow, cozy match-three under the sea. Swap, pop, and pick a new card every round. Thirty rounds, no timer, and you can't lose. The only question is how few moves you need. Oh, and the sea has secrets.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5416340/9526ac3f7775f934095c83ca4d3b2b65bb10f5f6/ss_9526ac3f7775f934095c83ca4d3b2b65bb10f5f6.1920x1080.jpg?t=1795013415",
-      "firstSeen": "2026-11-18T10:20:00.694Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 4145840,
       "name": "Her in the Abyss",
       "description": "You accidentally intercept a distress signal from space—a girl codenamed C804 is venturing alone into a forbidden zone. Game time runs in perfect real-time sync with reality; every response, every silence, shapes her actions and decisions.",
@@ -409,10 +490,10 @@
     {
       "id": 5603020,
       "name": "Carry Crew",
-      "description": "&quot;There’s room for one more!&quot; Pick your cargo, pile it onto a board, and grab opposite ends in this couch co-op adventure for two. When the ice cracks underfoot, jump together on three. You both made it across. Did your cargo?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603020/ae305022ca54d97b5a474852bdd08b20555a27c5/ss_ae305022ca54d97b5a474852bdd08b20555a27c5.1920x1080.jpg?t=1795322591",
+      "description": "“We can fit one more!” Pick your cargo, stack it high, and grab opposite ends of the board in this physics-based co-op delivery game for two. Match your steps as the rope bridge sways. The finish line is in sight, and the top box just started to slide.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603020/ae305022ca54d97b5a474852bdd08b20555a27c5/ss_ae305022ca54d97b5a474852bdd08b20555a27c5.1920x1080.jpg?t=1795413714",
       "firstSeen": "2026-11-18T02:19:11.855Z",
-      "mechanic": "party",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -429,24 +510,6 @@
       "name": "Stay Lit",
       "description": "You're the last ember. He's the jerk who blew out the rest. Roll through 130 trap-packed levels in 26 worlds while Snuff, a shadow imp, rigs each level right in front of you and takes notes on how you play, so the level changes after you die.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607830/a59bfdf5cb3ce7a59ac9b5bb9e767dea4381ec5c/ss_a59bfdf5cb3ce7a59ac9b5bb9e767dea4381ec5c.1920x1080.jpg?t=1795327514",
-      "firstSeen": "2026-11-18T02:19:11.855Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5604930,
-      "name": "Maiden Taskbar",
-      "description": "A little adventure begins at the bottom of your screen. Keep this idle RPG running above your taskbar and build a squad of maidens from 100+ cards across five races.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5604930/148b91196e4f4113d5bb9ff3d05f7dc3d6b96f23/ss_148b91196e4f4113d5bb9ff3d05f7dc3d6b96f23.1920x1080.jpg?t=1794931955",
-      "firstSeen": "2026-11-18T02:19:11.855Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5519290,
-      "name": "Let 'er Ride",
-      "description": "A Wild West roguelike based on casino Let It Ride. Post three bets, then pull them home or let ’em ride as the Board turns. Hire a posse of oddballs, beat crooked Proprietors at their own rules, and win Her back from the Baron.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5519290/82b32a8431f19c8c3970ff3274b0b411f2311e8e/ss_82b32a8431f19c8c3970ff3274b0b411f2311e8e.1920x1080.jpg?t=1794979669",
       "firstSeen": "2026-11-18T02:19:11.855Z",
       "mechanic": "physics",
       "score": 6
@@ -477,69 +540,6 @@
       "firstSeen": "2026-11-17T19:53:52.018Z",
       "mechanic": "party",
       "score": 10
-    },
-    {
-      "id": 5608870,
-      "name": "Smash Arena",
-      "description": "An online party game for up to 12 players: brick-built toys clash in wild, physics-driven challenges. Run, jump, shove, survive the glass bridge and Red Light… and climb onto the podium. Dress up your toy and challenge your friends!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5608870/f996ed8821263522b16d8bcf52140a7082d81819/ss_f996ed8821263522b16d8bcf52140a7082d81819.1920x1080.jpg?t=1795376805",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5606400,
-      "name": "Bubble Tea Simulator",
-      "description": "Run a cozy little bubble tea café with up to six friends. Cook the pearls, shake the drinks and keep the queue smiling, then close up, pile into bed and wake up ready to open your next branch. Play solo or in online co-op.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5606400/321f5c9c9ef3702186829612f5278bad92eec759/ss_321f5c9c9ef3702186829612f5278bad92eec759.1920x1080.jpg?t=1795265328",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5596240,
-      "name": "AquaScape Desk",
-      "description": "A planted aquarium sim that lives on your desktop. Build a hardscape from stones and driftwood, plant it, and let the fish swim. Plants grow in real time, so trimming matters. You can even scan real stones and driftwood and drop them straight in. Reef tanks with corals, too.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596240/54268981b5918c28e1421a919859ebd71d2a294d/ss_54268981b5918c28e1421a919859ebd71d2a294d.1920x1080.jpg?t=1794927425",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5582130,
-      "name": "Christmas TCG Tidy Up Together",
-      "description": "Tidy up nearly 5,000 festive trading cards scattered across the floor of a Christmas TCG store, solo or with up to two friends online. Clean your finds and complete 15 festive sets in regular and holo finishes. Earn coins for boosters packs, hunt for exclusive rare cards.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582130/4c6861d8fc49e8495d5bc77e06c3fd289ac63acd/ss_4c6861d8fc49e8495d5bc77e06c3fd289ac63acd.1920x1080.jpg?t=1795362951",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5579310,
-      "name": "Build a Sand Castle",
-      "description": "Build a Sand Castle. Complete the task from the rich man and earn yourself 1M Dollars. The Castle is Enormous so you will be here for a while... But it would be faster if you used the Abilities and &quot;Sugar&quot; the man gave to you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5579310/cbc168c8352c254da59b9d590d9c86e6025f8552/ss_cbc168c8352c254da59b9d590d9c86e6025f8552.1920x1080.jpg?t=1795179013",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5569030,
-      "name": "My Little Animal Care Center",
-      "description": "Run a cozy little animal clinic in the heart of a colorful town! Treat hurt pets on the care table, pamper your boarders in their pens, welcome over a dozen species and grow your small center into a whole neighborhood of care.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569030/c8cdfde2f173c691c2894b143ccfe398750d4ed8/ss_c8cdfde2f173c691c2894b143ccfe398750d4ed8.1920x1080.jpg?t=1795192551",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5544770,
-      "name": "Tiny Winter Market",
-      "description": "Build and decorate your own cozy Christmas market in a charming pixel-art winter village! Welcome visitors, manage festive stalls, help Santa deliver presents, discover hidden surprises, and enjoy the magic of Christmas in Tiny Winter Market.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5544770/575f85291b363ba823ea00e4ddd7e91edf751139/ss_575f85291b363ba823ea00e4ddd7e91edf751139.1920x1080.jpg?t=1794932371",
-      "firstSeen": "2026-11-17T19:53:52.018Z",
-      "mechanic": "physics",
-      "score": 8
     }
   ]
 }
