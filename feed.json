@@ -1,6 +1,114 @@
 {
-  "checkedAt": "2026-11-24T04:42:38.157Z",
+  "checkedAt": "2026-11-24T15:20:24.392Z",
   "games": [
+    {
+      "id": 5228690,
+      "name": "Potion Pantry: Sort the Apothecary",
+      "description": "A cozy sorting game set in an old candlelit apothecary. Thousands of potions, each with its own name and label, and liquid that sloshes as you carry it. Ride the rolling ladders, fill crates, and put every shelf back the way it was, to rekindle the light of your late mother's spirit.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228690/ce070a198da3ed336acc57b3c4c3b693267e5173/ss_ce070a198da3ed336acc57b3c4c3b693267e5173.1920x1080.jpg?t=1795450817",
+      "firstSeen": "2026-11-20T06:57:59.677Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4486230,
+      "name": "Dig n Fight",
+      "description": "Dig for treasures, build powerful backpack synergies, and defeat all enemies.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/54358069e3f2a0e91cb9537a9979acc0bdea1adb/ss_54358069e3f2a0e91cb9537a9979acc0bdea1adb.1920x1080.jpg?t=1795133423",
+      "firstSeen": "2026-11-20T06:57:59.677Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5581850,
+      "name": "The Last Duck",
+      "description": "The Last Duck is a top-down roguelite shooter where you play as a rebellious duck battling hordes of farm animals. Wield up to 6 weapons, collect powerful items, create unique builds, and fight your way through the farm and into the wild!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581850/0337750b21c57c6fd6b45b32407ff760cb267cd6/ss_0337750b21c57c6fd6b45b32407ff760cb267cd6.1920x1080.jpg?t=1795474800",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
+      "id": 5346750,
+      "name": "Will It Break?",
+      "description": "Pack a bottle, yeet it down the stairs, and posterize the outtake. A clean delivery pays but a spectacular disaster might pay better. Build a channel from just you and your mom and besties built on physics chaos, one staircase at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5346750/a384627cefc9008e3e81e20c5341fb410e31d68f/ss_a384627cefc9008e3e81e20c5341fb410e31d68f.1920x1080.jpg?t=1795125146",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "physics",
+      "score": 9
+    },
+    {
+      "id": 5614450,
+      "name": "Rocco’s Card Shop",
+      "description": "Rip open packs, pull Golden cards and turn Rocco's tiny card shop into an empire. Flip cards on a live market, grade your best, run the auction house, dodge the loan shark, then close up shop and come back bigger. One more pack. Just one more.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5614450/89ffdb56419f2605da5a4ce40e7c02d5ac1677fc/ss_89ffdb56419f2605da5a4ce40e7c02d5ac1677fc.1920x1080.jpg?t=1795111365",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5606200,
+      "name": "Idle Fish: Aquarium Legends",
+      "description": "Build your own pixel aquarium! Open chests, collect rare fish, feed them to grow, and combine three into a higher rarity. Sell fish for pearls, decorate your tank, and assemble a team of three for automatic battles. Your next legendary discovery awaits.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5606200/7f582f47cbfbf6ebf96eafe9cc3fe7254d91fcf5/ss_7f582f47cbfbf6ebf96eafe9cc3fe7254d91fcf5.1920x1080.jpg?t=1795298873",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5601460,
+      "name": "Click the Stone: Active Incremental and Idler",
+      "description": "Click the Stone is an incremental game about clicking a stone to receive rocks and coins that deliver incredible rewards. Build game-changing upgrade combos, and let your tribespeople join the fun. Improve your skills to become the strongest.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5601460/d4128b9e489ce430f3e919efe7f0f5002263a1d7/ss_d4128b9e489ce430f3e919efe7f0f5002263a1d7.1920x1080.jpg?t=1795169554",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5588160,
+      "name": "One Twisted Boxing Day",
+      "description": "Build a manic gift-making factory as you buy upgrades, race the clock, chase quotas, fight off inspectors, and gently... unalive your employees in this comedic Christmas-themed real-time automation game. For the good of the company!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5588160/51c48059dd23e986149ef4c57797c8fb0b7dacf5/ss_51c48059dd23e986149ef4c57797c8fb0b7dacf5.1920x1080.jpg?t=1795469688",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5581020,
+      "name": "Fishlings: A Cozy Fish Collector",
+      "description": "A cozy idle aquarium where every fish comes out of a card pack. Rip packs, flip cards, chase the 1-in-1,000 Prismatic and collect 80+ odd little fish in four variants. Your tank keeps growing and earning while you're away, or swims in a tiny window on your desktop while you work.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5581020/33fd29212086dd78bb147792fdf4517e6cf7405e/ss_33fd29212086dd78bb147792fdf4517e6cf7405e.1920x1080.jpg?t=1795122688",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5572600,
+      "name": "Frog Express",
+      "description": "Collect frogs and upgrade your express in an active incremental game! Power up manual collection, install automated modules, or combine both. Merge hats, fill your frog album, and unlock permanent upgrades to travel further with every run.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5572600/bb30539d37b50f4be1fc0b3d2c01007775bddc72/ss_bb30539d37b50f4be1fc0b3d2c01007775bddc72.1920x1080.jpg?t=1795113532",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5545780,
+      "name": "Garden Cleaner: Cozy Grass Simulator",
+      "description": "200,000+ blades of grass. Two bare hands. Pull them one by one, sell the harvest, and work your way up to a riding mower in a calm, cozy first-person yard cleaning game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545780/5e13dbf48633635c47fe538766fabddc4ee810b6/ss_5e13dbf48633635c47fe538766fabddc4ee810b6.1920x1080.jpg?t=1795128188",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5542490,
+      "name": "Between the Days",
+      "description": "Between the Days is a cozy, hand-drawn puzzle game inspired by everyday life in Japan. Sort objects, discover patterns, and solve little puzzles through simple clicks and drags. Take a relaxing journey through Tokyo's four seasons, even if you've never visited Japan.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542490/62c5c5781ab8e5122b946b18ca78a17d68fee050/ss_62c5c5781ab8e5122b946b18ca78a17d68fee050.1920x1080.jpg?t=1795110277",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
     {
       "id": 2226880,
       "name": "Redneck Redemption",
@@ -20,6 +128,42 @@
       "score": 7
     },
     {
+      "id": 5620330,
+      "name": "Sylvia Sparrow and the Witch's Paintings",
+      "description": "A Short Hike meets a late-night Adult Swim show. A witch just set her cat on fire, and now she wants Sylvia Sparrow to hunt down her lost paintings. Adventure across Witch Isle and meet mean, creepy, ugly and brutally honest characters who’ll help you find every last one.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5620330/893e1cb61b25976ed86d1a640a83cf466409571c/ss_893e1cb61b25976ed86d1a640a83cf466409571c.1920x1080.jpg?t=1795210829",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5614990,
+      "name": "Brokie",
+      "description": "You went all in with borrowed money and lost everything. Start over with $3,000 in a share house: work part-time jobs, gather clues from news, rumors and store shelves, trade 18 fictional stocks and keep your stress in check. How far can you climb in one year?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5614990/c8618fb63221dc87e788cf226bb2941101ca4963/ss_c8618fb63221dc87e788cf226bb2941101ca4963.1920x1080.jpg?t=1795216383",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5608300,
+      "name": "Eldritch Survivors",
+      "description": "Eldritch Survivors is a Lovecraftian roguelite where you kill swarms of enemies, gain insight to the Mythos, and unlock otherworldly powers. Can you survive long enough to stop The Cosmic Conspiracy’s nefarious plans?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5608300/d9e3607a2c1052a91ead849370b1b98a840ba3b6/ss_d9e3607a2c1052a91ead849370b1b98a840ba3b6.1920x1080.jpg?t=1795129695",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5533510,
+      "name": "Short Circuit",
+      "description": "It never stops raining in this abandoned world. Use your disc to turn the machines back on and find out what happened. A minimalist puzzle-platformer made with PICO-8.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533510/9fbe998793a91f984057f38a1b10b20081d8a238/ss_9fbe998793a91f984057f38a1b10b20081d8a238.1920x1080.jpg?t=1795357724",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
       "id": 4849900,
       "name": "Whenster",
       "description": "Who knows when what happened? Whenster is a timeline card game for friends: place movies, TV series, video games, inventions and historic events in the right order before the clock runs out. Host on Steam, and your friends join for free right in their browser.",
@@ -27,6 +171,15 @@
       "firstSeen": "2026-11-19T23:53:50.423Z",
       "mechanic": "party",
       "score": 6
+    },
+    {
+      "id": 5584980,
+      "name": "Trivia Arena: The Grand Stage",
+      "description": "A party trivia game show on a grand velvet stage. Up to 8 friends join with their phones as controllers: no app, just scan the QR code. Answer wrong and your plush drops through a trapdoor. Three game modes, thousands of questions, seasonal events and online play with friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584980/adc07fd8ac42c1143e6f33bdebb0d74c519bed2c/ss_adc07fd8ac42c1143e6f33bdebb0d74c519bed2c.1920x1080.jpg?t=1795123930",
+      "firstSeen": "2026-11-19T23:53:50.423Z",
+      "mechanic": "party",
+      "score": 5
     },
     {
       "id": 5484590,
@@ -49,8 +202,8 @@
     {
       "id": 5616970,
       "name": "Deepfold: One Day Deep",
-      "description": "In 2019, an accident trapped your grandmother 66 million years in the past. She lived there 20 years. With her time drill, plant ore in the past, fast-forward millions of years, and mine it by hand today. Each upgrade brings up her next letter. A papercraft mining story in 3 parts. Take your time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5616970/8566052ec5bdb14d74579c2783bf916e3030c0a8/ss_8566052ec5bdb14d74579c2783bf916e3030c0a8.1920x1080.jpg?t=1795305229",
+      "description": "Deepfold is a papercraft mining story about letters from your grandmother, trapped 66 million years in the past since a 2019 accident. She lived there 20 years. Plant ore in the past, fast-forward millions of years, and dig it up by hand. Each upgrade brings up her next letter. Take your time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5616970/cba7db21767507c46f5ece4a2791bf3f360bdb82/ss_cba7db21767507c46f5ece4a2791bf3f360bdb82.1920x1080.jpg?t=1795505749",
       "firstSeen": "2026-11-19T17:42:52.877Z",
       "mechanic": "simulator",
       "score": 8
@@ -104,7 +257,7 @@
       "id": 5458160,
       "name": "RIP ME!",
       "description": "RIP ME! is a pixel-art booster pack incremental. Rip packs, pull shiny hits, clean and grade your best cards, then show them off in your display case. Build a Rip Bot, chase God Packs and misprints across an ever-growing lineup of series, and hunt the legendary Grails.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458160/926b4610daaf15ac29cfebcdc942800ed499be1d/ss_926b4610daaf15ac29cfebcdc942800ed499be1d.1920x1080.jpg?t=1795187488",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458160/926b4610daaf15ac29cfebcdc942800ed499be1d/ss_926b4610daaf15ac29cfebcdc942800ed499be1d.1920x1080.jpg?t=1795510635",
       "firstSeen": "2026-11-19T17:42:52.877Z",
       "mechanic": "incremental",
       "score": 8
@@ -143,15 +296,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5615210/54e053313d18a014ed00194694b779ed8d6c5204/ss_54e053313d18a014ed00194694b779ed8d6c5204.1920x1080.jpg?t=1795434288",
       "firstSeen": "2026-11-19T17:42:52.877Z",
       "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5544010,
-      "name": "Liquidation Inc.",
-      "description": "A co-op physics horror for 1-4 friends: buy out the contents of haunted, foreclosed homes and haul everything to your van before the timer runs out. Every scratch costs money - and something still lives there.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5544010/cbc12dce56b8d826175b2ead84a541b2a050b4db/ss_cbc12dce56b8d826175b2ead84a541b2a050b4db.1920x1080.jpg?t=1795381879",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "party",
       "score": 7
     },
     {
@@ -222,15 +366,6 @@
       "name": "Rig'n'Roll: GOLD",
       "description": "Hit the highways of California in the most complete edition of the classic truck-driving simulator! Build your trucking empire, compete with rival drivers, explore an expanded world, and enjoy the complete Monster Cup expansion, additional trucks, and over 140 side missions.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568300/9158783e7952e124bdaaa613003e04dfc363ffe0/ss_9158783e7952e124bdaaa613003e04dfc363ffe0.1920x1080.jpg?t=1795105603",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 4743280,
-      "name": "Dominus Manager",
-      "description": "Take the mantle of a Lanista in ancient Rome. Build your ludus, scout and train fierce gladiators, manipulate political factions, and schedule high-stakes arena battles in this deep management simulation. Blood entertains the crowd, but gold builds an empire.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743280/fa42abbebb64d3466be0a54765ccd589c0879fe9/ss_fa42abbebb64d3466be0a54765ccd589c0879fe9.1920x1080.jpg?t=1795089204",
       "firstSeen": "2026-11-19T17:42:52.877Z",
       "mechanic": "incremental",
       "score": 5
@@ -347,7 +482,7 @@
       "id": 5613590,
       "name": "Dreams to Studio",
       "description": "Build your dream career from a small room to your own gaming empire! Create content, stream, develop games, upgrade your equipment and shape your future in an open-ended life and management simulation where every decision matters.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5613590/c1ae585edaa41c4b9f1534150dbd8c12235ac794/ss_c1ae585edaa41c4b9f1534150dbd8c12235ac794.1920x1080.jpg?t=1795445796",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5613590/c1ae585edaa41c4b9f1534150dbd8c12235ac794/ss_c1ae585edaa41c4b9f1534150dbd8c12235ac794.1920x1080.jpg?t=1795517257",
       "firstSeen": "2026-11-19T01:03:48.256Z",
       "mechanic": "incremental",
       "score": 7
@@ -398,24 +533,6 @@
       "score": 5
     },
     {
-      "id": 5613240,
-      "name": "Snowman Left Behind",
-      "description": "A cozy team snowball fight for up to eight friends. Build a snow fort, pelt the other team until they're snowmen, then hurry over to rescue your frozen friends. Twelve wintry maps, each with its own trick: sleds, toy trains, catapults, sheep and Grandma's cookies.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5613240/fd4c156e4291997a2d5fed1aaea928436a85d471/ss_fd4c156e4291997a2d5fed1aaea928436a85d471.1920x1080.jpg?t=1795265411",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5610780,
-      "name": "Drug Shop: Tidy Up Together",
-      "description": "Talwer and Pesse finally went legit, but their shop is a disaster. A first-person sorting game for 1 to 4 players: put thousands of products on the right shelves, cook in the lab and stock the store, alone or in online co-op.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5610780/324482c792714d0862708931b174632b800981f0/ss_324482c792714d0862708931b174632b800981f0.1920x1080.jpg?t=1795014525",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
       "id": 5606970,
       "name": "We Have a Robot Problem",
       "description": "Every robot in the vault has wandered off its charging rack. Catch them, stack them in your arms and put each one back in its own spot. Thousands of robots with hats and costumes, handy tools and a Workshop full of upgrades. A cosy, silly tidy up game.",
@@ -423,123 +540,6 @@
       "firstSeen": "2026-11-18T18:53:40.876Z",
       "mechanic": "simulator",
       "score": 8
-    },
-    {
-      "id": 5595350,
-      "name": "Ah Sheep, Here We Go Again",
-      "description": "An incremental game about a hungry flock that eats straight through the Earth, all the way to New Zealand. Sweep your cursor over the sheep and they bite the ground beneath them. Grow the flock, hire dogs and shepherds, and keep going down.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595350/7c97b0e130e6b6fd068e5a1badb2c3dcd8b6d1ac/ss_7c97b0e130e6b6fd068e5a1badb2c3dcd8b6d1ac.1920x1080.jpg?t=1795013238",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5576650,
-      "name": "PAIN(T)",
-      "description": "You have one job: paint the wall yellow. All of it. PAIN(T) is a co-op dystopian comedy for 1-4 colleagues sharing one shaky lift, with proximity voice chat. Whoever drives it ruins everyone's stroke. Buy bigger rollers, and try not to ask what the doors are for.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5576650/b60e84440b1a03b4d947e48b466bbedba0fe4b4f/ss_b60e84440b1a03b4d947e48b466bbedba0fe4b4f.1920x1080.jpg?t=1795253454",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5549270,
-      "name": "Crack the Crate",
-      "description": "Crack the Crate is a super-satisfying crate-smashing incremental game. Open crates, collect 288 items and their rare variants, and upgrade your way from wooden boxes to cosmic crates. Can you find the legendary Dodo?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5549270/38b65d88f51033eb5012bab33dba0a02859dfcf5/ss_38b65d88f51033eb5012bab33dba0a02859dfcf5.1920x1080.jpg?t=1795441796",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5511380,
-      "name": "Taso Idle",
-      "description": "Taso Idle is an incremental game where you flip tasos at recess and sell your stack for cash. Rip open snack packs for rare tasos, buy upgrades and leave the collecting to your little brothers. The bullies can take everything but your name. Start with a bottle cap, become the Schoolyard Legend.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5511380/dbed09fcba7afc93aaf6077374719f475001d5c0/ss_dbed09fcba7afc93aaf6077374719f475001d5c0.1920x1080.jpg?t=1795008857",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5501000,
-      "name": "Incremon",
-      "description": "Build a thriving farm powered by Incremons! Capture roaming pets, evolve them, and keep them well-fed. Harvest, stockpile, and manage resources to unlock upgrades and expand your farm in this cozy incremental game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5501000/17335efd5399555994d913d81ff72df603c24fe3/ss_17335efd5399555994d913d81ff72df603c24fe3.1920x1080.jpg?t=1795008713",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5479340,
-      "name": "An incremental city from a word search: Wordhood",
-      "description": "Build an incremental town powered by word searches. Wordhood is an addictive blend of finding words and watching numbers grow. Gather resources, combine upgrades, and unleash combos to grow a hungry town.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5479340/7ca4a606e8c536b79f7603e9467d851d6fef8dc5/ss_7ca4a606e8c536b79f7603e9467d851d6fef8dc5.1920x1080.jpg?t=1795041554",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5336790,
-      "name": "Cook & Sail",
-      "description": "A 1-4 player co-op restaurant that happens to be a ship. Work the day as a crew, keep hungry customers from walking out, and spend what you make on a vessel that can actually handle the job. The tables want a good meal. The fleet wants its share.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5336790/c6f706821a8709fb135ec90501f6c313094a3bbf/ss_c6f706821a8709fb135ec90501f6c313094a3bbf.1920x1080.jpg?t=1795021604",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4961680,
-      "name": "FATHOM",
-      "description": "Send your crew deep into an alien ocean in this pixel-art desktop companion idler. Research strange creatures, harvest and refine resources, expand your deep-sea research platform, and discover the secrets lurking beneath the waves.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961680/c1379fedf0269e60fd716a99ef374b01ebbcb42f/ss_c1379fedf0269e60fd716a99ef374b01ebbcb42f.1920x1080.jpg?t=1795025646",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4241310,
-      "name": "Oceanarium Fishing",
-      "description": "Fish, explore and survive in a co-op horror adventure for 1–4 players. Brave the ocean, upgrade your boat and build your aquarium. But save enough of your catch to feed the island’s Keeper: its daily quota is growing, and the water hides more than fish.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4241310/16121fefaabbda17fdb29dc2959176bbba6c99d2/ss_16121fefaabbda17fdb29dc2959176bbba6c99d2.1920x1080.jpg?t=1795021140",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 2278200,
-      "name": "Compicactus",
-      "description": "Compi is a little cactus on your windowsill, and it wants to keep a diary. Help it write about your days with a few taps: the people you love, what you did and how you felt. Watch it grow and bloom, dress it up, and read your days as Compi saw them.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278200/70bc5b9d8521f885c44b3338f5584ad0a3aa8b1e/ss_70bc5b9d8521f885c44b3338f5584ad0a3aa8b1e.1920x1080.jpg?t=1795094375",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5575540,
-      "name": "Fantasy Guild Manager",
-      "description": "Your heroes handle the fighting. Everything else is your problem. Recruit and level up adventurers, send them into auto-battles before quest timers run out, and grow your Guild Town in real time while Chaos creeps across the land.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5575540/5704cf25261232a02df483d04c635c098c0564cb/ss_5704cf25261232a02df483d04c635c098c0564cb.1920x1080.jpg?t=1795024813",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5199150,
-      "name": "9 Box",
-      "description": "Ten players. Nine boxes. Grab a box, pick one of two abilities, take aim — then every ability fires at the same moment. Fast, chaotic online battles for up to 10 toys in a giant kid's bedroom. Matches last under 5 minutes.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5199150/11f8ad53b5b6e81623e4999ef1055b91f97a9802/ss_11f8ad53b5b6e81623e4999ef1055b91f97a9802.1920x1080.jpg?t=1795426205",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 4999380,
-      "name": "Haunted! But Sorted.",
-      "description": "It's 1996. Wojak needs money, and his girlfriend Dodoo is counting on him. His job: the night shift at a shop in the middle of a graveyard. Haul in deliveries, sort every product and keep one eye on the dark. Play solo or co-op, but don't go outside alone.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4999380/c4742596b7da7900c6583f6c533cb3db6485b9f2/ss_c4742596b7da7900c6583f6c533cb3db6485b9f2.1920x1080.jpg?t=1795008620",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "party",
-      "score": 7
     }
   ]
 }
