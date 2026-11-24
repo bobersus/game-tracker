@@ -1,23 +1,158 @@
 {
-  "checkedAt": "2026-11-24T15:20:24.392Z",
+  "checkedAt": "2026-11-24T23:57:15.527Z",
   "games": [
+    {
+      "id": 5225380,
+      "name": "Tidy Up The Chocolate Factory",
+      "description": "Tidy up a magical chocolate factory solo or with up to 3 friends in online co-op. Sort hundreds of sweet varieties, unlock helpful upgrades, and complete collections to bring candy gardens into bloom. Chocolate streams, marshmallow flowers, and a delicious mess await!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5225380/b2e60af2773698d7a4fa2958a81678c8cf0437a1/ss_b2e60af2773698d7a4fa2958a81678c8cf0437a1.1920x1080.jpg?t=1795159688",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "simulator",
+      "score": 9
+    },
+    {
+      "id": 5429070,
+      "name": "RIP-OFF",
+      "description": "Buy booster packs from Panda, a shady raccoon dealer, and slice them open with one swipe of a knife. Collect, stack, sell and archive 280 pixel-art cards across four series, then upgrade your table until the packs open themselves.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429070/16c7d63c3f3f22b5bcd8250b24ea6be5b7fcebec/ss_16c7d63c3f3f22b5bcd8250b24ea6be5b7fcebec.1920x1080.jpg?t=1795184466",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 4678500,
+      "name": "Crack a Pack",
+      "description": "An incremental collectathon. Crack packs till you complete your collection. Sacrifice cards for upgrades, hire pawns, and swim in money. One question remains: Can you crack 'em all?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678500/9969f22ce4d7be6aeb4f2495d27b589b7c72935b/ss_9969f22ce4d7be6aeb4f2495d27b589b7c72935b.1920x1080.jpg?t=1795217937",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4709130,
+      "name": "World on a Plate",
+      "description": "Cook your way around Europe in this cozy co-op kitchen adventure for one to two players. Prepare authentic regional dishes, keep your kitchen running smoothly, and manage busy restaurants across diverse European cultures and cuisines, while uncovering Grandma’s story behind her legendary restaurant.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709130/ddfcc8c5c428684e0ab0ae2f10ff27702c4ece40/ss_ddfcc8c5c428684e0ab0ae2f10ff27702c4ece40.1920x1080.jpg?t=1795254367",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 1577020,
+      "name": "MicroMayhem",
+      "description": "The party game that doesn't give you time to think: 100+ five-second micro-games, faster and faster. 4 players on one screen, up to 8 online, or solo, with RICO and ZIP calling it live. Remote Play Together: only one copy needed!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577020/bcadc6a8c6c6c67eadc5021df90183c801afbfb3/ss_bcadc6a8c6c6c67eadc5021df90183c801afbfb3.1920x1080.jpg?t=1795305680",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5384580,
+      "name": "Hatchbar",
+      "description": "Hatch eggs in a thin strip above your taskbar while you work. Fuse any two Hatchlings into a new species, then hand them to your adventurers as weapons. An idle RPG with 47 creatures to discover. Never steals focus, clicks pass through. One price, no ads. Free demo out now.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5384580/e506731326b1ecbc49c15c63cb8f92e5bfa89cdf/ss_e506731326b1ecbc49c15c63cb8f92e5bfa89cdf.1920x1080.jpg?t=1795374795",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4841790,
+      "name": "The Idle Captain",
+      "description": "A pirate idle RPG that runs as an overlay on your desktop. Sail between locations, fish, craft goods, brew, trade at the marketplace, and battle enemies while leveling up fishing, combat, and sailing skills in the background.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841790/a63b7695998b3d54df9a6265c671fe6000a778dc/ss_a63b7695998b3d54df9a6265c671fe6000a778dc.1920x1080.jpg?t=1795211673",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 2321950,
+      "name": "Fantasy Boy",
+      "description": "Fantasy Boy is a 2D platformer that follows the adventures of Boy. Explore a fantasy world, battle numerous enemies, and most importantly, have FUN!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321950/ss_c12eb6b29cab4eb8b80f91680e5251e70c080463.1920x1080.jpg?t=1795178054",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 3867450,
+      "name": "SUPERPANEL",
+      "description": "SUPERPANEL is a hardcore tactical shooter with high lethality for solo players or groups of friends. Customize your gear and squads, take on dangerous missions through urban labyrinths, and fight your way to the heart of Megaslavia. Enemies are both humans and monsters.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867450/6e56e402c64ca33922994d2fa060cfee458c978c/ss_6e56e402c64ca33922994d2fa060cfee458c978c.1920x1080.jpg?t=1795453146",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "party",
+      "score": 5
+    },
+    {
+      "id": 5616380,
+      "name": "FUCHI's Chick: Mini Many PANIC",
+      "description": "Up to 4 players hatch baby chicks and lead them to the shipping yard! A cute, chaotic party game starring the deadpan chicks of FUCHI, the illustrator behind the hugely popular LINE stickers. Lead a wobbly parade, dodge thieves and enemies, and dress up in collected outfits. Play locally or online.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5616380/3934f007c57b9bdfd8dff15a10ff6c17f9222777/ss_3934f007c57b9bdfd8dff15a10ff6c17f9222777.1920x1080.jpg?t=1795153218",
+      "firstSeen": "2026-11-20T06:57:59.677Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5610550,
+      "name": "돌깨",
+      "description": "Break rocks, uncover minerals, and build up your pixel-art mining workshop. Upgrade tools, automate the work, and start fresh with permanent abilities. Chase rare finds and jackpot rewards in this single-player incremental game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5610550/8f6d8423f33c0114a8a568bda5744b86cb6d467b/ss_8f6d8423f33c0114a8a568bda5744b86cb6d467b.1920x1080.jpg?t=1795323962",
+      "firstSeen": "2026-11-20T06:57:59.677Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5584110,
+      "name": "PixelHeroLegend",
+      "description": "Build a team of heroes in this pixel-art idle RPG. Collect equipment, adjust tactics, explore regions, and take on enemies in automatic battles.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584110/ec92aa4e0f394bc56e225860cb4b86982e202d26/ss_ec92aa4e0f394bc56e225860cb4b86982e202d26.1920x1080.jpg?t=1795364524",
+      "firstSeen": "2026-11-20T06:57:59.677Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5450980,
+      "name": "Sam Buku Per",
+      "description": "hardcore piloting simulator with romantic elements. You will have to balance between the laws of physics and the laws of gravity. Every extra maneuver burns fuel, which separates you from the base... and from a kiss.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5450980/286a661c5836e9032dcde7936e96f31e859bb289/ss_286a661c5836e9032dcde7936e96f31e859bb289.1920x1080.jpg?t=1795134402",
+      "firstSeen": "2026-11-20T06:57:59.677Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5448440,
+      "name": "Neverwake",
+      "description": "You won't survive your first adventure. Probably not your second, either. Explore a retro pixel art fantasy world, fight monsters in turn-based battles, collect loot, and unlock permanent RPG upgrades. Die, learn, grow stronger, and push further with every new run.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448440/51035095b9a7a5ffbc0d3b8c3865bf4c3c2d0692/ss_51035095b9a7a5ffbc0d3b8c3865bf4c3c2d0692.1920x1080.jpg?t=1795551862",
+      "firstSeen": "2026-11-20T06:57:59.677Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5235870,
+      "name": "Bottled Gleams",
+      "description": "A cozy incremental idle game for your desktop. In the Cat Squeeze bottle, scoop up and pet a cat hunting for dried fish. In the Deck of Harvest bottle, moles mine and ship their haul for coins. Tap keys or click to boost output. Spend idle earnings on capsules for skins, weather and décor.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235870/5ff872ccf47e7b50d8b3daa7425f97962619f6f3/ss_5ff872ccf47e7b50d8b3daa7425f97962619f6f3.1920x1080.jpg?t=1795146086",
+      "firstSeen": "2026-11-20T06:57:59.677Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
     {
       "id": 5228690,
       "name": "Potion Pantry: Sort the Apothecary",
       "description": "A cozy sorting game set in an old candlelit apothecary. Thousands of potions, each with its own name and label, and liquid that sloshes as you carry it. Ride the rolling ladders, fill crates, and put every shelf back the way it was, to rekindle the light of your late mother's spirit.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228690/ce070a198da3ed336acc57b3c4c3b693267e5173/ss_ce070a198da3ed336acc57b3c4c3b693267e5173.1920x1080.jpg?t=1795450817",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228690/ce070a198da3ed336acc57b3c4c3b693267e5173/ss_ce070a198da3ed336acc57b3c4c3b693267e5173.1920x1080.jpg?t=1795548462",
       "firstSeen": "2026-11-20T06:57:59.677Z",
       "mechanic": "simulator",
       "score": 8
     },
     {
-      "id": 4486230,
-      "name": "Dig n Fight",
-      "description": "Dig for treasures, build powerful backpack synergies, and defeat all enemies.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486230/54358069e3f2a0e91cb9537a9979acc0bdea1adb/ss_54358069e3f2a0e91cb9537a9979acc0bdea1adb.1920x1080.jpg?t=1795133423",
+      "id": 5535180,
+      "name": "KER",
+      "description": "KER is a 2D puzzle strategy heist game where you play as Agent Orange, who have to enter into most secure building and get the FILE securely. The building is equipped with pass cords and other securities measure, but only aim to get out the file securely.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5535180/ae3329db61140c5b3c690dfefc58d72f1d2661d9/ss_ae3329db61140c5b3c690dfefc58d72f1d2661d9.1920x1080.jpg?t=1795143641",
       "firstSeen": "2026-11-20T06:57:59.677Z",
       "mechanic": "physics",
-      "score": 8
+      "score": 6
     },
     {
       "id": 5581850,
@@ -52,7 +187,7 @@
       "description": "Build your own pixel aquarium! Open chests, collect rare fish, feed them to grow, and combine three into a higher rarity. Sell fish for pearls, decorate your tank, and assemble a team of three for automatic battles. Your next legendary discovery awaits.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5606200/7f582f47cbfbf6ebf96eafe9cc3fe7254d91fcf5/ss_7f582f47cbfbf6ebf96eafe9cc3fe7254d91fcf5.1920x1080.jpg?t=1795298873",
       "firstSeen": "2026-11-19T23:53:50.423Z",
-      "mechanic": "physics",
+      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -320,7 +455,7 @@
       "id": 5169310,
       "name": "Shadows of Hollow Creek",
       "description": "Uncover the truth. Survive the night. Hollow Creek is a narrative-driven psychological thriller game where investigative journalism leads Clara Pierce to an isolated town plagued by disappearances, buried secrets, and whispers of a witch. Some stories are better left untold.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169310/9e3d35574d59d40fd6fea8bf3f182057532666d9/ss_9e3d35574d59d40fd6fea8bf3f182057532666d9.1920x1080.jpg?t=1795109124",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169310/9e3d35574d59d40fd6fea8bf3f182057532666d9/ss_9e3d35574d59d40fd6fea8bf3f182057532666d9.1920x1080.jpg?t=1795549265",
       "firstSeen": "2026-11-19T17:42:52.877Z",
       "mechanic": "physics",
       "score": 6
@@ -405,141 +540,6 @@
       "firstSeen": "2026-11-19T08:39:11.635Z",
       "mechanic": "incremental",
       "score": 7
-    },
-    {
-      "id": 5607430,
-      "name": "Retro Cinema - Movie Theater Simulator",
-      "description": "It's 1988 and the neighborhood cinema is yours. Tear tickets at the box office, pop fresh popcorn, pour sodas and slushies, and thread the reels in the projection booth. A cozy, nostalgic single-player sim about the simple satisfaction of running your own movie theater.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5607430/22ef8d680ea5c1fade0c0e8b770615ab6f9293ed/ss_22ef8d680ea5c1fade0c0e8b770615ab6f9293ed.1920x1080.jpg?t=1795296861",
-      "firstSeen": "2026-11-19T08:39:11.635Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5482210,
-      "name": "Hide & Chisel",
-      "description": "Carve your body out of marble, and stand as still as a statue! Hide &amp; Chisel is a hide-and-seek game where you carve a block of stone into any shape you can think of. Hide from the Curator and his hammer!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482210/42baba19f4477c964d2d16e73f7d8ce1caf00531/ss_42baba19f4477c964d2d16e73f7d8ce1caf00531.1920x1080.jpg?t=1795062240",
-      "firstSeen": "2026-11-19T08:39:11.635Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5004740,
-      "name": "Popo and the Moonlit Shop",
-      "description": "A magical shop simulator where you gather materials with your Popos, craft goods, and keep display stands full while fulfilling your customers' requests. Customise the shop to fit your aesthetic, and travel between worlds to open new branches of your Moonlit Shop!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004740/8e5e6b9ebce3f119ce8b3caeb7430984a90ab82d/ss_8e5e6b9ebce3f119ce8b3caeb7430984a90ab82d.1920x1080.jpg?t=1795100497",
-      "firstSeen": "2026-11-19T08:39:11.635Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5455430,
-      "name": "Let It Snow",
-      "description": "Grab a shovel and dig into real, deformable snow. Clear your yard scoop by scoop, sell every load to the Snow-O-Matic, upgrade your tools and uncover what winter has buried. A cozy, satisfying snow-clearing sim.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455430/58adf8d253624dc3491061a9e7ef1e6f9a7f1cbb/ss_58adf8d253624dc3491061a9e7ef1e6f9a7f1cbb.1920x1080.jpg?t=1795293002",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5307120,
-      "name": "A Place for Hue",
-      "description": "A relaxing single-player sorting game where you restore 30 hand-crafted color gradients by finding the perfect spot for each piece! Pick up, sort and place over 6,000 mosaic pieces of all shapes and colors, earn money, unlock helpful upgrades, and watch your messy gallery slowly come to life!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307120/b0b3cfa44584ce0f96f0bfb6c16354d1a17f6e87/ss_b0b3cfa44584ce0f96f0bfb6c16354d1a17f6e87.1920x1080.jpg?t=1795038930",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4661090,
-      "name": "Inn Kreeper",
-      "description": "Run a spooky-cozy haunted inn as a broke lich, stress out your guests, trap them in rooms to turn them into ghost, and sell them online to rebuild your retro game collection.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661090/a678ff764f45b36a5f8932a36c8ec3d7f614cac9/ss_a678ff764f45b36a5f8932a36c8ec3d7f614cac9.1920x1080.jpg?t=1795186305",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 4210810,
-      "name": "NIGHT SHIFT: HAUNTED MALL",
-      "description": "The mall closed at midnight. The ghosts didn't. 1–6 friends. 5 lost items. 1 date with Mika… and only one of you gets it. Frying pans, bazookas, banana peels: anything goes. And don't scream: the ghosts can hear your mic.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210810/ca1b21ba12a3426f90bdfdee7c490d1a14885b35/ss_ca1b21ba12a3426f90bdfdee7c490d1a14885b35.1920x1080.jpg?t=1795048511",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 3928950,
-      "name": "Duckload",
-      "description": "1,000,000 rubber ducks have been dumped deep in a mountain forest. Alone. Scared. Squeaky. Ship every last duck downstream for cash. Start with your bare hands and scale up across a massive upgrade tree to increase your duck harvesting power!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3928950/345c07cb61a79503163f3f3c4cd7ec1c78830bd7/ss_345c07cb61a79503163f3f3c4cd7ec1c78830bd7.1920x1080.jpg?t=1795475861",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5613590,
-      "name": "Dreams to Studio",
-      "description": "Build your dream career from a small room to your own gaming empire! Create content, stream, develop games, upgrade your equipment and shape your future in an open-ended life and management simulation where every decision matters.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5613590/c1ae585edaa41c4b9f1534150dbd8c12235ac794/ss_c1ae585edaa41c4b9f1534150dbd8c12235ac794.1920x1080.jpg?t=1795517257",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5323210,
-      "name": "Dead Last",
-      "description": "Dead Last is a horror party game for 2-8 friends where the monsters are only half the danger. Survive terrifying minigames, use items to save yourself and sabotage everyone else, and whatever you do, don't finish dead last.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5323210/b4de79893a3a0df9adcb934cdc07a20398083ba9/ss_b4de79893a3a0df9adcb934cdc07a20398083ba9.1920x1080.jpg?t=1795040836",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "physics",
-      "score": 7
-    },
-    {
-      "id": 5538160,
-      "name": "Word War",
-      "description": "Word War is a crossword strategy game for 1–4 players. Make words to capture star territories, then change a letter or two to steal your enemy's. Mind-game your friends with ambushes and flanks to hold the most territories before the time runs out!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5538160/35f7222c4da10bb8b2913b35cbf1d3bbecb85ee2/ss_35f7222c4da10bb8b2913b35cbf1d3bbecb85ee2.1920x1080.jpg?t=1795050072",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5475170,
-      "name": "PinDOS",
-      "description": "Play your own copies of Epic Pinball, Silver Ball, Silver Ball 2 Plus and Extreme Pinball in a new front end: the whole table on one tall screen with no scrolling, 2-4 players online or on your home network, and a full virtual pinball cabinet mode. The games are not included.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475170/748c0a1a166f8a9708ce184a983de22ece8d05f5/ss_748c0a1a166f8a9708ce184a983de22ece8d05f5.1920x1080.jpg?t=1795041198",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 3780750,
-      "name": "Flarebound",
-      "description": "Tiny dungeon puzzle game. One flare. Ten steps. Draw a path through a forgotten dungeon before your light runs out. Avoid dangerous traps and evil creatures. 20 quests, 100 rooms.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780750/7cb84be904d5e78a2465927d6bea0774460e7691/ss_7cb84be904d5e78a2465927d6bea0774460e7691.1920x1080.jpg?t=1795038820",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5465280,
-      "name": "Unknown Caller",
-      "description": "The ghost never lies. Your friends do. Answer the phone, hear what she wants, then lie your way out of it. Mystery boxes, bombs, poisoned wine and terrible luck. 2-8 players with voice chat. Last one alive wins.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465280/3f9d90fd5888d6174ce2ff189f5c00d5359955fc/ss_3f9d90fd5888d6174ce2ff189f5c00d5359955fc.1920x1080.jpg?t=1795111099",
-      "firstSeen": "2026-11-19T01:03:48.256Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 5606970,
-      "name": "We Have a Robot Problem",
-      "description": "Every robot in the vault has wandered off its charging rack. Catch them, stack them in your arms and put each one back in its own spot. Thousands of robots with hats and costumes, handy tools and a Workshop full of upgrades. A cosy, silly tidy up game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5606970/26aaec0601dccb2cc4819cabb4f483cd405c740b/ss_26aaec0601dccb2cc4819cabb4f483cd405c740b.1920x1080.jpg?t=1795355761",
-      "firstSeen": "2026-11-18T18:53:40.876Z",
-      "mechanic": "simulator",
-      "score": 8
     }
   ]
 }
