@@ -1,6 +1,24 @@
 {
-  "checkedAt": "2026-11-24T23:57:15.527Z",
+  "checkedAt": "2026-11-25T08:13:11.793Z",
   "games": [
+    {
+      "id": 4806170,
+      "name": "It's Not a Bomb",
+      "description": "Throw explosives, dodge chaos, and blow your friends sky-high in this frantic multiplayer party game! Battle across explosive arenas, unleash crazy power-ups, and prove who's the master of mayhem in modes like Battle Royale, Capture the Flag, Demolition, and Team Battles!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806170/a2ad67e807dfbf5e2f6057966652689fc7c7296d/ss_a2ad67e807dfbf5e2f6057966652689fc7c7296d.1920x1080.jpg?t=1795503721",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 4269250,
+      "name": "Blind Spin",
+      "description": "A 1-4 player fusion of Roulette and Poker. Bet on a rigged wheel with hidden odds and bluff your opponents to steal the pot. Use items to cheat and sabotage your rivals. Who will end up the richest?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4269250/ed370a2ea3510a666b45aeba79ee63c5cbe5f776/ss_ed370a2ea3510a666b45aeba79ee63c5cbe5f776.1920x1080.jpg?t=1795475390",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "party",
+      "score": 5
+    },
     {
       "id": 5225380,
       "name": "Tidy Up The Chocolate Factory",
@@ -9,6 +27,69 @@
       "firstSeen": "2026-11-20T16:01:39.835Z",
       "mechanic": "simulator",
       "score": 9
+    },
+    {
+      "id": 5603800,
+      "name": "Fishy Tidy Up",
+      "description": "Grandpa's aquarium museum had a rough night: every tank cracked and 3,600 fish ended up on the floor. Fix the tanks, sort each fish into its own home by species, look and size, and bring nine rooms of sea life back in this cozy first-person tidy-up game.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603800/57d45e3c585d517f0ab23e4daeb31ef3dadb1d0f/ss_57d45e3c585d517f0ab23e4daeb31ef3dadb1d0f.1920x1080.jpg?t=1795195796",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5603340,
+      "name": "Pawn Shop Tycoon",
+      "description": "Run a pixel-art pawn shop, from a tiny corner store to a city emporium. Haggle with every customer, learn what things are really worth, spot fakes and stolen goods, gamble on storage units and drive your rival out of business.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603340/49d7d4ef618eb7df9402f2fe381e0b784661c70c/ss_49d7d4ef618eb7df9402f2fe381e0b784661c70c.1920x1080.jpg?t=1795165070",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5596400,
+      "name": "Grain Master",
+      "description": "Enjoy a relaxing ASMR sorting experience in Grain Master! Sort grains one by one using chopsticks, upgrade your tools, improve your speed, and immerse yourself in a world of relaxation and enjoyment.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596400/59038aca988c5844503b3b6cf527a2c7dc74e14c/ss_59038aca988c5844503b3b6cf527a2c7dc74e14c.1920x1080.jpg?t=1795160206",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5592920,
+      "name": "Last Embers : Fire Hero",
+      "description": "Grab the hose, rookie. The city is on fire! Drown roaring flames, rescue a city full of characters, spend your coins on 90+ upgrades and race across town to answer every call... but something is lurking deep in the flames.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5592920/2147269ecd47d81bf35304d33770526ce6373ae1/ss_2147269ecd47d81bf35304d33770526ce6373ae1.1920x1080.jpg?t=1795183894",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5591280,
+      "name": "This Arcade Is Broken",
+      "description": "This Arcade Is Broken is a short incremental game about a kid with a screwdriver secretly rewiring three classic arcade cabinets until they print tokens on their own. Upgrade their circuit boards, build helper paddles and drones, unleash fever mode... and don’t let the grumpy owner catch you.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5591280/b5116aa0c6d4c6fe5e1012a691df5726301965b0/ss_b5116aa0c6d4c6fe5e1012a691df5726301965b0.1920x1080.jpg?t=1795193798",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5590040,
+      "name": "Lily's Little Dart Game",
+      "description": "Couch party darts for up to four players. Race from 301 down to zero, cause mayhem in a three-minute Chaos match, or steer your dart in slow motion through an obstacle course in The Gauntlet. Play on one screen or online with friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5590040/3c58b9d76001ee212bb6fbd496c9b5c560f09785/ss_3c58b9d76001ee212bb6fbd496c9b5c560f09785.1920x1080.jpg?t=1795163080",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5486400,
+      "name": "Vitrelium",
+      "description": "Step into an atmospheric alchemy workshop. Mix substances, heat and cool liquids, distill vapors, and grow crystals. Discover reactions in a hands-on laboratory sandbox where real-world chemistry meets imagination.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5486400/7f286e0756b7a512313e1b41c50d5b5d43a42eb8/ss_7f286e0756b7a512313e1b41c50d5b5d43a42eb8.1920x1080.jpg?t=1795161844",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5429070,
@@ -47,6 +128,33 @@
       "score": 7
     },
     {
+      "id": 5588590,
+      "name": "Revive The Beast",
+      "description": "A short story-based active incremental game where you reanimate animals by drawing inscription patterns. Learn about the tragic past of the necromancer and become powerful once again.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5588590/337fcefd038a552cca2b0436269dd8d92c331ed4/ss_337fcefd038a552cca2b0436269dd8d92c331ed4.1920x1080.jpg?t=1795183081",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5558190,
+      "name": "Riot Control: Europe",
+      "description": "Isometric pixel-art tower defense parody. Waves of protesters march on the parliament, your only job is to stop there, by any means necessary.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558190/9eee8d9c4d5f09696c724a6f41c21690dcc7a4b8/ss_9eee8d9c4d5f09696c724a6f41c21690dcc7a4b8.1920x1080.jpg?t=1795186417",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5515750,
+      "name": "Dirty Kicker - A Foosball Game",
+      "description": "Fast-paced arcade table football built around razor-sharp precision, tight angles, hard shots, and split-second reactions. Master manual rod control, thread lethal bank shots, and make reflex saves. Conquer solo tournament brackets with tactical upgrades or duel head-to-head in 1v1.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515750/946cb5f2baecadc4d1a08d22dbb1153ca9ac4632/ss_946cb5f2baecadc4d1a08d22dbb1153ca9ac4632.1920x1080.jpg?t=1794735165",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
       "id": 5384580,
       "name": "Hatchbar",
       "description": "Hatch eggs in a thin strip above your taskbar while you work. Fuse any two Hatchlings into a new species, then hand them to your adventurers as weapons. An idle RPG with 47 creatures to discover. Never steals focus, clicks pass through. One price, no ads. Free demo out now.",
@@ -74,6 +182,15 @@
       "score": 6
     },
     {
+      "id": 5593070,
+      "name": "One More Shift",
+      "description": "Welcome to the family! Our company turns yesterday's waste into everything you use today. In this factory roguelite you build the line behind a giant recycler, turn scrap into anything from toasters to salvage robots and meet the quota. Mr. Quota is watching. Fondly.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593070/d7f114fc54fb34f0d7941c3b29baaa3fdb1d0175/ss_d7f114fc54fb34f0d7941c3b29baaa3fdb1d0175.1920x1080.jpg?t=1795186016",
+      "firstSeen": "2026-11-20T16:01:39.835Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
       "id": 3867450,
       "name": "SUPERPANEL",
       "description": "SUPERPANEL is a hardcore tactical shooter with high lethality for solo players or groups of friends. Customize your gear and squads, take on dangerous missions through urban labyrinths, and fight your way to the heart of Megaslavia. Enemies are both humans and monsters.",
@@ -89,7 +206,7 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5616380/3934f007c57b9bdfd8dff15a10ff6c17f9222777/ss_3934f007c57b9bdfd8dff15a10ff6c17f9222777.1920x1080.jpg?t=1795153218",
       "firstSeen": "2026-11-20T06:57:59.677Z",
       "mechanic": "party",
-      "score": 9
+      "score": 10
     },
     {
       "id": 5610550,
@@ -98,15 +215,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5610550/8f6d8423f33c0114a8a568bda5744b86cb6d467b/ss_8f6d8423f33c0114a8a568bda5744b86cb6d467b.1920x1080.jpg?t=1795323962",
       "firstSeen": "2026-11-20T06:57:59.677Z",
       "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5584110,
-      "name": "PixelHeroLegend",
-      "description": "Build a team of heroes in this pixel-art idle RPG. Collect equipment, adjust tactics, explore regions, and take on enemies in automatic battles.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584110/ec92aa4e0f394bc56e225860cb4b86982e202d26/ss_ec92aa4e0f394bc56e225860cb4b86982e202d26.1920x1080.jpg?t=1795364524",
-      "firstSeen": "2026-11-20T06:57:59.677Z",
-      "mechanic": "physics",
       "score": 8
     },
     {
@@ -146,15 +254,6 @@
       "score": 8
     },
     {
-      "id": 5535180,
-      "name": "KER",
-      "description": "KER is a 2D puzzle strategy heist game where you play as Agent Orange, who have to enter into most secure building and get the FILE securely. The building is equipped with pass cords and other securities measure, but only aim to get out the file securely.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5535180/ae3329db61140c5b3c690dfefc58d72f1d2661d9/ss_ae3329db61140c5b3c690dfefc58d72f1d2661d9.1920x1080.jpg?t=1795143641",
-      "firstSeen": "2026-11-20T06:57:59.677Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
       "id": 5581850,
       "name": "The Last Duck",
       "description": "The Last Duck is a top-down roguelite shooter where you play as a rebellious duck battling hordes of farm animals. Wield up to 6 weapons, collect powerful items, create unique builds, and fight your way through the farm and into the wild!",
@@ -187,7 +286,7 @@
       "description": "Build your own pixel aquarium! Open chests, collect rare fish, feed them to grow, and combine three into a higher rarity. Sell fish for pearls, decorate your tank, and assemble a team of three for automatic battles. Your next legendary discovery awaits.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5606200/7f582f47cbfbf6ebf96eafe9cc3fe7254d91fcf5/ss_7f582f47cbfbf6ebf96eafe9cc3fe7254d91fcf5.1920x1080.jpg?t=1795298873",
       "firstSeen": "2026-11-19T23:53:50.423Z",
-      "mechanic": "simulator",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -311,7 +410,7 @@
       "id": 5584980,
       "name": "Trivia Arena: The Grand Stage",
       "description": "A party trivia game show on a grand velvet stage. Up to 8 friends join with their phones as controllers: no app, just scan the QR code. Answer wrong and your plush drops through a trapdoor. Three game modes, thousands of questions, seasonal events and online play with friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584980/adc07fd8ac42c1143e6f33bdebb0d74c519bed2c/ss_adc07fd8ac42c1143e6f33bdebb0d74c519bed2c.1920x1080.jpg?t=1795123930",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584980/ff3420d014dd5731878bfd711133c4ef334d0edf/ss_ff3420d014dd5731878bfd711133c4ef334d0edf.1920x1080.jpg?t=1795565172",
       "firstSeen": "2026-11-19T23:53:50.423Z",
       "mechanic": "party",
       "score": 5
@@ -439,105 +538,6 @@
       "description": "Run a busy little paper warehouse. Shelve chilled, fragile and bulky goods, pack the right boxes, rest a tired crew and chain their skills into an ensemble. Follow eight stops to recover a lost route book, then reshape any warehouse in the level editor.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/100738ca8a4099211fa9fe68bd940689bc43f905/ss_100738ca8a4099211fa9fe68bd940689bc43f905.1920x1080.jpg?t=1795153951",
       "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 5617320,
-      "name": "Dead Or Drawn",
-      "description": "A Wild West party game of drawing, describing and bluffing for 3–6 players. The narrator secretly sees a suspect and describes it out loud while everyone sketches it on a WANTED poster. The posters go up on the board, anonymous. Can you spot the narrator's drawing?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5617320/3610c260f261d73febd19b7cacee370f04448005/ss_3610c260f261d73febd19b7cacee370f04448005.1920x1080.jpg?t=1795101297",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5169310,
-      "name": "Shadows of Hollow Creek",
-      "description": "Uncover the truth. Survive the night. Hollow Creek is a narrative-driven psychological thriller game where investigative journalism leads Clara Pierce to an isolated town plagued by disappearances, buried secrets, and whispers of a witch. Some stories are better left untold.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169310/9e3d35574d59d40fd6fea8bf3f182057532666d9/ss_9e3d35574d59d40fd6fea8bf3f182057532666d9.1920x1080.jpg?t=1795549265",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5159310,
-      "name": "Limited-time Game Bundle Challenge",
-      "description": "A bunch of Normal Retro Classic games, but what if, you need to change to another game when the Count Down ends. How many Score can you get?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5159310/b660c4986939435e407955b107e4e6f534e8dbbf/ss_b660c4986939435e407955b107e4e6f534e8dbbf.1920x1080.jpg?t=1795182338",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5132020,
-      "name": "INTERNET4",
-      "description": "INTERNET4 lets up to 8 people control one browser together and turn the internet into a shared playground. Watch videos and livestreams, split the browser to explore the web, or draw together. Enjoy Wikipedia-based minigames or unwind with some fishing.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5132020/39d937a56e744f3ae043eeeca7c7e511936b5b0d/ss_39d937a56e744f3ae043eeeca7c7e511936b5b0d.1920x1080.jpg?t=1795494093",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5582430,
-      "name": "Death Draft",
-      "description": "A team FPS where every round adds a new bad idea. Draft cards that give enemies huge heads, turn you into a giant or bend the fight in your favor. Everyone gets the same weapons. The cards are up to you. Play with friends or bots in matches up to 5v5.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582430/b5c2f7b1c6ee2db9967bfea1bfe3ac57dbdcaf80/ss_b5c2f7b1c6ee2db9967bfea1bfe3ac57dbdcaf80.1920x1080.jpg?t=1795100046",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 5569800,
-      "name": "Silentes: Cursed Children",
-      "description": "Explore Brazilian cities threatened by supernatural roots in this top-down 2D RPG. Investigate the source of the calamity alongside three heroes with special abilities tied to Brazilian folklore.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5569800/0059dd9a645c50b6e830a489e0669b6060e3fe87/ss_0059dd9a645c50b6e830a489e0669b6060e3fe87.1920x1080.jpg?t=1795095387",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 5568300,
-      "name": "Rig'n'Roll: GOLD",
-      "description": "Hit the highways of California in the most complete edition of the classic truck-driving simulator! Build your trucking empire, compete with rival drivers, explore an expanded world, and enjoy the complete Monster Cup expansion, additional trucks, and over 140 side missions.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568300/9158783e7952e124bdaaa613003e04dfc363ffe0/ss_9158783e7952e124bdaaa613003e04dfc363ffe0.1920x1080.jpg?t=1795105603",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5614760,
-      "name": "BONKABIND",
-      "description": "Ever forgotten how to shoot in the middle of a gunfight? In BONKABIND, players can swap each other's keyboard and mouse controls! One round you're a sharpshooter. The next, you're running backward, crouching by accident, and wondering where your shoot button went.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5614760/28a74bea1ab13f8ba901c240c28c0e18197fc572/ss_28a74bea1ab13f8ba901c240c28c0e18197fc572.1920x1080.jpg?t=1795065139",
-      "firstSeen": "2026-11-19T08:39:11.635Z",
-      "mechanic": "party",
-      "score": 9
-    },
-    {
-      "id": 5514010,
-      "name": "Puppetria",
-      "description": "A slightly unusual tea party in an old mansion. As you serve tea and sweets, teapots begin to dance and little ghosts appear... Your job is to quietly smooth over the mansion's lively welcome. Keep an eye on each new surprise and make sure the tea party stays elegant until the very end.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514010/aa31c59b708bfbb6d0649567d12ebb1c016159f3/ss_aa31c59b708bfbb6d0649567d12ebb1c016159f3.1920x1080.jpg?t=1795170453",
-      "firstSeen": "2026-11-19T08:39:11.635Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 4994150,
-      "name": "Cat Stack",
-      "description": "Kidnapped by cats! In this frantic physics-based roguelite, your goal is to balance an endless tower of kitties on your head. Dash back and forth to keep your balance, survive chaotic events, and use special cats with unique powers to keep the stack from collapsing under its own weight.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994150/e18079c50f5b941fdd08ff6414bee52d226d06d3/ss_e18079c50f5b941fdd08ff6414bee52d226d06d3.1920x1080.jpg?t=1795226618",
-      "firstSeen": "2026-11-19T08:39:11.635Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5570980,
-      "name": "Earthworks",
-      "description": "Build your own earthmoving company! Buy trucks and excavators, compete for contracts, hire employees, manage your fleet, and grow your business. Overcome economic challenges, expand your operations, and build your construction empire in this 2D management simulation.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570980/3cb4344c92c86d967235f8d816f6ad28d30c4dd9/ss_3cb4344c92c86d967235f8d816f6ad28d30c4dd9.1920x1080.jpg?t=1795035003",
-      "firstSeen": "2026-11-19T08:39:11.635Z",
       "mechanic": "incremental",
       "score": 7
     }
