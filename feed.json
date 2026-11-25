@@ -1,6 +1,114 @@
 {
-  "checkedAt": "2026-11-25T08:13:11.793Z",
+  "checkedAt": "2026-11-25T18:40:26.006Z",
   "games": [
+    {
+      "id": 2015050,
+      "name": "Tattie Bogle",
+      "description": "You are the scarecrow. On a small farm at the edge of the woods, a Tomte's magic pulled you off your post and gave you a job: keep the harvest alive. Can you turn the place around before it all falls apart? A challenging fairytale roguelite, solo or 2-4 player online co-op.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015050/59045181aa4ad622e225eebaa41aaf8765bca7fd/ss_59045181aa4ad622e225eebaa41aaf8765bca7fd.1920x1080.jpg?t=1795228097",
+      "firstSeen": "2026-11-21T03:25:58.363Z",
+      "mechanic": "physics",
+      "score": 9
+    },
+    {
+      "id": 286180,
+      "name": "Salticidae Story",
+      "description": "A cosy jumping-spider keeping game. Feed them, mist them, and help them through every moult. Breed lines through a 120-trait genome and six species, catch wild jumping spiders, beetles, roaches and mantises, dress your Keeper, and play online with friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286180/d5347349a24a059c5154cd5730eb946dd3f69d60/ss_d5347349a24a059c5154cd5730eb946dd3f69d60.1920x1080.jpg?t=1795215358",
+      "firstSeen": "2026-11-21T03:25:58.363Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 3094870,
+      "name": "Amarillo's Desktop Pets",
+      "description": "A physics-powered 3D desktop companion engine where crazy ragdoll physics meet living, reactive characters. Import VRM characters, or create your own, and let them live on your desktop.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094870/18032cb538d061fee0f4609d59a7493a5921fa0f/ss_18032cb538d061fee0f4609d59a7493a5921fa0f.1920x1080.jpg?t=1795459006",
+      "firstSeen": "2026-11-21T03:25:58.363Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5603040,
+      "name": "Tick or Kick!",
+      "description": "Grab them by the leg, check their ticket and throw the freeloaders off the bus. Or ride for free, blend into the crowd and blame someone else. A physics party game about tickets, chaos and flying passengers, for up to 16 friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603040/e5a4d0bf6c4a86a6a478808fce145bfc48c1b7ca/ss_e5a4d0bf6c4a86a6a478808fce145bfc48c1b7ca.1920x1080.jpg?t=1795257128",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "physics",
+      "score": 10
+    },
+    {
+      "id": 5622790,
+      "name": "Trust Me, It's a Shortcut!",
+      "description": "Buy a wreck in the Maun bazaar and drive it round the Kalahari for ten days with up to three friends. No GPS, a blank paper map, a budget that buys nothing good, and a friendly local who keeps saying: trust me, it's a shortcut.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5622790/5a79eb80d3d85053b0edbc7563d06888a02e1f08/ss_5a79eb80d3d85053b0edbc7563d06888a02e1f08.1920x1080.jpg?t=1795436635",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5649340,
+      "name": "Lights Out",
+      "description": "The lights go out and Mr. Snuffles comes looking for you: a giant, much-repaired plush pig who can't see in the dark but hears everything. Hide with up to 3 friends, stay quiet and survive till morning... or be the pig.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5649340/73a269a545b5352b3c25c06aa0776b796a64fd00/ss_73a269a545b5352b3c25c06aa0776b796a64fd00.1920x1080.jpg?t=1795209940",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5623950,
+      "name": "Star Archive: Tidying Up Is a Kind of Magic",
+      "description": "The library's a mess, and it won't let you leave. Sort and stack books at your own pace in this cozy first-person game. Cast spells to send books back to their shelves, open new wings, and carry permanent upgrades into the next time loop.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623950/b1a36970cdf3d24a5d932f98501a096a59326a5c/ss_b1a36970cdf3d24a5d932f98501a096a59326a5c.1920x1080.jpg?t=1795212485",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5623320,
+      "name": "Taubenchaos",
+      "description": "Be the pigeon the city deserves! Peck healthy grain, splat tourists, dive-bomb crowds and call in your flock to outsmart the janitor and 32 wild bosses - solo, couch co-op or online. 96 levels, Boss Rush, Zombie Night and 106 original tracks.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623320/1fcd6f49cddf0e0f068d08521b243c8c90a2d350/ss_1fcd6f49cddf0e0f068d08521b243c8c90a2d350.1920x1080.jpg?t=1795620727",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5623240,
+      "name": "Pinball Boss Quest",
+      "description": "Pinball meets block breaker in a pixel-art fantasy quest. Bat the ball through minion waves, smash breakables and topple ten legendary bosses as a Sword, Bow, Javelin, Mage or Summoner, solo or in local co-op where you team up on the boss but compete for the top score.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623240/b888cad63d918b3305e2541064a690c97830d853/ss_b888cad63d918b3305e2541064a690c97830d853.1920x1080.jpg?t=1795433081",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5545350,
+      "name": "Sharktooth Bay",
+      "description": "Dig for shark teeth, sift through the sand, and stock a seaside fossil shop with what you find. Set your prices, arrange your displays, and sell to visiting beachgoers. Keep your favorite finds for your own collection.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545350/445cda8186685cce8f7b588ad0a37683d75b2193/ss_445cda8186685cce8f7b588ad0a37683d75b2193.1920x1080.jpg?t=1795211945",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5380500,
+      "name": "Gravity Chaos: Video Store",
+      "description": "Gravity is back. The tapes aren’t. Sort thousands of scattered VHS tapes in a neon-lit retro video store. Match movies to their shelves, unlock unusual upgrades, and take a break with retro computer games. Turn chaos into order, one satisfying row at a time.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5380500/3efae5cbee8ef73aa86552b78193e46519ee110e/ss_3efae5cbee8ef73aa86552b78193e46519ee110e.1920x1080.jpg?t=1795382534",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5055070,
+      "name": "RUGS!",
+      "description": "Grandpa left you his rug-cleaning shop. Grab up to three friends, haul filthy rugs across town in a beat-up pickup, then scrub, rinse, beat and dry them and get them back before the deadline. Slippery floors, flying carpets, police chases. Save up for a ticket to Mars.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055070/9ba8b2912ab9749237d86b3aee91570f89fd8f64/ss_9ba8b2912ab9749237d86b3aee91570f89fd8f64.1920x1080.jpg?t=1795545181",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "party",
+      "score": 8
+    },
     {
       "id": 4806170,
       "name": "It's Not a Bomb",
@@ -9,6 +117,24 @@
       "firstSeen": "2026-11-20T22:35:57.901Z",
       "mechanic": "party",
       "score": 8
+    },
+    {
+      "id": 5582870,
+      "name": "Suck It Dry! with Your Friends",
+      "description": "Your boss wants the ocean empty. You get a teaspoon. Scoop, schlep and sabotage your way through an impossible job with up to 16 friends – but one of you secretly works for NEPTUN Resorts and wants the sea to stay full.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582870/e35f4559620f5ecf05a421e3841cd441b792d16b/ss_e35f4559620f5ecf05a421e3841cd441b792d16b.1920x1080.jpg?t=1795580632",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5165390,
+      "name": "HOOD",
+      "description": "Local gangs got you laid off your shit job. In the urban jungle of possibilities, your survival instincts kick in to keep a roof over your head, find ways to make bread alone or with your buddies.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165390/d3b159159158e8ac0cc43009e62b30c6e933ba39/ss_d3b159159158e8ac0cc43009e62b30c6e933ba39.1920x1080.jpg?t=1795471588",
+      "firstSeen": "2026-11-20T22:35:57.901Z",
+      "mechanic": "incremental",
+      "score": 6
     },
     {
       "id": 4269250,
@@ -74,15 +200,6 @@
       "score": 8
     },
     {
-      "id": 5590040,
-      "name": "Lily's Little Dart Game",
-      "description": "Couch party darts for up to four players. Race from 301 down to zero, cause mayhem in a three-minute Chaos match, or steer your dart in slow motion through an obstacle course in The Gauntlet. Play on one screen or online with friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5590040/3c58b9d76001ee212bb6fbd496c9b5c560f09785/ss_3c58b9d76001ee212bb6fbd496c9b5c560f09785.1920x1080.jpg?t=1795163080",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
       "id": 5486400,
       "name": "Vitrelium",
       "description": "Step into an atmospheric alchemy workshop. Mix substances, heat and cool liquids, distill vapors, and grow crystals. Discover reactions in a hands-on laboratory sandbox where real-world chemistry meets imagination.",
@@ -108,15 +225,6 @@
       "firstSeen": "2026-11-20T16:01:39.835Z",
       "mechanic": "incremental",
       "score": 8
-    },
-    {
-      "id": 4709130,
-      "name": "World on a Plate",
-      "description": "Cook your way around Europe in this cozy co-op kitchen adventure for one to two players. Prepare authentic regional dishes, keep your kitchen running smoothly, and manage busy restaurants across diverse European cultures and cuisines, while uncovering Grandma’s story behind her legendary restaurant.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709130/ddfcc8c5c428684e0ab0ae2f10ff27702c4ece40/ss_ddfcc8c5c428684e0ab0ae2f10ff27702c4ece40.1920x1080.jpg?t=1795254367",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "incremental",
-      "score": 7
     },
     {
       "id": 1577020,
@@ -159,15 +267,6 @@
       "name": "Hatchbar",
       "description": "Hatch eggs in a thin strip above your taskbar while you work. Fuse any two Hatchlings into a new species, then hand them to your adventurers as weapons. An idle RPG with 47 creatures to discover. Never steals focus, clicks pass through. One price, no ads. Free demo out now.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5384580/e506731326b1ecbc49c15c63cb8f92e5bfa89cdf/ss_e506731326b1ecbc49c15c63cb8f92e5bfa89cdf.1920x1080.jpg?t=1795374795",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 4841790,
-      "name": "The Idle Captain",
-      "description": "A pirate idle RPG that runs as an overlay on your desktop. Sail between locations, fish, craft goods, brew, trade at the marketplace, and battle enemies while leveling up fishing, combat, and sailing skills in the background.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841790/a63b7695998b3d54df9a6265c671fe6000a778dc/ss_a63b7695998b3d54df9a6265c671fe6000a778dc.1920x1080.jpg?t=1795211673",
       "firstSeen": "2026-11-20T16:01:39.835Z",
       "mechanic": "physics",
       "score": 6
@@ -238,8 +337,8 @@
     {
       "id": 5235870,
       "name": "Bottled Gleams",
-      "description": "A cozy incremental idle game for your desktop. In the Cat Squeeze bottle, scoop up and pet a cat hunting for dried fish. In the Deck of Harvest bottle, moles mine and ship their haul for coins. Tap keys or click to boost output. Spend idle earnings on capsules for skins, weather and décor.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235870/5ff872ccf47e7b50d8b3daa7425f97962619f6f3/ss_5ff872ccf47e7b50d8b3daa7425f97962619f6f3.1920x1080.jpg?t=1795146086",
+      "description": "A cozy incremental idle game for your desktop. Cats collect dried fish in the Cat Squeeze bottle. Pick one up and pet it. In the Deck of Harvest bottle, moles mine and ship goods for coins. Tap keys or click to boost yields. Spend idle earnings on capsules for skins, weather and decorations.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235870/5ff872ccf47e7b50d8b3daa7425f97962619f6f3/ss_5ff872ccf47e7b50d8b3daa7425f97962619f6f3.1920x1080.jpg?t=1795595674",
       "firstSeen": "2026-11-20T06:57:59.677Z",
       "mechanic": "incremental",
       "score": 8
@@ -320,7 +419,7 @@
       "id": 5572600,
       "name": "Frog Express",
       "description": "Collect frogs and upgrade your express in an active incremental game! Power up manual collection, install automated modules, or combine both. Merge hats, fill your frog album, and unlock permanent upgrades to travel further with every run.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5572600/bb30539d37b50f4be1fc0b3d2c01007775bddc72/ss_bb30539d37b50f4be1fc0b3d2c01007775bddc72.1920x1080.jpg?t=1795113532",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5572600/bb30539d37b50f4be1fc0b3d2c01007775bddc72/ss_bb30539d37b50f4be1fc0b3d2c01007775bddc72.1920x1080.jpg?t=1795603245",
       "firstSeen": "2026-11-19T23:53:50.423Z",
       "mechanic": "incremental",
       "score": 8
@@ -401,7 +500,7 @@
       "id": 4849900,
       "name": "Whenster",
       "description": "Who knows when what happened? Whenster is a timeline card game for friends: place movies, TV series, video games, inventions and historic events in the right order before the clock runs out. Host on Steam, and your friends join for free right in their browser.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849900/af34746703de06151f3c9f38e3ad55a642515975/ss_af34746703de06151f3c9f38e3ad55a642515975.1920x1080.jpg?t=1795128407",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849900/af34746703de06151f3c9f38e3ad55a642515975/ss_af34746703de06151f3c9f38e3ad55a642515975.1920x1080.jpg?t=1795604707",
       "firstSeen": "2026-11-19T23:53:50.423Z",
       "mechanic": "party",
       "score": 6
@@ -441,105 +540,6 @@
       "firstSeen": "2026-11-19T17:42:52.877Z",
       "mechanic": "simulator",
       "score": 8
-    },
-    {
-      "id": 5616480,
-      "name": "Santa's Sweatshop",
-      "description": "A first-person incremental game set in Santa's warehouse. Wrap gifts, load the conveyor belt and meet a daily quota that grows every day. Earn cookies to buy upgrades, expand the warehouse and hire elves to help you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5616480/3d00b82d7fe85bbc34ea86d94311c23ff2e68867/ss_3d00b82d7fe85bbc34ea86d94311c23ff2e68867.1920x1080.jpg?t=1795112924",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5594630,
-      "name": "PixelOffice",
-      "description": "A tiny pixel office sits in a corner of your desktop and keeps you company while you work. Start the focus timer and its coworkers get to work; take a break and they wander off to the lounge for pool and small talk. Level up to grow the team, dress them up, and yes, you can pet the dog.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5594630/a559ea55fe1118b50721fea4b99a7917f1d6a296/ss_a559ea55fe1118b50721fea4b99a7917f1d6a296.1920x1080.jpg?t=1795108271",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5592860,
-      "name": "Last Backup: A Digital Legacy Story",
-      "description": "Unlock laptops, sort messy desktops and return memories to families. Run a cozy digital legacy office, solve clue-based passwords through 100 cases, and uncover your grandfather's mystery. Every folder brings you closer to the person behind the screen.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5592860/149e44c962a4986bf9c0d7d72289b38f4cf47241/ss_149e44c962a4986bf9c0d7d72289b38f4cf47241.1920x1080.jpg?t=1795107002",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5497060,
-      "name": "Last Card",
-      "description": "A card roguelike played across the table from a masked dealer. Chain cards by color, number or symbol to stack chips and multipliers and beat the night's target. Miss it and a candle goes out. When the last one goes out, the house wins.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5497060/2e0ae3f5b0a58a90e4b5c35fbe3d8f95576e7b5e/ss_2e0ae3f5b0a58a90e4b5c35fbe3d8f95576e7b5e.1920x1080.jpg?t=1795218174",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5497020,
-      "name": "PACKFISH",
-      "description": "Packfish is a cozy pack-opening incremental game about collecting fish. Tear open packs, flip the cards and chase shiny Golden and Prism editions. Build living aquariums that earn while you're away, breed secret hybrids and complete a collection of 97 species. Just one more pack...",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5497020/99debc4b0727618f9f84c7d0ce300424759498a2/ss_99debc4b0727618f9f84c7d0ce300424759498a2.1920x1080.jpg?t=1795101461",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5458160,
-      "name": "RIP ME!",
-      "description": "RIP ME! is a pixel-art booster pack incremental. Rip packs, pull shiny hits, clean and grade your best cards, then show them off in your display case. Build a Rip Bot, chase God Packs and misprints across an ever-growing lineup of series, and hunt the legendary Grails.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458160/926b4610daaf15ac29cfebcdc942800ed499be1d/ss_926b4610daaf15ac29cfebcdc942800ed499be1d.1920x1080.jpg?t=1795510635",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5437280,
-      "name": "Crack & Stack",
-      "description": "Race up to six friends to stack dice and crack puzzles in this chaotic party game! Based on the 2025 board game, Crack &amp; Stack, you can now play online, split-screen, or solo against the commentary team, and turn on Chaos Mode for rounds that bend all the rules!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437280/81151dff4bf59a0ed1826621e2eb987777883d0b/ss_81151dff4bf59a0ed1826621e2eb987777883d0b.1920x1080.jpg?t=1795432453",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5121190,
-      "name": "Sort Cats Together",
-      "description": "A toy store full of cats needs sorting! Play solo or team up with friends in this cozy 1–4 player co-op game. Find 200 different cat designs, sort 4,000 toys onto their matching shelves, and unlock upgrades to turn a mountain of cats into a tidy collection.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5121190/eb678de459e97cfa7939a8621fca5ce86f5c93c8/ss_eb678de459e97cfa7939a8621fca5ce86f5c93c8.1920x1080.jpg?t=1795386160",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 1259770,
-      "name": "Sovia: Five Year Plan",
-      "description": "A cozy competitive card game in Sovia's broadcast station. Race to complete five plans, hand your building resources to rivals, scout their cards, and survive disasters. Six seats by default, with computer players and friend rooms.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259770/d030300c10970a6c69f47a9f441e3063a9472c58/ss_d030300c10970a6c69f47a9f441e3063a9472c58.1920x1080.jpg?t=1795157070",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5615210,
-      "name": "Semaphore",
-      "description": "A train simulator with systemic horror. You are the driver and the conductor of a night train in the People's Republic of Ordovia. Drive the train, meet the passengers, check their papers and look after them. Solve the mysteries of Ordovia's railways and fulfil the state's plan.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5615210/54e053313d18a014ed00194694b779ed8d6c5204/ss_54e053313d18a014ed00194694b779ed8d6c5204.1920x1080.jpg?t=1795434288",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 7
-    },
-    {
-      "id": 3801400,
-      "name": "Sovia: Box & Order",
-      "description": "Run a busy little paper warehouse. Shelve chilled, fragile and bulky goods, pack the right boxes, rest a tired crew and chain their skills into an ensemble. Follow eight stops to recover a lost route book, then reshape any warehouse in the level editor.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3801400/100738ca8a4099211fa9fe68bd940689bc43f905/ss_100738ca8a4099211fa9fe68bd940689bc43f905.1920x1080.jpg?t=1795153951",
-      "firstSeen": "2026-11-19T17:42:52.877Z",
-      "mechanic": "incremental",
-      "score": 7
     }
   ]
 }
