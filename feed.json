@@ -1,6 +1,123 @@
 {
-  "checkedAt": "2026-11-26T10:44:02.471Z",
+  "checkedAt": "2026-11-26T19:51:11.901Z",
   "games": [
+    {
+      "id": 5625200,
+      "name": "Billard Masters Legacy",
+      "description": "Precision cue sports powered by deterministic 1,000 Hz physics! Play 8-Ball, 9-Ball, Snooker, 3-Cushion &amp; Carom in the Online Club or vs PC. Conquer 30 Master Challenges, build custom layouts, and collect 84 cues with live match chronicles across 15 atmospheric 3D venues.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5625200/3d80e1ba17bdd4866ba99cb6f7819469f3f0768b/ss_3d80e1ba17bdd4866ba99cb6f7819469f3f0768b.1920x1080.jpg?t=1795412549",
+      "firstSeen": "2026-11-23T08:04:39.864Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5590860,
+      "name": "Hose to Mars",
+      "description": "Your mission is to terraform Mars. However, a crash landing destroyed all your gear leaving you with just a spoon! Start watering the soil with your spoon, earn MarsCoin, and upgrade your equipment. Turn the Red Planet green solo or with friends!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5590860/451571227263ffcb3fb63d4876c77d3007305699/ss_451571227263ffcb3fb63d4876c77d3007305699.1920x1080.jpg?t=1795612030",
+      "firstSeen": "2026-11-23T08:04:39.864Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4807630,
+      "name": "Incremortal: Xianxia Ascension",
+      "description": "An incremental game about Xianxia cultivation. Slay monsters, gather spiritual qi, refine elixirs, break through realms, and ascend to immortality.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4807630/21e9cf43c4906eba74bda9ccbeb530802659e67f/ss_21e9cf43c4906eba74bda9ccbeb530802659e67f.1920x1080.jpg?t=1795403793",
+      "firstSeen": "2026-11-23T08:04:39.864Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5627920,
+      "name": "Mead & Embers: A Viking Tavern",
+      "description": "Take over a Viking tavern in the cold North and make it shine again: build it up, furnish it and look after your guests. With a living village, a tech tree and a winter that is a real opponent. Keep the embers alive.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5627920/9844ab914d51dff03ebebf662e249301aba58760/ss_9844ab914d51dff03ebebf662e249301aba58760.1920x1080.jpg?t=1795627593",
+      "firstSeen": "2026-11-23T08:04:39.864Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5620200,
+      "name": "Clash of Cogs",
+      "description": "Up to 8 players get 30 seconds to secretly program 5 moves—then watch every robot execute at once across a lethal factory of conveyors, lasers, and molten pits. Ram, suplex, and outsmart friends online, in couch hotseat, or against bots! Nobody's plan survives the assembly line!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5620200/842621ccf4d45a7bc728cebb70e55a9e68c43b30/ss_842621ccf4d45a7bc728cebb70e55a9e68c43b30.1920x1080.jpg?t=1795492066",
+      "firstSeen": "2026-11-23T08:04:39.864Z",
+      "mechanic": "party",
+      "score": 5
+    },
+    {
+      "id": 5547610,
+      "name": "Survivor Town",
+      "description": "Survivor Town blends colony management, autonomous survivor simulation, and tower defense in a post-apocalyptic world. Recruit unique survivors, build production chains, research technology, craft equipment, explore dangerous lands, and defend your settlement against daily raids and powerful Bosses.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5547610/6510bcc6c792672b325c99294b33c8aee05d3354/ss_6510bcc6c792672b325c99294b33c8aee05d3354.1920x1080.jpg?t=1795423643",
+      "firstSeen": "2026-11-23T08:04:39.864Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
+    {
+      "id": 5620120,
+      "name": "Sort & Sorcery",
+      "description": "Run a tiny magic shop at the edge of the woods. Every night a portal tips a mountain of potions, tomes, keys and curios onto the floor. Sort it all onto the right shelves before morning, chase off the thieving imp, and grow your little shop into the finest in the land.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5620120/3b5a05cca5fd899150cf87e1b49aa7ca4cafc1b9/ss_3b5a05cca5fd899150cf87e1b49aa7ca4cafc1b9.1920x1080.jpg?t=1795643234",
+      "firstSeen": "2026-11-23T00:26:03.152Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5623410,
+      "name": "BetterAtGambling",
+      "description": "Think you're the best gambler in your friend group? Prove it. Hit the tables, survive the minigames, and if luck runs out, just take the chips from whoever's in the lead. In the end, only one of you is better at gambling.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623410/30081bc2f527cc830c509eaf1e4a48cc7a7720ca/ss_30081bc2f527cc830c509eaf1e4a48cc7a7720ca.1920x1080.jpg?t=1795709075",
+      "firstSeen": "2026-11-23T00:26:03.152Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5576500,
+      "name": "Incremental POP: Fishing",
+      "description": "A hoop net, fifteen seconds, a lot of fish. Every round you buy something sillier: harpoons, depth charges, a sea serpent, a whale. Keep going until the screen is mostly fish and the numbers stop making sense.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5576500/cb3dc45cdf07d7c20bfe2d9296d3f7dc56334547/ss_cb3dc45cdf07d7c20bfe2d9296d3f7dc56334547.1920x1080.jpg?t=1795642115",
+      "firstSeen": "2026-11-23T00:26:03.152Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5623750,
+      "name": "Flipside 86",
+      "description": "A coin-flicking roguelike in a neon 1986 casino. Slingshot coins into the bowl, bounce them into a JACKPOT CHAIN, stack CHIPS × MULT, then spend the winnings at Lucky's bar. 100 tables, 10 venues, one House to break. Then let it ride.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623750/d9c9a9bf36148e0f12037248e9ea1885a13020ae/ss_d9c9a9bf36148e0f12037248e9ea1885a13020ae.1920x1080.jpg?t=1795553561",
+      "firstSeen": "2026-11-22T19:26:28.008Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5495650,
+      "name": "MazeParty",
+      "description": "Ruin your friends' plans and turn the tables in MazeParty, a 4-player online board party game. Roll dice together, navigate a maze in first person, and get in each other's way with items. Earn gold in 20 minigames and collect keys to chase the final victory.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5495650/e2735cd258ac73eefa291f74c685b0898c1f100f/ss_e2735cd258ac73eefa291f74c685b0898c1f100f.1920x1080.jpg?t=1795397681",
+      "firstSeen": "2026-11-22T19:26:28.008Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5341710,
+      "name": "Scrap to Shelf",
+      "description": "Run a miniature recycling factory on your desk. Sort, process and dismantle scrap by hand, then pack and sell the recovered materials. Fill orders and upgrade equipment as robotic arms and conveyors gradually take over, turning your little factory into a fully automated operation.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341710/53437e8871e87d281f9695eebd2ce9d93a3e2871/ss_53437e8871e87d281f9695eebd2ce9d93a3e2871.1920x1080.jpg?t=1795549592",
+      "firstSeen": "2026-11-22T19:26:28.008Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5018350,
+      "name": "ur round",
+      "description": "a small, cosy co-op pub game for you and your mates, played as birds. a cramped bar, chaotic nights, pop-up trouble and jobs everywhere, and it gets harder every night. you probably won't survive night 7.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5018350/a4c79e7128b5b58c87ef0f6f9f13e93dd5f879c8/ss_a4c79e7128b5b58c87ef0f6f9f13e93dd5f879c8.1920x1080.jpg?t=1795598531",
+      "firstSeen": "2026-11-22T19:26:28.008Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
     {
       "id": 4816860,
       "name": "Skuffle",
@@ -18,6 +135,24 @@
       "firstSeen": "2026-11-22T19:26:28.008Z",
       "mechanic": "simulator",
       "score": 8
+    },
+    {
+      "id": 5586960,
+      "name": "Super Empire",
+      "description": "Build a supermarket from a corner store to a hypermarket. Stock shelves that really empty, staff real shifts, price against rival stores, and keep every shopper happy, from dawn delivery to closing time, through every season.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5586960/f1e4aa963c292c0c8f40083d254bc796ae8515fe/ss_f1e4aa963c292c0c8f40083d254bc796ae8515fe.1920x1080.jpg?t=1795363724",
+      "firstSeen": "2026-11-22T19:26:28.008Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 5626810,
+      "name": "Boombots",
+      "description": "A 3D bomb party game starring scrap robots! Blast crates, grab power-ups and be the last bot standing in 16 hazard-packed arenas. Play with up to 4 on one PC, up to 8 online with PC + mobile crossplay, or take on 8 worlds and their bosses in Story mode.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5626810/420a9b46e5a4da0cbee990644310d07a4fd68639/ss_420a9b46e5a4da0cbee990644310d07a4fd68639.1920x1080.jpg?t=1795570894",
+      "firstSeen": "2026-11-22T19:26:28.008Z",
+      "mechanic": "party",
+      "score": 5
     },
     {
       "id": 5458760,
@@ -56,6 +191,15 @@
       "score": 7
     },
     {
+      "id": 5410090,
+      "name": "Totally Invited: Party Heist Simulator",
+      "description": "Crash parties, blend in with guests, and escape with the valuables in this co-op stealth heist simulator. Then clean up your haul, stock your shop, and set your prices. Turn stolen goods into a growing business, fund your next heist, and watch out for thieves. Apparently, everyone has the same idea.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5410090/a7985274056b6f5002c6d54eae4cfb5c2a5e30fa/ss_a7985274056b6f5002c6d54eae4cfb5c2a5e30fa.1920x1080.jpg?t=1795291138",
+      "firstSeen": "2026-11-21T23:25:06.563Z",
+      "mechanic": "party",
+      "score": 10
+    },
+    {
       "id": 5588240,
       "name": "Dear Astronauts",
       "description": "You and up to three friends crew the world's worst space-tourism rocket. Launch it, fly it, feed the tourists, fix what breaks, go outside when you have to, and try to land with most of them still on board. Online co-op for 1-4 players.",
@@ -88,15 +232,6 @@
       "description": "The world ended. The orders didn't. Deliver food and parcels across a dark neon city in VR: drive your own car, climb balconies and radio towers, fight off zombies, and spend every hard-earned euro turning an empty flat into a home.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5491260/e4b3590fb06bb10eb457478270162e53ae5e4b2e/ss_e4b3590fb06bb10eb457478270162e53ae5e4b2e.1920x1080.jpg?t=1795294930",
       "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5410090,
-      "name": "Totally Invited: Party Heist Simulator",
-      "description": "Crash parties, blend in with guests, and escape with the valuables in this co-op stealth heist simulator. Then clean up your haul, stock your shop, and set your prices. Turn stolen goods into a growing business, fund your next heist, and watch out for thieves. Apparently, everyone has the same idea.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5410090/a7985274056b6f5002c6d54eae4cfb5c2a5e30fa/ss_a7985274056b6f5002c6d54eae4cfb5c2a5e30fa.1920x1080.jpg?t=1795291138",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
       "mechanic": "simulator",
       "score": 8
     },
@@ -104,7 +239,7 @@
       "id": 5395240,
       "name": "Breed a Slime",
       "description": "Keep a squishy, real-time physics slime right on your desktop! In Breed a Slime, squish and fling slimes while working, breed and mutate traits, collect genes and ornate looks like wings and auras to fill your compendium, found legacy bloodlines, and trade Gene Seeds on the Steam Market!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395240/b1cb514e9c4c6db5be92bf320cd78664347d0d35/ss_b1cb514e9c4c6db5be92bf320cd78664347d0d35.1920x1080.jpg?t=1795295460",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395240/b1cb514e9c4c6db5be92bf320cd78664347d0d35/ss_b1cb514e9c4c6db5be92bf320cd78664347d0d35.1920x1080.jpg?t=1795722278",
       "firstSeen": "2026-11-21T23:25:06.563Z",
       "mechanic": "physics",
       "score": 8
@@ -278,7 +413,7 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5618310/163fd25e657526c3eac9ae76ca79f8b5fbb2aecc/ss_163fd25e657526c3eac9ae76ca79f8b5fbb2aecc.1920x1080.jpg?t=1795222603",
       "firstSeen": "2026-11-21T03:25:58.363Z",
       "mechanic": "party",
-      "score": 6
+      "score": 7
     },
     {
       "id": 5551230,
@@ -297,24 +432,6 @@
       "firstSeen": "2026-11-21T03:25:58.363Z",
       "mechanic": "physics",
       "score": 6
-    },
-    {
-      "id": 5603040,
-      "name": "Tick or Kick!",
-      "description": "Grab them by the leg, check their ticket and throw the freeloaders off the bus. Or ride for free, blend into the crowd and blame someone else. A physics party game about tickets, chaos and flying passengers, for up to 16 friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603040/e5a4d0bf6c4a86a6a478808fce145bfc48c1b7ca/ss_e5a4d0bf6c4a86a6a478808fce145bfc48c1b7ca.1920x1080.jpg?t=1795257128",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "physics",
-      "score": 10
-    },
-    {
-      "id": 5622790,
-      "name": "Trust Me, It's a Shortcut!",
-      "description": "Buy a wreck in the Maun bazaar and drive it round the Kalahari for ten days with up to three friends. No GPS, a blank paper map, a budget that buys nothing good, and a friendly local who keeps saying: trust me, it's a shortcut.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5622790/5a79eb80d3d85053b0edbc7563d06888a02e1f08/ss_5a79eb80d3d85053b0edbc7563d06888a02e1f08.1920x1080.jpg?t=1795436635",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "party",
-      "score": 9
     },
     {
       "id": 5649340,
@@ -347,18 +464,18 @@
       "id": 5623240,
       "name": "Pinball Boss Quest",
       "description": "Pinball meets block breaker in a pixel-art fantasy quest. Bat the ball through minion waves, smash breakables and topple ten legendary bosses as a Sword, Bow, Javelin, Mage or Summoner, solo or in local co-op where you team up on the boss but compete for the top score.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623240/b888cad63d918b3305e2541064a690c97830d853/ss_b888cad63d918b3305e2541064a690c97830d853.1920x1080.jpg?t=1795433081",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623240/b888cad63d918b3305e2541064a690c97830d853/ss_b888cad63d918b3305e2541064a690c97830d853.1920x1080.jpg?t=1795700673",
       "firstSeen": "2026-11-20T22:35:57.901Z",
       "mechanic": "physics",
       "score": 8
     },
     {
-      "id": 5545350,
-      "name": "Sharktooth Bay",
-      "description": "Dig for shark teeth, sift through the sand, and stock a seaside fossil shop with what you find. Set your prices, arrange your displays, and sell to visiting beachgoers. Keep your favorite finds for your own collection.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5545350/445cda8186685cce8f7b588ad0a37683d75b2193/ss_445cda8186685cce8f7b588ad0a37683d75b2193.1920x1080.jpg?t=1795211945",
+      "id": 5603040,
+      "name": "Tick or Kick!",
+      "description": "Grab them by the leg, check their ticket and throw the freeloaders off the bus. Or ride for free, blend into the crowd and blame someone else. A physics party game about tickets, chaos and flying passengers, for up to 16 friends.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603040/e5a4d0bf6c4a86a6a478808fce145bfc48c1b7ca/ss_e5a4d0bf6c4a86a6a478808fce145bfc48c1b7ca.1920x1080.jpg?t=1795257128",
       "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "simulator",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -374,7 +491,7 @@
       "id": 5055070,
       "name": "RUGS!",
       "description": "Grandpa left you his rug-cleaning shop. Grab up to three friends, haul filthy rugs across town in a beat-up pickup, then scrub, rinse, beat and dry them and get them back before the deadline. Slippery floors, flying carpets, police chases. Save up for a ticket to Mars.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055070/9ba8b2912ab9749237d86b3aee91570f89fd8f64/ss_9ba8b2912ab9749237d86b3aee91570f89fd8f64.1920x1080.jpg?t=1795642184",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055070/9ba8b2912ab9749237d86b3aee91570f89fd8f64/ss_9ba8b2912ab9749237d86b3aee91570f89fd8f64.1920x1080.jpg?t=1795705646",
       "firstSeen": "2026-11-20T22:35:57.901Z",
       "mechanic": "party",
       "score": 8
@@ -423,123 +540,6 @@
       "firstSeen": "2026-11-20T16:01:39.835Z",
       "mechanic": "simulator",
       "score": 8
-    },
-    {
-      "id": 5603340,
-      "name": "Pawn Shop Tycoon",
-      "description": "Run a pixel-art pawn shop, from a tiny corner store to a city emporium. Haggle with every customer, learn what things are really worth, spot fakes and stolen goods, gamble on storage units and drive your rival out of business.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603340/10c36dacc4d266414ef5a370b458b5cfd25797eb/ss_10c36dacc4d266414ef5a370b458b5cfd25797eb.1920x1080.jpg?t=1795632190",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5596400,
-      "name": "Grain Master",
-      "description": "Enjoy a relaxing ASMR sorting experience in Grain Master! Sort grains one by one using chopsticks, upgrade your tools, improve your speed, and immerse yourself in a world of relaxation and enjoyment.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5596400/59038aca988c5844503b3b6cf527a2c7dc74e14c/ss_59038aca988c5844503b3b6cf527a2c7dc74e14c.1920x1080.jpg?t=1795160206",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5592920,
-      "name": "Last Embers : Fire Hero",
-      "description": "Grab the hose, rookie. The city is on fire! Drown roaring flames, rescue a city full of characters, spend your coins on 90+ upgrades and race across town to answer every call... but something is lurking deep in the flames.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5592920/2147269ecd47d81bf35304d33770526ce6373ae1/ss_2147269ecd47d81bf35304d33770526ce6373ae1.1920x1080.jpg?t=1795183894",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5591280,
-      "name": "This Arcade Is Broken",
-      "description": "This Arcade Is Broken is a short incremental game about a kid with a screwdriver secretly rewiring three classic arcade cabinets until they print tokens on their own. Upgrade their circuit boards, build helper paddles and drones, unleash fever mode... and don’t let the grumpy owner catch you.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5591280/b5116aa0c6d4c6fe5e1012a691df5726301965b0/ss_b5116aa0c6d4c6fe5e1012a691df5726301965b0.1920x1080.jpg?t=1795193798",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5486400,
-      "name": "Vitrelium",
-      "description": "Step into an atmospheric alchemy workshop. Mix substances, heat and cool liquids, distill vapors, and grow crystals. Discover reactions in a hands-on laboratory sandbox where real-world chemistry meets imagination.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5486400/7f286e0756b7a512313e1b41c50d5b5d43a42eb8/ss_7f286e0756b7a512313e1b41c50d5b5d43a42eb8.1920x1080.jpg?t=1795161844",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 4678500,
-      "name": "Crack a Pack",
-      "description": "An incremental collectathon. Crack packs till you complete your collection. Sacrifice cards for upgrades, hire pawns, and swim in money. One question remains: Can you crack 'em all?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678500/9969f22ce4d7be6aeb4f2495d27b589b7c72935b/ss_9969f22ce4d7be6aeb4f2495d27b589b7c72935b.1920x1080.jpg?t=1795217937",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 1577020,
-      "name": "MicroMayhem",
-      "description": "The party game that doesn't give you time to think: 100+ five-second micro-games, faster and faster. 4 players on one screen, up to 8 online, or solo, with RICO and ZIP calling it live. Remote Play Together: only one copy needed!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577020/bcadc6a8c6c6c67eadc5021df90183c801afbfb3/ss_bcadc6a8c6c6c67eadc5021df90183c801afbfb3.1920x1080.jpg?t=1795305680",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "party",
-      "score": 7
-    },
-    {
-      "id": 5588590,
-      "name": "Revive The Beast",
-      "description": "A short story-based active incremental game where you reanimate animals by drawing inscription patterns. Learn about the tragic past of the necromancer and become powerful once again.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5588590/337fcefd038a552cca2b0436269dd8d92c331ed4/ss_337fcefd038a552cca2b0436269dd8d92c331ed4.1920x1080.jpg?t=1795183081",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5558190,
-      "name": "Riot Control: Europe",
-      "description": "Isometric pixel-art tower defense parody. Waves of protesters march on the parliament, your only job is to stop there, by any means necessary.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558190/9eee8d9c4d5f09696c724a6f41c21690dcc7a4b8/ss_9eee8d9c4d5f09696c724a6f41c21690dcc7a4b8.1920x1080.jpg?t=1795186417",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5515750,
-      "name": "Dirty Kicker - A Foosball Game",
-      "description": "Fast-paced arcade table football built around razor-sharp precision, tight angles, hard shots, and split-second reactions. Master manual rod control, thread lethal bank shots, and make reflex saves. Conquer solo tournament brackets with tactical upgrades or duel head-to-head in 1v1.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515750/946cb5f2baecadc4d1a08d22dbb1153ca9ac4632/ss_946cb5f2baecadc4d1a08d22dbb1153ca9ac4632.1920x1080.jpg?t=1794735165",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5384580,
-      "name": "Hatchbar",
-      "description": "Hatch eggs in a thin strip above your taskbar while you work. Fuse any two Hatchlings into a new species, then hand them to your adventurers as weapons. An idle RPG with 47 creatures to discover. Never steals focus, clicks pass through. One price, no ads. Free demo out now.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5384580/e506731326b1ecbc49c15c63cb8f92e5bfa89cdf/ss_e506731326b1ecbc49c15c63cb8f92e5bfa89cdf.1920x1080.jpg?t=1795374795",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 2321950,
-      "name": "Fantasy Boy",
-      "description": "Fantasy Boy is a 2D platformer that follows the adventures of Boy. Explore a fantasy world, battle numerous enemies, and most importantly, have FUN!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321950/ss_c12eb6b29cab4eb8b80f91680e5251e70c080463.1920x1080.jpg?t=1795178054",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5593070,
-      "name": "One More Shift",
-      "description": "Welcome to the family! Our company turns yesterday's waste into everything you use today. In this factory roguelite you build the line behind a giant recycler, turn scrap into anything from toasters to salvage robots and meet the quota. Mr. Quota is watching. Fondly.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5593070/d7f114fc54fb34f0d7941c3b29baaa3fdb1d0175/ss_d7f114fc54fb34f0d7941c3b29baaa3fdb1d0175.1920x1080.jpg?t=1795186016",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "incremental",
-      "score": 5
     }
   ]
 }
