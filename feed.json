@@ -1,6 +1,87 @@
 {
-  "checkedAt": "2026-11-27T11:19:49.625Z",
+  "checkedAt": "2026-11-27T20:03:26.869Z",
   "games": [
+    {
+      "id": 1837730,
+      "name": "Loot List: Thief Sim",
+      "description": "Rise from pauper to master thief - grab the loot list and get to work, whether it’s a roadside diner or a federal vault: slip past security and make fools of everyone, or unleash chaos and blow the place apart. Fence the haul to upgrade the hideout, gear up, and build your criminal empire.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837730/4de3553e07f64749089767b90c9cbbbb89f2936f/ss_4de3553e07f64749089767b90c9cbbbb89f2936f.1920x1080.jpg?t=1795525049",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "party",
+      "score": 9
+    },
+    {
+      "id": 5563910,
+      "name": "Pirate Ship Tidy Up",
+      "description": "A storm has filled your pirate ship with fish and ridiculous clutter. Pick up, sort and tidy 3,500 objects across three decks, earn upgrades and uncover the captain's secret. Your chatty parrot has opinions. None of them involve doing all the work.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5563910/39a633d35815ceca9a9b6fde66967439f60829e9/ss_39a633d35815ceca9a9b6fde66967439f60829e9.1920x1080.jpg?t=1795531857",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5482810,
+      "name": "Starcrumb",
+      "description": "A star fell into the forest. Tap it, and tiny mushroom folk carry its crumbs to the Lantern. Kindle the star, magnitude by magnitude, until it is whole again. A cozy incremental game where you can see every part work, with a real ending.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482810/eefcd37dbad17c757b1a6a8798509dc79ab26452/ss_eefcd37dbad17c757b1a6a8798509dc79ab26452.1920x1080.jpg?t=1795513511",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5426960,
+      "name": "Don't Splat",
+      "description": "Four blobs. One wall. Someone’s in the wrong place. Stretch, squish and shape-shift with your friends to squeeze through the gaps in Don't Splat!, a co-op game for 1–4 players, online or on one screen. You had a plan. The wall had other ideas.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5426960/fa1469bb517639305552b975ae71cd7a00f29926/ss_fa1469bb517639305552b975ae71cd7a00f29926.1920x1080.jpg?t=1795740807",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5393190,
+      "name": "Organic Mechanic",
+      "description": "Organic Mechanic is a bee-first automation, creature capturing, machine manufacturing game! Explore multiple vibrant biomes, build mechanical factories and play with your? friends? maybe? Catch, Built &amp; Profit from BEES!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5393190/48a1abc1ec310e36ef5c639fb9123a55226c2dec/ss_48a1abc1ec310e36ef5c639fb9123a55226c2dec.1920x1080.jpg?t=1795651794",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 4652050,
+      "name": "Gunshot Arcade",
+      "description": "Gunshot Arcade combines the action of a classic arcade shoot 'em up with the meta-progression of a roguelike. Buy some weapons, upgrade your gear and survive as long as you can. Unlock much stronger guns from wave to wave and reach a new record, good luck.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652050/17f8f6f69fc800b1b8d2f4abf3d71073a70805fb/ss_17f8f6f69fc800b1b8d2f4abf3d71073a70805fb.1920x1080.jpg?t=1795511384",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 3694930,
+      "name": "KEGGER",
+      "description": "Race to deliver kegs. Shove your friends into trouble. KEGGER is a competitive party game for 1–4 local players: dodge traffic, catch moving boats, and recover your keg before time runs out. Fight for the most deliveries across 16 boards. Play solo or bring the crew.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694930/e6493e0806514b8343f8e31433169272c1ff259c/ss_e6493e0806514b8343f8e31433169272c1ff259c.1920x1080.jpg?t=1795634178",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "party",
+      "score": 8
+    },
+    {
+      "id": 5525950,
+      "name": "EYESIGHT",
+      "description": "Tag party game where seeing is a skill",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5525950/61f5cde8cdfd2965bbef8d20ab6ec9084dfed13c/ss_61f5cde8cdfd2965bbef8d20ab6ec9084dfed13c.1920x1080.jpg?t=1795801517",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "party",
+      "score": 6
+    },
+    {
+      "id": 5523020,
+      "name": "One More Chest!",
+      "description": "One More Chest! is an active incremental game about smashing chests that walk, bite and explode. Hover and your hammer swings for you: chain lightning across the desk, set off bombs, spread lava, unlock six hammers and prestige until one swing sets off the whole table.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5523020/92f7810286e6e797e7a88d6e412f2c231c9e513e/ss_92f7810286e6e797e7a88d6e412f2c231c9e513e.1920x1080.jpg?t=1795515544",
+      "firstSeen": "2026-11-24T15:20:24.392Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
     {
       "id": 5561790,
       "name": "Pay Up, Piggy",
@@ -9,6 +90,33 @@
       "firstSeen": "2026-11-24T04:42:38.157Z",
       "mechanic": "simulator",
       "score": 9
+    },
+    {
+      "id": 5628870,
+      "name": "fogpost",
+      "description": "Guide a courier and a delayed echo through 250 turn-based puzzles. Collect the letter, plan around tides, bridges and shifting routes, and light both beacons on the same turn. Undo, use hints, then refine your route to earn gold stamps.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5628870/4d2ff2f87132135ceb2e5cb4b62b52ee0897fe8f/ss_4d2ff2f87132135ceb2e5cb4b62b52ee0897fe8f.1920x1080.jpg?t=1795579410",
+      "firstSeen": "2026-11-24T04:42:38.157Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5625940,
+      "name": "Cat-Eye: Nail Salon Simulator",
+      "description": "Soak off old polish, file and shape real 3D nails, then pull a glowing cat-eye band to life with a magnet. A cozy nail salon sim with fair scoring, regulars with stories, disaster rescues and influencer ready one-click vertical clips to share every set.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5625940/341e2d2a5c61e5248bf0534a65c727fa26f82f7e/ss_341e2d2a5c61e5248bf0534a65c727fa26f82f7e.1920x1080.jpg?t=1795733627",
+      "firstSeen": "2026-11-24T04:42:38.157Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5623600,
+      "name": "Tidy Up the Cars Together",
+      "description": "Sort through 2,100+ loose car parts and put a garage full of classics back together. Hammer bent frames into shape, wash dirty parts and listen for the engine when the last piece clicks in. Play solo or invite friends to join you online.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623600/bd26d86c207ca48e2f1cb4a32cd55a16c6568ae2/ss_bd26d86c207ca48e2f1cb4a32cd55a16c6568ae2.1920x1080.jpg?t=1795809691",
+      "firstSeen": "2026-11-24T04:42:38.157Z",
+      "mechanic": "simulator",
+      "score": 8
     },
     {
       "id": 5498510,
@@ -83,6 +191,15 @@
       "score": 7
     },
     {
+      "id": 5633100,
+      "name": "Homicidy",
+      "description": "Somebody had a very bad night. Now it's your shift. Scrub fifty crime scenes spotless in this cozy-macabre pixel-art cleaning game: mop, foam, vacuum and luminol your way to three stars, then spend the pay on a nicer mop. You do the crime. We do the grime.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5633100/74eef8d26112cd266ad82339d87a9f020dd847ba/ss_74eef8d26112cd266ad82339d87a9f020dd847ba.1920x1080.jpg?t=1795548261",
+      "firstSeen": "2026-11-24T04:42:38.157Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
       "id": 4529730,
       "name": "XX GAME: The Evolution Merge Puzzle",
       "description": "“XX GAME: The Evolution Merge Puzzle” is a physics-based merge puzzle game about evolution. Start as a tiny strawberry and evolve into insects, animals, humans, and beyond. Merge uniquely shaped characters and experience an evolutionary journey across 9 stages.",
@@ -149,7 +266,7 @@
       "id": 5595120,
       "name": "Dig Up",
       "description": "You are Elliot: broke, jobless, out of options. You sign up for a contest with a huge prize and wake up 48 meters underground with a shovel in your hand. Dig, sell, buy ladders and crack the door code hidden in the notes of those who never made it out. The cameras are always watching.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595120/fc088a42a7d47e9cd3b36054af914013237cfcc1/ss_fc088a42a7d47e9cd3b36054af914013237cfcc1.1920x1080.jpg?t=1795778267",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595120/fc088a42a7d47e9cd3b36054af914013237cfcc1/ss_fc088a42a7d47e9cd3b36054af914013237cfcc1.1920x1080.jpg?t=1795789699",
       "firstSeen": "2026-11-23T20:04:50.283Z",
       "mechanic": "simulator",
       "score": 8
@@ -212,7 +329,7 @@
       "id": 5515940,
       "name": "Mahjong Kart",
       "description": "Mahjong meets kart racing! Drive tiles back to your base to collect them, use items to disrupt rivals, and be first to complete a winning hand. Play online with up to four players or face off in local split-screen.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515940/d3908c5e86095b998f36e73fc28665e31a49d47c/ss_d3908c5e86095b998f36e73fc28665e31a49d47c.1920x1080.jpg?t=1795442899",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515940/d3908c5e86095b998f36e73fc28665e31a49d47c/ss_d3908c5e86095b998f36e73fc28665e31a49d47c.1920x1080.jpg?t=1795805935",
       "firstSeen": "2026-11-23T20:04:50.283Z",
       "mechanic": "party",
       "score": 7
@@ -423,123 +540,6 @@
       "firstSeen": "2026-11-21T23:25:06.563Z",
       "mechanic": "party",
       "score": 10
-    },
-    {
-      "id": 5588240,
-      "name": "Dear Astronauts",
-      "description": "You and up to three friends crew the world's worst space-tourism rocket. Launch it, fly it, feed the tourists, fix what breaks, go outside when you have to, and try to land with most of them still on board. Online co-op for 1-4 players.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5588240/54e9ccb024b2256313b036aa4b5fdc389f84d795/ss_54e9ccb024b2256313b036aa4b5fdc389f84d795.1920x1080.jpg?t=1795297123",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5576540,
-      "name": "Ant Tidy Up",
-      "description": "A cozy, quirky sorting game about thousands of ants who aren't where they belong! Explore a sprawling underground world, catch and sort ants into their rightful nests, and unlock upgrades and beetle robots to help tidy up the chaos.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5576540/e36554197169e7652de487c9224891875e2e0b1d/ss_e36554197169e7652de487c9224891875e2e0b1d.1920x1080.jpg?t=1795291379",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5574400,
-      "name": "Grief the Server",
-      "description": "The admins are away. Grief a voxel server in this single-player incremental: sabotage builds, unlock outrageous cheats and become everyone's problem. Simulated players repair, fight back and unite against you. Play in first person or send a bot in Idle Mode.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5574400/0f97cc41359b85ac39799c74894dad510cdb0c8b/ss_0f97cc41359b85ac39799c74894dad510cdb0c8b.1920x1080.jpg?t=1795591288",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "incremental",
-      "score": 8
-    },
-    {
-      "id": 5491260,
-      "name": "THE LAST DELIVERY",
-      "description": "The world ended. The orders didn't. Deliver food and parcels across a dark neon city in VR: drive your own car, climb balconies and radio towers, fight off zombies, and spend every hard-earned euro turning an empty flat into a home.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5491260/e4b3590fb06bb10eb457478270162e53ae5e4b2e/ss_e4b3590fb06bb10eb457478270162e53ae5e4b2e.1920x1080.jpg?t=1795294930",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5395240,
-      "name": "Breed a Slime",
-      "description": "Keep a squishy, real-time physics slime right on your desktop! In Breed a Slime, squish and fling slimes while working, breed and mutate traits, collect genes and ornate looks like wings and auras to fill your compendium, found legacy bloodlines, and trade Gene Seeds on the Steam Market!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395240/b1cb514e9c4c6db5be92bf320cd78664347d0d35/ss_b1cb514e9c4c6db5be92bf320cd78664347d0d35.1920x1080.jpg?t=1795722278",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5363770,
-      "name": "Chill Pixels",
-      "description": "*Life can be overwhelming: take a well-deserved, cozy break.* Relax to soothing lo-fi tunes and peaceful ambient sounds while coloring gorgeous pixel art illustrations. Unlock adorable companions, upgrade magical powers in the Zen Workshop, and collect 62 achievements!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5363770/ee25e0761bc6ef079ddc877a05bd797ae2ddf9ac/ss_ee25e0761bc6ef079ddc877a05bd797ae2ddf9ac.1920x1080.jpg?t=1795287196",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5351860,
-      "name": "Load Path: Engineering Office Manager",
-      "description": "Run your own engineering firm in this cozy office builder/automation game. You'll get to build your office floor by floor, automate the flow of projects, and play engineering themed mini-games, all whilst trying to not get buried in paperwork.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351860/498f3d9daa0349cbb7911ac16e920d4ac8b9136e/ss_498f3d9daa0349cbb7911ac16e920d4ac8b9136e.1920x1080.jpg?t=1795756273",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "physics",
-      "score": 6
-    },
-    {
-      "id": 5148050,
-      "name": "Homemade Oxygen",
-      "description": "In the right hands, a wrecked ship can be a ticket home. In Homemade Oxygen, combine cards into production chains, send colonists on expeditions, and keep your crew alive while assembling a ship to escape. On this planet, survival means finding a way out.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5148050/6557c422d4253ebf6ed05cc151378f5ff5fa1506/ss_6557c422d4253ebf6ed05cc151378f5ff5fa1506.1920x1080.jpg?t=1795295900",
-      "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5233580,
-      "name": "Mouse Hammer",
-      "description": "Mouse Hammer is a fast paced physics based fighting game about swinging a hammer around. Fight online with your friends, or race yourself in platforming challenges.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5233580/74a40e2ec1865167e39f327f7ee2963ae42f10f8/ss_74a40e2ec1865167e39f327f7ee2963ae42f10f8.1920x1080.jpg?t=1795277299",
-      "firstSeen": "2026-11-21T18:15:38.597Z",
-      "mechanic": "physics",
-      "score": 9
-    },
-    {
-      "id": 5625470,
-      "name": "Train Keeper",
-      "description": "A cozy first-person organizing simulator aboard a night train. Make beds, set tables and sort up to 2,443 objects across 22 cars before the train reaches the station. Unlock helpful skills, restore order at your own pace, or race the clock in Hardcore mode.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5625470/e56be0c9ae42e5aad1b0bbc2725246773f1c4dc1/ss_e56be0c9ae42e5aad1b0bbc2725246773f1c4dc1.1920x1080.jpg?t=1795277313",
-      "firstSeen": "2026-11-21T18:15:38.597Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5458740,
-      "name": "DataCenter Tycoon",
-      "description": "Build your own Data Center, from a single rack in a garage to a hall full of the latest Hardware. Wire power, cooling and network by hand, keep the machines running, vibe code Products and launch your own AI platform to finance the whole thing. Solo or in online co-op with up to three friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458740/225e627cd2b4bc71bddc80565d07767ac4ab5271/ss_225e627cd2b4bc71bddc80565d07767ac4ab5271.1920x1080.jpg?t=1795630704",
-      "firstSeen": "2026-11-21T18:15:38.597Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5331660,
-      "name": "Unstitched",
-      "description": "A social deduction party game for 4–15 players set in a creepy dollhouse. Run minigame errands by night, accuse by day and unmask the Rag Doll. Play online, against bots or Face to Face: one copy on the PC, everyone else plays from their own phone.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5331660/f9a4ada062483423c83db3776277619342f73294/ss_f9a4ada062483423c83db3776277619342f73294.1920x1080.jpg?t=1795610587",
-      "firstSeen": "2026-11-21T18:15:38.597Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5544900,
-      "name": "Frog Forage",
-      "description": "Become a frog forager in a cozy incremental farming game. Explore four biomes, hire helpers, brew jam and power up your upgrade tree to make every run better than the last!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5544900/a10e8026dcbe3a71acad80e9ac37b9a922194038/ss_a10e8026dcbe3a71acad80e9ac37b9a922194038.1920x1080.jpg?t=1795416327",
-      "firstSeen": "2026-11-21T11:39:21.620Z",
-      "mechanic": "incremental",
-      "score": 8
     }
   ]
 }
