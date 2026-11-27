@@ -1,6 +1,159 @@
 {
-  "checkedAt": "2026-11-26T19:51:11.901Z",
+  "checkedAt": "2026-11-27T02:27:32.383Z",
   "games": [
+    {
+      "id": 5347630,
+      "name": "HELLFIGHTERS",
+      "description": "A physics-driven co-op game for 4 players about goose firefighters tied together by one fire hose. On the way from a burning city down to Hell, stack into a wobbly tower, fly over pits on extinguisher recoil and haul your friends back up. But if one goose slips, everyone falls...",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347630/8cec93f9fb6b91423cee6b8627f543ebc069a58f/ss_8cec93f9fb6b91423cee6b8627f543ebc069a58f.1920x1080.jpg?t=1795463443",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "physics",
+      "score": 9
+    },
+    {
+      "id": 5601990,
+      "name": "RE: Rags to Royalties",
+      "description": "Build a web-novel empire in this incremental management game set in 2004. Tap, upgrade and unleash FEVER; win readers, sign contracts and run a busy studio. With AI-assisted creation, turn your own ideas into a novel you can actually read. Your cat is already on the keyboard.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5601990/0a9f7fea6af4153ac19768d7369ba9a9399e91fc/ss_0a9f7fea6af4153ac19768d7369ba9a9399e91fc.1920x1080.jpg?t=1795450829",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 5595120,
+      "name": "Dig Up",
+      "description": "You are Elliot: broke, jobless, out of options. You sign up for a contest with a huge prize and wake up 48 meters underground with a shovel in your hand. Dig, sell, buy ladders and crack the door code hidden in the notes of those who never made it out. The cameras are always watching.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5595120/fc088a42a7d47e9cd3b36054af914013237cfcc1/ss_fc088a42a7d47e9cd3b36054af914013237cfcc1.1920x1080.jpg?t=1795530042",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5580450,
+      "name": "牛马的涌现",
+      "description": "A lightweight idle management game that lives along the bottom of your desktop. Hire quirky workers, pair them up to discover new offspring, collect breeds, traits and coats, decorate the office, and expand your company while you work.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5580450/47e91ce05b05c55c6e5e4b9a9b855c0422d059f0/ss_47e91ce05b05c55c6e5e4b9a9b855c0422d059f0.1920x1080.jpg?t=1795592008",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5564020,
+      "name": "Twilight Park",
+      "description": "Escape the amusement park before it's too late... You were invited to an amusement park, it was supposed to be fun. But soon, you realized you were trapped in the park. Can you escape the park? Investigate the environment, find useful items, solve puzzles, and escape the park before it's too late..",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5564020/3f9bd2d50aa951f479f26e04da40f7dab99e1ed8/ss_3f9bd2d50aa951f479f26e04da40f7dab99e1ed8.1920x1080.jpg?t=1795729899",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "physics",
+      "score": 8
+    },
+    {
+      "id": 5526030,
+      "name": "The Last Button",
+      "description": "Buy block-shaped buttons, fit them onto a floating board and click them for cash. Harder shapes pay bigger multipliers. Coat buttons in 40 materials, let rabbits, drones and a repair robot work for you, ride out storms and meteor showers, and grow your board until the Last Button fits.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5526030/43eecfc35a204e0ebbc6e5c9f5f0412e613fbeec/ss_43eecfc35a204e0ebbc6e5c9f5f0412e613fbeec.1920x1080.jpg?t=1795633248",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5425160,
+      "name": "Herb Z",
+      "description": "The world is ending. Business is booming! Run your own survival supply shop in a zombie-infested city. Grow herbs, craft essential supplies, stock your shelves, and serve desperate survivors in this retro-inspired survival horror shop simulator!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5425160/438dcf6d9f78d003e01f96fec533612ddcf1c14a/ss_438dcf6d9f78d003e01f96fec533612ddcf1c14a.1920x1080.jpg?t=1795441806",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "incremental",
+      "score": 8
+    },
+    {
+      "id": 4740520,
+      "name": "Desktop Gugu: Cozy Idle Pet",
+      "description": "A cozy desktop idle game with two pet species: a mining duck and a leaf-topped mushroom. Sweep up crystals and timber, sell resources, feed your helpers, and combine duck talents. Adjust music and desktop settings to suit your day.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740520/832c4b9079acf9ebdfe396f8f7e090d4d6f5300e/ss_832c4b9079acf9ebdfe396f8f7e090d4d6f5300e.1920x1080.jpg?t=1795442343",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 3254800,
+      "name": "UnepicTale",
+      "description": "The dragon stole the princess, and now your path leads through dark forests and eerie swamps, teeming with fairy-tale creatures. Flip the card and prove you can handle the choice in the card game UnepicTale!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3254800/96900d715d81640230c64cf455c0ebf4e0af6d9a/ss_96900d715d81640230c64cf455c0ebf4e0af6d9a.1920x1080.jpg?t=1795437877",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "simulator",
+      "score": 8
+    },
+    {
+      "id": 5515940,
+      "name": "Mahjong Kart",
+      "description": "Mahjong meets kart racing! Drive tiles back to your base to collect them, use items to disrupt rivals, and be first to complete a winning hand. Play online with up to four players or face off in local split-screen.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515940/d3908c5e86095b998f36e73fc28665e31a49d47c/ss_d3908c5e86095b998f36e73fc28665e31a49d47c.1920x1080.jpg?t=1795442899",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 5026550,
+      "name": "Robot Crucible",
+      "description": "Build a fighting robot in 5 minutes, or perfect it over 5 hours, then destroy your opponents! Sketch out a chassis, snap on some motors and wheels, choose a weapon, and throw it into the arena against the AI or friends in local multiplayer.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026550/53432dbdcc2a762c7daea335e6347c0e6435477d/ss_53432dbdcc2a762c7daea335e6347c0e6435477d.1920x1080.jpg?t=1795456229",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "party",
+      "score": 7
+    },
+    {
+      "id": 4683940,
+      "name": "Cafe Connect",
+      "description": "Repair, upgrade, and build PCs for your first customers to pave your way to self-employment. Open your own internet café, build custom gaming PCs, and expand your shop step by step. Your success starts with a screwdriver.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683940/ca53429f637807e52730e732d5b037a1a6fdb047/ss_ca53429f637807e52730e732d5b037a1a6fdb047.1920x1080.jpg?t=1795452704",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "incremental",
+      "score": 7
+    },
+    {
+      "id": 5360490,
+      "name": "RUNEBLADE",
+      "description": "A knight against the endless dark. Three oaths, three lands, ten minutes a run — and a King at the end of each. Your weapons strike on their own: all you choose is where to stand. Fall, and the Sanctum keeps what you carried out.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5360490/96606085cd15a4bb0a9b26ca274df9f5c8985cdf/ss_96606085cd15a4bb0a9b26ca274df9f5c8985cdf.1920x1080.jpg?t=1795429670",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 5275040,
+      "name": "Orbit Foundry",
+      "description": "Turn a handful of machines into a bustling factory around a growing star. Orbit Foundry is a space incremental idle game where you reinvest your output, research upgrades, and automate your fleet. Watch production climb as your star changes color.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5275040/e303d7dedf1e30d35d46aba1ddfbc861b0668b4e/ss_e303d7dedf1e30d35d46aba1ddfbc861b0668b4e.1920x1080.jpg?t=1795423163",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "incremental",
+      "score": 6
+    },
+    {
+      "id": 4747680,
+      "name": "Cardelis",
+      "description": "A competitive pixel art card collecting game. Open boosters, build your deck and face real players in PvP. Climb the leaderboard and prove you're the best!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747680/6eb7d47973e4f1f1eab6bac4e8e9278d14e298ba/ss_6eb7d47973e4f1f1eab6bac4e8e9278d14e298ba.1920x1080.jpg?t=1795524747",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4726840,
+      "name": "Battle Worms",
+      "description": "Get your parts, build your creature, go! Compete with your friends in a series of minigames, adding new parts along the way, to see whose custom creature is the best… or maybe just the funniest. Featuring online PVP, procedural physics and open-ended creature building, how you play is up to you!",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4726840/dee8e7ee531602a2d4e025bba2ac3f6c244d35e4/ss_dee8e7ee531602a2d4e025bba2ac3f6c244d35e4.1920x1080.jpg?t=1795463310",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "physics",
+      "score": 6
+    },
+    {
+      "id": 4096240,
+      "name": "Delta 4 Terminal Protocol",
+      "description": "Wake up to silence. One terminal, one survivor, one dying ship. Can you bring the Delta-4 back online? Delta 4 is a sci-fi survival terminal sim—type commands, decode logs, and fight to keep a dying ship alive.",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096240/b670d299e11d9194c4d4aec530c7ae0cef76b0a3/ss_b670d299e11d9194c4d4aec530c7ae0cef76b0a3.1920x1080.jpg?t=1795716511",
+      "firstSeen": "2026-11-23T20:04:50.283Z",
+      "mechanic": "incremental",
+      "score": 5
+    },
     {
       "id": 5625200,
       "name": "Billard Masters Legacy",
@@ -8,15 +161,6 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5625200/3d80e1ba17bdd4866ba99cb6f7819469f3f0768b/ss_3d80e1ba17bdd4866ba99cb6f7819469f3f0768b.1920x1080.jpg?t=1795412549",
       "firstSeen": "2026-11-23T08:04:39.864Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5590860,
-      "name": "Hose to Mars",
-      "description": "Your mission is to terraform Mars. However, a crash landing destroyed all your gear leaving you with just a spoon! Start watering the soil with your spoon, earn MarsCoin, and upgrade your equipment. Turn the Red Planet green solo or with friends!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5590860/451571227263ffcb3fb63d4876c77d3007305699/ss_451571227263ffcb3fb63d4876c77d3007305699.1920x1080.jpg?t=1795612030",
-      "firstSeen": "2026-11-23T08:04:39.864Z",
-      "mechanic": "simulator",
       "score": 8
     },
     {
@@ -36,33 +180,6 @@
       "firstSeen": "2026-11-23T08:04:39.864Z",
       "mechanic": "incremental",
       "score": 5
-    },
-    {
-      "id": 5620200,
-      "name": "Clash of Cogs",
-      "description": "Up to 8 players get 30 seconds to secretly program 5 moves—then watch every robot execute at once across a lethal factory of conveyors, lasers, and molten pits. Ram, suplex, and outsmart friends online, in couch hotseat, or against bots! Nobody's plan survives the assembly line!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5620200/842621ccf4d45a7bc728cebb70e55a9e68c43b30/ss_842621ccf4d45a7bc728cebb70e55a9e68c43b30.1920x1080.jpg?t=1795492066",
-      "firstSeen": "2026-11-23T08:04:39.864Z",
-      "mechanic": "party",
-      "score": 5
-    },
-    {
-      "id": 5547610,
-      "name": "Survivor Town",
-      "description": "Survivor Town blends colony management, autonomous survivor simulation, and tower defense in a post-apocalyptic world. Recruit unique survivors, build production chains, research technology, craft equipment, explore dangerous lands, and defend your settlement against daily raids and powerful Bosses.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5547610/6510bcc6c792672b325c99294b33c8aee05d3354/ss_6510bcc6c792672b325c99294b33c8aee05d3354.1920x1080.jpg?t=1795423643",
-      "firstSeen": "2026-11-23T08:04:39.864Z",
-      "mechanic": "incremental",
-      "score": 5
-    },
-    {
-      "id": 5620120,
-      "name": "Sort & Sorcery",
-      "description": "Run a tiny magic shop at the edge of the woods. Every night a portal tips a mountain of potions, tomes, keys and curios onto the floor. Sort it all onto the right shelves before morning, chase off the thieving imp, and grow your little shop into the finest in the land.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5620120/3b5a05cca5fd899150cf87e1b49aa7ca4cafc1b9/ss_3b5a05cca5fd899150cf87e1b49aa7ca4cafc1b9.1920x1080.jpg?t=1795643234",
-      "firstSeen": "2026-11-23T00:26:03.152Z",
-      "mechanic": "simulator",
-      "score": 8
     },
     {
       "id": 5623410,
@@ -119,15 +236,6 @@
       "score": 8
     },
     {
-      "id": 4816860,
-      "name": "Skuffle",
-      "description": "4-player splitscreen online party shooter. Couch and online players in the same match. The splitscreen shooters of your youth with some modern twists. Maps, Modes, Skins, Mutators, Guns, Cigarettes! Oh My! WHAT ELSE DO YOU PEOPLE WANT?",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816860/a96608caf90ecfd4c3c171d36e3ca3962457ecdf/ss_a96608caf90ecfd4c3c171d36e3ca3962457ecdf.1920x1080.jpg?t=1795593566",
-      "firstSeen": "2026-11-22T19:26:28.008Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
       "id": 3551290,
       "name": "Tidy Garage",
       "description": "Tidy Garage is a relaxing game about organizing a garage. Sort tools, parts, and all sorts of odds and ends, admire their details, and turn a cluttered garage into a pleasant, tidy space at your own pace.",
@@ -146,13 +254,13 @@
       "score": 6
     },
     {
-      "id": 5626810,
-      "name": "Boombots",
-      "description": "A 3D bomb party game starring scrap robots! Blast crates, grab power-ups and be the last bot standing in 16 hazard-packed arenas. Play with up to 4 on one PC, up to 8 online with PC + mobile crossplay, or take on 8 worlds and their bosses in Story mode.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5626810/420a9b46e5a4da0cbee990644310d07a4fd68639/ss_420a9b46e5a4da0cbee990644310d07a4fd68639.1920x1080.jpg?t=1795570894",
+      "id": 4816860,
+      "name": "Skuffle",
+      "description": "4-player splitscreen online party shooter. Couch and online players in the same match. The splitscreen shooters of your youth with some modern twists. Maps, Modes, Skins, Mutators, Guns, Cigarettes! Oh My! WHAT ELSE DO YOU PEOPLE WANT?",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816860/a96608caf90ecfd4c3c171d36e3ca3962457ecdf/ss_a96608caf90ecfd4c3c171d36e3ca3962457ecdf.1920x1080.jpg?t=1795593566",
       "firstSeen": "2026-11-22T19:26:28.008Z",
       "mechanic": "party",
-      "score": 5
+      "score": 6
     },
     {
       "id": 5458760,
@@ -232,7 +340,7 @@
       "description": "The world ended. The orders didn't. Deliver food and parcels across a dark neon city in VR: drive your own car, climb balconies and radio towers, fight off zombies, and spend every hard-earned euro turning an empty flat into a home.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5491260/e4b3590fb06bb10eb457478270162e53ae5e4b2e/ss_e4b3590fb06bb10eb457478270162e53ae5e4b2e.1920x1080.jpg?t=1795294930",
       "firstSeen": "2026-11-21T23:25:06.563Z",
-      "mechanic": "simulator",
+      "mechanic": "physics",
       "score": 8
     },
     {
@@ -257,7 +365,7 @@
       "id": 5351860,
       "name": "Load Path: Engineering Office Manager",
       "description": "Run your own engineering firm in this cozy office builder/automation game. You'll get to build your office floor by floor, automate the flow of projects, and play engineering themed mini-games, all whilst trying to not get buried in paperwork.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351860/498f3d9daa0349cbb7911ac16e920d4ac8b9136e/ss_498f3d9daa0349cbb7911ac16e920d4ac8b9136e.1920x1080.jpg?t=1795299733",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351860/498f3d9daa0349cbb7911ac16e920d4ac8b9136e/ss_498f3d9daa0349cbb7911ac16e920d4ac8b9136e.1920x1080.jpg?t=1795739934",
       "firstSeen": "2026-11-21T23:25:06.563Z",
       "mechanic": "physics",
       "score": 6
@@ -285,15 +393,6 @@
       "name": "Train Keeper",
       "description": "A cozy first-person organizing simulator aboard a night train. Make beds, set tables and sort up to 2,443 objects across 22 cars before the train reaches the station. Unlock helpful skills, restore order at your own pace, or race the clock in Hardcore mode.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5625470/e56be0c9ae42e5aad1b0bbc2725246773f1c4dc1/ss_e56be0c9ae42e5aad1b0bbc2725246773f1c4dc1.1920x1080.jpg?t=1795277313",
-      "firstSeen": "2026-11-21T18:15:38.597Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5510380,
-      "name": "Cozy Cans: Tidy Up The Energy Drinks!",
-      "description": "Cozy Cans is a single-player clean-up game. Search, sort and stack 6,911 colourful carbonated caffeine cans. Laugh at the parody drink brands as you put them back where they belong. From messy floor to neatly organised glory in one afternoon.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510380/651decb459c068a54a09f0a37077f384043b28d9/ss_651decb459c068a54a09f0a37077f384043b28d9.1920x1080.jpg?t=1795262882",
       "firstSeen": "2026-11-21T18:15:38.597Z",
       "mechanic": "simulator",
       "score": 8
@@ -374,7 +473,7 @@
       "id": 5617110,
       "name": "Toyworks",
       "description": "A cosy first-person incremental about building a toy workshop that works for you. Drop shapes into funnels, catch the coins, and automate toy production with belts, arms and assemblers. Fill orders, unlock new rooms, and discover where your toys go.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5617110/bf6afdb964b8eaafafad95ca1efbe2d832215385/ss_bf6afdb964b8eaafafad95ca1efbe2d832215385.1920x1080.jpg?t=1795374228",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5617110/bf6afdb964b8eaafafad95ca1efbe2d832215385/ss_bf6afdb964b8eaafafad95ca1efbe2d832215385.1920x1080.jpg?t=1795735822",
       "firstSeen": "2026-11-21T03:25:58.363Z",
       "mechanic": "incremental",
       "score": 8
@@ -413,7 +512,7 @@
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5618310/163fd25e657526c3eac9ae76ca79f8b5fbb2aecc/ss_163fd25e657526c3eac9ae76ca79f8b5fbb2aecc.1920x1080.jpg?t=1795222603",
       "firstSeen": "2026-11-21T03:25:58.363Z",
       "mechanic": "party",
-      "score": 7
+      "score": 6
     },
     {
       "id": 5551230,
@@ -434,112 +533,13 @@
       "score": 6
     },
     {
-      "id": 5649340,
-      "name": "Lights Out",
-      "description": "The lights go out and Mr. Snuffles comes looking for you: a giant, much-repaired plush pig who can't see in the dark but hears everything. Hide with up to 3 friends, stay quiet and survive till morning... or be the pig.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5649340/73a269a545b5352b3c25c06aa0776b796a64fd00/ss_73a269a545b5352b3c25c06aa0776b796a64fd00.1920x1080.jpg?t=1795209940",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5623950,
-      "name": "Star Archive: Tidying Up Is a Kind of Magic",
-      "description": "The library's a mess, and it won't let you leave. Sort and stack books at your own pace in this cozy first-person game. Cast spells to send books back to their shelves, open new wings, and carry permanent upgrades into the next time loop.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623950/b1a36970cdf3d24a5d932f98501a096a59326a5c/ss_b1a36970cdf3d24a5d932f98501a096a59326a5c.1920x1080.jpg?t=1795679208",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5623320,
-      "name": "Taubenchaos",
-      "description": "Be the pigeon the city deserves! Peck healthy grain, splat tourists, dive-bomb crowds and call in your flock to outsmart the janitor and 32 wild bosses - solo, couch co-op or online. 96 levels, Boss Rush, Zombie Night and 106 original tracks.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623320/1fcd6f49cddf0e0f068d08521b243c8c90a2d350/ss_1fcd6f49cddf0e0f068d08521b243c8c90a2d350.1920x1080.jpg?t=1795620727",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5623240,
-      "name": "Pinball Boss Quest",
-      "description": "Pinball meets block breaker in a pixel-art fantasy quest. Bat the ball through minion waves, smash breakables and topple ten legendary bosses as a Sword, Bow, Javelin, Mage or Summoner, solo or in local co-op where you team up on the boss but compete for the top score.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5623240/b888cad63d918b3305e2541064a690c97830d853/ss_b888cad63d918b3305e2541064a690c97830d853.1920x1080.jpg?t=1795700673",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "physics",
-      "score": 8
-    },
-    {
       "id": 5603040,
       "name": "Tick or Kick!",
       "description": "Grab them by the leg, check their ticket and throw the freeloaders off the bus. Or ride for free, blend into the crowd and blame someone else. A physics party game about tickets, chaos and flying passengers, for up to 16 friends.",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603040/e5a4d0bf6c4a86a6a478808fce145bfc48c1b7ca/ss_e5a4d0bf6c4a86a6a478808fce145bfc48c1b7ca.1920x1080.jpg?t=1795257128",
       "firstSeen": "2026-11-20T22:35:57.901Z",
       "mechanic": "physics",
-      "score": 8
-    },
-    {
-      "id": 5380500,
-      "name": "Gravity Chaos: Video Store",
-      "description": "Gravity is back. The tapes aren’t. Sort thousands of scattered VHS tapes in a neon-lit retro video store. Match movies to their shelves, unlock unusual upgrades, and take a break with retro computer games. Turn chaos into order, one satisfying row at a time.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5380500/3efae5cbee8ef73aa86552b78193e46519ee110e/ss_3efae5cbee8ef73aa86552b78193e46519ee110e.1920x1080.jpg?t=1795382534",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "simulator",
-      "score": 8
-    },
-    {
-      "id": 5055070,
-      "name": "RUGS!",
-      "description": "Grandpa left you his rug-cleaning shop. Grab up to three friends, haul filthy rugs across town in a beat-up pickup, then scrub, rinse, beat and dry them and get them back before the deadline. Slippery floors, flying carpets, police chases. Save up for a ticket to Mars.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055070/9ba8b2912ab9749237d86b3aee91570f89fd8f64/ss_9ba8b2912ab9749237d86b3aee91570f89fd8f64.1920x1080.jpg?t=1795705646",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 4806170,
-      "name": "It's Not a Bomb",
-      "description": "A chaotic party brawler for 1-4 players, local or online. Throw bombs, shove your friends off the arena and grab wild power-ups in 4 modes: Battle Royale, 2v2, Capture the Flag and Demolition. Easy to learn, impossible to stay friends.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806170/a2ad67e807dfbf5e2f6057966652689fc7c7296d/ss_a2ad67e807dfbf5e2f6057966652689fc7c7296d.1920x1080.jpg?t=1795678585",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "party",
-      "score": 8
-    },
-    {
-      "id": 5582870,
-      "name": "Suck It Dry! with Your Friends",
-      "description": "Your boss wants the ocean empty. You get a teaspoon. Scoop, schlep and sabotage your way through an impossible job with up to 16 friends – but one of you secretly works for NEPTUN Resorts and wants the sea to stay full.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5582870/e35f4559620f5ecf05a421e3841cd441b792d16b/ss_e35f4559620f5ecf05a421e3841cd441b792d16b.1920x1080.jpg?t=1795580632",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "party",
-      "score": 6
-    },
-    {
-      "id": 5165390,
-      "name": "HOOD",
-      "description": "Local gangs got you laid off your shit job. In the urban jungle of possibilities, your survival instincts kick in to keep a roof over your head, find ways to make bread alone or with your buddies.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5165390/09094e26912c91f2f601a63ba7b739f7549ee1df/ss_09094e26912c91f2f601a63ba7b739f7549ee1df.1920x1080.jpg?t=1795668207",
-      "firstSeen": "2026-11-20T22:35:57.901Z",
-      "mechanic": "incremental",
-      "score": 6
-    },
-    {
-      "id": 5225380,
-      "name": "Tidy Up The Chocolate Factory",
-      "description": "Tidy up a magical chocolate factory solo or with up to 3 friends in online co-op. Sort hundreds of sweet varieties, unlock helpful upgrades, and complete collections to bring candy gardens into bloom. Chocolate streams, marshmallow flowers, and a delicious mess await!",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5225380/b2e60af2773698d7a4fa2958a81678c8cf0437a1/ss_b2e60af2773698d7a4fa2958a81678c8cf0437a1.1920x1080.jpg?t=1795159688",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "simulator",
-      "score": 9
-    },
-    {
-      "id": 5603800,
-      "name": "Fishy Tidy Up",
-      "description": "Grandpa's aquarium museum had a rough night: every tank cracked and 3,600 fish ended up on the floor. Fix the tanks, sort each fish into its own home by species, look and size, and bring nine rooms of sea life back in this cozy first-person tidy-up game.",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5603800/57d45e3c585d517f0ab23e4daeb31ef3dadb1d0f/ss_57d45e3c585d517f0ab23e4daeb31ef3dadb1d0f.1920x1080.jpg?t=1795195796",
-      "firstSeen": "2026-11-20T16:01:39.835Z",
-      "mechanic": "simulator",
-      "score": 8
+      "score": 10
     }
   ]
 }
